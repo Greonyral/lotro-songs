@@ -1,0 +1,302 @@
+%abc-2.1
+%%song-title       Blackbird-'68-Beatles
+%%song-duration    2:25
+%%song-transcriber Morganfey
+%%abc-creator Maestro v2.0.0
+%%abc-version 2.1
+
+X: 1
+T: <Blackbird-'68-Beatles> 1/4 [Clarinet] (2:25) 11-5-14
+%%part-name Clarinet
+Z: Morganfey
+M: 4/4
+Q: 96
+K: C maj
+
++ppp+ z8 |
+z6 G G |
+G/ G/ G/ F/ G/ d3/2 d4- |
+d2 z2 B/ A/ G A/ A/ A- |
+A G/ c3/2 d/ B3/2 z z2 |
+z4 A3/2 B3/2 G- |
+G6 z2 |
+G G G3/2 A/ B A/ z/ G/ E A/- |
+A G B/ A G9/2 |
+% Bar 10 (0:22)
+z8 |
+z8 |
+G G G/ G/ G/ F/ G/ d3/2 d2- |
+d4 z2 B/ A/ G |
+A/ A/ A- A G/ c3/2 d/ B3/2 z |
+z6 A3/2 B/- |
+B G- G2- G4 |
+z2 G G G3/2 A/ B A/ z/ |
+G/ E A3/2 G B/ A/ E G2- |
+G2 c3 G- G2- |
+% Bar 20 (0:47)
+G G- G2- G4 |
+z2 c3 G- G2- |
+G G- G2- G2 z3/2 g/- |
+g/ f/ d/ f3/2 d/ d/ c ^A/ F3/2 G- |
+G4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:12)
+z8 |
+z2 G G G/ G/ G/ F/ G/ d3/2 |
+d6 z2 |
+B/ A/ G A/ A/ A- A G/ c3/2 d/ B/- |
+B z z2 z4 |
+A3/2 B3/2 G- G4- |
+G2 z2 G G G3/2 A/ |
+B A/ z/ G/ E A3/2 G B/ A/ E |
+G4 c3 G- |
+G3 G- G4- |
+% Bar 40 (1:37)
+G2 z2 c3 G- |
+G3 G- G4 |
+z3/2 g f/ d/ f3/2 d/ d/ c ^A/ F/- |
+F G- G2 z4 |
+z8 |
+z8 |
+z8 |
+z6 G G |
+G/ G/ G/ F/ G/ d3/2 d4- |
+d2 z2 B/ A/ G A/ A/ A- |
+% Bar 50 (2:02)
+A G/ c3/2 d/ B3/2 z z2 |
+z4 A3/2 B3/2 G- |
+G6 z2 |
+G G/ G3/2 E/ B A z/ G/ E A/- |
+A G B/ A G9/2 |
+G G G A/ G/ B/ A z/ G/ E G/- |
+G B A/ G G5/2 E/ D/ z |
+G G/ G3/2 E/ B A z/ G/ E A/- |
+A G B/ A G9/2 |
+z8 |]
+
+
+X: 2
+T: <Blackbird-'68-Beatles> 2/4 [Lute] (2:25) 11-5-14
+%%part-name Lute
+Z: Morganfey
+M: 4/4
+Q: 96
+K: C maj
+
++mp+ [G,-B] [G,G] [A,-c] [A,G-] [B,2G2] [G-b] [G/-b/] [G/b/-] |
+[G/b/] G/- [Gb] [G/-b/] [G/-b/] [Gb-] [G/b/] G/- [Gb] [G,-B] [G,G] |
+[A,-c] [A,G-] [B,2G2] [G-b] [G/-b/] [G/b/-] [G/b/] G/- [Gb] |
+[G/-b/] [G/-b/] [Gb-] [G/b/] G/- [Gb] [C-e] [CG] [^C-g] [CG] |
+[D-^f] [DG] [^D-a] [DG] [E-g] [E/-g/] [E/g/-] [E/-g/] [E/-G/] [Eg] |
+[^D-g] [D/-g/] [D/g/-] [E/-g/] [E/-G/] [Eg] [=D-g] [DG] [^C-g] [CG] |
+[C-e] +mf+ [C/-G/e/] [C/G/-e/-] +mp+ [C/-G/e/] [C/-G/] [Ce] [C-^d] +mf+ [C/-G/d/] [C/G/-d/-] +mp+ [C/-G/d/] [C/-G/] [Cd] |
+[B,-d] +mf+ [B,/-G/d/] [B,/G/-d/-] +mp+ [B,/-G/d/] [B,/-G/] [B,d] [A,-^c] +mf+ [A,/-G/c/] [A,/G/-c/-] +mp+ [A,-Gc] [A,/-G/] [A,/c/] |
+[D-c] +mf+ [D/-G/c/] [D/G/-c/-] +mp+ [D/-G/c/] [D/-G/] [Dc] [G,-B] +mf+ [G,/-G/B/] [G,/G/-B/-] +mp+ [G,/-G/B/] +mf+ [G,/-D/G/] [G,GB] |
+% Bar 10 (0:22)
++mp+ [C-e] [CG] [B,-d] [B,G] [A,-^c] +mf+ [A,/-G/c/] [A,/G/-c/-] +mp+ [A,/-G/c/] [A,/-G/] [A,c] |
+[D-c] +mf+ [D/-G/c/] [D/G/-c/-] +mp+ [D/-G/c/] [D/-G/] [Dc] [G,-B] +mf+ [G,/-D/G/] [G,/G/-B/-] +mp+ [G,/-G/B/] +mf+ [G,/-D/G/] [G,GB] |
++mp+ [G,-B] [G,G] [A,-c] [A,G-] [B,2G2] [G-b] [G/-b/] [G/b/-] |
+[G/b/] G/- [Gb] [G/-b/] [G/-b/] [Gb-] [G/b/] G/- [Gb] [C-e] [CG] |
+[^C-g] [CG] [D-^f] [DG] [^D-a] [DG] [E-g] [E/-g/] [E/g/-] |
+[E/-g/] [E/-G/] [Eg] [^D-g] [D/-g/] [D/g/-] [E/-g/] [E/-G/] [Eg] [=D-g] [DG] |
+[^C-g] [CG] [=C-e] +mf+ [C/-G/e/] [C/G/-e/-] +mp+ [C/-G/e/] [C/-G/] [Ce] [C-^d] +mf+ [C/-G/d/] [C/G/-d/-] |
++mp+ [C/-G/^d/] [C/-G/] [Cd] [B,-=d] +mf+ [B,/-G/d/] [B,/G/-d/-] +mp+ [B,/-G/d/] [B,/-G/] [B,d] [A,-^c] +mf+ [A,/-G/c/] [A,/G/-c/-] |
++mp+ [A,-G^c] [A,/-G/] [A,/c/] [D-=c] [D/-c/] [D/c/-] [D/-c/] [D/-G/] [Dc] [A,-B] +mf+ [A,/-G/B/] [A,/G/-B/-] |
++mp+ [A,/-G/B/] +mf+ [A,/-D/G/] [A,GB] +mp+ [F-a] [FG] [E-g] [EG] [D-f] [DG] |
+% Bar 20 (0:47)
+[C-e] [CG] [^A,-d] +mf+ [A,/-G/d/] [A,/G/-d/-] +mp+ [A,/-G/d/] [A,/-G/] [A,d] [C-e] +mf+ [C/-G/e/] [C/G/-e/-] |
++mp+ [C/-G/e/] [C/-G/] [Ce] [F-a] [FG] [E-g] [EG] [D-f] [DG] |
+[C-e] [CG] [^A,-d] +mf+ [A,/-G/d/] [A,/G/-d/-] +mp+ [A,/-G/d/] [A,/-G/] [A,d] [=A,-^c] +mf+ [A,/-G/c/] [A,/G/-c/-] |
++mp+ [A,/-G/^c/] [A,/-G/] [A,c] [D-=c] +mf+ [D/-c/f/] [D/c/-f/-] +mp+ [D/-c/f/] [D/-G/] +mf+ [Dcf] +mp+ [G,-B] [G,G] |
+[A,-c] [A,G] +mf+ [B,-Gd] [B,Gd] +mp+ [Gb] +mf+ [G/b/] [G/b/-] +mp+ [G/b/] G/- [Gb] |
+[Gb] +mf+ [Gb] [G-b] +mp+ [Gb] [C-e] [CG] [^C-g] [CG] |
+[D-^f] [DG] [^D-a] [DG] [E-g] +mf+ [E/-G/g/] [E/G/-g/-] +mp+ [E/-G/g/] [E/-G/] [Eg] |
+[^D-g] +mf+ [D/-G/g/] [D/G/-g/-] +mp+ [E/-G/g/] [E/-G/] [Eg] [=D-^f] [DG] [^C-g] [CG] |
+[C-e] +mf+ [C/-G/e/] [C/G/-e/-] +mp+ [C/-G/e/] [C/-G/] [Ce] [C-^d] +mf+ [C/-G/d/] [C/G/-d/-] +mp+ [C/-G/d/] [C/-G/] [Cd] |
+[B,-d] +mf+ [B,/-G/d/] [B,/G/-d/-] +mp+ [B,/-G/d/] [B,/-G/] [B,d] [A,-^c] +mf+ [A,/-G/c/] [A,/G/-c/-] +mp+ [A,/-G/c/] [A,/-G/] [A,c] |
+% Bar 30 (1:12)
+[D-c] +mf+ [D/-G/c/] [D/G/-c/-] +mp+ [D/-G/c/] [D/-G/] [Dc] [G,-B] +mf+ [G,/-G/B/] [G,/G/-B/-] +mp+ [G,/-G/B/] [G,/-G/] +mf+ [G,GB] |
+[G,/-G/B/] [G,/-D/G/] [G,GB] +mp+ [G,-B] [G,G] [A,-c] [A,G-] [B,2G2] |
+[G-b] [G/-b/] [G/b/-] [G/b/] G/- [Gb] [G/-b/] [G/-b/] [Gb-] [G/b/] G/- [Gb] |
+[C-e] [CG] [^C-g] [CG] [D-^f] [DG] [^D-a] [DG] |
+[E-g] [E/-g/] [E/g/-] [E/-g/] [E/-G/] [Eg] [^D-g] [D/-g/] [D/g/-] [E/-g/] [E/-G/] [Eg] |
+[D-g] [DG] [^C-g] [CG] [=C-e] +mf+ [C/-G/e/] [C/G/-e/-] +mp+ [C/-G/e/] [C/-G/] [Ce] |
+[C-^d] +mf+ [C/-G/d/] [C/G/-d/-] +mp+ [C/-G/d/] [C/-G/] [Cd] [B,-=d] +mf+ [B,/-G/d/] [B,/G/-d/-] +mp+ [B,/-G/d/] [B,/-G/] [B,d] |
+[A,-^c] +mf+ [A,/-G/c/] [A,/G/-c/-] +mp+ [A,-Gc] [A,/-G/] [A,/c/] [D-=c] [D/-c/] [D/c/-] [D/-c/] [D/-G/] [Dc] |
+[A,-B] +mf+ [A,/-G/B/] [A,/G/-B/-] +mp+ [A,/-G/B/] +mf+ [A,/-D/G/] [A,GB] +mp+ [F-a] [FG] [E-g] [EG] |
+[D-f] [DG] [C-e] [CG] [^A,-d] +mf+ [A,/-G/d/] [A,/G/-d/-] +mp+ [A,/-G/d/] [A,/-G/] [A,d] |
+% Bar 40 (1:37)
+[C-e] +mf+ [C/-G/e/] [C/G/-e/-] +mp+ [C/-G/e/] [C/-G/] [Ce] [F-a] [FG] [E-g] [EG] |
+[D-f] [DG] [C-e] [CG] [^A,-d] +mf+ [A,/-G/d/] [A,/G/-d/-] +mp+ [A,/-G/d/] [A,/-G/] [A,d] |
+[A,-^c] +mf+ [A,/-G/c/] [A,/G/-c/-] +mp+ [A,/-G/c/] [A,/-G/] [A,c] [D-=c] +mf+ [D/-c/f/] [D/c/-f/-] +mp+ [D/-c/f/] [D/-G/] +mf+ [Dcf] |
++mp+ [G,-B] [G,G] [A,-c] [A,G] +mf+ [B,-Gd] [B,Gd] +mp+ [Gb] +mf+ [G/b/] [G/b/-] |
++mp+ [G/b/] G/ +mf+ [Gb] +mp+ [Gb] +mf+ [Gb] [G/b/] [G/b/] [Gb] +mp+ [Gb] +mf+ [Gb] |
++mp+ [Gb] +mf+ [Gb] +mp+ [Gb] +mf+ [Gb] +mp+ [G3/2b3/2] [G/b/] [G,-B] [G,G] |
+[A,-c] [A,G] [B,-d] [B,G] [C-e] [CG] [B,-d] [B,G] |
+[A,-^c] [A,G] [D-=c] [D/-G/] [D/c/-] [D/-c/] [D/-G/] [Dc] [G,-B] [G,G] |
+[A,-c] [A,G-] [B,2G2] [G-b] [G/-b/] [G/b/-] [G/b/] G/- [Gb] |
+[G/-b/] [G/-b/] [Gb-] [G/b/] G/- [Gb] [C-e] [CG] [^C-g] [CG] |
+% Bar 50 (2:02)
+[D-^f] [DG] [^D-a] [DG] [E-g] [E/-g/] [E/g/-] [E/-g/] [E/-G/] [Eg] |
+[^D-g] [D/-g/] [D/g/-] [E/-g/] [E/-G/] [Eg] [=D-g] [DG] [^C-g] [CG] |
+[C-e] +mf+ [C/-G/e/] [C/G/-e/-] +mp+ [C/-G/e/] [C/-G/] [Ce] [C-^d] +mf+ [C/-G/d/] [C/G/-d/-] +mp+ [C/-G/d/] [C/-G/] [Cd] |
+[B-d] +mf+ [G/B/-d/] [G/-B/d/-] +mp+ [G/B/-d/] [G/B/-] [Bd] [A-^c] +mf+ [G/A/-c/] [G/-A/c/-] +mp+ [G/A/-c/] [G/A/-] [Ac] |
+[cd-] +mf+ [G/c/d/-] [G/-c/-d/] +mp+ [G/c/d/-] [G/d/-] [cd] [GB] +mf+ [G/B/] [G/B/-] +mp+ [G/B/] +mf+ [G/B/] [GB] |
++mp+ [c-e] [Gc] [B-d] [GB] [A-^c] +mf+ [G/A/-c/] [G/-A/c/-] +mp+ [G/A/-c/] [G/A/-] [Ac] |
+[cd-] +mf+ [G/c/d/-] [G/-c/-d/] +mp+ [G/c/d/-] [G/d/-] [cd] [GB] +mf+ [D/G/] [G/B/-] +mp+ [G/B/] +mf+ [D/G/-] +mp+ [GB] |
+[c-e] [Gc] [B-d] [GB] [A-^c] +mf+ [G/A/-c/] [G/-A/c/-] +mp+ [G/A/-c/] [G/A/-] [Ac] |
+[cd-] +mf+ [G/c/d/-] [G/-c/-d/] +mp+ [G/c/d/-] [G/d/-] [cd] [G-B] +f+ [D-G-B-g-] [D2G2B2g2] |
+z8 |]
+
+
+X: 3
+T: <Blackbird-'68-Beatles> 3/4 [Harp] (2:25) 11-5-14
+%%part-name Harp
+Z: Morganfey
+M: 4/4
+Q: 96
+K: C maj
+
++ppp+ G,2 A,2 B,2 G2 |
+G2 G2 G2 G,2 |
+A,2 B,2 G2 G2 |
+G2 G2 C2 ^C2 |
+D2 ^D2 E2 E2 |
+^D2 E2 =D2 ^C2 |
+C2 C2 C2 C2 |
+B,2 B,2 A,2 A,2 |
+D2 D2 G,- +pppp+ [G,/-D/] [G,/D/-] +ppp+ [G,/-D/] G,3/2 |
+% Bar 10 (0:22)
+C2 B,2 A,2 A,2 |
+D2 D2 G,2 G,2 |
+G,2 A,2 B,2 G2 |
+G2 G2 G2 C2 |
+^C2 D2 ^D2 E2 |
+E2 ^D2 E2 =D2 |
+^C2 =C2 C2 C2 |
+C2 B,2 B,2 A,2 |
+A,2 D2 D2 A,- +pppp+ [A,/-D/] [A,/D/-] |
++ppp+ [A,/-D/] A,3/2 F2 E2 D2 |
+% Bar 20 (0:47)
+C2 ^A,2 A,2 C2 |
+C2 F2 E2 D2 |
+C2 ^A,2 A,2 =A,2 |
+A,2 D- +pppp+ [D/-G/] [D/G/-] +ppp+ [D/-G/] D3/2 G,2 |
+A,2 B,2 G2 G2 |
+G2 G2 C2 ^C2 |
+D2 ^D2 E2 E2 |
+^D2 E2 =D2 ^C2 |
+C2 C2 C2 C2 |
+B,2 B,2 A,2 A,2 |
+% Bar 30 (1:12)
+D2 D2 G,- +pppp+ [G,/-D/] [G,/D/-] +ppp+ [G,/-D/] +pppp+ [G,/-D/] G, |
++ppp+ G,2 G,2 A,2 B,2 |
+G2 G2 G2 G2 |
+C2 ^C2 D2 ^D2 |
+E2 E2 ^D2 E2 |
+D2 ^C2 =C2 C2 |
+C2 C2 B,2 B,2 |
+A,2 A,2 D2 D2 |
+A,- +pppp+ [A,/-D/] [A,/D/-] +ppp+ [A,/-D/] A,3/2 F2 E2 |
+D2 C2 ^A,2 A,2 |
+% Bar 40 (1:37)
+C2 C2 F2 E2 |
+D2 C2 ^A,2 A,2 |
+A,2 A,2 D- +pppp+ [D/-G/] [D/G/-] +ppp+ [D/-G/] D3/2 |
+G,2 A,2 B,2 G2 |
+G2 G2 G2 G2 |
+G2 G2 G3/2 G/ G,2 |
+A,2 B,2 C2 B,2 |
+A,2 D2 D2 G,2 |
+A,2 B,2 G2 G2 |
+G2 G2 C2 ^C2 |
+% Bar 50 (2:02)
+D2 ^D2 E2 E2 |
+^D2 E2 =D2 ^C2 |
+C2 C2 C2 C2 |
+B2 B2 A2 A2 |
+d2 d2 G- +pppp+ [D/G/-] [D/-G/] +ppp+ [D/G/-] +pppp+ [D/G/-] G |
++ppp+ c2 B2 A2 A2 |
+d2 d2 G2 G2 |
+c2 B2 A2 A2 |
+d2 d2 G +p+ [D-G-] [D2G2] |
+z8 |]
+
+
+X: 4
+T: <Blackbird-'68-Beatles> 4/4 [Flute] (2:25) 11-5-14
+%%part-name Flute
+Z: Morganfey
+M: 4/4
+Q: 96
+K: C maj
+
++f+ z8 |
+z6 G, G, |
+G,/ G,/ G,/ F,/ G,/ D3/2 D4- |
+D2 z2 B,/ A,/ G, A,/ A,/ A,- |
+A, G,/ C3/2 D/ B,3/2 z z2 |
+z4 A,3/2 B,3/2 G,- |
+G,6 z2 |
+G, G, G,3/2 A,/ B, A,/ z/ G,/ E, A,/- |
+A, G, B,/ A, G,9/2 |
+% Bar 10 (0:22)
+z8 |
+z8 |
+G, G, G,/ G,/ G,/ F,/ G,/ D3/2 D2- |
+D4 z2 B,/ A,/ G, |
+A,/ A,/ A,- A, G,/ C3/2 D/ B,3/2 z |
+z6 A,3/2 B,/- |
+B, G,- G,2- G,4 |
+z2 G, G, G,3/2 A,/ B, A,/ z/ |
+G,/ E, A,3/2 G, B,/ A,/ E, G,2- |
+G,2 C3 G,- G,2- |
+% Bar 20 (0:47)
+G, G,- G,2- G,4 |
+z2 C3 G,- G,2- |
+G, G,- G,2- G,2 z3/2 G/- |
+G/ F/ D/ F3/2 D/ D/ C ^A,/ F,3/2 G,- |
+G,4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:12)
+z8 |
+z2 G, G, G,/ G,/ G,/ F,/ G,/ D3/2 |
+D6 z2 |
+B,/ A,/ G, A,/ A,/ A,- A, G,/ C3/2 D/ B,/- |
+B, z z2 z4 |
+A,3/2 B,3/2 G,- G,4- |
+G,2 z2 G, G, G,3/2 A,/ |
+B, A,/ z/ G,/ E, A,3/2 G, B,/ A,/ E, |
+G,4 C3 G,- |
+G,3 G,- G,4- |
+% Bar 40 (1:37)
+G,2 z2 C3 G,- |
+G,3 G,- G,4 |
+z3/2 G F/ D/ F3/2 D/ D/ C ^A,/ F,/- |
+F, G,- G,2 z4 |
+z8 |
+z8 |
+z8 |
+z6 G, G, |
+G,/ G,/ G,/ F,/ G,/ D3/2 D4- |
+D2 z2 B,/ A,/ G, A,/ A,/ A,- |
+% Bar 50 (2:02)
+A, G,/ C3/2 D/ B,3/2 z z2 |
+z4 A,3/2 B,3/2 G,- |
+G,6 z2 |
+G, G,/ G,3/2 E,/ B, A, z/ G,/ E, A,/- |
+A, G, B,/ A, G,9/2 |
+G, G, G, A,/ G,/ B,/ A, z/ G,/ E, G,/- |
+G, B, A,/ G, G,5/2 E,/ D,/ z |
+G, G,/ G,3/2 E,/ B, A, z/ G,/ E, A,/- |
+A, G, B,/ A, G,9/2 |
+z8 |]
+

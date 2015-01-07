@@ -1,0 +1,677 @@
+%abc-2.1
+%%song-title       The Marvelous Toy-'60-Tom Paxton
+%%song-composer    Peter, Paul & Mary
+%%song-duration    2:28
+%%song-transcriber Morganfey
+%%abc-creator Maestro v2.0.0
+%%abc-version 2.1
+
+X: 1
+T: <The Marvelous Toy-'60-Tom Paxton> 1/5 [Lute] (2:28) 12-14-14
+%%part-name Lute
+C: Peter, Paul & Mary
+Z: Morganfey
+M: 2/2
+Q: 170
+K: C maj
+
++p+ [F,3F3c3f3a3] z a2 b2 c'2 b2 [^F,3^F3c3e3a3] z |
+[G,3G3c3e3g3] z g2 a2 e3 z [A,-c'] [A,-dc'] [A,b] c' |
+[D,3D3d3] z [fac'] z3 [G,-G-egb] [G,2G2] z [dfb] z3 |
+[C,-C-egc'] [C,2C2] z [G,-Bg] G,2 z [A,-cg] A,2 z [B,3d3f3g3] z |
+[C-c] C- [CG] z E z G z [G,-c] G,2 z [Gce] z3 |
+[D-d] D- [DB] z F z B z [G,-d] G,2 z [FBd] z3 |
+[C-c] C- [CG] z E z G z [C-e] C2 z [ceg] z3 |
+[G,3d3-] d- [FBd-] d3- [G3d3] z [Bfg] z3 |
+[F-a] F- [Ff] z c z f z [F-a] F2 z [Acf] z3 |
+% Bar 10 (0:12)
+[C-g] C- [Ce] z c z e z [C-g] C2 z [Gce] z3 |
+[D3d3-] d- [^F-c-d] [F-c-] [F2c2d2] [D3d3] z [F3c3e3] z |
+[G,-F-] [G,-F-B-] [G,F-B-d-] [FBd] [G,-Bg] G,2 z [A,-cg] A,2 z [B,-dg] B,2 z |
+[C-c] C- [CG] z E z G z [G,-c] G,2 z [Gce] z3 |
+[D-d] D- [DB] z F z B z [G,-d] G,2 z [FBd] z3 |
+[C-c] C- [CG] z E z G z [C-e] C2 z [ceg] z3 |
+[F3f3-] f- [Acf-] f3- [C3f3] z [A2c2f2] [A2c2f2] |
+[F3a3] z [c3f3a3] z [F3c'3] z [c3f3a3] z |
+[E3g3] z [c3e3g3] z [A,3e3] z [A2c2] [A2c2] |
+[D3d3] z [^F3c3d3] z [A,3e3] z [F3c3] z |
+% Bar 20 (0:26)
+[G,3d3-] d- [G,3F3B3d3] z [A,3g3] z [B,3g3] z |
+[C,3C3c3] z9 [C,3C3c3e3] z |
+[G,3B3d3] z9 [G,3B3e3] z |
+[C,3C3G3c3] z9 [E,3E3c3e3g3] z |
+[F,3F3f3] z f g [ab] [dc'] [ef-] f2 z [c3f3a3] z |
+[F,3F3a3] z [c3f3a3] z [^F,3^F3c'3] z [c3e3a3] z |
+[G,3G3g3] z [c3e3g3] z [A,3A3e3] z c2 c2 |
+[D,3D3d3] z [A3c3f3] z [G,3G3B3e3] z [F3B3] z |
+[C3E3c3] z [G,-Bg] G,2 z [A,-cg] A,2 z [B,-dfg] B,2 z |
+[C-c] C- [CG] z E z G z [G,-c] G,2 z [Gce] z3 |
+% Bar 30 (0:40)
+[D-d] D- [DB] z F z B z [G,-d] G,2 z [FBd] z3 |
+[C-c] C- [CG] z E z G z [C-c] C2 z [Gce] z3 |
+[G,3d3-] d- [FBd-] d3- [G3d3] z [Bfg] z3 |
+[F-a] F- [Ff] z c z f z [F-a] F2 z [Acf] z3 |
+[C-g] C- [Ce] z c z e z [C-g] C2 z [Gce] z3 |
+[D3d3-] d- [^F-c-d] [F-c-] [F2c2d2] [D3d3] z [F3c3e3] z |
+[G,-F-] [G,-F-B-] [G,F-B-d-] [FBd] [G,-Bg] G,2 z [A,-cg] A,2 z [B,-dg] B,2 z |
+[C-c] C- [CG] z E z G z [G,-c] G,2 z [Gce] z3 |
+[D-d] D- [DB] z F z B z [G,-d] G,2 z [FBd] z3 |
+[C-c] C- [CG] z E z G z [C-e] C2 z [ceg] z3 |
+% Bar 40 (0:55)
+[F3f3-] f- [Acf-] f3- [C3f3] z [A2c2f2] [A2c2f2] |
+[F3a3] z [c3f3a3] z [F3c'3] z [c3f3a3] z |
+[E3g3] z [c3e3g3] z [A,3e3] z [A2c2] [A2c2] |
+[D3d3] z [^F3c3d3] z [A,3e3] z [F3c3] z |
+[G,3d3-] d- [G,3F3B3d3] z [A,3g3] z [B,3g3] z |
+[C,3C3c3] z9 [C,3C3c3e3] z |
+[G,3B3d3] z9 [G,3B3e3] z |
+[C,3C3G3c3] z9 [E,3E3c3e3g3] z |
+[F,3F3f3] z f g [ab] [dc'] [ef-] f2 z [c3f3a3] z |
+[F,3F3a3] z [c3f3a3] z [^F,3^F3c'3] z [c3e3a3] z |
+% Bar 50 (1:09)
+[G,3G3g3] z [c3e3g3] z [A,3A3e3] z c2 c2 |
+[D,3D3d3] z [A3c3f3] z [G,3G3B3e3] z [F3B3] z |
+[C3E3c3] z [G,-Bg] G,2 z [A,-cg] A,2 z [B,-dfg] B,2 z |
+[C-c] C- [CG] z E z G z [G,-c] G,2 z [Gce] z3 |
+[D-d] D- [DB] z F z B z [G,-d] G,2 z [FBd] z3 |
+[C-c] C- [CG] z E z G z [C-c] C2 z [ceg] z3 |
+[G,3d3-] d- [FBd-] d3- [G3d3] z [Bfg] z3 |
+[F-a] F- [Ff] z c z f z [F-a] F2 z [Acf] z3 |
+[C-g] C- [Ce] z c z e z [C-g] C2 z [Gce] z3 |
+[D3d3-] d- [^F-c-d] [F3c3] [D3d3] z [F3c3e3] z |
+% Bar 60 (1:23)
+[G,-F-] [G,-F-B-] [G,F-B-d-] [FBd] [G,-Bg] G,2 z [A,-cg] A,2 z [B,-dg] B,2 z |
+[C-c] C- [CG] z E z G z [G,-c] G,2 z [Gce] z3 |
+[D-d] D- [DB] z F z B z [G,-d] G,2 z [FBd] z3 |
+[C-c] C- [CG] z E z G z [C-e] C2 z [ceg] z3 |
+[F3f3-] f- [Acf-] f3- [C3f3] z [A2c2f2] [A2c2f2] |
+[F3a3] z [c3f3a3] z [F3c'3] z [c3f3a3] z |
+[E3g3] z [c3e3g3] z [A,3e3] z [A2c2] [A2c2] |
+[D3d3] z [^F3c3d3] z [A,3e3] z [F3c3] z |
+[G,3d3-] d- [G,3F3B3d3] z [A,3g3] z [B,3g3] z |
+[C,3C3c3] z9 [C,3C3c3e3] z |
+% Bar 70 (1:37)
+[G,3B3d3] z9 [G,3B3e3] z |
+[C,3C3G3c3] z9 [E,3E3c3e3g3] z |
+[F,3F3f3] z f g [ab] [dc'] [ef-] f2 z [c3f3a3] z |
+[F,3F3a3] z [c3f3a3] z [^F,3^F3c'3] z [c3e3a3] z |
+[G,3G3g3] z [c3e3g3] z [A,3A3e3] z c2 c2 |
+[D,3D3d3] z [A3c3f3] z [G,3G3B3e3] z [F3B3] z |
+[C3E3c3] z [G,-Bg] G,2 z [A,-cg] A,2 z [B,-dfg] B,2 z |
+%%Q: 140
+[C17/14-c17/14] C17/14- [C17/14G17/14] z17/14 E17/14 z17/14 G17/14 z17/14
+	%%Q: 138
+	[G,85/69-c85/69] G,170/69 z85/69 [G85/69c85/69e85/69] z85/23 |
+%%Q: 136
+[D5/4-d5/4] D5/4- [D5/4B5/4] z5/4 F5/4 z5/4 B5/4 z5/4 [G,5/4-d5/4] G,5/2 z5/4 [F5/4B5/4d5/4] z15/4 |
+%%Q: 134
+[C85/67-c85/67] C85/67- [C85/67G85/67] z85/67 E85/67 z85/67 G85/67 z85/67 [C85/67-c85/67] C170/67 z85/67 [G85/67c85/67e85/67] z255/67 |
+% Bar 80 (1:52)
+[G,255/67d255/67-] d85/67- [F85/67B85/67d85/67-] d255/67- [G255/67d255/67] z85/67 [B85/67f85/67g85/67] z255/67 |
+%%Q: 132
+[F85/66-a85/66] F85/66- [F85/66f85/66] z85/66 c85/66 z85/66 f85/66 z85/66 [F85/66-a85/66] F85/33 z85/66 [A85/66c85/66f85/66] z85/22 |
+[C85/66-g85/66] C85/66- [C85/66e85/66] z85/66 c85/66 z85/66 e85/66 z85/66 [C85/66-g85/66] C85/33 z85/66 [G85/66c85/66e85/66] z85/22 |
+%%Q: 130
+[D51/13d51/13-] d17/13- [^F17/13-c17/13-d17/13] [F51/13c51/13] [D51/13d51/13] z17/13 [F51/13c51/13] z17/13 |
+%%Q: 120
+[G,17/12-F17/12-] [G,17/12-F17/12-B17/12-] [G,17/8F17/8-B17/8-d17/8-] [F17/24B17/24d17/24] [G,17/12-B17/12g17/12] G,17/12- G,17/8 z17/24 [A,17/12-c17/12g17/12]
+	A,17/12- A,17/8 z17/24 [B,17/12-d17/12g17/12] B,17/12- B,17/8 z17/24 |
+%%Q: 170
+[C-c] C- [CG] z E z G z [G,-c] G,2 z [Gce] z3 |
+[D-d] D- [DB] z F z B z [G,-d] G,2 z [FBd] z3 |
+[C-c] C- [CG] z E z G z [C-e] C2 z [ceg] z3 |
+[F3f3-] f- [Acf-] f3- [C3f3] z [A2c2f2] [A2c2f2] |
+[F3a3] z [c3f3a3] z [F3c'3] z [c3f3a3] z |
+% Bar 90 (2:08)
+[E3g3] z [c3e3g3] z [A,3e3] z [A2c2] [A2c2] |
+[D3d3] z [^F3c3d3] z [A,3e3] z [F3c3] z |
+[G,3d3-] d- [G,3F3B3d3] z [A,3g3] z [B,3g3] z |
+[C,3C3c3] z9 [C,3C3c3e3] z |
+[G,3B3d3] z9 [G,3B3e3] z |
+[C,3C3G3c3] z9 [E,3E3c3e3g3] z |
+[F,3F3f3] z f g [ab] [dc'] [ef-] f2 z [c3f3a3] z |
+[F,3F3a3] z [c3f3a3] z [^F,3^F3c'3] z [c3e3a3] z |
+[G,3G3g3] z [c3e3g3] z [A,3A3e3] z c2 c2 |
+[D,3D3d3] z [A3c3f3] z [G,3G3B3e3] z [F3B3] z |
+% Bar 100 (2:23)
+[F,3F3c3f3a3] z a2 b2 c'2 b2 [^F,3^F3c3e3a3] z |
+[G,3G3c3e3g3] z g2 a2 e3 z [A,-A-c'] [A,-A-dc'] [A,Ab] c' |
+[D,3D3d3] z [fac'] z3 [G,-G-egb] [G,2G2] z [dfb] z3 |
+[C,-C-egc'] [C,2C2] z g3 a [C,-bc'-] [C,2c'2] z5 |]
+
+
+X: 2
+T: <The Marvelous Toy-'60-Tom Paxton> 2/5 [Harp] (2:28) 12-14-14
+%%part-name Harp
+C: Peter, Paul & Mary
+Z: Morganfey
+M: 2/2
+Q: 170
+K: C maj
+
++mf+ [F,3F3c3f3a3] z a2 b2 c'2 b2 [^F,3^F3c3e3a3] z |
+[G,3G3c3e3g3] z g2 a2 e3 z [A,-c'] [A,-dc'] [A,b] c' |
+[D,3D3d3] z [fac'] z3 [G,-G-egb] [G,2G2] z [dfb] z3 |
+[C,-C-egc'] [C,2C2] z [G,-Bg] G,2 z [A,-cg] A,2 z [B,3d3f3g3] z |
+[C2-c2-] [CGc] z [Ec-] c- [Gc] z [G,3c3] z [Gce-] e2 z |
+[D2-d2-] [DBd] z [Fd-] d [Bd-] d [G,3d3] z [FBd] z3 |
+[C2-c2] [CGc-] c- [Ec-] c- [Gc] z [C-c-e] [C2c2] z [ce-g] e2 z |
+[G,3d3-] d- [FBd-] d3- [G3d3] z [Bfg-] g2 z |
+[F2-a2-] [Ffa] z [ca-] a- [fa] z [F2-a2] +p+ [Fg-] g +mf+ [Acf-] f2 z |
+% Bar 10 (0:12)
+[C2-g2-] [Ceg] z [cg-] g- [eg] z [C3g3-] g- [Gceg] z +p+ c2 |
++mf+ [D3d3-] d- [^F-c-d] [F-c-] +p+ [F2c2d2] +mf+ [D3d3] z [F3c3e3] z |
+[G,-F-d-] [G,-F-B-d] [G,F-B-d-] [FBd-] [G,-Bd-g] [G,2d2-] d- [A,-cd-g] [A,2d2] z [B,-dg-] [B,2g2] z |
+[C2-c2-] [CGc] z [Ec-] c- [Gc] z [G,3c3] z [Gce-] e2 z |
+[D2-d2-] [DBd] z [Fd-] d- [Bd] z [G,3d3] z [FBd] z +p+ d2 |
++mf+ [C2-c2] [CGc-] c- [Ec-] c- [Gc] z [C3e3] z [ceg-] g2 z |
+[F3f3-] f- [Acf-] f3- [C3f3] z [A2c2f2a2] [A2c2f2a2] |
+[F3a3] z [c3f3a3] z [F3c'3] z [c3f3a3] z |
+[E3g3] z [c3e3g3] z [A,3e3] z [A2c2] [A2c2] |
+[D3d3] z [^F3c3d3] z [A,3e3] z [F3c3] z |
+% Bar 20 (0:26)
+[G,3d3-] d- [G,3F3B3d3] z [A,3g3] z [B,3g3] z |
+[C,3C3c3] z +p+ c2 c2 c3 z +mf+ [C,3C3c3e3] z |
+[G,3B3d3] z +p+ d2 d2 d3 z +mf+ [G,3B3e3] z |
+[C,3C3G3c3-] c- c z +p+ c2 e3 z +mf+ [E,3E3c3e3g3] z |
+[F,3F3f3-] f f- [f-g] [f-ab] [dfc'] [ef-] f2 z [c3f3a3] z |
+[F,2-F2-a2] +p+ [F,Fa-] a +mf+ [c3f3a3] z [^F,3^F3c'3] z [c3e3a3] z |
+[G,2-G2-g2] +p+ [G,Gg-] g +mf+ [c3e3g3] z [A,3A3e3] z +p+ c2 c2 |
++mf+ [D,3D3d3] z [A3c3f3] z [G,3G3B3e3] z [F3B3] z |
+[C3E3c3-] c- [G,-Bc-g] [G,2c2-] c [A,-c-g] [A,2c2] z [B,-dfg-] [B,2g2] z |
+[C2-c2-] [CGc] z [Ec-] c- [Gc] z [G,3c3] z [Gce-] e2 z |
+% Bar 30 (0:40)
+[D2-d2-] [DBd] z [Fd-] d- [Bd] z [G,3d3] z [FBd] z3 |
+[C2-c2-] [CGc] z [Ec-] c [Gc-] c [C3c3] z [Gce-] e2 z |
+[G,3d3-] d- [FBd-] d3- [G3d3] z [Bfg-] g2 z |
+[F2-a2-] [Ffa] z [ca-] a [fa-] a [F2-a2] +p+ [Fg-] g +mf+ [Acf-] f2 z |
+[C2-g2-] [Ceg] z [cg-] g- [eg] z [C2-g2] +p+ [Ce-] e +mf+ [Gce] z +p+ c2 |
++mf+ [D3d3-] d- [^F-c-d] [F-c-] +p+ [F2c2d2] +mf+ [D3d3] z [F3c3e3] z |
+[G,-F-d-] [G,-F-B-d] [G,F-B-d-] [FBd-] [G,-Bd-g] [G,2d2-] d- [A,-cd-g] [A,2d2] z [B,-dg-] [B,2g2] z |
+[C2-c2-] [CGc] z [Ec-] c- [Gc] z [G,3c3-] c [Gce] z +p+ e2 |
++mf+ [D2-d2-] [DBd] z [Fd-] d- [Bd] z [G,2-d2] +p+ [G,d-] d +mf+ [FBd] z +p+ d2 |
++mf+ [C2-c2-] [CGc] z [Ec-] c- [Gc] z [C2-e2] +p+ [Ce-] e +mf+ [ceg-] g2 z |
+% Bar 40 (0:55)
+[F3f3-] f- [Acf-] f3- [C3f3] z [A2c2f2a2-] [A-c-f-a] [Acf] |
+[F3a3] z [c3f3a3] z [F3c'3] z [c3f3a3] z |
+[E3g3] z [c3e3g3] z [A,3e3-] e- [A2c2e2-] [A-c-e] [Ac] |
+[D3d3] z [^F3c3d3] z [A,3e3] z [F3c3] z |
+[G,3d3-] d- [G,3F3B3d3] z [A,3g3] z [B,3g3] z |
+[C,3C3c3] z +p+ c2 c2 c3 z +mf+ [C,3C3c3e3] z |
+[G,3B3d3] z +p+ d2 d2 d3 z +mf+ [G,3B3e3] z |
+[C,3C3G3c3-] c- c z +p+ c2 e3 z +mf+ [E,3E3c3e3g3] z |
+[F,3F3f3-] f f- [f-g] [f-ab] [dfc'] [ef-] f2 z [c3f3a3] z |
+[F,2-F2-a2] +p+ [F,Fa-] a +mf+ [c3f3a3] z [^F,3^F3c'3] z [c3e3a3] z |
+% Bar 50 (1:09)
+[G,2-G2-g2] +p+ [G,Gg-] g +mf+ [c3e3g3] z [A,3A3e3] z +p+ c2 c2 |
++mf+ [D,3D3d3] z [A3c3f3] z [G,3G3B3e3] z [F3B3] z |
+[C3E3c3-] c- [G,-Bc-g] [G,2c2-] c [A,-c-g] [A,2c2] z [B,-dfg-] [B,2g2] z |
+[C2-c2-] [CGc] z [Ec-] c- [Gc] z [G,3c3-] c [Gce] z +p+ e2 |
++mf+ [D2-d2-] [DBd] z [Fd-] d- [Bd] z [G,3d3-] d [FBd-] d2 z |
+[C2-c2-] [CGc] z [Ec-] c- [Gc] z [C2-c2] +p+ [Cc-] c +mf+ [ce-g] e2 z |
+[G,3d3-] d- [FBd-] d3- [G3d3] z [Bfg-] g2 z |
+[F2-a2-] [Ffa] z [ca-] a- [fa] z [F3a3] z [Acf-] f2 z |
+[C2-g2-] [Ceg] z [cg-] g- [eg] z [C3g3-] g- [Gceg] z +p+ e2 |
++mf+ [D2-d2] +p+ [Dd-] d- +mf+ [^F3-c3-d3] [Fc] [D3d3] z [F3c3e3] z |
+% Bar 60 (1:23)
+[G,-F-d-] [G,-F-B-d] [G,F-B-d-] [FBd-] [G,-Bd-g] [G,2d2-] d- [A,-cd-g] [A,2d2] z [B,-dg-] [B,2g2] z |
+[C2-c2] [CGc-] c [Ec-] c- [Gc] z [G,3c3] z [Gce-] e +p+ e2 |
++mf+ [D2-d2-] [DBd] z [Fd-] d- [Bd] z [G,3d3] z [FBd-] d +p+ d2 |
++mf+ [C2-c2-] [CGc-] c- [Ec] z [Gc-] c [C3e3] z [ceg-] g2 z |
+[F3f3-] f- [Acf-] f3- [C3f3] z [A2c2f2a2] [A2c2f2a2] |
+[F2-a2] +p+ [Fa-] a +mf+ [c3f3a3] z [F3c'3] z [c3f3a3] z |
+[E2-g2] +p+ [Eg-] g +mf+ [c3e3g3] z [A,3e3] z [A2c2] [A2c2] |
+[D2-d2] +p+ [Dd-] d +mf+ [^F3c3d3] z [A,3e3] z [F3c3] z |
+[G,3d3-] d- [G,3F3B3d3] z [A,3g3] z [B,3g3] z |
+[C,3C3c3] z +p+ c2 c2 c3 z +mf+ [C,3C3c3e3] z |
+% Bar 70 (1:37)
+[G,3B3d3] z +p+ d2 d2 d3 z +mf+ [G,3B3e3] z |
+[C,3C3G3c3-] c- c z +p+ c2 e3 z +mf+ [E,3E3c3e3g3] z |
+[F,3F3f3-] f f- [f-g] [f-ab] [dfc'] [ef-] f2 z [c3f3a3] z |
+[F,2-F2-a2] +p+ [F,Fa-] a +mf+ [c3f3a3] z [^F,3^F3c'3] z [c3e3a3] z |
+[G,2-G2-g2] +p+ [G,Gg-] g +mf+ [c3e3g3] z [A,3A3e3] z +p+ c2 c2 |
++mf+ [D,3D3d3] z [A3c3f3] z [G,3G3B3e3] z [F3B3] z |
+[C3E3c3-] c- [G,-Bc-g] [G,2c2-] c [A,-c-g] [A,2c2] z [B,-dfg-] [B,2g2] z |
+%%Q: 140
+[C17/7-c17/7] [C17/14G17/14c17/14-] c17/14 [E17/14c17/14-] c17/14- [G17/14c17/14] z17/14
+	%%Q: 138
+	[G,85/23c85/23] z85/69 [G85/69c85/69e85/69-] e170/69 z85/69 |
+%%Q: 136
+[D5/2-d5/2] [D5/4B5/4d5/4-] d5/4 [F5/4d5/4-] d5/4- [B5/4d5/4] z5/4 [G,15/4d15/4] z5/4 [F5/4B5/4d5/4] z15/4 |
+%%Q: 134
+[C170/67-c170/67-] [C85/67G85/67c85/67] z85/67 [E85/67c85/67-] c85/67 [G85/67c85/67-] c85/67 [C255/67c255/67] z85/67 [G85/67c85/67d85/67-e85/67] d85/67 +p+
+	e170/67 |
+% Bar 80 (1:52)
++mf+ [G,255/67d255/67-] d85/67- [F85/67B85/67d85/67-] d255/67- [G255/67d255/67] z85/67 [B85/67f85/67g85/67-] g170/67 z85/67 |
+%%Q: 132
+[F85/33-a85/33-] [F85/66f85/66a85/66] z85/66 [c85/66a85/66-] a85/66- [f85/66a85/66] z85/66 [F85/33-a85/33] +p+ [F85/66g85/66-] g85/66 +mf+ [A85/66c85/66f85/66-]
+	f85/33 z85/66 |
+[C85/33-g85/33-] [C85/66e85/66g85/66] z85/66 [c85/66g85/66-] g85/66- [e85/66g85/66] z85/66 [C85/22g85/22-] g85/66- [G85/66c85/66e85/66g85/66] z85/66 +p+ e85/33 |
+%%Q: 130
++mf+ [D34/13-d34/13] +p+ [D17/13d17/13-] d17/13 +mf+ [^F51/13-c51/13-d51/13] [F17/13c17/13] [D51/13d51/13e51/13] z17/13 [F51/13c51/13] z17/13 |
+%%Q: 120
+[G,17/12-F17/12-d17/12-] [G,17/12-F17/12-B17/12-d17/12] [G,17/8F17/8-B17/8-d17/8-] [F17/24B17/24d17/24-] [G,17/12-B17/12d17/12-g17/12] [G,17/12-d17/12-]
+	[G,17/8d17/8-] d17/24- [A,17/12-c17/12d17/12-g17/12] [A,17/12-d17/12-] [A,17/12-d17/12] A,17/24 z17/24 [B,17/12-d17/12g17/12-] [B,17/12-g17/12-] [B,17/8g17/8]
+	z17/24 |
+%%Q: 170
+[C2-c2-] [CGc] z [Ec-] c [Gc-] c [G,3c3] z [Gce-] e2 z |
+[D2-d2] [DBd-] d [Fd-] d- [Bd] z [G,3d3] z [FBd-] d +p+ d2 |
++mf+ [C2-c2-] [CGc-] c- [Ec] z [Gc-] c [C3e3] z [ceg-] g2 z |
+[F3f3-] f- [Acf-] f3- [C3f3] z [A2c2f2a2] [A2c2f2a2] |
+[F2-a2] +p+ [Fa-] a +mf+ [c3f3a3] z [F3c'3] z [c3f3a3] z |
+% Bar 90 (2:08)
+[E3g3] z [c3e3g3] z [A,3e3] z [A2c2] [A2c2] |
+[D3d3] z [^F3c3d3] z [A,3e3] z [F3c3] z |
+[G,3d3-] d- [G,3F3B3d3g3] z [A,3g3] z [B,3g3] z |
+[C,3C3c3] z +p+ c2 c2 c3 z +mf+ [C,3C3c3e3] z |
+[G,3B3d3] z +p+ d2 d2 d3 z +mf+ [G,3B3e3] z |
+[C,3C3G3c3-] c- c z +p+ c2 e3 z +mf+ [E,3E3c3e3g3] z |
+[F,3F3f3-] f f- [f-g] [f-ab] [dfc'] [ef-] f2 z [c3f3a3] z |
+[F,2-F2-a2] +p+ [F,Fa-] a +mf+ [c3f3a3] z [^F,3^F3c'3] z [c3e3a3] z |
+[G,2-G2-g2] +p+ [G,Gg-] g +mf+ [c3e3g3] z [A,3A3e3] z +p+ c2 c2 |
++mf+ [D,3D3d3] z [A3c3f3] z [G,3G3B3e3] z [F3B3] z |
+% Bar 100 (2:23)
+[F,3F3c3-f3a3] c- [c2-a2] [c2-b2] [c2-c'2] [cb-] b [^F,3^F3c3e3a3] z |
+[G,3G3c3e3g3] z g2 a2 e3 z [A,-A-c'] [A,-A-dc'] [A,Ab] c' |
+[D,3D3d3] z [fac'] z3 [G,-G-egb] [G,2G2] z [dfb] z3 |
+[C,-C-egc'] [C,2C2] z g3 a [C,-bc'-] [C,2c'2] z5 |]
+
+
+X: 3
+T: <The Marvelous Toy-'60-Tom Paxton> 3/5 [Clarinet] (2:28) 12-14-14
+%%part-name Clarinet
+C: Peter, Paul & Mary
+Z: Morganfey
+M: 2/2
+Q: 170
+K: C maj
+
++ff+ z16 |
+z16 |
+z16 |
+z12 G3 z |
+C3 z C3 z C3 z E3 z |
+D3 z D2 D2 D3 z5 |
+C2 C5 z C3 z E3 z |
+D8- D3 z G3 z |
+A3 z A3 z A2 G2 F3 z |
+% Bar 10 (0:12)
+G3 z G3 z G4- G z C2 |
+D4- D z D2 D3 z E3 z |
+D8- D3 z G3 z |
+C3 z C3 z C3 z E3 z |
+D3 z D3 z D3 z3 D2 |
+C2 C5 z E3 z G3 z |
+F8- F3 z A2 A2 |
+A3 z A3 z c3 z A3 z |
+G3 z G3 z E3 z C2 C2 |
+D3 z D3 z E3 z C3 z |
+% Bar 20 (0:26)
+D4- D3 z G3 z G3 z |
+C3 z C2 C2 C3 z E3 z |
+D3 z D2 D2 D3 z E3 z |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A3 z |
+A2 A5 z c3 z A3 z |
+G2 G5 z E3 z C2 C2 |
+D3 z F3 z E3 z B,3 z |
+C8- C3 z G3 z |
+C3 z C3 z C3 z E3 z |
+% Bar 30 (0:40)
+D3 z D3 z D3 z5 |
+C3 z C2 C2 C3 z E3 z |
+D8- D3 z G3 z |
+A3 z A2 A2 A2 G2 F3 z |
+G3 z G3 z G2 E3 z C2 |
+D4- D z D2 D3 z E3 z |
+D8- D3 z G3 z |
+C3 z C3 z C4- C z E2 |
+D3 z D3 z D2 D2 z2 D2 |
+C3 z C3 z E2 E2 G3 z |
+% Bar 40 (0:55)
+F8- F3 z A3 z |
+A3 z A3 z c3 z A3 z |
+G3 z G3 z E4- E3 z |
+D3 z D3 z E3 z C3 z |
+D4- D3 z G3 z G3 z |
+C3 z C2 C2 C3 z E3 z |
+D3 z D2 D2 D3 z E3 z |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A3 z |
+A2 A5 z c3 z A3 z |
+% Bar 50 (1:09)
+G2 G5 z E3 z C2 C2 |
+D3 z F3 z E3 z B,3 z |
+C8- C3 z G3 z |
+C3 z C3 z C4- C z E2 |
+D3 z D3 z D4- D3 z |
+C3 z C3 z C2 C2 E3 z |
+D8- D3 z G3 z |
+A3 z A3 z A3 z F3 z |
+G3 z G3 z G4- G z E2 |
+D2 D5 z D3 z E3 z |
+% Bar 60 (1:23)
+D8- D3 z G3 z |
+C2 C2 C3 z C3 z E2 E2 |
+D3 z D3 z D3 z D2 D2 |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A2 A2 |
+A2 A2 A3 z c3 z A3 z |
+G2 G2 G3 z E3 z C2 C2 |
+D2 D5 z E3 z C3 z |
+D4- D3 z G3 z G3 z |
+C3 z C2 C2 C3 z E3 z |
+% Bar 70 (1:37)
+D3 z D2 D2 D3 z E3 z |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A3 z |
+A2 A5 z c3 z A3 z |
+G2 G5 z E3 z C2 C2 |
+D3 z F3 z E3 z B,3 z |
+C8- C3 z G3 z |
+%%Q: 140
+C17/7 C17/7 C51/14 z17/14
+	%%Q: 138
+	C85/23 z85/69 E85/23 z85/69 |
+%%Q: 136
+D5/2 D5/2 D15/4 z5/4 D15/4 z25/4 |
+%%Q: 134
+C255/67 z85/67 C170/67 C170/67 C255/67 z85/67 D170/67 E170/67 |
+% Bar 80 (1:52)
+D680/67- D255/67 z85/67 G255/67 z85/67 |
+%%Q: 132
+A85/22 z85/66 A85/22 z85/66 A85/33 G85/33 F85/22 z85/66 |
+G85/22 z85/66 G85/22 z85/66 G170/33- G85/66 z85/66 E85/33 |
+%%Q: 130
+D34/13 D34/13 D51/13 z17/13 E51/13 z17/13 C51/13 z17/13 |
+%%Q: 120
+D34/3- D17/4 z17/12 G17/6- G17/8 z17/24 |
+%%Q: 170
+C3 z C2 C2 C3 z E3 z |
+D2 D2 D3 z D3 z D2 D2 |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A2 A2 |
+A2 A2 A3 z c3 z A3 z |
+% Bar 90 (2:08)
+G3 z G3 z E3 z C2 C2 |
+D3 z D3 z E3 z C3 z |
+D3 z G3 z G3 z G3 z |
+C3 z C2 C2 C3 z E3 z |
+D3 z D2 D2 D3 z E3 z |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A3 z |
+A2 A5 z c3 z A3 z |
+G2 G5 z E3 z C2 C2 |
+D3 z F3 z E3 z B,3 z |
+% Bar 100 (2:23)
+C8- C3 z5 |
+z16 |
+z16 |
+z16 |]
+
+
+X: 4
+T: <The Marvelous Toy-'60-Tom Paxton> 4/5 [Theorbo] (2:28) 12-14-14
+%%part-name Theorbo
+C: Peter, Paul & Mary
+Z: Morganfey
+M: 2/2
+Q: 170
+K: C maj
+
++fff+ F3 z9 ^F3 z |
+G3 z9 A,3 z |
+D3 z5 G,3 z5 |
+C3 z G,3 z A,3 z B,3 z |
+C3 z5 G,3 z5 |
+D3 z5 G,3 z5 |
+C3 z5 C3 z5 |
+G,3 z5 G3 z5 |
+F3 z5 F3 z5 |
+% Bar 10 (0:12)
+C3 z5 C3 z5 |
+D3 z5 D3 z5 |
+G,3 z G,3 z A,3 z B,3 z |
+C3 z5 G,3 z5 |
+D3 z5 G,3 z5 |
+C3 z5 C3 z5 |
+F3 z5 C3 z5 |
+F3 z5 F3 z5 |
+E3 z5 A,3 z5 |
+D3 z5 A,3 z5 |
+% Bar 20 (0:26)
+G,3 z G,3 z A,3 z B,3 z |
+C3 z9 C3 z |
+G3 z9 G3 z |
+C3 z C3 z D3 z E3 z |
+F3 z5 C3 z5 |
+F3 z5 ^F3 z5 |
+G3 z5 A3 z5 |
+D3 z5 G3 z5 |
+C3 z G,3 z A,3 z B,3 z |
+C3 z5 G,3 z5 |
+% Bar 30 (0:40)
+D3 z5 G,3 z5 |
+C3 z5 C3 z5 |
+G,3 z5 G3 z5 |
+F3 z5 F3 z5 |
+C3 z5 C3 z5 |
+D3 z5 D3 z5 |
+G,3 z G,3 z A,3 z B,3 z |
+C3 z5 G,3 z5 |
+D3 z5 G,3 z5 |
+C3 z5 C3 z5 |
+% Bar 40 (0:55)
+F3 z5 C3 z5 |
+F3 z5 F3 z5 |
+E3 z5 A,3 z5 |
+D3 z5 A,3 z5 |
+G,3 z G,3 z A,3 z B,3 z |
+C3 z9 C3 z |
+G3 z9 G3 z |
+C3 z C3 z D3 z E3 z |
+F3 z5 C3 z5 |
+F3 z5 ^F3 z5 |
+% Bar 50 (1:09)
+G3 z5 A3 z5 |
+D3 z5 G3 z5 |
+C3 z G,3 z A,3 z B,3 z |
+C3 z5 G,3 z5 |
+D3 z5 G,3 z5 |
+C3 z5 C3 z5 |
+G,3 z5 G3 z5 |
+F3 z5 F3 z5 |
+C3 z5 C3 z5 |
+D3 z5 D3 z5 |
+% Bar 60 (1:23)
+G,3 z G,3 z A,3 z B,3 z |
+C3 z5 G,3 z5 |
+D3 z5 G,3 z5 |
+C3 z5 C3 z5 |
+F3 z5 C3 z5 |
+F3 z5 F3 z5 |
+E3 z5 A,3 z5 |
+D3 z5 A,3 z5 |
+G,3 z G,3 z A,3 z B,3 z |
+C3 z9 C3 z |
+% Bar 70 (1:37)
+G3 z9 G3 z |
+C3 z C3 z D3 z E3 z |
+F3 z5 C3 z5 |
+F3 z5 ^F3 z5 |
+G3 z5 A3 z5 |
+D3 z5 G3 z5 |
+C3 z G,3 z A,3 z B,3 z |
+%%Q: 140
+C51/14 z85/14
+	%%Q: 138
+	G,85/23 z425/69 |
+%%Q: 136
+D15/4 z25/4 G,15/4 z25/4 |
+%%Q: 134
+C255/67 z425/67 C255/67 z425/67 |
+% Bar 80 (1:52)
+G,255/67 z425/67 G255/67 z425/67 |
+%%Q: 132
+F85/22 z425/66 F85/22 z425/66 |
+C85/22 z425/66 C85/22 z425/66 |
+%%Q: 130
+D51/13 z85/13 D51/13 z85/13 |
+%%Q: 120
+G,17/6- G,17/8 z17/24 G,17/6- G,17/8 z17/24 A,17/6- A,17/8 z17/24 B,17/6- B,17/8 z17/24 |
+%%Q: 170
+C3 z5 G,3 z5 |
+D3 z5 G,3 z5 |
+C3 z5 C3 z5 |
+F3 z5 C3 z5 |
+F3 z5 F3 z5 |
+% Bar 90 (2:08)
+E3 z5 A,3 z5 |
+D3 z5 A,3 z5 |
+G,3 z G,3 z A,3 z B,3 z |
+C3 z9 C3 z |
+G3 z9 G3 z |
+C3 z C3 z D3 z E3 z |
+F3 z5 C3 z5 |
+F3 z5 ^F3 z5 |
+G3 z5 A3 z5 |
+D3 z5 G3 z5 |
+% Bar 100 (2:23)
+F3 z9 ^F3 z |
+G3 z9 A,3 z |
+D3 z5 G,3 z5 |
+C3 z G,3 z C3 z5 |]
+
+
+X: 5
+T: <The Marvelous Toy-'60-Tom Paxton> 5/5 [Flute] (2:28) 12-14-14
+%%part-name Flute
+C: Peter, Paul & Mary
+Z: Morganfey
+M: 2/2
+Q: 170
+K: C maj
+
++fff+ z16 |
+z16 |
+z16 |
+z12 G3 z |
+C3 z C3 z C3 z E3 z |
+D3 z D2 D2 D3 z5 |
+C2 C5 z C3 z E3 z |
+D8- D3 z G3 z |
+A3 z A3 z A2 G2 F3 z |
+% Bar 10 (0:12)
+G3 z G3 z G4- G z C2 |
+D4- D z D2 D3 z E3 z |
+D8- D3 z G3 z |
+C3 z C3 z C3 z E3 z |
+D3 z D3 z D3 z3 D2 |
+C2 C5 z E3 z G3 z |
+F8- F3 z A2 A2 |
+A3 z A3 z c3 z A3 z |
+G3 z G3 z E3 z C2 C2 |
+D3 z D3 z E3 z C3 z |
+% Bar 20 (0:26)
+D4- D3 z G3 z G3 z |
+C3 z C2 C2 C3 z E3 z |
+D3 z D2 D2 D3 z E3 z |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A3 z |
+A2 A5 z c3 z A3 z |
+G2 G5 z E3 z C2 C2 |
+D3 z F3 z E3 z B,3 z |
+C8- C3 z G3 z |
+C3 z C3 z C3 z E3 z |
+% Bar 30 (0:40)
+D3 z D3 z D3 z5 |
+C3 z C2 C2 C3 z E3 z |
+D8- D3 z G3 z |
+A3 z A2 A2 A2 G2 F3 z |
+G3 z G3 z G2 E3 z C2 |
+D4- D z D2 D3 z E3 z |
+D8- D3 z G3 z |
+C3 z C3 z C4- C z E2 |
+D3 z D3 z D2 D2 z2 D2 |
+C3 z C3 z E2 E2 G3 z |
+% Bar 40 (0:55)
+F8- F3 z A3 z |
+A3 z A3 z c3 z A3 z |
+G3 z G3 z E4- E3 z |
+D3 z D3 z E3 z C3 z |
+D4- D3 z G3 z G3 z |
+C3 z C2 C2 C3 z E3 z |
+D3 z D2 D2 D3 z E3 z |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A3 z |
+A2 A5 z c3 z A3 z |
+% Bar 50 (1:09)
+G2 G5 z E3 z C2 C2 |
+D3 z F3 z E3 z B,3 z |
+C8- C3 z G3 z |
+C3 z C3 z C4- C z E2 |
+D3 z D3 z D4- D3 z |
+C3 z C3 z C2 C2 E3 z |
+D8- D3 z G3 z |
+A3 z A3 z A3 z F3 z |
+G3 z G3 z G4- G z E2 |
+D2 D5 z D3 z E3 z |
+% Bar 60 (1:23)
+D8- D3 z G3 z |
+C2 C2 C3 z C3 z E2 E2 |
+D3 z D3 z D3 z D2 D2 |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A2 A2 |
+A2 A2 A3 z c3 z A3 z |
+G2 G2 G3 z E3 z C2 C2 |
+D2 D5 z E3 z C3 z |
+D4- D3 z G3 z G3 z |
+C3 z C2 C2 C3 z E3 z |
+% Bar 70 (1:37)
+D3 z D2 D2 D3 z E3 z |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A3 z |
+A2 A5 z c3 z A3 z |
+G2 G5 z E3 z C2 C2 |
+D3 z F3 z E3 z B,3 z |
+C8- C3 z G3 z |
+%%Q: 140
+C17/7 C17/7 C51/14 z17/14
+	%%Q: 138
+	C85/23 z85/69 E85/23 z85/69 |
+%%Q: 136
+D5/2 D5/2 D15/4 z5/4 D15/4 z25/4 |
+%%Q: 134
+C255/67 z85/67 C170/67 C170/67 C255/67 z85/67 D170/67 E170/67 |
+% Bar 80 (1:52)
+D680/67- D255/67 z85/67 G255/67 z85/67 |
+%%Q: 132
+A85/22 z85/66 A85/22 z85/66 A85/33 G85/33 F85/22 z85/66 |
+G85/22 z85/66 G85/22 z85/66 G170/33- G85/66 z85/66 E85/33 |
+%%Q: 130
+D34/13 D34/13 D51/13 z17/13 E51/13 z17/13 C51/13 z17/13 |
+%%Q: 120
+D34/3- D17/4 z17/12 G17/6- G17/8 z17/24 |
+%%Q: 170
+C3 z C2 C2 C3 z E3 z |
+D2 D2 D3 z D3 z D2 D2 |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A2 A2 |
+A2 A2 A3 z c3 z A3 z |
+% Bar 90 (2:08)
+G3 z G3 z E3 z C2 C2 |
+D3 z D3 z E3 z C3 z |
+D3 z G3 z G3 z G3 z |
+C3 z C2 C2 C3 z E3 z |
+D3 z D2 D2 D3 z E3 z |
+C4- C z C2 E3 z G3 z |
+F8- F3 z A3 z |
+A2 A5 z c3 z A3 z |
+G2 G5 z E3 z C2 C2 |
+D3 z F3 z E3 z B,3 z |
+% Bar 100 (2:23)
+C8- C3 z5 |
+z16 |
+z16 |
+z16 |]
+

@@ -1,0 +1,69 @@
+%  
+%  conversion by glorgnorbor122
+%  http://fefeconv.mirar.org/?filter_user=glorgnorbor122&view=all
+%  25 Nov 23:08
+%  using Firefern's ABC converter
+%  
+%  Artist: 
+%  Mood: unknown
+%  
+%  Playing multipart files:
+%    /play <filename> <part> sync
+%  example:
+%  pippin does:  /play weargreen 2 sync
+%  samwise does: /play weargreen 3 sync
+%  pippin does:  /playstart
+%  
+%  If you want to play a solo piece, skip the sync and it will start without /playstart.
+%  
+%  
+%  Recommended solo or ensemble configurations (instrument/file):
+%  
+
+X:1
+T:  [clarinet] Nov 25 (0:40)
+Z: Transcribed by Firefern's ABC sequencer
+%  Transcribed for Lord of the Rings Online playing
+%  Transpose: 0 (0 octaves)
+%  Tempo factor: 100%
+L: 1/4
+K: C
+Q: 1/4=225
++mf+ [=G,3-=C3-]
+[=G,9/2-=C9/2-=G9/2]
+[=G,3/4-=C3/4-=A3/4]
+[=G,3/4=C3/4=G3/4]
+[=D,3-=A,3-=D3^F3]
+[=D,6=A,6=D6]
+[=G,3-=C3-]
+[=G,6=C6=G6]
+[=D,9=A,9=D9^F9]
+[=G,3-=C3-]
+[=G,9/2-=C9/2-=G9/2]
+[=G,3/4-=C3/4-=A3/4]
+[=G,3/4=C3/4=G3/4]
+[=D,3-=A,3-=D3^F3]
+[=D,6=A,6=D6]
+[E,3-B,3-E3-]
+[E,13B,13E13B13-]
+[E,2B,2E2B2]
+[=G,3-=C3-]
+[=G,6=C6=G6]
+[=D,/4-=G,/4=A,/4-=C/4=D/4-^F/4-]
+[=D,19/2-=A,19/2-=D19/2^F19/2]
+[=D,3/4-=A,3/4-=D3/4-]
+[=D,3/4-=A,3/4-=D3/4^F3/4]
+[=D,3/4=A,3/4=D3/4]
+[E,16B,16E16]
+[E,2B,2E2]
+[=G,3-=C3-]
+[=G,6=C6=G6]
+[=D,3-=A,3-=D3-^F3]
+[=D,15/2-=A,15/2-=D15/2-=A15/2]
+[=D,3/4-=A,3/4-=D3/4-=G3/4]
+[=D,3/4=A,3/4=D3/4=A3/4]
+[E,6-B,6-E6-B6-]
+[E,3B,3E3-B3-e3]
+[E,6B,6E6B6e6]
+
+

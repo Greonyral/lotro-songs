@@ -1,0 +1,136 @@
+%abc-2.1
+%%song-title       Adams Family Waltz
+%%song-duration    1:14
+%%song-transcriber Morganfey
+%%abc-creator Maestro v2.0.0
+%%abc-version 2.1
+
+X: 1
+T: <Adams Family Waltz> 1/2 [Clarinet] (1:14) 10-25-14
+%%part-name Clarinet
+Z: Morganfey
+M: 3/4
+Q: 120
+K: C maj
+
++mp+ A,2 [E,2-A,2-C2-] [E,2A,2C2] |
+E,2 [E,2-A,2-C2-] [E,2A,2C2] |
+A,2 [E,2-A,2-C2-] [E,2A,2C2] |
+E,2 [E,2A,2C2] [A,2C2E2] |
+A,2 [E,2-A,2-C2-] [E,2A,2C2] |
+E,2 [E,2-A,2-C2-] [E,2A,2C2] |
+^A,2 [F,2-A,2-D2-] [F,2A,2D2] |
+^A,2 [F,2-^G,2-D2-] [F,2G,2D2] |
+A,2 [E,2-A,2-C2-] [E,2A,2C2] |
+% Bar 10 (0:13)
+E,2 [A,2-C2-E2-] [A,2C2E2] |
+A,2 [A,2-C2-E2-] [A,2C2E2] |
+E,2 [A,2-C2-E2-] [A,2C2E2] |
+A,2 [A,2-C2-E2-] [A,2C2E2] |
+E,2 [A,2-C2-E2-] [A,2C2E2] |
+A,2 [A,2-C2-E2-] [A,2C2E2] |
+A,2 [G,2-A,2-^C2-] [G,2A,2C2] |
+D,2 [F,2-A,2-D2-] [F,2A,2D2] |
+F,2 [F,2B,2D2] A, z |
+E,2 [A,2-C2-] [A,2C2] |
+% Bar 20 (0:28)
+C2 [E,2B,2C2] A, z |
+B,2 [^F,2-A,2-^D2-] [F,2A,2D2] |
+B,2 [^F,2-A,2-^D2-] [F,2A,2D2] |
+F,2 [^D,2-A,2-B,2-] [D,2A,2B,2] |
+E,2 [D,2-^G,2-B,2-] [D,2G,2B,2] |
+A,4 z2 |
+A,2 [E,2-A,2-C2-] [E,2A,2C2] |
+E,2 [E,2-A,2-C2-] [E,2A,2C2] |
+A,2 [E,2-A,2-C2-] [E,2A,2C2] |
+E,2 [E,2A,2C2] [A,2C2E2] |
+% Bar 30 (0:43)
+A,2 [E,2-A,2-C2-] [E,2A,2C2] |
+E,2 [E,2-A,2-C2-] [E,2A,2C2] |
+^A,2 [F,2-A,2-D2-] [F,2A,2D2] |
+^A,2 [F,2-^G,2-D2-] [F,2G,2D2] |
+A,2 [E,2-A,2-C2-] [E,2A,2C2] |
+E,2 [A,2-C2-E2-] [A,2C2E2] |
+A,2 [A,2-C2-E2-] [A,2C2E2] |
+E,2 [A,2-C2-E2-] [A,2C2E2] |
+A,2 [A,2-C2-E2-] [A,2C2E2] |
+E,2 [A,2-C2-E2-] [A,2C2E2] |
+% Bar 40 (0:58)
+A,2 [A,2-C2-E2-] [A,2C2E2] |
+A,2 [G,2-A,2-^C2-] [G,2A,2C2] |
+D,2 [F,2-A,2-D2-] [F,2A,2D2] |
+F,2 [F,2B,2D2] A, z |
+E,2 [A,2-C2-] [A,2C2] |
+C2 [E,2B,2C2] A, z |
+B,2 [^F,2-A,2-^D2-] [F,2A,2D2] |
+B,2 [^F,2-A,2-^D2-] [F,2A,2D2] |
+F,2 [^D,2-A,2-B,2-] [D,2A,2B,2] |
+E,2 [D,2-^G,2-B,2-] [D,2G,2B,2] |
+% Bar 50 (1:13)
+A,4 z2 |]
+
+
+X: 2
+T: <Adams Family Waltz> 2/2 [Flute] (1:14) 10-25-14
+%%part-name Flute
+Z: Morganfey
+M: 3/4
+Q: 120
+K: C maj
+
++f+ [F,2A,2] [C,2-E,2-A,2-] [C,-E,-A,-] [C,^D,E,A,] |
++mp+ E,2 +f+ [C,2-E,2-A,2-] [C,2E,2A,2C2] |
+[A,2C2F2] [C,2-E,2-A,2-C2-E2-] [C,-E,-A,CE] [C,E,A,C^D] |
+[E,2A,2C2-E2-] +mp+ [C,2E,2A,2C2-E2-] [C,2E,2A,2C2E2] |
++f+ [F,2A,2] [C,2-E,2-A,2-] [C,-E,-A,-] [C,^D,E,A,] |
++mp+ E,2 +f+ [C,2-E,2-A,2-] [C,2E,2A,2C2] |
++mp+ ^A,2 +f+ [D,2-F,2-A,2-D2-] [D,-F,-A,-D-] [D,F,=A,^A,D-] |
+[F,2^G,2^A,2D2-] +mp+ [D,2-F,2-G,2-D2] +f+ [D,2F,2G,2F2] |
+[A,2E2] +mp+ [C,2-E,2-A,2-] [C,2E,2A,2-] |
+% Bar 10 (0:13)
+[E,2A,2] +f+ [C,-E,-A,-B] [C,-E,-A,-^A] [C,2E,2A,2=A2] |
+[A,2^G2-] +mp+ [C,-E,-A,-G] [C,/-E,/-A,/-] +f+ [C,//-E,//-A,//-G//] [C,//-E,//-A,//-A//] [C,2E,2A,2G2] |
+[E,2G2-] +mp+ [C,2-E,2-A,2-G2] +f+ [C,-E,-A,-^F] [C,E,A,] |
++mp+ A,2 +f+ [C,-E,-A,-^F] [C,-E,-A,-=F] [C,2E,2A,2E2] |
+[E,2^D2] [C,2-E,2-A,2-E2-] [C,-E,-A,-E] [C,/-E,/-A,/-] [C,//-E,//-A,//-F//] [C,//E,//A,//G//] |
+[A,2F2] [C,2-E,2-A,2-E2-] [C,-E,-A,-E] [C,E,A,C] |
++mp+ A,2 +f+ [^C,-E,G,-A,-E] [C,-F,G,A,-F] [C,-G,-A,-G] [C,G,A,^A,^A] |
+[D,2^G,2^G2] [D,2-F,2-A,2-A2-] [D,-F,-A,-A] [D,F,A,Dd] |
+[F,2F2-f2-] +mp+ [D,2F,2B,2F2-f2-] [A,F-f-] [Ff] |
++f+ [E,2^G,2] [C,2-A,2-] [C,-A,-] [C,A,C] |
+% Bar 20 (0:28)
+[C,2E2-] +mp+ [C,2E,2B,2E2-] [A,E] +f+ [E,E] |
+[F,2B,2F2] [^D,2-^F,2-A,2-^F2-] [D,-F,-A,-F] [D,F,A,^D^d] |
+[B,2D2d2] [^D,2-^F,2-A,2-C2-c2-] [D,-F,-A,-Cc] [D,F,A,Dd] |
+[F,2C2c2] [^D,2-A,2-B,2-B2] [D,2A,2B,2^D2^d2] |
+[E,2E2e2] [D,-^G,-B,-Dd] [D,-G,-B,Cc] [D,-G,B,-B] [D,G,B,^G] |
+[C,4E,4A,4] z2 |
+[F,2A,2] [C,2-E,2-A,2-] [C,-E,-A,-] [C,^D,E,A,] |
++mp+ E,2 +f+ [C,2-E,2-A,2-] [C,2E,2A,2C2] |
+[A,2C2F2] [C,2-E,2-A,2-C2-E2-] [C,-E,-A,CE] [C,E,A,C^D] |
+[E,2A,2C2-E2-] +mp+ [C,2E,2A,2C2-E2-] [C,2E,2A,2C2E2] |
+% Bar 30 (0:43)
++f+ [F,2A,2] [C,2-E,2-A,2-] [C,-E,-A,-] [C,^D,E,A,] |
++mp+ E,2 +f+ [C,2-E,2-A,2-] [C,2E,2A,2C2] |
++mp+ ^A,2 +f+ [D,2-F,2-A,2-D2-] [D,-F,-A,-D-] [D,F,=A,^A,D-] |
+[F,2^G,2^A,2D2-] +mp+ [D,2-F,2-G,2-D2] +f+ [D,2F,2G,2F2] |
+[A,2E2] +mp+ [C,2-E,2-A,2-] [C,2E,2A,2-] |
+[E,2A,2] +f+ [C,-E,-A,-B] [C,-E,-A,-^A] [C,2E,2A,2=A2] |
+[A,2^G2-] +mp+ [C,-E,-A,-G] [C,/-E,/-A,/-] +f+ [C,//-E,//-A,//-G//] [C,//-E,//-A,//-A//] [C,2E,2A,2G2] |
+[E,2G2-] +mp+ [C,2-E,2-A,2-G2] +f+ [C,-E,-A,-^F] [C,E,A,] |
++mp+ A,2 +f+ [C,-E,-A,-^F] [C,-E,-A,-=F] [C,2E,2A,2E2] |
+[E,2^D2] [C,2-E,2-A,2-E2-] [C,-E,-A,-E] [C,/-E,/-A,/-] [C,//-E,//-A,//-F//] [C,//E,//A,//G//] |
+% Bar 40 (0:58)
+[A,2F2] [C,2-E,2-A,2-E2-] [C,-E,-A,-E] [C,E,A,C] |
++mp+ A,2 +f+ [^C,-E,G,-A,-E] [C,-F,G,A,-F] [C,-G,-A,-G] [C,G,A,^A,^A] |
+[D,2^G,2^G2] [D,2-F,2-A,2-A2-] [D,-F,-A,-A] [D,F,A,Dd] |
+[F,2F2-f2-] +mp+ [D,2F,2B,2F2-f2-] [A,F-f-] [Ff] |
++f+ [E,2^G,2] [C,2-A,2-] [C,-A,-] [C,A,C] |
+[C,2E2-] +mp+ [C,2E,2B,2E2-] [A,E] +f+ [E,E] |
+[F,2B,2F2] [^D,2-^F,2-A,2-^F2-] [D,-F,-A,-F] [D,F,A,^D^d] |
+[B,2D2d2] [^D,2-^F,2-A,2-C2-c2-] [D,-F,-A,-Cc] [D,F,A,Dd] |
+[F,2C2c2] [^D,2-A,2-B,2-B2] [D,2A,2B,2^D2^d2] |
+[E,2E2e2] [D,-^G,-B,-Dd] [D,-G,-B,Cc] [D,-G,B,-B] [D,G,B,^G] |
+% Bar 50 (1:13)
+[C,4E,4A,4] z2 |]
+
