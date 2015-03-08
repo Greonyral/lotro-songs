@@ -1,0 +1,197 @@
+%abc-2.1
+%%song-title       tinytoon
+%%song-duration    1:01
+%%abc-creator Maestro v2.0.0
+%%abc-version 2.1
+
+X: 1
+T: <tinytoon> 1/4[Lute] (1:01)
+%%part-name Lute
+M: 4/4
+Q: 140
+K: C maj
+
++f+ d ^c =c B ^A =A ^G =G |
+^F =F E ^D =D z D, z |
+G d D d A d D d |
+G d D d A d D A |
+A d D d A d D d |
+A d D d G z e2 |
+B ^f ^F f ^c f F f |
+B ^f ^F f ^c f F f |
+B ^f c f ^c f ^d f |
+% Bar 10 (0:15)
+^G ^f ^c =f [^F^f] z [^A2=f2] |
+[^D2^d2] D3/2 ^A,/ C A, A, ^G, |
+G, ^A, F, G, ^D,2 [^D^d] z |
+[^A3f3] A ^d =d c A |
+A G ^F E D z D, z |
+G d D d A d D d |
+[Gd-] [^Fd-] [Ed-] [Dd] A d D d |
+[G3d3] B c ^A B ^c |
+^d z [D=d] z [G2d2] D, z |
+G d D d A d D d |
+% Bar 20 (0:32)
+G d D d A d D A |
+A d D d A d D d |
+A d D d G z e2 |
+B ^f ^F f ^c f F f |
+B ^f ^F f ^c f F f |
+B ^f c f ^c f ^d f |
+^G ^f ^c =f [^F^f] z [^A2=f2] |
+[^D2^d2] D3/2 ^A,/ C A, A, ^G, |
+G, ^A, F, G, ^D,2 [^D^d] z |
+[^A3f3] A ^d =d c A |
+% Bar 30 (0:49)
+A G ^F E D z D, z |
+G d D d A d D d |
+[Gd-] [^Fd-] [Ed-] [Dd] A d D d |
+[G3d3] B c ^A B ^c |
+^d z [D=d] z [G2d2] G3/2 D/ |
+E D D C B, D A, D |
+G,2 [G,Gg] z5 |]
+
+
+X: 2
+T: <tinytoon> 2/4[Flute] (1:01)
+%%part-name Flute
+M: 4/4
+Q: 140
+K: C maj
+
++f+ C/ ^C/ =C/ ^C/ D/ ^D/ =D/ ^D/ E/ F/ E/ F/ ^F/ G/ F/ G/ |
+^G/ A/ G/ A/ ^A/ B/ c/ ^c/ d z2 D |
+B, D2 D E D2 D |
+B, D ^F D E D2 D |
+C D2 D E D D D |
+A ^G A ^A B z2 ^F |
+^D ^F2 F ^G F2 F |
+^D ^F ^A F ^G F2 F |
+^D ^F F3/2 F/ ^C ^A A A |
+% Bar 10 (0:15)
+B ^A B c ^c z A2 |
+^d2 d3/2 ^A/ c A A ^G |
+G ^A F G ^D3 D |
+F3/2 G/ ^G F =G ^G ^A A |
+A B ^c A d z2 D |
+B, D2 D E D2 D |
+D G B G E D2 D |
+B3/2 ^A/ B D E ^F G =A |
+^A z =A z G2 z D |
+B, D2 D E D2 D |
+% Bar 20 (0:32)
+B, D ^F D E D2 D |
+C D D D E D2 D |
+A ^G A ^A B z2 ^F |
+^D ^F2 F ^G F3 |
+^D ^F ^A F ^G F3 |
+^D ^F2 F ^C ^A2 A |
+B ^A B c ^c z A2 |
+^d3/2 d/ d ^A c A A ^G |
+G ^A F G ^D3 D |
+F3/2 G/ ^G F =G ^G ^A A |
+% Bar 30 (0:49)
+A B ^c A d z2 D |
+B, D2 D E D2 D |
+D G B G E D2 D |
+B3/2 ^A/ B D E ^F G =A |
+^A z =A z G2 G3/2 D/ |
+E D D C B, D A, D |
+G,2 G z5 |]
+
+
+X: 3
+T: <tinytoon> 3/4[Horn] (1:01)
+%%part-name Horn
+M: 4/4
+Q: 140
+K: C maj
+
++f+ z8 |
+z4 z3 b |
+g b2 b c' c'2 c' |
+g b d b c' c'2 c' |
+g ^f2 f g f f f |
+c' b c' ^c d z [^a2c'2] |
+b ^d2 d e e2 e |
+z ^d ^f d e e2 e |
+b ^d d3/2 d/ a ^f f f |
+% Bar 10 (0:15)
+^d ^c ^f =f e z [f2^g2] |
+[g2^a2] z2 z4 |
+z6 [g^a] z |
+d3 d [^d4b4] |
+[^c3e3] [cg] ^f z2 b |
+g b2 b c' c'2 c' |
+b2 d b g ^f2 z |
+d2 z2 c' ^c d e |
+[^dg] z [^fc'] z [=d2b2] z2 |
+g b2 b c' c'2 c' |
+% Bar 20 (0:32)
+g b d b c' c'2 c' |
+g ^f f f g f2 f |
+c' b c' ^c d z [^a2c'2] |
+b ^d2 d e e3 |
+z ^d ^f d e e3 |
+b ^d2 d a ^f2 f |
+^d ^c ^f =f e z [f2^g2] |
+[g3/2^a3/2] [g/a/] z2 z4 |
+z6 [g^a] z |
+d3 d [^d4b4] |
+% Bar 30 (0:49)
+[^c3e3] [cg] ^f z2 b |
+g b2 b c' c'2 c' |
+b2 d b g ^f2 z |
+d2 z2 c' ^c d e |
+[^dg] z [^fc'] z [=d2b2] z2 |
+z8 |
+z2 [db] z5 |]
+
+
+X: 4
+T: <tinytoon> 4/4[Bagpipe] (1:01)
+%%part-name Bagpipe
+M: 4/4
+Q: 140
+K: C maj
+
++f+ z8 |
+z4 z3 D |
+B, D2 D E D2 D |
+B, D ^F D E D2 D |
+C D D D E D D D |
+A ^G A ^A B z2 ^F |
+^D ^F2 F ^G F2 F |
+^D ^F ^A F ^G F2 F |
+^D ^F F3/2 F/ ^C ^A A A |
+% Bar 10 (0:15)
+B ^A B c ^c z A2 |
+^d2 d3/2 ^A/ c A A ^G |
+G ^A F G ^D3 D |
+F3/2 G/ ^G F =G ^G ^A A |
+A B ^c A d z2 D |
+B, D2 D E D2 D |
+D G B G E D2 D |
+B3/2 ^A/ B D E ^F G =A |
+^A z =A z G2 z D |
+B, D2 D E D2 D |
+% Bar 20 (0:32)
+B, D ^F D E D2 D |
+C D D D E D2 D |
+A ^G A ^A B z2 ^F |
+^D ^F2 F ^G F3 |
+^D ^F ^A F ^G F3 |
+^D ^F2 F ^C ^A2 A |
+B ^A B c ^c z A2 |
+^d3/2 d/ d ^A c A A ^G |
+G ^A F G ^D3 D |
+F3/2 G/ ^G F =G ^G ^A A |
+% Bar 30 (0:49)
+A B ^c A d z2 D |
+B, D2 D E D2 D |
+D G B G E D2 D |
+B3/2 ^A/ B D E ^F G =A |
+^A z =A z G2 z2 |
+z3 c B d A d |
+G2 z2 z4 |]
+
