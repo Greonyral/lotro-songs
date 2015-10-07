@@ -5,8 +5,8 @@
 %%abc-version 2.1
 
 X: 1
-T: [PokemonTheme] (1:01) - Lute of Ages 1
-%%part-name Lute of Ages
+T: Lute of Ages 1 - [PokemonTheme] (1:01)
+%%part-name 1/5
 M: 4/8
 Q: 142
 K: C maj
@@ -94,9 +94,9 @@ z D, F, G,- |
 z4 |]
 
 
-X: 11
-T: [PokemonTheme] (1:01) - Lute of Ages 11
-%%part-name Lute of Ages
+X: 2
+T: Lute of Ages 2 - [PokemonTheme] (1:01)
+%%part-name 2/5
 M: 4/8
 Q: 142
 K: C maj
@@ -184,9 +184,9 @@ f g2 g |
 z4 |]
 
 
-X: 2
-T: [PokemonTheme] (1:01) - Harp 2
-%%part-name Harp
+X: 3
+T: Harp 3 - [PokemonTheme] (1:01)
+%%part-name 3/5
 M: 4/8
 Q: 142
 K: C maj
@@ -275,8 +275,8 @@ z4 |]
 
 
 X: 4
-T: [PokemonTheme] (1:01) - Flute 4
-%%part-name Flute
+T: Flute 4 - [PokemonTheme] (1:01)
+%%part-name 4/5
 M: 4/8
 Q: 142
 K: C maj
@@ -364,9 +364,9 @@ z3 [G,^D] |
 z4 |]
 
 
-X: 14
-T: [PokemonTheme] (1:01) - Flute 14
-%%part-name Flute 2
+X: 6
+T: Flute 6 - [PokemonTheme] (1:01)
+%%part-name 5/5
 M: 4/8
 Q: 142
 K: C maj

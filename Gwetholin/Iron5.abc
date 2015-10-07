@@ -5,8 +5,8 @@
 %%abc-version 2.1
 
 X: 1
-T: Black Sabbath - Ironman (5:06) - Basic Lute
-%%part-name Basic Lute
+T: Lute of Ages 1 - [Black Sabbath - Ironman] (5:06)
+%%part-name 1/5
 M: 4/4
 Q: 118
 K: C maj
@@ -179,9 +179,9 @@ z3 +f+ ^D,- D,4- |
 ^D,/ +fff+ [C,^D] z13/2 |]
 
 
-X: 11
-T: Black Sabbath - Ironman (5:06) - Basic Lute
-%%part-name Basic Lute
+X: 2
+T: Lute of Ages 2 - [Black Sabbath - Ironman] (5:06)
+%%part-name 2/5
 M: 4/4
 Q: 118
 K: C maj
@@ -354,9 +354,9 @@ z8 |
 z8 |]
 
 
-X: 21
-T: Black Sabbath - Ironman (5:06) - Basic Lute
-%%part-name Basic Lute
+X: 3
+T: Lute of Ages 3 - [Black Sabbath - Ironman] (5:06)
+%%part-name 3/5
 M: 4/4
 Q: 118
 K: C maj
@@ -529,9 +529,9 @@ z3 ^D,- D,4- |
 ^D,/ D, z13/2 |]
 
 
-X: 6
-T: Black Sabbath - Ironman (5:06) - Horn
-%%part-name Horn
+X: 4
+T: Horn 4 - [Black Sabbath - Ironman] (5:06)
+%%part-name 4/5
 M: 4/4
 Q: 118
 K: C maj
@@ -704,9 +704,9 @@ z8 |
 z8 |]
 
 
-X: 8
-T: Black Sabbath - Ironman (5:06) - Drums
-%%part-name Drums
+X: 5
+T: Drums 5 - [Black Sabbath - Ironman] (5:06)
+%%part-name 5/5
 M: 4/4
 Q: 118
 K: C maj

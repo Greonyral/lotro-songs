@@ -5,8 +5,8 @@
 %%abc-version 2.1
 
 X: 1
-T: Ac Dc - Highway to hell (3:05) - Basic Lute
-%%part-name Basic Lute
+T: Lute of Ages 1 - [Ac Dc - Highway to hell] (3:05)
+%%part-name 1/5
 M: 4/4
 Q: 116
 K: C maj
@@ -114,9 +114,9 @@ z8 |
 z8 |]
 
 
-X: 11
-T: Ac Dc - Highway to hell (3:05) - Basic Lute
-%%part-name Basic Lute
+X: 2
+T: Lute of Ages 2 - [Ac Dc - Highway to hell] (3:05)
+%%part-name 2/5
 M: 4/4
 Q: 116
 K: C maj
@@ -223,9 +223,118 @@ z4 [G,-d-g] [G,d] +fff+ [D,-^F,D-A-d-^f] [D,DAd] |
 z8 |]
 
 
+X: 3
+T: Flute 3 - [Ac Dc - Highway to hell] (3:05)
+%%part-name 3/5
+M: 4/4
+Q: 116
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z ^F,- F, A, C ^C z2 |
+z2 z3/4 A,// z A,2 z2 |
+z2 ^F, A, A, F, A, F, |
+C A, G, A,- A,2 z2 |
+z ^F, ^G, A, C C z2 |
+z2 ^F, A, C2 z2 |
+z2 C C C C C A, |
+B, A,- A, z A,// z15/4 |
+z2 E ^C3/4- [A,//-C//] A,3/4 z// A,- A, z |
+% Bar 20 (0:39)
+z2 G, A, C2 z2 |
+z2 C2 C C B, A, |
+B, z z A,// z3/4 ^G, z z2 |
+z2 E C E2 z2 |
+z C A, C- C2 z2 |
+z4 C// z3/4 C B, A, |
+B, B,- B, D,- D,2 z2 |
+z4 z ^F, A, F, |
+z4 [E,//A,//] z7/4 E, [^F,//A,//-] A,3/4 |
+[^F,2A,2] z2 z2 F, A, |
+% Bar 30 (0:59)
+[E,4A,4] [E,2A,2] [E,^F,] [F,A,] |
+[^F,2A,2] z2 z4 |
+[E,4A,4] [E,2A,2] [E,^F,] [F,A,] |
+[^F,2A,2] z3 C B, A, |
+[E,4A,4] [E,2A,2] [D,^F,] A, |
+A,2 z2 z4 |
+z8 |
+z ^F, A,2 C2 ^C2 |
+z2 A, ^F, C C z2 |
+z2 A,2 A, ^F, A, A, |
+% Bar 40 (1:20)
+z2 C A, G, A,- A, z |
+z C- C A, C2 z2 |
+z ^F, A, C C2 z2 |
+z2 E2 C z A,// z3/4 ^G, |
+A,2 A, ^G, A,2 z2 |
+C ^C E E- E z z2 |
+z2 ^F, A, C2 z2 |
+z4 C C B, A, |
+z C A,2 ^C2 z2 |
+z ^C- C z E// z15/4 |
+% Bar 50 (1:41)
+z2 C ^C E2 z2 |
+z2 ^C// z7/4 C// z7/4 B, A, |
+B, B,- B, G,/ ^F,/ E,4 |
+z4 z ^F, A, F, |
+E,4 A,// z7/4 [E,//^F,//-] F,3/4 [F,A,] |
+[^F,2A,2] z2 z2 F, A, |
+z4 [E,//A,//] z7/4 [E,^F,] [F,A,] |
+[^F,2A,2] z2 z4 |
+E,4 A,// z7/4 [E,//^F,//-] F,3/4 A, |
+[^F,//A,//-] A,7/4 z3 D B, A, |
+% Bar 60 (2:02)
+A,4 [E,//A,//-] A,7/4 [D,^F,] z |
+A,// z23/4 A,2 |
+A,4 z4 |
+z4 C// z7/4 C2 |
+z8 |
+z D- D z ^D2 z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:22)
+z8 |
+z8 |
+z8 |
+z8 |
+E,4 A,// z7/4 [E,//^F,//-] F,3/4 z |
+[^F,//A,//] z23/4 F, A, |
+[E,4A,4] [E,2A,2] E, [^F,//A,//-] A,3/4 |
+[^F,2A,2] z3 C B, A, |
+[A,3/2^C3/2] B,/ A,2 [E,//A,//-] A,7/4 ^G, A, |
+[^F,2A,2] z2 z2 F, A, |
+% Bar 80 (2:43)
+z4 [E,//A,//] z7/4 ^F, z |
+z4 z ^F- F2 |
+E4 [E,//A,//] z7/4 [E,^F,] A, |
+[^F,//A,//-] A,3/4 C B, A, ^C C A, C/ z/ |
+^C// z15/4 [E,//A,//] z7/4 [E,^F,] F, |
+[^F,//-A,//] F,7/4 z2 C C ^C E/ z/ |
+[E,//-E//] E,15/4 A,// z7/4 [E,//^F,//-] F,3/4 [F,/-A,/-] [F,//-A,//-E//] [F,//A,//] |
+[^F,4A,4E4] C C A,2 |
+A,4 [E,//A,//-] A,7/4 ^F, z |
+z8 |
+% Bar 90 (3:04)
+z8 |
+z8 |]
+
+
 X: 4
-T: Ac Dc - Highway to hell (3:05) - Flute
-%%part-name Flute
+T: Clarinet 4 - [Ac Dc - Highway to hell] (3:05)
+%%part-name 4/5
 M: 4/4
 Q: 116
 K: C maj
@@ -241,66 +350,66 @@ z8 |
 z8 |
 % Bar 10 (0:18)
 z8 |
-z ^F,- F, A, C ^C z2 |
-z2 z3/4 A,// z A,2 z2 |
-z2 ^F, A, A, F, A, F, |
-C A, G, A,- A,2 z2 |
-z ^F, ^G, A, C C z2 |
-z2 ^F, A, C2 z2 |
-z2 C C C C C A, |
-B, A,- A, z A,// z15/4 |
-z2 E ^C3/4- [A,//-C//] A,3/4 z// A,- A, z |
+z ^F- F A c ^c z2 |
+z2 z3/4 A// z A2 z2 |
+z2 ^F A A F A F |
+c A G A- A2 z2 |
+z ^F ^G A c c z2 |
+z2 ^F A c2 z2 |
+z2 c c c c c A |
+B A- A z A// z15/4 |
+z2 e ^c3/4- [A//-c//] A3/4 z// A- A z |
 % Bar 20 (0:39)
-z2 G, A, C2 z2 |
-z2 C2 C C B, A, |
-B, z z A,// z3/4 ^G, z z2 |
-z2 E C E2 z2 |
-z C A, C- C2 z2 |
-z4 C// z3/4 C B, A, |
-B, B,- B, D,- D,2 z2 |
-z4 z ^F, A, F, |
-z4 [E,//A,//] z7/4 E, [^F,//A,//-] A,3/4 |
-[^F,2A,2] z2 z2 F, A, |
+z2 G A c2 z2 |
+z2 c2 c c B A |
+B z z A// z3/4 ^G z z2 |
+z2 e c e2 z2 |
+z c A c- c2 z2 |
+z4 c// z3/4 c B A |
+B B- B D- D2 z2 |
+z4 z ^F A F |
+z4 [E//A//] z7/4 E [^F//A//-] A3/4 |
+[^F2A2] z2 z2 F A |
 % Bar 30 (0:59)
-[E,4A,4] [E,2A,2] [E,^F,] [F,A,] |
-[^F,2A,2] z2 z4 |
-[E,4A,4] [E,2A,2] [E,^F,] [F,A,] |
-[^F,2A,2] z3 C B, A, |
-[E,4A,4] [E,2A,2] [D,^F,] A, |
-A,2 z2 z4 |
+[E4A4] [E2A2] [E^F] [FA] |
+[^F2A2] z2 z4 |
+[E4A4] [E2A2] [E^F] [FA] |
+[^F2A2] z3 c B A |
+[E4A4] [E2A2] [D^F] A |
+A2 z2 z4 |
 z8 |
-z ^F, A,2 C2 ^C2 |
-z2 A, ^F, C C z2 |
-z2 A,2 A, ^F, A, A, |
+z ^F A2 c2 ^c2 |
+z2 A ^F c c z2 |
+z2 A2 A ^F A A |
 % Bar 40 (1:20)
-z2 C A, G, A,- A, z |
-z C- C A, C2 z2 |
-z ^F, A, C C2 z2 |
-z2 E2 C z A,// z3/4 ^G, |
-A,2 A, ^G, A,2 z2 |
-C ^C E E- E z z2 |
-z2 ^F, A, C2 z2 |
-z4 C C B, A, |
-z C A,2 ^C2 z2 |
-z ^C- C z E// z15/4 |
+z2 c A G A- A z |
+z c- c A c2 z2 |
+z ^F A c c2 z2 |
+z2 e2 c z A// z3/4 ^G |
+A2 A ^G A2 z2 |
+c ^c e e- e z z2 |
+z2 ^F A c2 z2 |
+z4 c c B A |
+z c A2 ^c2 z2 |
+z ^c- c z e// z15/4 |
 % Bar 50 (1:41)
-z2 C ^C E2 z2 |
-z2 ^C// z7/4 C// z7/4 B, A, |
-B, B,- B, G,/ ^F,/ E,4 |
-z4 z ^F, A, F, |
-E,4 A,// z7/4 [E,//^F,//-] F,3/4 [F,A,] |
-[^F,2A,2] z2 z2 F, A, |
-z4 [E,//A,//] z7/4 [E,^F,] [F,A,] |
-[^F,2A,2] z2 z4 |
-E,4 A,// z7/4 [E,//^F,//-] F,3/4 A, |
-[^F,//A,//-] A,7/4 z3 D B, A, |
+z2 c ^c e2 z2 |
+z2 ^c// z7/4 c// z7/4 B A |
+B B- B G/ ^F/ E4 |
+z4 z ^F A F |
+E4 A// z7/4 [E//^F//-] F3/4 [FA] |
+[^F2A2] z2 z2 F A |
+z4 [E//A//] z7/4 [E^F] [FA] |
+[^F2A2] z2 z4 |
+E4 A// z7/4 [E//^F//-] F3/4 A |
+[^F//A//-] A7/4 z3 d B A |
 % Bar 60 (2:02)
-A,4 [E,//A,//-] A,7/4 [D,^F,] z |
-A,// z23/4 A,2 |
-A,4 z4 |
-z4 C// z7/4 C2 |
+A4 [E//A//-] A7/4 [D^F] z |
+A// z23/4 A2 |
+A4 z4 |
+z4 c// z7/4 c2 |
 z8 |
-z D- D z ^D2 z2 |
+z d- d z ^d2 z2 |
 z8 |
 z8 |
 z8 |
@@ -310,140 +419,31 @@ z8 |
 z8 |
 z8 |
 z8 |
-E,4 A,// z7/4 [E,//^F,//-] F,3/4 z |
-[^F,//A,//] z23/4 F, A, |
-[E,4A,4] [E,2A,2] E, [^F,//A,//-] A,3/4 |
-[^F,2A,2] z3 C B, A, |
-[A,3/2^C3/2] B,/ A,2 [E,//A,//-] A,7/4 ^G, A, |
-[^F,2A,2] z2 z2 F, A, |
+E4 A// z7/4 [E//^F//-] F3/4 z |
+[^F//A//] z23/4 F A |
+[E4A4] [E2A2] E [^F//A//-] A3/4 |
+[^F2A2] z3 c B A |
+[A3/2^c3/2] B/ A2 [E//A//-] A7/4 ^G A |
+[^F2A2] z2 z2 F A |
 % Bar 80 (2:43)
-z4 [E,//A,//] z7/4 ^F, z |
-z4 z ^F- F2 |
-E4 [E,//A,//] z7/4 [E,^F,] A, |
-[^F,//A,//-] A,3/4 C B, A, ^C C A, C/ z/ |
-^C// z15/4 [E,//A,//] z7/4 [E,^F,] F, |
-[^F,//-A,//] F,7/4 z2 C C ^C E/ z/ |
-[E,//-E//] E,15/4 A,// z7/4 [E,//^F,//-] F,3/4 [F,/-A,/-] [F,//-A,//-E//] [F,//A,//] |
-[^F,4A,4E4] C C A,2 |
-A,4 [E,//A,//-] A,7/4 ^F, z |
+z4 [E//A//] z7/4 ^F z |
+z4 z ^f- f2 |
+e4 [E//A//] z7/4 [E^F] A |
+[^F//A//-] A3/4 c B A ^c c A c/ z/ |
+^c// z15/4 [E//A//] z7/4 [E^F] F |
+[^F//-A//] F7/4 z2 c c ^c e/ z/ |
+[E//-e//] E15/4 A// z7/4 [E//^F//-] F3/4 [F/-A/-] [F//-A//-e//] [F//A//] |
+[^F4A4e4] c c A2 |
+A4 [E//A//-] A7/4 ^F z |
 z8 |
 % Bar 90 (3:04)
 z8 |
 z8 |]
 
 
-X: 14
-T: Ac Dc - Highway to hell (3:05) - Flute
-%%part-name Flute
-M: 4/4
-Q: 116
-K: C maj
-
-+fff+ z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-% Bar 10 (0:18)
-z8 |
-z ^F,- F, A, C ^C z2 |
-z2 z3/4 A,// z A,2 z2 |
-z2 ^F, A, A, F, A, F, |
-C A, G, A,- A,2 z2 |
-z ^F, ^G, A, C C z2 |
-z2 ^F, A, C2 z2 |
-z2 C C C C C A, |
-B, A,- A, z A,// z15/4 |
-z2 E ^C3/4- [A,//-C//] A,3/4 z// A,- A, z |
-% Bar 20 (0:39)
-z2 G, A, C2 z2 |
-z2 C2 C C B, A, |
-B, z z A,// z3/4 ^G, z z2 |
-z2 E C E2 z2 |
-z C A, C- C2 z2 |
-z4 C// z3/4 C B, A, |
-B, B,- B, D,- D,2 z2 |
-z4 z ^F, A, F, |
-z4 [E,//A,//] z7/4 E, [^F,//A,//-] A,3/4 |
-[^F,2A,2] z2 z2 F, A, |
-% Bar 30 (0:59)
-[E,4A,4] [E,2A,2] [E,^F,] [F,A,] |
-[^F,2A,2] z2 z4 |
-[E,4A,4] [E,2A,2] [E,^F,] [F,A,] |
-[^F,2A,2] z3 C B, A, |
-[E,4A,4] [E,2A,2] [D,^F,] A, |
-A,2 z2 z4 |
-z8 |
-z ^F, A,2 C2 ^C2 |
-z2 A, ^F, C C z2 |
-z2 A,2 A, ^F, A, A, |
-% Bar 40 (1:20)
-z2 C A, G, A,- A, z |
-z C- C A, C2 z2 |
-z ^F, A, C C2 z2 |
-z2 E2 C z A,// z3/4 ^G, |
-A,2 A, ^G, A,2 z2 |
-C ^C E E- E z z2 |
-z2 ^F, A, C2 z2 |
-z4 C C B, A, |
-z C A,2 ^C2 z2 |
-z ^C- C z E// z15/4 |
-% Bar 50 (1:41)
-z2 C ^C E2 z2 |
-z2 ^C// z7/4 C// z7/4 B, A, |
-B, B,- B, G,/ ^F,/ E,4 |
-z4 z ^F, A, F, |
-E,4 A,// z7/4 [E,//^F,//-] F,3/4 [F,A,] |
-[^F,2A,2] z2 z2 F, A, |
-z4 [E,//A,//] z7/4 [E,^F,] [F,A,] |
-[^F,2A,2] z2 z4 |
-E,4 A,// z7/4 [E,//^F,//-] F,3/4 A, |
-[^F,//A,//-] A,7/4 z3 D B, A, |
-% Bar 60 (2:02)
-A,4 [E,//A,//-] A,7/4 [D,^F,] z |
-A,// z23/4 A,2 |
-A,4 z4 |
-z4 C// z7/4 C2 |
-z8 |
-z D- D z ^D2 z2 |
-z8 |
-z8 |
-z8 |
-z8 |
-% Bar 70 (2:22)
-z8 |
-z8 |
-z8 |
-z8 |
-E,4 A,// z7/4 [E,//^F,//-] F,3/4 z |
-[^F,//A,//] z23/4 F, A, |
-[E,4A,4] [E,2A,2] E, [^F,//A,//-] A,3/4 |
-[^F,2A,2] z3 C B, A, |
-[A,3/2^C3/2] B,/ A,2 [E,//A,//-] A,7/4 ^G, A, |
-[^F,2A,2] z2 z2 F, A, |
-% Bar 80 (2:43)
-z4 [E,//A,//] z7/4 ^F, z |
-z4 z ^F- F2 |
-E4 [E,//A,//] z7/4 [E,^F,] A, |
-[^F,//A,//-] A,3/4 C B, A, ^C C A, C/ z/ |
-^C// z15/4 [E,//A,//] z7/4 [E,^F,] F, |
-[^F,//-A,//] F,7/4 z2 C C ^C E/ z/ |
-[E,//-E//] E,15/4 A,// z7/4 [E,//^F,//-] F,3/4 [F,/-A,/-] [F,//-A,//-E//] [F,//A,//] |
-[^F,4A,4E4] C C A,2 |
-A,4 [E,//A,//-] A,7/4 ^F, z |
-z8 |
-% Bar 90 (3:04)
-z8 |
-z8 |]
-
-
-X: 8
-T: Ac Dc - Highway to hell (3:05) - Drums
-%%part-name Drums
+X: 5
+T: Drums 5 - [Ac Dc - Highway to hell] (3:05)
+%%part-name 5/5
 M: 4/4
 Q: 116
 K: C maj
