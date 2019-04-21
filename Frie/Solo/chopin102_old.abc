@@ -1,0 +1,458 @@
+%  chopin_etude_op10_no3
+%  conversion by morganfey
+%  http://fefeconv.mirar.org/?filter_user=morganfey&view=all
+%  12 May 12:45
+%  using Firefern's ABC converter
+%  
+%  Artist: 
+%  Mood: unknown
+%  
+%  Playing multipart files:
+%    /play <filename> <part> sync
+%  example:
+%  pippin does:  /play weargreen 2 sync
+%  samwise does: /play weargreen 3 sync
+%  pippin does:  /playstart
+%  
+%  If you want to play a solo piece, skip the sync and it will start without /playstart.
+%  
+%  
+%  Recommended solo or ensemble configurations (instrument/file):
+%  duo: lute/chopin_etude_op10_no3:1 - harp/chopin_etude_op10_no3:2
+%  
+
+X:1
+T: lute: chopin_etude_op10_no3 [lute] May 12 (1:14)
+Z: Transcribed by Firefern's ABC sequencer
+%  Transcribed for Lord of the Rings Online playing
+%  Transpose: 0 (0 octaves)
+%  Tempo factor: 100%
+L: 1/4
+K: C
+Q: 1/4=200
+z4 z7/2
++f+ =C2
+z/2
+=F2
+z/2
+E
+z/4
+=F
+z/4
+=G5/4-
+[=C=G-]
+=G/4-
+[^A,=G-]
+=G/4-
+[=C=G-]
+=G5/4
+z/4
+=A
+z/4
+[=C,-^A,-=A]
++mp+ [=C,/4-^A,/4-]
++f+ [=C,^A,=G]
+z/4
+=A5/4-
+[=C=A-]
+=A/4-
+[=A,=A-]
+=A/4-
+[=C=A-]
+=A5/4
+z/4
+^A
+z/4
+[=G,-=C-E-^A]
++mp+ [=G,/4-=C/4-E/4-]
++f+ [=G,3/4=C3/4E3/4=A3/4-]
+=A/4
+z/4
+=d5/4-
+[=F=d]
+z/4
++mp+ ^A
+z/4
++f+ =c
+z/4
+^A
+z/4
+=A
+z/4
+E
+z/4
+=F
+z/4
+=G5/4-
+[=C=G-]
+=G/4-
+[^A,=G-]
+=G/4-
+[=C=G-]
+=G5/4
+z/4
+=A
+z/4
+[=C,-^A,-E-=A]
++mp+ [=C,/4-^A,/4-E/4-]
++f+ [=C,3/4^A,3/4E3/4=G3/4-]
+=G/4
+z/4
+=F5/4-
+[=C=F-]
+=F/4-
+[=A,=F-]
+=F/4-
+[=C/4-=F/4]
++mp+ =C3/4
+z/4
++f+ =A
+z/4
+^A
+z/4
+[E=G]
+z/4
+[=F=A]
+z/4
+^A
+z/4
+=c
+z/4
+[=F=A]
+z/4
+[=G^A]
+z/4
+[^A5/4-=d5/4-]
+[=F3/4-^A3/4=d3/4]
++mp+ =F/4
+z/4
++f+ [=D=G-]
+=G/4-
+[^A,=G-]
+=G3/2-
+[^A,/4-=C/4-=G/4]
++mp+ [^A,-=C-]
++f+ [^A,3/4=C3/4=A3/4-]
+=A/4
+z/4
+=G
+z/4
+=G2
+z/2
+=A
+z/4
+=G
+z/4
+=c15/2-
+[=C2=c2-]
+=c/2-
+[=F2=c2-]
+=c/2-
+[E=c-]
+=c/4-
+[=F=c-]
+=c/4-
+[=G-=c]
+=G/4-
+[=C=G-]
+=G/4-
+[^A,=G-]
+=G/4-
+[=C=G-]
+=G5/4
+z/4
+=A
+z/4
+[=C,-^A,-=A]
++mp+ [=C,/4-^A,/4-]
++f+ [=C,^A,=G]
+z/4
+=A5/4-
+[=C=A-]
+=A/4-
+[=A,=A-]
+=A/4-
+[=C=A-]
+=A5/4
+z/4
+^A
+z/4
+[=G,-=C-E-^A]
++mp+ [=G,/4-=C/4-E/4-]
++f+ [=G,3/4=C3/4E3/4=A3/4-]
+=A/4
+z/4
+=d5/4-
+[=F=d]
+z/4
++mp+ ^A
+z/4
++f+ =c
+z/4
+^A
+z/4
+=A
+z/4
+E
+z/4
+=F
+z/4
+=G5/4-
+[=C=G-]
+=G/4-
+[^A,=G-]
+=G/4-
+[=C=G-]
+=G5/4
+z/4
+=A
+z/4
+[=C,-^A,-E-=A]
++mp+ [=C,/4-^A,/4-E/4-]
++f+ [=C,3/4^A,3/4E3/4=G3/4-]
+=G/4
+z/4
+=F5/4-
+[=C=F-]
+=F/4-
+[=A,=F-]
+=F/4-
+[=C/4-=F/4]
++mp+ =C3/4
+z/4
++f+ =c
+z/4
+=d
+z/4
++ff+ =d
+z/4
+=c
+z/4
+^A
+z/4
+=c
+z/4
+=A
+z/4
+^A
+z/4
+e
+z/4
+=f
+z/4
+=f
+z/4
+e
+z/4
+=d
+z/4
+e
+z/4
+^c
+z/4
++fff+ =d
+z/4
+=F
+z/4
+=G
+z/4
+E
+z/4
+=F
+z/4
+=G
+z/4
+=A
+z/4
+=F
+z/4
+=G
+z/4
+=A25/4-
+[=C=A-]
+=A/4-
+[=A,=A-]
+=A/4-
+[=C=A-]
+=A5/4
+z/4
++ff+ =G
+z/4
+[=A,-=C-=F]
++mf+ [=A,/4-=C/4-]
++ff+ [=A,3/4=C3/4=D3/4-]
+=D/4
+z/4
++f+ E5/4-
+[=G,E-]
+E/4-
+[^A,E-]
+E/4-
+[=G,/4-E/4]
++mp+ =G,3/4
+z/4
++f+ =F
+z/4
+E
+z/4
+[=F,-=A,-=D]
+[=F,/4-=A,/4]
+[=F,3/4=A,3/4]
+z/2
+=C5/2-
+[=C9/4=c9/4-]
++mp+ =c/4-
++f+ [=D=c-]
++mp+ =c/4-
++f+ [=C/4-=c/4]
+=C3/4
+z/4
+^A,
+z/4
+=F,
+z/4
+=A,5/4-
+[=A,-=c]
+=A,/4-
+[=A,-=f]
+=A,/4-
+[=A,/4=c/4-]
++mp+ =c3/4
+z3/2
++f+ =G5/4
+z/4
+[=F,-^A,-=F]
++mp+ [=F,/4-^A,/4-]
++f+ [=F,3/4^A,3/4^C3/4-]
+^C/2
+z/4
+=A3/2-
+[=C5/4=A5/4-]
+=A/4-
+[=F,5/4=A,5/4=A5/4-]
+=A/4-
+[=C5/4=A5/4-]
+=A3/2
+z/2
+=G5/4
+z/4
+[=F,3/2-=A,3/2-=F3/2]
++mp+ [=F,/4-=A,/4-]
++f+ [=F,=A,=C-]
+=C/4
+z/2
+[=A,47/4=C47/4=F47/4]
+
+
+X:2
+T: harp: chopin_etude_op10_no3 [harp] May 12 (1:14)
+Z: Transcribed by Firefern's ABC sequencer
+%  Transcribed for Lord of the Rings Online playing
+%  Transpose: 0 (0 octaves)
+%  Tempo factor: 100%
+L: 1/4
+K: C
+Q: 1/4=200
+z4 z4 z2
++f+ [=F,4=A4]
+z
+[=C4^A4]
+z
+=C19/4
+z/4
+=F,4
+z
+=F,4
+z
+^A,4
+z
+=F,4
+z
+[=C4^A4]
+z
+=C4
+z
+[=F,4=A4]
+z
+[=F,4=c4^d4]
+z
+[^A,4=d4=g4]
+z
+^A,9/4
+z/4
+^A,2
+z/2
+=C4
+z
+[=D2B2=f2]
+z3
+[=C/4-=G/4^A/4-e/4=g/4-]
+[=C39/4-^A39/4-=g39/4-]
+[=F,4=C4-=A4^A4-=g4-]
+[=C^A=g-]
+[=C-^A-=g]
+[=C3^A3]
+z
+=C19/4
+z/4
+=F,4
+z
+=F,4
+z
+^A,4
+z
+=F,4
+z
+[=C4^A4]
+z
+=C4
+z
+[=F,4=A4]
+z
+[=F,5/2-^d5/2-=f5/2]
+[=F,9/4^A,9/4-=d9/4-^d9/4=f9/4]
+[^A,5/2=d5/2]
+z11/4
+[^c4=g4]
+z
+[=d4=f4=a4]
+z
+[=DB]
+z/4
+[=DB]
+z/4
+[=DB]
+z/4
+[=DB]
+z/4
+[^CB]
+z/4
+[^CB]
+z/4
+[^CB]
+z/4
+[^CB]
+z/4
++fff+ [=C19/2=A19/2=c19/2]
+z/2
++ff+ =F,4
+z
++f+ =C4
+z
+=D4
+z
+[E4=A4]
+z
+[^A,4^A4]
+z
+[=F,4=F4]
+z
+^C17/4
+z5/4
+=C19/4
+z5/4
+=C21/4
+z3/2
+[=F,47/4=C47/4=F47/4]
+
+

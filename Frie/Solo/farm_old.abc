@@ -1,0 +1,37 @@
+X:1
+T:Farm Buy Final Fantasy VII (Bagpipe/flute & Lute)
+M:3/4
+L:1/8
+Q:113
+K:Eb
+ 
+[B,B] [Dc] [Fd] [De] [FB] D | [A,a] C [Eg] [Cf] [Ee] C | [E,d] B, [Ge] B, G [B,g] | [E,f] [B,e] [Gd] [B,f] [Ge] B, |
+ [B,B] [Dc] [Fd] [De] [FB] D | [A,a] C [Eg] [Cf] [Ee] C | [E,d] B, [Ge] B, G B, | E, B, G B, G B, |
+ 
+[E,2e2] [B,2E2G2e2] [B,2E2G2f2] | [_D,2g2] [B,2E2G2e2] [B,EG] B | [A,2a2] [C2E2A2g2] [G,2e2] | [F,2f2] [CE=A] f [CE=Ae] f |
+ [E,2g2] [B,2E2G2a2] [G,2b2] | [C,2e2] [CEG] e [CEGf] g | [F,2f2] [C2F2A2g2] [G,a] A, | [B,2d2] [FA] d [F,c] d |
+ [E,2e2] [B,2E2G2e2] [B,2E2G2f2] | [_D,2g2] [B,EG] g [B,EGe] B | [A,2c2] [CEA] e [G,2e2] | [F,2f2] [CE=A] f [CE=Ae] f |
+ [E,2g2] [B,2E2G2e2] [G,2B2] | [A,2c2] [CEA] c [B,AB] c | [E,2e2] [B,2E2G2] [B,2E2G2] | E,2 [B,2E2G2] [B,2E2G2] |
+ [E,2b2] [B,2E2G2g2] [B,2E2G2e2] | [_D,2_d2] [B,2E2G2c'2] [B,EG] b | [A,2a2] [C2E2A2] [C2E2A2] | A,2 [C2E2A2] G,2 |
+ 
+[F,2a2] [_C2E2A2e2] [_C2E2A2_c2] | [B,2B2] [D2F2A2b2] [DFA] f | [E,2a2] [B,2E2G2g2] [B,EG] f | [E,2g2] [B,2E2G2] [B,2E2G2] |
+ [Cg] E [Gc] [Ef] [Gcg] [Ec'] | [G,b] D [GBg] D [GB] [Df] | [Cg] E [Gcg] E [Gcf] [Eg] | [G,b] D [GBg] D [GB] D |
+ [A,a] E [Ac] [Ea] [Acg] [Ef] | [=A,g] E [=Ac] [Eg] [=Acf] [Eg] | [B,b] E [Ac] E [Ac] E | B, D [FB] D [FB] D |
+ [E,2e2] [B,2E2G2e2] [B,2E2G2f2] | [_D,2g2] [B,EG] g [B,EGe] B | [A,2c2] [CEA] e [G,2e2] | [F,2f2] [CE=A] f [CE=Ae] f |
+ [E,2g2] [B,2E2G2e2] [G,2B2] | [A,2c2] [CEA] c [B,AB] c | [E,2e2] [B,2E2G2] [B,2E2G2] | E,2 [B,2E2G2] [B,2E2G2] |
+ 
+%repeat
+ [B,B] [Dc] [Fd] [De] [FB] D | [A,a] C [Eg] [Cf] [Ee] C | [E,d] B, [Ge] B, G [B,g] | [E,f] [B,e] [Gd] [B,f] [Ge] B, |
+ [B,B] [Dc] [Fd] [De] [FB] D | [A,a] C [Eg] [Cf] [Ee] C | [E,d] B, [Ge] B, G B, | E, B, G B, G B, |
+ 
+[E,2e2] [B,2E2G2e2] [B,2E2G2f2] | [_D,2g2] [B,2E2G2e2] [B,EG] B | [A,2a2] [C2E2A2g2] [G,2e2] | [F,2f2] [CE=A] f [CE=Ae] f |
+ [E,2g2] [B,2E2G2a2] [G,2b2] | [C,2e2] [CEG] e [CEGf] g | [F,2f2] [C2F2A2g2] [G,a] A, | [B,2d2] [FA] d [F,c] d |
+ [E,2e2] [B,2E2G2e2] [B,2E2G2f2] | [_D,2g2] [B,EG] g [B,EGe] B | [A,2c2] [CEA] e [G,2e2] | [F,2f2] [CE=A] f [CE=Ae] f |
+ [E,2g2] [B,2E2G2e2] [G,2B2] | [A,2c2] [CEA] c [B,AB] c | [E,2e2] [B,2E2G2] [B,2E2G2] | E,2 [B,2E2G2] [B,2E2G2] |
+ [E,2b2] [B,2E2G2g2] [B,2E2G2e2] | [_D,2_d2] [B,2E2G2c'2] [B,EG] b | [A,2a2] [C2E2A2] [C2E2A2] | A,2 [C2E2A2] G,2 |
+ 
+[F,2a2] [_C2E2A2e2] [_C2E2A2_c2] | [B,2B2] [D2F2A2b2] [DFA] f | [E,2a2] [B,2E2G2g2] [B,EG] f | [E,2g2] [B,2E2G2] [B,2E2G2] |
+ [Cg] E [Gc] [Ef] [Gcg] [Ec'] | [G,b] D [GBg] D [GB] [Df] | [Cg] E [Gcg] E [Gcf] [Eg] | [G,b] D [GBg] D [GB] D |
+ [A,a] E [Ac] [Ea] [Acg] [Ef] | [=A,g] E [=Ac] [Eg] [=Acf] [Eg] | [B,b] E [Ac] E [Ac] E | B, D [FB] D [FB] D |
+ [E,2e2] [B,2E2G2e2] [B,2E2G2f2] | [_D,2g2] [B,EG] g [B,EGe] B | [A,2c2] [CEA] e [G,2e2] | [F,2f2] [CE=A] f [CE=Ae] f |
+ [E,2g2] [B,2E2G2e2] [G,2B2] | [A,2c2] [CEA] c [B,AB] c | [E,2e2] [B,2E2G2] [B,2E2G2] | B,/4 E/4 G/4 |

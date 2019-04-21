@@ -1,0 +1,149 @@
+%abc-2.1
+%%song-title       Pokemon HeartGoldSoulSilver - Title Screen
+%%song-duration    1:15
+%%abc-creator Maestro v2.3.0
+%%abc-version 2.1
+
+X: 5
+T: Clarinet 5 - [Pokemon HeartGoldSoulSilver - Title Screen] (1:15)
+%%part-name Clarinet
+M: 4/4
+Q: 148
+K: C maj
+
++f+ [G,DGB] z/ [G,/D/A/] [G,D-G-] [D-G-] [D-G-] +mp+ [G,/D/-G/-] [G,/D/G/] +f+ [G,2D2] |
+[F,A,C] z/ [A,/D/] [F,A,-E-] [A,-E-] [A,-E-] +mp+ [F,/A,/-E/-] [F,/A,/E/] +f+ [F,A,-C-] [A,C] |
+[G,B,] z/ [G,/C/] [G,2-B,2-D2-] [G,B,-D-] +mp+ [G,/B,/-D/-] [G,/B,/D/] +mf+ [G,B,] A,/ B,/ |
+[F,A,C] z/ [A,/D/] [F,A,-E-] [A,E] [^D,-^A,-^D] [D,/-A,/-^C/] [D,/A,/D/] [F,-=C-F] [F,/-C/-D/] [F,/C/F/] |
+[D,G,G-] G- +mp+ [D,G,G] +mf+ B D- +mp+ [D,/G,/D/-] [D,/G,/D/-] +mf+ [D,G,D-] D |
+[C,F,] z [C,F,] z F- [C,/F,/F/-] [C,/F,/F/-] +f+ [C,F,F] +mf+ E/ ^D/ |
++f+ [D,G,] z +mf+ [D,G,] ^D/ E/ F- +mp+ [D,/G,/F/-] [D,/G,/F/-] [D,G,F] +mf+ E/ [=D/^D/E/] |
+[D,/-G,/-D/-^F/G/-] [D,/G,/D/G/] z +f+ [D,G,DG] z +mf+ [F,/=F/c/] +mp+ [F,Fc] [F,/F/c/] [F,/F/c/] [F,Fc] [^F,/^C/^F/] |
++mf+ [D,G,G-] G- +mp+ [D,G,G] +mf+ B D- +mp+ [D,/G,/D/-] [D,/G,/D/-] +mf+ [D,G,D-] D |
+% Bar 10 (0:14)
+[C,F,] z [C,F,] z c- [C,/F,/c/] [C,/F,/B/-] +f+ [C,/-F,/-B/] +mf+ [C,/F,/c/-] c |
++f+ [^D,^A,D-] D- +mf+ [D,A,D-] D [D-^A-] +mp+ [D,/A,/D/A/] +mf+ [D,/A,/D/-=A/-] [D,/-A,/D/-A/] [D,/A,/-D/-F/-] [A,DF] |
+[^D,^D-^A-] [D-A-] +mp+ [^A,D-A-] [DA] +f+ [F,3/2F3/2c3/2] [F,FB] [F,3/2F3/2c3/2] |
++fff+ [D,G,D-G-] [D-G-] +f+ [D,G,DG] [GB] [D,D-G-] +mf+ [D,/G,/D/-G/-] [D,/G,/D/-G/-] +f+ [D,G,D-G-] [DG] |
+[C,F,] z [C,F,] C, z [C,/-F,/-F/c/] [C,/F,/] [C,/-F,/-E/B/] [C,/F,/^D/^A/] z/ [=D/-G/-] |
++ff+ [^D,^A,D-G-] [D-G-] +f+ [D,A,D-G-] [A,/-D/-^D/G/-] [A,/=D/-E/G/-] [D-F-G-] +mf+ [D,/A,/D/-F/-G/-] [D,/A,/D/-F/-G/-] [D,A,D-FG-] +f+ [D/-E/G/-] [D/^D/G/] |
++ff+ [^D,G,-^A,D-] [G,-D-] +f+ [D,G,-A,D-] [G,D] [F,/F/-c/-] +mf+ [F,Fc] +f+ [F,/F/-B/-] +mf+ [F,/F/B/] +f+ [F,F-c-] [^F,/F/c/] |
++ff+ [D,G,D-G-] [D-G-] +f+ [D,G,DG] [D,DB] +ff+ [D-G-] +mf+ [D,/G,/D/-G/-] [D,/G,/D/-G/-] +f+ [D,G,D-G-] [DG] |
++ff+ [C,F,] z +f+ [C,F,] C, +ff+ [F-c-] +f+ [C,/-F,/-F/c/] [C,/F,/E/-B/-] [C,/-F,/-E/B/] [C,/F,/F/-c/-] [Fc] |
++ff+ [C,G,G-c-] [G-c-] +f+ [C,G,Gc] [D,E^A] +ff+ [G/-c/-]
+	%%Q: 147
+	[G74/147-c74/147-] +mf+ [C,74/147G,74/147G74/147-c74/147-]
+	%%Q: 146
+	[C,37/73G,37/73G37/73-c37/73-] +f+ [C,74/73G,74/73G74/73-c74/73-]
+	%%Q: 145
+	[G148/145c148/145] |
+% Bar 20 (0:30)
+%%Q: 148
++ff+ C, z +f+ F, z +ff+ [C,/-F,/-F/-A/-c/-]
+	%%Q: 147
+	[C,148/147-F,148/147-F148/147-A148/147-c148/147-]
+	%%Q: 146
+	[C,111/73-F,111/73-F111/73-A111/73-c111/73-]
+	%%Q: 145
+	[C,148/145F,148/145F148/145A148/145c148/145] |
+%%Q: 148
++mf+ [^A,3-D3F3^A3] [A,-FA] [A,/-F/-A/-]
+	%%Q: 147
+	[A,74/147-F74/147-A74/147-]
+	%%Q: 146
+	[A,37/73-F37/73-A37/73-]
+	%%Q: 145
+	[A,74/145F74/145-A74/145-]
+	%%Q: 144
+	+mp+ [F,37/36-F37/36-A37/36-]
+	%%Q: 143
+	[F,74/143-F74/143-A74/143-]
+	%%Q: 142
+	[F,37/71F37/71A37/71] |
++mf+ [^A,37/71-D37/71F37/71^A37/71-]
+	%%Q: 148
+	[A,/C/E/A/-] [A,/-D/A/-] [A,/-C/E/A/-] [A,2-D2F2A2] [A,2D2F2A2] [B,2^D2^F2B2] |
+[C,3-E3G3c3] [C,-Gc] [C,/-G/-c/-]
+	%%Q: 147
+	[C,74/147-G74/147-c74/147-]
+	%%Q: 146
+	[C,37/73-G37/73-c37/73-]
+	%%Q: 145
+	[C,74/145G74/145-c74/145-]
+	%%Q: 144
+	+mp+ [G,37/36-G37/36-c37/36-]
+	%%Q: 143
+	[G,74/143-G74/143-c74/143-]
+	%%Q: 142
+	[G,37/71G37/71c37/71] |
++mf+ [C,37/71-E37/71-G37/71]
+	%%Q: 148
+	[C,/-D/E/F/] [C,/-C/E/-] [C,/-D/E/F/] [C,2-E2G2] [C,2E2G2c2] [^C,2^C2F2^G2] |
+[D,/D/A/] +mp+ A/ ^F/ D/ [A,/A/] F/ D/ A/ +mf+ [D,/D/]
+	%%Q: 147
+	+mp+ A74/147
+	%%Q: 146
+	D37/73
+	%%Q: 145
+	F74/145
+	%%Q: 144
+	[A,37/72A37/72] F37/72
+	%%Q: 143
+	D74/143
+	%%Q: 142
+	A37/71 |
++mf+ [D,37/71A37/71]
+	%%Q: 148
+	+mp+ ^G/ A/ B/ [A,/^C/] D/ E/ ^F/ +mf+ [C,3/2E3/2=G3/2c3/2] [C,EGc] [^C,3/2C3/2=F3/2^G3/2] |
+[D,/D/A/] +mp+ ^F/ D/ F/ [A,/D/] A/ F/ D/ +mf+ [D,/A/]
+	%%Q: 147
+	+mp+ F74/147
+	%%Q: 146
+	D37/73
+	%%Q: 145
+	F74/145
+	%%Q: 144
+	[A,37/72A37/72] F37/72
+	%%Q: 143
+	D74/143
+	%%Q: 142
+	A37/71 |
++mf+ [D,37/71A37/71]
+	%%Q: 148
+	+mp+ ^G/ A/ B/ [A,/^C/] D/ E/ ^F/ +mf+ [C,3/2E3/2=G3/2c3/2] [C,EGc] [^C,3/2C3/2=F3/2^G3/2] |
+[D,/D/A/] +mp+ A/ ^F/ A/ [A,/F/] D/ A/ +mf+ F/ [D,/D/]
+	%%Q: 147
+	A74/147
+	%%Q: 146
+	D37/73
+	%%Q: 145
+	F74/145
+	%%Q: 144
+	[A,37/72A37/72] F37/72
+	%%Q: 143
+	D74/143
+	%%Q: 142
+	A37/71 |
+% Bar 30 (0:47)
++f+ [D,37/71A37/71]
+	%%Q: 148
+	+mf+ ^G/ A/ B/ [A,/^C/] D/ +f+ E/ ^F/ [C,3/2E3/2=G3/2c3/2] [C,EGc] +mf+ [A,3/2C3/2E3/2A3/2] |
++mp+ [G,B-] +p+ [A,B-] [DB-] [G5B5] |
++mp+ [F,A-] +p+ [A,A-] [DA-] [G-A] +mp+ [F3G3-] +p+ [E/G/-] [^D/G/] |
++mp+ [D-E] +p+ [DG] D- [DG] +mp+ G4 |
+[^DF-] +p+ [F-G] [F-c] [F^F-] +mp+ [F4A4] |
+[DG-] +p+ [G-A] [DG] G5 |
++mp+ [^DF-] +p+ [F-G] [FB] F +mp+ F3- +p+ [E/F/-] [D/F/] |
++mp+ [D-E] +p+ [DG] D- [DG-] +mp+ [B,4G4] |
+[C-D] +p+ [C-A] [C-c] [CG-] +mp+ [G3-A3] +p+ [F/G/-] [G/A/] |
++mp+ [B,-G] +p+ [B,-A] [B,-D] [B,3G3-] [^A,/G/-] [=A,G-] [^G,/G/] |
+% Bar 40 (1:03)
++mp+ [G,-B,] +p+ [G,-A] [G,-D] [G,5G5] |
++mp+ G,3 [G,-B,] [G,2-B,2-D2-] +p+ [G,/-B,/-D/-G/B/] [G,-B,-D-GB] [G,/B,/D/G/B/] |
++mp+ [F,4-B4-] [F,3-C3F3B3-] [F,/-^A,/E/B/-] [F,/=A,/^D/B/] |
+[E,6-G,6-G6] +p+ [E,/-G,/-D/G/] [E,-G,-DG] [E,/G,/D/G/] |
++mp+ [^D,4-C4-G4] +p+ [D,2-C2G2] +mf+ [D,3/2D3/2-A3/2-] [D/A/] |
++fff+ [G,DGB] z +ff+ [G,DGB] z2 +mf+ [G,/D/G/B/] [G,/D/G/B/] [G,DGB] z |
++f+ [G,DGB] z [G,2D2G2B2] +mf+ [F,/F/A/c/] [F,FAc] [F,/F/A/c/] [F,/F/A/c/] +f+ [F,FAc] [^F,/^C/^F/^A/] |
+[G,DGB] z/ +mf+ [D/E/] [G,/-D/-^F/G/-B/-] [G,/D/G/B/] z5 |]
+

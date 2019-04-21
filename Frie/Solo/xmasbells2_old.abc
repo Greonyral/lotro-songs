@@ -1,0 +1,252 @@
+%abc-2.1
+%%song-title       Carol of the Bells
+%%song-duration    1:46
+%%song-transcriber Morganfey
+%%abc-creator Maestro v2.0.0
+%%abc-version 2.1
+
+X: 1
+T: <Carol of the Bells> 1/5 [Harp] (1:46) 12-14-14
+%%part-name Harp
+Z: Morganfey
+M: 3/4
+Q: 170
+K: C maj
+
++mf+ a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+[^f2-a2] [f-^g] [fa] f2 |
+[e2-a2] [e-^g] [e-a] [e2^f2] |
+[d2-a2] [d-^g] [d-a] [d2^f2] |
+[^c2-a2] [c-^g] [c-a] [c2^f2] |
+[d2-^f2-a2] [d-f-^g] [d-fa] [d2f2] |
+% Bar 10 (0:09)
+[^c2-e2-a2] [c-e-^g] [c-e-a] [c2e2^f2] |
+[B2-d2-a2] [B-d-^g] [B-d-a] [B2d2^f2] |
+[^F2-^c2-a2] [F-c-^g] [F-c-a] [F2c2^f2] |
+[D2B2^f2a2] [DBf^g] [DBfa] [D2B2f2] |
+[^F2^c2^f2a2] [Fcf^g] [Fcfa] [F2c2f2] |
+[B2d2^f2a2] [Bdf^g] [Bdfa] [B2d2f2] |
+[^F2^c2^f2a2] [Fcf^g] [Fcfa] [F2c2f2] |
+[^F2^c2a2] [Fc^gb] [Fca] [F2c2^f2a2] |
+[^F2^c2^d2a2] [Fd^gb] [Fcda] [F2d2^f2a2] |
+[^F2^c2e2a2] [Fd^gb] [Fcda] [F2c2^f2a2] |
+% Bar 20 (0:20)
+[^F-^c-^fa-] +p+ [Fcea] +mf+ [Fd^gb] [Fcda] [F2c2f2a2] |
+[A2^c2^f2] [^Gdf] [Adf] [^Fcef-] [FBdf] |
+[A2^c2^f2] [^Gcf] [Acf] [^Fcf-b] [Fcfa] |
+[A2d2^f2b2] [^Gdfb] [Adfb] [^F^cef-] [Fdfb] |
+[A2^c2^f2] [^Gcf] [Acf] [^Fcf] [Fcf] |
+[^C-A-^c-] [C-Ac-^d] [C-^Gc-f] [C-Ac-^f] [C-^F-c-^g] [CFca] |
+[^C-A-^d-b] [C-A^cd] [C-^Gf-b-] +p+ [C-Afb] +mf+ [C2^F2^f2a2] |
+[^C-A-^c-] [C-Ac-^d] [C-^Gc-f] [C-Ac-^f] [C-^F-c-^g] [CFca] |
+[^C-A-^d-b] [C-A^cd] [C-^Gf-b-] +p+ [C-Afb] +mf+ [C2^F2^f2a2] |
+[E2-^F2-^c2-a2] [E-F-c-^g] [E-F-c-a] [E2F2c2^f2] |
+% Bar 30 (0:30)
+[D2-^F2-^c2-a2] [D-F-c-^g] [D-F-c-a] [D2F2c2^f2] |
+[^C2-^F2-e2-a2] [C-F-e-^g] [C-F-e-a] [C2F2e2^f2] |
+[B,2-^F2-d2-a2] [B,-F-d-^g] [B,-F-d-a] [B,2F2d2^f2] |
+[^F,2-^F2-^c2-a2] [F,-F-c-^g] [F,-F-c-a] [F,2F2c2^f2] |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+[^f2-a2] [f-^g] [fa] f2 |
+[e2-a2] [e-^g] [e-a] [e2^f2] |
+[d2-a2] [d-^g] [d-a] [d2^f2] |
+% Bar 40 (0:41)
+[^c2-a2] [c-^g] [c-a] [c2^f2] |
+[d2-^f2-a2] [d-f-^g] [d-fa] [d2f2] |
+[^c2-e2-a2] [c-e-^g] [c-e-a] [c2e2^f2] |
+[B2-d2-a2] [B-d-^g] [B-d-a] [B2d2^f2] |
+[^F2-^c2-a2] [F-c-^g] [F-c-a] [F2c2^f2] |
+[D2B2^f2a2] [DBf^g] [DBfa] [D2B2f2] |
+[^F2^c2^f2a2] [Fcf^g] [Fcfa] [F2c2f2] |
+[B2d2^f2a2] [Bdf^g] [Bdfa] [B2d2f2] |
+[^F2^c2^f2a2] [Fcf^g] [Fcfa] [F2c2f2] |
+[^F2^c2a2] [Fc^gb] [Fca] [F2c2^f2a2] |
+% Bar 50 (0:51)
+[^F2^c2^d2a2] [Fd^gb] [Fcda] [F2d2^f2a2] |
+[^F2^c2e2a2] [Fd^gb] [Fcda] [F2c2^f2a2] |
+[^F-^c-^fa-] +p+ [Fcea] +mf+ [Fd^gb] [Fcda] [F2c2f2a2] |
+[A2^c2^f2] [^Gdf] [Adf] [^Fcef-] [FBdf] |
+[A2^c2^f2] [^Gcf] [Acf] [^Fcf-b] [Fcfa] |
+[A2d2^f2b2] [^Gdfb] [Adfb] [^F^cef-] [Fdfb] |
+[A2^c2^f2] [^Gcf] [Acf] [^Fcf] [Fcf] |
+[^C-A-^c-] [C-Ac-^d] [C-^Gc-f] [C-Ac-^f] [C-^F-c-^g] [CFca] |
+[^C-A-^d-b] [C-A^cd] [C-^Gf-b-] +p+ [C-Afb] +mf+ [C2^F2^f2a2] |
+[^C-A-^c-] [C-Ac-^d] [C-^Gc-f] [C-Ac-^f] [C-^F-c-^g] [CFca] |
+% Bar 60 (1:02)
+[^C-A-^d-b] [C-A^cd] [C-^Gf-b-] +p+ [C-Afb] +mf+ [C2^F2^f2a2] |
+[E2-^F2-^c2-a2] [E-F-c-^g] [E-F-c-a] [E2F2c2^f2] |
+[D2-^F2-^c2-a2] [D-F-c-^g] [D-F-c-a] [D2F2c2^f2] |
+[^C2-^F2-e2-a2] [C-F-e-^g] [C-F-e-a] [C2F2e2^f2] |
+[B,2-^F2-d2-a2] [B,-F-d-^g] [B,-F-d-a] [B,2F2d2^f2] |
+[^F,2-^F2-^c2-a2] [F,-F-c-^g] [F,-F-c-a] [F,2F2c2^f2] |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+[^f2-a2] [f-^g] [fa] f2 |
+% Bar 70 (1:13)
+[e2-a2] [e-^g] [e-a] [e2^f2] |
+[d2-a2] [d-^g] [d-a] [d2^f2] |
+[^c2-a2] [c-^g] [c-a] [c2^f2] |
+[d2-^f2-a2] [d-f-^g] [d-fa] [d2f2] |
+[^c2-e2-a2] [c-e-^g] [c-e-a] [c2e2^f2] |
+[B2-d2-a2] [B-d-^g] [B-d-a] [B2d2^f2] |
+[^F2-^c2-a2] [F-c-^g] [F-c-a] [F2c2^f2] |
+[D2B2^f2a2] [DBf^g] [DBfa] [D2B2f2] |
+[^F2^c2^f2a2] [Fcf^g] [Fcfa] [F2c2f2] |
+[B2d2^f2a2] [Bdf^g] [Bdfa] [B2d2f2] |
+% Bar 80 (1:23)
+[^F2^c2^f2a2] [Fcf^g] [Fcfa] [F2c2f2] |
+[^F2^c2a2] [Fc^gb] [Fca] [F2c2^f2a2] |
+[^F2^c2^d2a2] [Fd^gb] [Fcda] [F2d2^f2a2] |
+[^F2^c2e2a2] [Fd^gb] [Fcda] [F2c2^f2a2] |
+[^F-^c-^fa-] +p+ [Fcea] +mf+ [Fd^gb] [Fcda] [F2c2f2a2] |
+[A2^c2^f2] [^Gdf] [Adf] [^Fcef-] [FBdf] |
+[A2^c2^f2] [^Gcf] [Acf] [^Fcf-b] [Fcfa] |
+[A2d2^f2b2] [^Gdfb] [Adfb] [^F^cef-] [Fdfb] |
+[A2^c2^f2] [^Gcf] [Acf] [^Fcf] [Fcf] |
+[^C-A-^c-] [C-Ac-^d] [C-^Gc-f] [C-Ac-^f] [C-^F-c-^g] [CFca] |
+% Bar 90 (1:34)
+[^C-A-^d-b] [C-A^cd] [C-^Gf-b-] +p+ [C-Afb] +mf+ [C2^F2^f2a2] |
+[^C-A-^c-] [C-Ac-^d] [C-^Gc-f] [C-Ac-^f] [C-^F-c-^g] [CFca] |
+[^C-A-^d-b] [C-A^cd] [C-^Gf-b-] +p+ [C-Afb] +mf+ [C2^F2^f2a2] |
+[E2-^F2-^c2-a2] [E-F-c-^g] [E-F-c-a] [E2F2c2^f2] |
+[D2-^F2-^c2-a2] [D-F-c-^g] [D-F-c-a] [D2F2c2^f2] |
+[^C2-^F2-e2-a2] [C-F-e-^g] [C-F-e-a] [C2F2e2^f2] |
+[B,2-^F2-d2-a2] [B,-F-d-^g] [B,-F-d-a] [B,2F2d2^f2] |
+[^F,2-A2^c2-^f2-] +p+ [F,-^Gc-f-] [F,-Ac-f-] [F,2^F2c2f2] |
++mf+ [^F,2-A2^c2-^f2-] +p+ [F,-^Gc-f-] [F,-Ac-f-] [F,2^F2c2f2] |
++mf+ [^F,2-A2^c2-^f2-] +p+ [F,-^Gc-f-] [F,-Ac-f-] [F,2^F2-c2f2] |
+% Bar 100 (1:44)
++mf+ [^F2-A2^c2] [F-^Gb] [FAc] [F2-^f2-] |
++mp+ [^F,4-^F4-^f4-] [F,-F-f] [F,-F-] |
+[^F,4-^F4] F,2- |
+^F,4 z2 |]
+
+
+X: 2
+T: <Carol of the Bells> 2/5 [Lute] (1:46) 12-14-14
+%%part-name Lute
+Z: Morganfey
+M: 3/4
+Q: 170
+K: C maj
+
++pp+ a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+% Bar 10 (0:09)
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+% Bar 20 (0:20)
+a2 ^g a ^f2 |
+^f2 f f e d |
+^c2 c c b a |
+b2 b b ^c b |
+^f2 f f f f |
+^c ^d f ^f ^g a |
+b ^c b2 a2 |
+^c ^d f ^f ^g a |
+b ^c b2 a2 |
+a2 ^g a ^f2 |
+% Bar 30 (0:30)
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+% Bar 40 (0:41)
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+% Bar 50 (0:51)
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+^f2 f f e d |
+^c2 c c b a |
+b2 b b ^c b |
+^f2 f f f f |
+^c ^d f ^f ^g a |
+b ^c b2 a2 |
+^c ^d f ^f ^g a |
+% Bar 60 (1:02)
+b ^c b2 a2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+% Bar 70 (1:13)
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+% Bar 80 (1:23)
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+^f2 f f e d |
+^c2 c c b a |
+b2 b b ^c b |
+^f2 f f f f |
+^c ^d f ^f ^g a |
+% Bar 90 (1:34)
+b ^c b2 a2 |
+^c ^d f ^f ^g a |
+b ^c b2 a2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+a2 ^g a ^f2 |
+^f6 |
+^f6 |
+^f6 |
+% Bar 100 (1:44)
+^c2 b c ^f2- |
+^f4- f z |
+z6 |
+z6 |]
+

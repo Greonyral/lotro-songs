@@ -1,0 +1,935 @@
+%abc-2.1
+%%song-title       The Night Before-Beatles
+%%song-duration    2:58
+%%song-transcriber Morganfey
+%%abc-creator Maestro v2.0.0
+%%abc-version 2.1
+
+
+
+X: 1
+T: <The Night Before-'65-Beatles> 1/7 [Harp] (2:58) 9-17-14
+%%part-name Harp
+Z: Morganfey
+M: 4/4
+Q: 143
+K: C maj
+
++mf+ z8 |
+z2 [DAd^f] z2 [DAdf] z2 |
+[DAd^f] z2 [DAdf] z4 |
+z2 [F,CFAcf] z2 [F,CFAcf] z2 |
+[F,CFAcf] z2 [F,CFAcf] z4 |
+z2 [G,DFBdg] z2 [G,DFBdg] z2 |
+[G,DFBdg] z2 [G,DFBdg] z4 |
+z2 [A,EG^cea] z2 [A,EGcea] z2 |
+[A,EG^cea] z2 [A,EGcea] z4 |
+% Bar 10 (0:15)
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [CGce] z2 [CGce] z2 |
+z2 [G,DGBdg] z2 [G,DGBdg] z2 |
+z2 [A,EA^cea] z2 [A,EAcea] z2 |
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [CGce] z2 [CGce] z2 |
+z2 [G,DGBdg] z2 [G,DGBdg] z2 |
+z2 [A,EA^cea] z2 [A,EAcea] z2 |
+z2 [B,^FBd^fb] z2 [B,FBdfb] z2 |
+[G,3D3G3^A3e3g3] [G,5D5G5A5e5g5] |
+% Bar 20 (0:31)
+z2 [B,^FBd^fb] z2 [B,FBdfb] z2 |
+[G,3D3G3^A3e3g3] [G,5D5G5A5e5g5] |
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [G,DFBdg] z2 [G,DFBdg] z2 |
+z2 [DAd^f] z2 [DAdf] z2 |
+[F3c3f3a3] [F3c3f3a3] [G2d2g2b2] |
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [CGce] z2 [CGce] z2 |
+z2 [G,DGBdg] z2 [G,DGBdg] z2 |
+z2 [A,EA^cea] z2 [A,EAcea] z2 |
+% Bar 30 (0:48)
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [CGce] z2 [CGce] z2 |
+z2 [G,DGBdg] z2 [G,DGBdg] z2 |
+z2 [A,EA^cea] z2 [A,EAcea] z2 |
+z2 [B,^FBd^fb] z2 [B,FBdfb] z2 |
+[G,3D3G3^A3e3g3] [G,5D5G5A5e5g5] |
+z2 [B,^FBd^fb] z2 [B,FBdfb] z2 |
+[G,3D3G3^A3e3g3] [G,5D5G5A5e5g5] |
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [G,DFBdg] z2 [G,DFBdg] z2 |
+% Bar 40 (1:05)
+z2 [DAd^f] z2 [DAdf] z2 |
+[DAd^f] z2 [DAdf] z [DAdf] z2 |
+z2 [A,EAcea] z2 [A,EAcea] z2 |
+z2 [DAc^fa] z2 [DAcfa] z2 |
+z2 [G,DGBdg] z2 [Gce] z2 |
+z2 [G,DGBdg] z2 [G,DGBdg] z2 |
+z2 [B,^FBd^fb] z2 [B,FBdfb] z2 |
+z2 [EBd^gb] z2 [EBdgb] z2 |
+z2 [A,EG^cea] z2 [A,EGcea] z2 |
+z2 [A,EG^cea] z2 [A,EGcea] z2 |
+% Bar 50 (1:22)
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [CGce] z2 [CGce] z2 |
+z2 [G,DGBdg] z2 [G,DGBdg] z2 |
+z2 [A,EA^cea] z2 [A,EAcea] z2 |
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [CGce] z2 [CGce] z2 |
+z2 [G,DGBdg] z2 [G,DGBdg] z2 |
+z2 [A,EA^cea] z2 [A,EAcea] z2 |
+z2 [B,^FBd^fb] z2 [B,FBdfb] z2 |
+[G,3D3G3^A3e3g3] [G,5D5G5A5e5g5] |
+% Bar 60 (1:39)
+z2 [B,^FBd^fb] z2 [B,FBdfb] z2 |
+[G,3D3G3^A3e3g3] [G,5D5G5A5e5g5] |
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [G,DFBdg] z2 [G,DFBdg] z2 |
+z2 [DAd^f] z2 [DAdf] z2 |
+[F3c3f3a3] [F3c3f3a3] [G2d2g2b2] |
+z2 +fff+ [D/-A/-d/^f/-c'/] [D/A/d/f/] d2 [DAdfc'] a z |
+z2 +mf+ [CGce] +fff+ g/ a/ g- +mf+ [CGceg] +fff+ f z |
+z a [G,DGBdc'] d e [G,DGBdg] c' z |
+z2 +mf+ [A,EA^cea] +fff+ g f- +mf+ [A,EAcef] +fff+ d z |
+% Bar 70 (1:55)
+z2 [D/-A/-d/^f/-c'/] [D/A/d/f/] d2 [DAdfc'] a z |
+z2 +mf+ [CGce] +fff+ g/ a/ g- +mf+ [CGceg] +fff+ f z |
+z a [G,DGBdc'] d e [G,DGBdg] c' z |
+z2 +mf+ [A,EA^cea] +fff+ g f- +mf+ [A,EAcef] +fff+ d z |
+z2 +mf+ [B,^FBd^fb] z2 [B,FBdfb] z2 |
+[G,3D3G3^A3e3g3] [G,5D5G5A5e5g5] |
+z2 [B,^FBd^fb] z2 [B,FBdfb] z2 |
+[G,3D3G3^A3e3g3] [G,5D5G5A5e5g5] |
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [G,DFBdg] z2 [G,DFBdg] z2 |
+% Bar 80 (2:12)
+z2 [DAd^f] z2 [DAdf] z2 |
+[DAd^f] z2 [DAdf] z [DAdf] z2 |
+z2 [A,EAcea] z2 [A,EAcea] z2 |
+z2 [DAc^fa] z2 [DAcfa] z2 |
+z2 [G,DGBdg] z2 [Gce] z2 |
+z2 [G,DGBdg] z2 [G,DGBdg] z2 |
+z2 [B,^FBd^fb] z2 [B,FBdfb] z2 |
+z2 [EBd^gb] z2 [EBdgb] z2 |
+z2 [A,EG^cea] z2 [A,EGcea] z2 |
+z2 [A,EG^cea] z2 [A,EGcea] z2 |
+% Bar 90 (2:29)
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [CGce] z2 [CGce] z2 |
+z2 [G,DGBdg] z2 [G,DGBdg] z2 |
+z2 [A,EA^cea] z2 [A,EAcea] z2 |
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [CGce] z2 [CGce] z2 |
+z2 [G,DGBdg] z2 [G,DGBdg] z2 |
+z2 [A,EA^cea] z2 [A,EAcea] z2 |
+z2 [B,^FBd^fb] z2 [B,FBdfb] z2 |
+[G,3D3G3^A3e3g3] [G,5D5G5A5e5g5] |
+% Bar 100 (2:46)
+z2 [B,^FBd^fb] z2 [B,FBdfb] z2 |
+[G,3D3G3^A3e3g3] [G,5D5G5A5e5g5] |
+z2 [DAd^f] z2 [DAdf] z2 |
+z2 [G,DFBdg] z2 [G,DFBdg] z2 |
+z2 [DAd^f] z2 [DAdf] z2 |
+[F3c3f3a3] [F3c3f3a3] [F2c2f2a2] |
+z2 +fff+ [D/-A/-d/^f/-c'/] [D/A/d/f/] d c' [DAdfa] =f/ g/ f |
+[D2A2d2-^f2] [z2d2-] [z4d4-] |
+[z8d8-] |
+[z8d8] |
+% Bar 110 (3:02)
+z8 |]
+
+
+
+
+X: 2
+T: <The Night Before-'65-Beatles> 2/7 [Flute] (2:58) 9-17-14
+%%part-name Flute
+Z: Morganfey
+M: 4/4
+Q: 143
+K: C maj
+
++ffff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:15)
+D2 D D3 F2 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,2-A,2-D2] [F,-A,-D] [F,A,D-] D2 F2 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,2-B,2-D2] [F,-B,^C] [F,3-B,3-] [F,2B,2D2] |
+[G,6-^A,6-E6] [G,2A,2] |
+% Bar 20 (0:31)
+[^F,-B,-^F] [F,2-B,2-E2] [F,3-B,3-D3] [F,-B,-F] [F,B,G-] |
+[G,6^A,6G6] z2 |
+F2 E D3 F G- |
+G F D D3 D D- |
+D6 z D |
+z8 |
+D2 D2 D F3 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+% Bar 30 (0:48)
+[^F,-A,-D] [F,3A,3D3] D F3 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,-B,-D] [F,2-B,2^C2] [F,2-B,2-] [F,2-B,2-D2] [F,B,E-] |
+[G,6-^A,6-E6] [G,2A,2] |
+[^F,-B,-^F] [F,2-B,2-E2] [F,3-B,3-D3] [F,2B,2F2] |
+[G,6^A,6G6] z2 |
+F2 E D3 F G- |
+G F D D3 D D- |
+% Bar 40 (1:05)
+D6 z D |
+z8 |
+D2 C2 E ^D2 =D- |
+D C2 E2 ^D3 |
+D2 D2 z2 C [B,-D-] |
+[B,4D4] z4 |
+D B,2 E2 B,2 D- |
+D2 B, E3 z B, |
+^C2 C2 D E2 A- |
+A6 z2 |
+% Bar 50 (1:22)
+D2 D D3 F2 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,2-A,2-D2] [F,-A,-D] [F,A,D-] D2 F2 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,2-B,2-D2] [F,-B,^C] [F,3-B,3-] [F,2B,2D2] |
+[G,6-^A,6-E6] [G,2A,2] |
+% Bar 60 (1:39)
+[^F,-B,-^F] [F,2-B,2-E2] [F,3-B,3-D3] [F,-B,-F] [F,B,G-] |
+[G,6^A,6G6] z2 |
+F2 E D3 F G- |
+G F D D3 D D- |
+D4- D A,2 F, |
+z6 D2 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:55)
+z8 |
+z8 |
+z8 |
+z8 |
+[^F,-B,-D] [F,2-B,2^C2] [F,2-B,2-] [F,2-B,2-D2] [F,B,E-] |
+[G,6-^A,6-E6] [G,2A,2] |
+[^F,-B,-^F] [F,2-B,2-E2] [F,3-B,3-D3] [F,2B,2F2] |
+[G,6^A,6G6] z2 |
+F2 E D3 F G- |
+G F D D3 D D- |
+% Bar 80 (2:12)
+D6 z D |
+z8 |
+D2 C2 E ^D2 =D- |
+D C2 E2 ^D3 |
+D2 D2 z2 C [B,-D-] |
+[B,4D4] z4 |
+D B,2 E3 B, D- |
+D2 B, E3 z B, |
+^C2 C2 D E2 A- |
+A6 z2 |
+% Bar 90 (2:29)
+D2 D2 D F3 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,-A,-D] [F,3A,3D3] D F3 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,-B,-D] [F,3-B,3^C3] [F,-B,-] [F,2-B,2-D2] [F,B,E-] |
+[G,6-^A,6-E6] [G,2A,2] |
+% Bar 100 (2:46)
+[^F,-B,-^F] [F,2-B,2-E2] [F,3-B,3-D3] [F,2B,2F2] |
+[G,6^A,6G6] z2 |
+F2 E D3 F G- |
+G F D D3 D D- |
+D6 z2 |
+z2 D C D D2 D- |
+D8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (3:02)
+z8 |]
+
+
+
+
+X: 3
+T: <The Night Before-'65-Beatles> 3/7 [Flute] (2:58) 9-17-14
+%%part-name Flute
+Z: Morganfey
+M: 4/4
+Q: 143
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:15)
+D2 D D3 F2 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,2-A,2-D2] [F,-A,-D] [F,A,D-] D2 F2 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,2-D2] [F,-^C] [F,3-B,3] [F,2D2] |
+[G,6-^A,6-E6] [G,2A,2] |
+% Bar 20 (0:31)
+[^F,-B,-^F] [F,2-B,2-E2] [F,3-B,3-D3] [F,-B,-F] [F,B,G-] |
+[G,6^A,6G6] z2 |
+F2 E D3 F G- |
+G F D D3 D D- |
+D6 z D |
+z8 |
+D2 D2 D F3 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+% Bar 30 (0:48)
+[^F,-A,-D] [F,3A,3D3] D F3 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,-D] [F,2-^C2] [F,2-B,2] [F,2-D2] [F,E-] |
+[G,6-^A,6-E6] [G,2A,2] |
+[^F,-B,-^F] [F,2-B,2-E2] [F,3-B,3-D3] [F,2B,2F2] |
+[G,6^A,6G6] z2 |
+F2 E D3 F G- |
+G F D D3 D D- |
+% Bar 40 (1:05)
+D6 z D |
+z8 |
+D2 C2 E ^D2 =D- |
+D C2 E2 ^D3 |
+D2 D2 z2 C [B,-D-] |
+[B,4D4] z4 |
+D B,2 E2 B,2 D- |
+D2 B, E3 z B, |
+^C2 C2 D E2 A- |
+A6 z2 |
+% Bar 50 (1:22)
+D2 D D3 F2 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,2-A,2-D2] [F,-A,-D] [F,A,D-] D2 F2 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,2-D2] [F,-^C] [F,3-B,3] [F,2D2] |
+[G,6-^A,6-E6] [G,2A,2] |
+% Bar 60 (1:39)
+[^F,-B,-^F] [F,2-B,2-E2] [F,3-B,3-D3] [F,-B,-F] [F,B,G-] |
+[G,6^A,6G6] z2 |
+F2 E D3 F G- |
+G F D D3 D D- |
+D4- D A,2 F, |
+z6 D2 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:55)
+z8 |
+z8 |
+z8 |
+z8 |
+[^F,-D] [F,2-^C2] [F,2-B,2] [F,2-D2] [F,E-] |
+[G,6-^A,6-E6] [G,2A,2] |
+[^F,-B,-^F] [F,2-B,2-E2] [F,3-B,3-D3] [F,2B,2F2] |
+[G,6^A,6G6] z2 |
+F2 E D3 F G- |
+G F D D3 D D- |
+% Bar 80 (2:12)
+D6 z D |
+z8 |
+D2 C2 E ^D2 =D- |
+D C2 E2 ^D3 |
+D2 D2 z2 C [B,-D-] |
+[B,4D4] z4 |
+D B,2 E3 B, D- |
+D2 B, E3 z B, |
+^C2 C2 D E2 A- |
+A6 z2 |
+% Bar 90 (2:29)
+D2 D2 D F3 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,-A,-D] [F,3A,3D3] D F3 |
+G4 F E2 D- |
+[G,6B,6D6] [G,2B,2] |
+[A,2^C2] [A,C] [A,5C5] |
+[^F,-D] [F,3-^C3] [F,-B,] [F,2-D2] [F,E-] |
+[G,6-^A,6-E6] [G,2A,2] |
+% Bar 100 (2:46)
+[^F,-B,-^F] [F,2-B,2-E2] [F,3-B,3-D3] [F,2B,2F2] |
+[G,6^A,6G6] z2 |
+F2 E D3 F G- |
+G F D D3 D D- |
+D6 z2 |
+z2 D C D D2 D- |
+D8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (3:02)
+z8 |]
+
+
+
+
+X: 4
+T: <The Night Before-'65-Beatles> 4/7 [Lute] (2:58) 9-17-14
+%%part-name Lute
+Z: Morganfey
+M: 4/4
+Q: 143
+K: C maj
+
++f+ z8 |
+z2 [d3^f3a3] [d3f3a3] |
+[d3^f3a3] [d2f2a2] [dfa] [dfa] [dfa] |
+z2 [A3c3f3] [A3c3f3] |
+[A3c3f3] [A2c2f2] [Acf] [Acf] [Acf] |
+z2 [B3d3f3g3] [B3d3f3g3] |
+[B3d3f3g3] [B2d2f2g2] [Bdfg] [Bdfg] [Bdfg] |
+z2 [^c3e3g3] [c3e3g3] |
+[^c2e2g2] [c3e3g3] [c2e2g2] [ceg] |
+% Bar 10 (0:15)
+z2 [d3^f3a3] [d2f2a2] [dfa] |
+z2 [c3e3g3] [c2e2g2] [ceg] |
+z2 [B3d3g3] [B2d2g2] [Bdg] |
+[^c2e2a2] [cea] [c2e2a2] [c2e2a2] [cea] |
+z2 [d3^f3a3] [d2f2a2] [dfa] |
+z2 [c3e3g3] [c2e2g2] [ceg] |
+z2 [B3d3g3] [B2d2g2] [Bdg] |
+[^c2e2a2] [cea] [c2e2a2] [c2e2a2] [cea] |
+z2 [B3d3^f3] [B3d3f3] |
+[^A3d3e3g3] [A2d2e2g2] [A2d2e2g2] [Adeg] |
+% Bar 20 (0:31)
+z2 [B3d3^f3] [B3d3f3] |
+[^A3d3e3g3] [A2d2e2g2] [A2d2e2g2] [Adeg] |
+z2 [A3d3^f3] [A2d2f2] [Adf] |
+z2 [B3d3f3g3] [B2d2f2g2] [Bdfg] |
+z2 [A3d3^f3] [A2d2f2] [Adf] |
+[A3c3f3] [A3c3f3] [B2d2g2] |
+z2 [d3^f3a3] [d2f2a2] [dfa] |
+z2 [c3e3g3] [c2e2g2] [ceg] |
+z2 [B3d3g3] [B2d2g2] [Bdg] |
+[^c2e2a2] [cea] [c2e2a2] [c2e2a2] [cea] |
+% Bar 30 (0:48)
+z2 [d3^f3a3] [d2f2a2] [dfa] |
+z2 [c3e3g3] [c2e2g2] [ceg] |
+z2 [B3d3g3] [B2d2g2] [Bdg] |
+[^c2e2a2] [cea] [c2e2a2] [c2e2a2] [cea] |
+z2 [B3d3^f3] [B3d3f3] |
+[^A3d3e3g3] [A2d2e2g2] [A2d2e2g2] [Adeg] |
+z2 [B3d3^f3] [B3d3f3] |
+[^A3d3e3g3] [A2d2e2g2] [A2d2e2g2] [Adeg] |
+z2 [A3d3^f3] [A2d2f2] [Adf] |
+z2 [B3d3f3g3] [B2d2f2g2] [Bdfg] |
+% Bar 40 (1:05)
+z2 [A3d3^f3] [A2d2f2] [Adf] |
+[A3d3^f3] [A2d2f2] [Adf] [A2d2f2] |
+z2 [A3c3e3] [A2c2e2] [Ace] |
+z2 [A3c3^f3] [A2c2f2] [Acf] |
+z2 [G3B3d3] [G3c3e3] |
+[G2B2d2] [GBd] [G2B2d2] [GBd] [G2B2d2] |
+z2 [B3d3^f3] [B2d2f2] [Bdf] |
+z2 [B3d3e3^g3] [B2d2e2g2] [Bdeg] |
+z2 [^c2e2g2] [ceg] [c3e3g3] |
+[^c2e2g2] [c2e2g2] [ceg] [c2e2g2] [ceg] |
+% Bar 50 (1:22)
+z2 [d3^f3a3] [d2f2a2] [dfa] |
+z2 [c3e3g3] [c2e2g2] [ceg] |
+z2 [B3d3g3] [B2d2g2] [Bdg] |
+z2 [^cea] [c2e2a2] [c2e2a2] [cea] |
+z2 [d3^f3a3] [d2f2a2] [dfa] |
+z2 [c3e3g3] [c2e2g2] [ceg] |
+z2 [B3d3g3] [B2d2g2] [Bdg] |
+z2 [^cea] [c2e2a2] [c2e2a2] [cea] |
+z2 [B3d3^f3] [B3d3f3] |
+[^A3d3e3g3] [A2d2e2g2] [A2d2e2g2] [Adeg] |
+% Bar 60 (1:39)
+z2 [B3d3^f3] [B3d3f3] |
+[^A3d3e3g3] [A2d2e2g2] [A2d2e2g2] [Adeg] |
+z2 [A3d3^f3] [A2d2f2] [Adf] |
+z2 [B3d3f3g3] [B2d2f2g2] [Bdfg] |
+z2 [A3d3^f3] [A2d2f2] [Adf] |
+[A3c3f3] [A3c3f3] [B2d2g2] |
+z2 +fff+ [c/d/^f/-a/-] [d/f/-a/-] [d2f2a2] [cd-g-b-] [Ad-g-b-] [dgb] |
+z2 +f+ [c-e-g-] +fff+ [G/c/-e/-g/-] [A/c/-e/-g/-] [G-ceg] +f+ [Gc-f-a-] +fff+ [Fc-f-a-] [cfa] |
+z A [B-cdg-] [B-d-g-] [Bdeg] [cde-g-] [c2e2g2] |
++f+ [^c2e2a2] [c-f-a-] +fff+ [Gc-f-a-] [F-cfa] +f+ [Fd-^f-a-] +fff+ [Dd-f-a-] [dfa] |
+% Bar 70 (1:55)
+z2 [c/d/^f/-a/-] [d/f/-a/-] [d2f2a2] [cd-g-b-] [Ad-g-b-] [dgb] |
+z2 +f+ [c-e-g-] +fff+ [G/c/-e/-g/-] [A/c/-e/-g/-] [G-ceg] +f+ [Gc-f-a-] +fff+ [Fc-f-a-] [cfa] |
+z A [B-cdg-] [B-d-g-] [Bdeg] [cde-g-] [c2e2g2] |
++f+ [^c2e2a2] [c-f-a-] +fff+ [Gc-f-a-] [F-cfa] +f+ [Fd-^f-a-] +fff+ [Dd-f-a-] [dfa] |
+z2 +f+ [B3d3^f3] [B3d3f3] |
+[^A3d3e3g3] [A2d2e2g2] [A2d2e2g2] [Adeg] |
+z2 [B3d3^f3] [B3d3f3] |
+[^A3d3e3g3] [A2d2e2g2] [A2d2e2g2] [Adeg] |
+z2 [A3d3^f3] [A2d2f2] [Adf] |
+z2 [B3d3f3g3] [B2d2f2g2] [Bdfg] |
+% Bar 80 (2:12)
+z2 [A3d3^f3] [A2d2f2] [Adf] |
+[A3d3^f3] [A2d2f2] [Adf] [A2d2f2] |
+z2 [Ace] [Ace] [Ace] [Ace] [Ace] [Ace] |
+z2 [Ac^f] [Acf] [Acf] [Acf] [Acf] [Acf] |
+z2 [G3B3d3] [G3B3d3] |
+[G3B3d3] [G2B2d2] [GBd] [G2B2d2] |
+z2 [B3d3^f3] [B2d2f2] [Bdf] |
+z2 [B3d3e3^g3] [B2d2e2g2] [Bdeg] |
+z2 [^c2e2g2] [ceg] [c3e3g3] |
+[^ceg] [c2e2g2] [c2e2g2] [ceg] [ceg] [ceg] |
+% Bar 90 (2:29)
+z2 [d3^f3a3] [d2f2a2] [dfa] |
+z2 [c3e3g3] [c2e2g2] [ceg] |
+z2 [B3d3g3] [B2d2g2] [Bdg] |
+z2 [^cea] [c2e2a2] [c2e2a2] [cea] |
+z2 [d3^f3a3] [d2f2a2] [dfa] |
+z2 [c3e3g3] [c2e2g2] [ceg] |
+z2 [B3d3g3] [B2d2g2] [Bdg] |
+z2 [^cea] [c2e2a2] [c2e2a2] [cea] |
+z2 [B3d3^f3] [B3d3f3] |
+[^A3d3e3g3] [A2d2e2g2] [A2d2e2g2] [Adeg] |
+% Bar 100 (2:46)
+z2 [B3d3^f3] [B3d3f3] |
+[^A3d3e3g3] [A2d2e2g2] [A2d2e2g2] [Adeg] |
+z2 [A3d3^f3] [A2d2f2] [Adf] |
+z2 [B3d3f3g3] [B2d2f2g2] [Bdfg] |
+z2 [A3d3^f3] [A2d2f2] [Adf] |
+z2 [A3c3f3] [A2c2f2] [Acf] |
+z2 +fff+ [A/-c/-^f/-] [A/-c/-d/f/-] [A-cdf-] [Acf] [A-c-f-] [F/A/-c/-f/-] [G/A/-c/-f/-] [FAcf] |
+[D2-A2d2^f2] [z2D2-] [z4D4-] |
+[z8D8-] |
+[z8D8] |
+% Bar 110 (3:02)
+z8 |]
+
+
+
+
+X: 5
+T: <The Night Before-'65-Beatles> 5/7 [Theorbo] (2:58) 9-17-14
+%%part-name Theorbo
+Z: Morganfey
+M: 4/4
+Q: 143
+K: C maj
+
++f+ z4 z3 ^C |
+D4 A,3 ^C |
+D3 D A,3 E |
+F3 F C3 E |
+F3 F C3 ^F |
+G3 G D3 ^F |
+G3 G D3 ^G |
+A3 A E3 ^G |
+A3 A E4 |
+% Bar 10 (0:15)
+D3 D A,2 z2 |
+C3 C G,2 z2 |
+G,3 G, D2 z2 |
+A,3 A, E2 z2 |
+D3 D A,2 z2 |
+C3 C G,2 z2 |
+G,3 G, D2 z2 |
+A,3 A, E2 z2 |
+B,3 B, ^F,2 z2 |
+G,3 G, D2 z2 |
+% Bar 20 (0:31)
+B,3 B, ^F,2 z2 |
+G,3 G, D2 z2 |
+D3 D A,2 z2 |
+G,3 G, D2 z2 |
+D3 D A,2 z2 |
+F3 F3 G2 |
+D3 D A,2 z2 |
+C3 C G,2 z2 |
+G,3 G, D2 z2 |
+A,3 A, E2 z2 |
+% Bar 30 (0:48)
+D3 D A,2 z2 |
+C3 C G,2 z2 |
+G,3 G, D2 z2 |
+A,3 A, E2 z2 |
+B,3 B, ^F,2 z2 |
+G,3 G, D2 z2 |
+B,3 B, ^F,2 z2 |
+G,3 G, D2 z2 |
+D3 D A,2 z2 |
+G,3 G, D2 z2 |
+% Bar 40 (1:05)
+D3 D A,2 z2 |
+D3 D A,2 z2 |
+A3 A E2 z2 |
+D3 D A,2 z2 |
+G3 G D2 z2 |
+G3 G D2 z2 |
+B,3 B, ^F,2 z2 |
+E3 E B,2 z2 |
+A2 A2 A2 A2 |
+A2 A2 A A A2 |
+% Bar 50 (1:22)
+D3 D A,2 z2 |
+C3 C G,2 z2 |
+G,3 G, D2 z2 |
+A,3 A, E2 z2 |
+D3 D A,2 z2 |
+C3 C G,2 z2 |
+G,3 G, D2 z2 |
+A,3 A, E2 z2 |
+B,3 B, ^F,2 z2 |
+G,3 G, D2 z2 |
+% Bar 60 (1:39)
+B,3 B, ^F,2 z2 |
+G,3 G, D2 z2 |
+D3 D A,2 z2 |
+G,3 G, D2 G,2 |
+D3 D A,2 z2 |
+F3 F3 G2 |
+D3 D A,2 z2 |
+C3 C G,2 z2 |
+G,3 G, D2 z2 |
+A,3 A, E2 z2 |
+% Bar 70 (1:55)
+D3 D A,2 z2 |
+C3 C G,2 z2 |
+G,3 G, D2 z2 |
+A,3 A, E2 z2 |
+B,3 B, ^F,2 z2 |
+G,3 G, G,2 z2 |
+B,3 B, B,2 z2 |
+G,3 G, G,2 z2 |
+D3 D A,2 z2 |
+G,3 G, G,2 z2 |
+% Bar 80 (2:12)
+D3 D A,2 z2 |
+D3 D A,2 z2 |
+A3 A A2 z2 |
+D3 D D2 z2 |
+G3 G D2 z2 |
+G3 G D2 A,2 |
+B,3 B, ^F,2 z2 |
+E3 E B,2 z2 |
+A2 A2 A2 A2 |
+A2 A2 A A A2 |
+% Bar 90 (2:29)
+D3 D A,2 z2 |
+C3 C G,2 z2 |
+G,3 G, D2 z2 |
+A,3 A, E2 z2 |
+D3 D A,2 z2 |
+C3 C G,2 z2 |
+G,3 G, D2 z2 |
+A,3 A, E2 z2 |
+B,3 B, ^F,2 z2 |
+G,3 G, D2 z2 |
+% Bar 100 (2:46)
+B,3 B, ^F,2 z2 |
+G,3 G, D2 z2 |
+D3 D A,2 z2 |
+G3 G D2 G,2 |
+D3 D A,2 z2 |
+F3 F3 F2 |
+D3 D A,2 A,2 |
+D8- |
+D8- |
+D8 |]
+
+
+
+
+X: 6
+T: <The Night Before-'65-Beatles> 6/7 [Clarinet] (2:58) 9-17-14
+%%part-name Clarinet
+Z: Morganfey
+M: 4/4
+Q: 143
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:15)
+d2 d d3 f2 |
+g4 f e2 d- |
+[G6B6d6] [G2B2] |
+[A2^c2] [Ac] [A5c5] |
+[^F2-A2-d2] [F-A-d] [FAd-] d2 f2 |
+g4 f e2 d- |
+[G6B6d6] [G2B2] |
+[A2^c2] [Ac] [A5c5] |
+[^F2-d2] [F-^c] [F3-B3] [F2d2] |
+[G6-^A6-e6] [G2A2] |
+% Bar 20 (0:31)
+[^F-B-^f] [F2-B2-e2] [F3-B3-d3] [F-B-f] [FBg-] |
+[G6^A6g6] z2 |
+f2 e d3 f g- |
+g f d d3 d d- |
+d6 z d |
+z8 |
+d2 d2 d f3 |
+g4 f e2 d- |
+[G6B6d6] [G2B2] |
+[A2^c2] [Ac] [A5c5] |
+% Bar 30 (0:48)
+[^F-A-d] [F3A3d3] d f3 |
+g4 f e2 d- |
+[G6B6d6] [G2B2] |
+[A2^c2] [Ac] [A5c5] |
+[^F-d] [F2-^c2] [F2-B2] [F2-d2] [Fe-] |
+[G6-^A6-e6] [G2A2] |
+[^F-B-^f] [F2-B2-e2] [F3-B3-d3] [F2B2f2] |
+[G6^A6g6] z2 |
+f2 e d3 f g- |
+g f d d3 d d- |
+% Bar 40 (1:05)
+d6 z d |
+z8 |
+d2 c2 e ^d2 =d- |
+d c2 e2 ^d3 |
+d2 d2 z2 c [B-d-] |
+[B4d4] z4 |
+d B2 e2 B2 d- |
+d2 B e3 z B |
+^c2 c2 d e2 a- |
+a6 z2 |
+% Bar 50 (1:22)
+d2 d d3 f2 |
+g4 f e2 d- |
+[G6B6d6] [G2B2] |
+[A2^c2] [Ac] [A5c5] |
+[^F2-A2-d2] [F-A-d] [FAd-] d2 f2 |
+g4 f e2 d- |
+[G6B6d6] [G2B2] |
+[A2^c2] [Ac] [A5c5] |
+[^F2-d2] [F-^c] [F3-B3] [F2d2] |
+[G6-^A6-e6] [G2A2] |
+% Bar 60 (1:39)
+[^F-B-^f] [F2-B2-e2] [F3-B3-d3] [F-B-f] [FBg-] |
+[G6^A6g6] z2 |
+f2 e d3 f g- |
+g f d d3 d d- |
+d4- d A2 F |
+z6 d2 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:55)
+z8 |
+z8 |
+z8 |
+z8 |
+[^F-d] [F2-^c2] [F2-B2] [F2-d2] [Fe-] |
+[G6-^A6-e6] [G2A2] |
+[^F-B-^f] [F2-B2-e2] [F3-B3-d3] [F2B2f2] |
+[G6^A6g6] z2 |
+f2 e d3 f g- |
+g f d d3 d d- |
+% Bar 80 (2:12)
+d6 z d |
+z8 |
+d2 c2 e ^d2 =d- |
+d c2 e2 ^d3 |
+d2 d2 z2 c [B-d-] |
+[B4d4] z4 |
+d B2 e3 B d- |
+d2 B e3 z B |
+^c2 c2 d e2 a- |
+a6 z2 |
+% Bar 90 (2:29)
+d2 d2 d f3 |
+g4 f e2 d- |
+[G6B6d6] [G2B2] |
+[A2^c2] [Ac] [A5c5] |
+[^F-A-d] [F3A3d3] d f3 |
+g4 f e2 d- |
+[G6B6d6] [G2B2] |
+[A2^c2] [Ac] [A5c5] |
+[^F-d] [F3-^c3] [F-B] [F2-d2] [Fe-] |
+[G6-^A6-e6] [G2A2] |
+% Bar 100 (2:46)
+[^F-B-^f] [F2-B2-e2] [F3-B3-d3] [F2B2f2] |
+[G6^A6g6] z2 |
+f2 e d3 f g- |
+g f d d3 d d- |
+d6 z2 |
+z2 d c d d2 d- |
+d8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (3:02)
+z8 |]
+
+
+
+
+X: 7
+T: <The Night Before-'65-Beatles> 7/7 [Drums] (2:58) 9-17-14
+%%part-name Drums
+Z: Morganfey
+M: 4/4
+Q: 143
+K: C maj
+
++ff+ z8 |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ [G/B/] z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ G/ z/ [G/A/] z/ [G/B/] z/ G/ z/ |
+% Bar 10 (0:15)
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+% Bar 20 (0:31)
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+% Bar 30 (0:48)
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+% Bar 40 (1:05)
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ ^G/ z/ [F,/G/B/] z B/ |
+B/ z B/ B/ z3/2 B/ B/ B/ B/ B/ z/ B/ z/ |
+% Bar 50 (1:22)
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+% Bar 60 (1:39)
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ [G/B/] z/ |
+[A/^A/] z/ B/ z/ B/ z/ [=A/^A/] z/ B/ z/ B/ z/ [=A/^A/] z/ B/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+% Bar 70 (1:55)
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+% Bar 80 (2:12)
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ D,/ z/ [D,/F,/B/] z/ D,/ z/ |
+[^D,/^F,/^A/] z/ D,/ D,/ +fff+ [D,/F,/G,/] z/ [D,/B,/A/] z/ +ff+ [D,/F,/A/] z/ ^G/ z/ [F,/G/B/] z B/ |
+B/ z B/ B/ z3/2 B/ B/ B/ B/ B/ z/ B/ z/ |
+% Bar 90 (2:29)
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+% Bar 100 (2:46)
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[^G/^A/] z/ G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [^A,/A/] z/ [G/A/] z/ G/ z/ [A,/B/] z/ G/ z/ |
+[A/^A/] z/ ^G/ z/ [G/B/] z/ [G/A/] z/ [G/A/] z/ G/ z/ [G/B/] z/ G/ z/ |
+[A/^A/] z15/2 |
+z8 |
+z8 |
+% Bar 110 (3:02)
+z8 |]
+

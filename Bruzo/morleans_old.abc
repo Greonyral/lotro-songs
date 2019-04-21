@@ -1,0 +1,2090 @@
+%  
+%  conversion by gongster54
+%  http://fefeconv.mirar.org/?filter_user=gongster54&view=all
+%  29 May 0:57
+%  using Firefern's ABC converter
+%  
+%  Artist: 
+%  Mood: unknown
+%  
+%  Playing multipart files:
+%    /play <filename> <part> sync
+%  example:
+%  pippin does:  /play weargreen 2 sync
+%  samwise does: /play weargreen 3 sync
+%  pippin does:  /playstart
+%  
+%  If you want to play a solo piece, skip the sync and it will start without /playstart.
+%  
+%  
+%  Recommended solo or ensemble configurations (instrument/file):
+%  
+
+X:1
+T:  [horn] May 29 (4:11)
+Z: Transcribed by Firefern's ABC sequencer
+%  Transcribed for Lord of the Rings Online playing
+%  Transpose: 0 (0 octaves)
+%  Tempo factor: 100%
+L: 1/4
+K: C
+Q: 1/4=204
+z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4
++fff+ =G,2
+^A,
+^A,
+=G,5
+z3
+=G,2
+=F,
+=F,6
+z
+=G,
+^G,
+=G,
+^D,7
+z
+^D,2
+=C
+=C
+^A,8
+z2
+=F,
+=G,2
+^F,
+=G,6
+z2
+^G,
+=G,2
+=F,2
+^A,5
+z
+=G,
+^G,
+=G,
+^D,8
+^G,2
+=G,
+=G,
+=F,
+^D,7
+z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z2
+=d
+e2
+=d
+e2-
+[=de]
++mp+ e2-
+[=de]
++fff+ e2-
+[e=g]
+e2-
+[=de]
+=d2-
+[=d-=g]
+[=d2e2]
++mp+ =d
+=d-
++fff+ [=d-e]
+[=d-=f]
+[=d-e]
+[=c2-=d2]
+=c-
+[=c-e]
+[=c-=f]
+[=ce]
+=c2
+=c2-
+[=c-=d]
+[=c3e3-]
+[=c2e2-]
+[=de]
+e6
+e2-
+[^de]
+e3
++mp+ e2-
+[^de]
++fff+ e2-
+[e=f]
+e-
+[=de-]
+[=d-e]
+=d2-
+[=d-=f]
+[=de]
++mp+ =d
+=d3-
++fff+ [=d-=f]
+[=d-e]
+[=c3-=d3]
+=c-
+[=c-=f]
+[=ce]
+=c2-
+[=c2-=f2]
+[=c-e]
+[=c-e]
+[=c=d]
+=c-
+[=c2-=f2]
+[=c-e]
+[=c-e]
+[=c=d]
++mp+ =c7
+
+
+X:3
+T:  [clarinet] May 29 (4:11)
+Z: Transcribed by Firefern's ABC sequencer
+%  Transcribed for Lord of the Rings Online playing
+%  Transpose: 0 (0 octaves)
+%  Tempo factor: 100%
+L: 1/4
+K: C
+Q: 1/4=204
+z4 z4 z4
++f+ [^D16^A16]
+[^D8^A8]
++mp+ [^D,16^A,16]
+[^D,8^A,8]
++f+ [^D16^A16]
+[^D8^A8]
+z4 z4 z
+[^D16^A16]
+[^D11^A11]
+[^D16^A16]
+[^D5^A5]
+z3
+[^D16^A16]
+[^D2^A2]
+z4 z2
++ff+ [^D,2-=G,2-^A,2-=g2]
+[^D,-=G,-^A,-^a]
+[^D,9-=G,9-^A,9-=g9]
+[^D,2-=G,2-^A,2-=f2]
+[^D,-=G,-^A,-=g]
+[^D,=G,^A,^A-]
+[^D,5-=G,5-^A,5-^A5]
+[^D,3-=G,3^A,3^d3]
+[^D,8^G,8-=C8-^G8-]
+[^D,-^G,-=C-^G]
+[^D,2-^G,2-=C2-=c2]
+[^D,-^G,=C^d]
+[^D,9-=G,9-^A,9-^A9]
++mf+ [^D,2-=G,2-^A,2-]
++ff+ [^D,=G,-^A,-=f]
+[^D,2-=G,2-^A,2-=g2]
+[^D,-=G,-^A,-^a]
+[^D,-=G,^A,=g-]
+[^D,8-=G,8-^A,8-=g8]
+[^D,2-=G,2-^A,2-=f2]
+[^D,-=G,-^A,-=g]
+[^D,=G,-^A,-^A-]
+[^D,4-=G,4^A,4^A4-]
+[^D,-=G,-^A,-^A]
+[^D,3-=G,3^A,3^d3]
+[^D,6-^G,6-=C6-^G6]
+[^D,2^G,2-=C2-^g2-]
+[^D,-^G,-=C-^g]
+[^D,3-^G,3=C3=g3]
+[^D,9-=G,9-^A,9-^d9]
++mf+ [^D,3=G,3-^A,3-]
+[^D,4-=G,4^A,4]
+[^D,8=G,8^A,8-]
+[=D,8-=F,8-^A,8]
+[=D,4=F,4^A,4]
+[^D,12-^G,12=C12]
+[^D,4=G,4-^A,4-]
+[^D,12-=G,12^A,12]
+[^D,4=G,4-^A,4-]
+[^D,4=G,4^A,4-]
+[=D,8-=F,8-^A,8]
+[=D,4=F,4^A,4]
+[^D,12-^G,12=C12]
+[^D,4=G,4-^A,4-]
+[^D,8=G,8^A,8]
++ff+ [E,2-=G,2-=C2-e2]
+[E,-=G,-=C-=g]
+[E,9-=G,9-=C9-e9]
+[E,2-=G,2-=C2-=d2]
+[E,-=G,-=C-e]
+[E,=G,=C=G-]
+[E,5-=G,5-=C5-=G5]
+[E,3=G,3=C3-=c3]
+[=F,8-=A,8-=C8=F8-]
+[=F,-=A,-=C-=F]
+[=F,2-=A,2-=C2-=A2]
+[=F,=A,=C-=c]
+[E,11-=G,11-=C11-=G11]
+[E,-=G,-=C=d]
+[E,2-=G,2-=C2-e2]
+[E,-=G,-=C-=g]
+[E,=G,=C-e-]
+[E,8-=G,8-=C8-e8]
+[E,2-=G,2-=C2-=d2]
+[E,-=G,-=C-e]
+[E,-=G,-=C=G-]
+[E,4=G,4=C4-=G4-]
+[E,-=G,-=C-=G]
+[E,3=G,3=C3-=c3]
+[=F,6-=A,6-=C6-=F6]
+[=F,2-=A,2-=C2=f2-]
+[=F,-=A,-=C-=f]
+[=F,3=A,3=C3-e3]
+[E,9-=G,9-=C9-=c9]
++mf+ [E,3-=G,3-=C3]
+[E,4=G,4=C4-=G4-=c4-e4-]
+[E,8=G,8-=C8=G8=c8e8]
+[=D,8-=G,8B,8-B8-=d8-=g8-]
+[=D,4=G,4B,4B4=d4=g4]
+[=F,12=A,12=C12-=A12=c12=f12]
+[E,4-=G,4-=C4=G4-=c4-e4-]
+[E,12=G,12=C12-=G12=c12e12]
+[E,4-=G,4-=C4=G4-=c4-e4-]
+[E,4=G,4-=C4=G4=c4e4]
+[=D,8-=G,8B,8-B8-=d8-=g8-]
+[=D,4=G,4B,4B4=d4=g4]
+[=F,12=A,12=C12-=A12=c12=f12]
+[E,4-=G,4-=C4=G4-=c4-e4-]
+[E,8=G,8=C8=G8=c8e8]
++ff+ [^D,2-=G,2-=G2-^A2-^d2-]
+[^D,-=G,-=G-^A-^d-^a]
+[^D,9-=G,9-=G9-^A9-^d9-=g9]
+[^D,2-=G,2-=G2-^A2-^d2-=f2]
+[^D,-=G,-=G-^A^d-=g]
+[^D,=G,=G^A^d]
+[^D,5-=G,5-^A,5-=G5-^A5-^d5]
+[^D,3-=G,3^A,3=G3^A3^d3]
+[^D,8^G,8-=C8-^G8-=c8-^d8-]
+[^D,-^G,-=C-^G-=c^d-]
+[^D,2-^G,2-=C2-^G2-=c2-^d2]
+[^D,-^G,=C^G=c^d]
+[^D,11-=G,11-=G11-^A11-^d11-]
+[^D,=G,-=G-^A-^d-=f]
+[^D,2-=G,2-=G2-^A2-^d2-=g2]
+[^D,-=G,-=G-^A-^d-^a]
+[^D,-=G,=G^A^d]
+[^D,8-=G,8-^A,8-^A8-^d8-]
+[^D,2-=G,2-^A,2-^A2-^d2-=f2]
+[^D,-=G,-^A,-^A^d-=g]
+[^D,=G,-^A,-^A-^d-]
+[=G,4^A,4^A4^d4]
+[=G,-^A,-=G-^A-^d]
+[=G,3^A,3=G3^A3^d3]
+[=C6-^G6-=c6-^d6-]
+[=C2-^G2-=c2-^d2-^g2-]
+[^D,-=C-^G-=c-^d-^g]
+[^D,3-=C3^G3=c3^d3=g3]
+[^D,12=G,12-^A,12-=G12^A12^d12]
+[^D,2-=G,2-^A,2-^A2-^d2-]
+[^D,-=G,-^A,-^A-^d^a]
+[^D,-=G,^A,^A-^d-=g-]
+[^D,8-=G,8-^A8-^d8-=g8]
+[^D,2-=G,2-^A2-^d2-=f2^g2]
+[^D,-=G,-^A^d=g]
+[^D,=G,-^A^d]
+[^D,4-=G,4=G4-^A4-^d4-]
+[^D,-=G,-^A,-=G-^A^d]
+[^D,3-=G,3^A,3=G3^A3^d3]
+[^D,-^G,-=C-=c-^d-]
+[^D,-^G,-=C-^A=c-^d-]
+[^D,6^G,6-=C6-^G6-=c6-^d6-]
+[^G,-=C-^G=c^d-]
+[^G,2-=C2-^G2-=c2-^d2]
+[^G,=C^G=c^d]
+[=G,11-^A,11-=G11-^A11-^d11-]
+[=G,-^A,-=G-^A-^d=f]
+[=G,2-^A,2-=G2-^A2-^d2-=g2]
+[=G,-^A,-=G-^A-^d^a]
+[=G,^A,=G^A^d=g-]
+[=G,8-^A,8-^A8-^d8-=g8]
+[=G,2-^A,2-^A2-^d2-=f2^g2]
+[=G,-^A,-^A^d=g]
+[=G,5^A,5^A5^d5]
+[=G,-^A,-=G-^A^d]
+[=G,3^A,3=G3^A3^d3]
+[=C-^G-=c-^d-]
+[=C-^G^A=c-^d-]
+[=C4-^G4-=c4-^d4]
+[=C2-^G2-=c2-^d2-^g2-]
+[^D,-=C-^G-=c-^d^g]
+[^D,3-=C3^G3=c3^d3=g3]
+[^D,12=G,12-^A,12-=G12-^A12-^d12-]
+[^D,4-=G,4^A,4=G4^A4^d4]
+[^D,12=G,12-^A,12-=G12-^A12-^d12-]
+[^D,4-=G,4^A,4=G4^A4^d4]
+[^D,4-=G,4^A,4=G4^A4^d4]
++mf+ [^D,8^G,8-=C8-^G8-=c8-^d8-]
+[^D,4-^G,4=C4^G4=c4^d4]
+[^D,12=G,12-^A,12-^A12^d12=g12]
+[^D,4-=G,4^A,4]
+[^D,8-=G,8^A,8]
+[^D,4^G,4-=C4-]
+[^D,8-^G,8=C8]
+[^D,8=G,8-^A,8-]
+[^D,8-=G,8^A,8]
+[^D,8=G,8^A,8]
+[=G,12^A,12^D12]
+
+
+X:8
+T:  [theorbo] May 29 (4:11)
+Z: Transcribed by Firefern's ABC sequencer
+%  Transcribed for Lord of the Rings Online playing
+%  Transpose: 0 (0 octaves)
+%  Tempo factor: 100%
+L: 1/4
+K: C
+Q: 1/4=204
+z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4
++fff+ ^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^A,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=G,
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=F
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+=C
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^G,
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D
+^D23/2
+
+
+X:9
+T:  [drums] May 29 (4:11)
+Z: Transcribed by Firefern's ABC sequencer
+%  Transcribed for Lord of the Rings Online playing
+%  Transpose: 0 (0 octaves)
+%  Tempo factor: 100%
+L: 1/4
+K: C
+Q: 1/4=204
+z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4 z4
++fff+ ^c
+z2
+^c
+z2
+^c
+z2
+^c
+z2
+[^c^c]
+z2
+[^c^c]
+z2
+[^c^c]
+z2
+[^c^c]
+z2
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^c/2-=G/2B/2-^c/2-]
+[^c/2=G/2B/2^c/2]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^c/2-=G/2B/2-^c/2-]
+[^c/2=G/2B/2^c/2]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^c/2-=G/2B/2-^c/2-]
+[^c/2=G/2B/2^c/2]
+[=GB]
+[=GB]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^c/2-=G/2B/2-^c/2-]
+[^c/2=G/2B/2^c/2]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^c/2-=G/2B/2-^c/2-]
+[^c/2=G/2B/2^c/2]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=GB]
+[=GB]
+[^cB^c]
+[=GB]
+[=GB]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^c/2-=G/2B/2-^c/2-]
+[^c/2=G/2B/2^c/2]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^c/2-=G/2B/2-^c/2-]
+[^c/2=G/2B/2^c/2]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^c/2-=G/2B/2-^c/2-]
+[^c/2=G/2B/2^c/2]
+[=GB]
+[=GB]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^c/2-=G/2B/2-^c/2-]
+[^c/2=G/2B/2^c/2]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^c/2-=G/2B/2-^c/2-]
+[^c/2=G/2B/2^c/2]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
+[=GB]
+[=GB]
+[^cB^c]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^cB^c]
++mf+ B
+B
++fff+ [^c/2-=G/2B/2-^c/2-]
+[^c/2=G/2B/2^c/2]
+[=G/2B/2-]
+[=G/2B/2]
+[=G/2B/2-]
+[=G/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c/2-=G/2^A/2-B/2-^c/2-]
+[^c/2=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2-^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2-^A/2B/2-]
+[=G/2^A/2B/2]
+[^c/2-=G/2^A/2-B/2-^c/2-]
+[^c/2=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c/2-=G/2^A/2-B/2-^c/2-]
+[^c/2=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c/2-=G/2^A/2-B/2-^c/2-]
+[^c/2=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c/2-=G/2^A/2-B/2-^c/2-]
+[^c/2=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c/2-=G/2^A/2-B/2-^c/2-]
+[^c/2=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2-^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2-^A/2B/2-]
+[=G/2^A/2B/2]
+[^c/2-=G/2^A/2-B/2-^c/2-]
+[^c/2=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c/2-=G/2^A/2-B/2-^c/2-]
+[^c/2=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-B/2]
+[=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-=c/2]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c/2-=G/2^A/2-B/2-^c/2-]
+[^c/2=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c/2-=G/2^A/2-B/2-^c/2-]
+[^c/2=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-=c/2]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c/2-=G/2^A/2-B/2-^c/2-]
+[^c/2=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[=G/2^A/2B/2-]
+[=G/2^A/2B/2]
+[^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
++mf+ [^A/2B/2-]
+[^A/2B/2]
+[^A/2B/2-]
+[^A/2B/2]
++fff+ [^c^AB^c]
+[=G/2^A/2B/2-B/2]
+[=G/2^A/2B/2^c/2]
+[=G/2^A/2B/2-=c/2]
+[=G/2^A/2B/2]
+[^c12^c12=A12]
+
+

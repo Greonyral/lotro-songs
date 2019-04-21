@@ -1,0 +1,3459 @@
+%abc-2.1
+%%song-title       7th2
+%%song-duration    7:17
+%%abc-creator Maestro v2.0.0
+%%abc-version 2.1
+
+X: 1
+T: <7th2> 1/11[Harp] (7:17)
+%%part-name Harp
+M: 2/4
+Q: 76
+K: C maj
+
++mp+ z8 |
+z8 |
+E4 E z E z |
+E3 z E3 z |
+E3 z E z E z |
+E2- E3/2 z/ E2- E3/2 z/ |
+E2- E3/2 z/ E z [D3/2^F3/2] z/ |
+[E2-G2-] [EG-] G/ z/ [E3G3] z |
+[D2-G2-] [D3/2G3/2] z/ [CG] z [DG-] G/ z/ |
+% Bar 10 (0:14)
+[E4G4] z4 |
+G2- G3/2 z/ G z A z |
+B2- B3/2 z/ B3 z |
+^F2- F3/2 z/ F z ^G/ z3/2 |
+A2- A3/2 z/ A2- A/ z3/2 |
+E3 z E z E z |
+E3 z E2- E3/2 z/ |
+E2- E3/2 z/ [E^F] z [E^G] z |
+[E4A4] z4 |
++p+ G2- G3/2 z/ G z A z |
+% Bar 20 (0:30)
+B2- B3/2 z/ B3 z |
+^F2- F3/2 z/ F z ^G z |
+A2- A3/2 z/ A2- A/ z3/2 |
+E3 z E z E z |
+E3 z E2- E3/2 z/ |
+E2- E3/2 z/ [E^F] z [E^G] z |
+[E4A4] z4 |
++mp+ c8 |
+B4- B3 z |
+z/ B/ c/- [c/d/-] d4- [c/-d/] [B/-c/] B/ z/ |
+% Bar 30 (0:45)
+B2- [B/c/-] c3/2 z/ c2 z3/2 |
+z/ c5 z/ c d/- [d/^d/-] |
+^d2- [d/e/-] e z/ e z e z |
+d/ e/- [e/f/-] f9/2 z/ e/- [d/-e/] d/ |
+d5/2- [d/e/-] e e3 z |
+e8 |
+^d8 |
+d2- d/ B/- [B/^c/-] c/ d2 e d/ z/ |
+d2 ^c2 =c3 z |
+c15/2- [B/-c/] |
+% Bar 40 (1:01)
+B4 c2- c3/2 z/ |
+B/- [B/c/-] c/ d9/2 c B |
+A3/2 z/ A/- [A/B/-] B- [B/c/-] c/ z c d |
++p+ e8 |
+^d8 |
+d2- d/ B/- [B/^c/-] c/ d2 e d/ z/ |
+d2 ^c2 =c3 z |
+c15/2- [B/-c/] |
+B4 c2- c3/2 z/ |
+B/- [B/c/-] c/ d4- [c/-d/] c B |
+% Bar 50 (1:17)
+A4 z4 |
+z2 +mp+ A2- [A/c/-] c3/2- [E/-c/] E/ z |
+z2 ^G2 B2- [E/-B/] E/ z |
+z2 ^G2 B2- +mf+ [E/-B/] E z/ |
+z2 A2 c2 E3/2 z/ |
+z2 A2 c2- [C/-c/] C/ z |
+z2 G2 c2- [C/-c/] C/ z |
+z2 +f+ B2 d2- [G/-d/] G/ z |
+z2 G2 c2 C3/2 z/ |
+z2 c2 e2 E2 |
+% Bar 60 (1:33)
+z2 ^F2 B2 +ff+ B,2 |
+z2 B2 d2 D2 |
+z2 E2 A2 A,2 |
+z2 A2 e2 +fff+ E2 |
+z2 B2 e2 E2 |
+z2 B2 e2 E2 |
+z2 c2 e2 A2 |
+z2 c2 e2 E2 |
+z2 ^F2 B2 B,2 |
+z2 B2 d2 D2 |
+% Bar 70 (1:48)
+z2 E2 A2 A,2 |
+z2 A2 e2 E2 |
+z2 B2 e2 E2 |
+z2 B2 e2 E2 |
+z2 c2 e2 A2 |
+z3/2 A/ z/ c z/ E2- E/ z3/2 |
+z3/2 ^G/ z/ B z/ E2- E/ z3/2 |
+z3/2 ^G/ z/ B z/ E2- E/ z3/2 |
+z3/2 A/ z/ c z/ E2- E/ z3/2 |
+z3/2 A/ z/ c z/ C2- C/ z3/2 |
+% Bar 80 (2:04)
+z3/2 G/ z/ c z/ [C2-G2-] [C/G/] z3/2 |
+z3/2 B/ z/ d z/ G2- G/ z3/2 |
+z3/2 G/ z/ c z/ C2- C/ z3/2 |
+z3/2 G/ z/ c z/ C2- C/ z3/2 |
+z3/2 B/ z/ b z/ B2- B/ z3/2 |
+z3/2 B/ z/ d z/ D2- D/ z3/2 |
+z3/2 A/ z/ a z/ A2- A/ z3/2 |
+z3/2 A/ z/ c z/ E2- E/ z3/2 |
+z3/2 ^G/ z/ B z/ [E2-A2-] [E/A/] z3/2 |
+z3/2 ^G/ z/ B z/ E2- E/ z3/2 |
+% Bar 90 (2:20)
+z3/2 A/ z/ a z/ A/ z A/ z/ B z/ |
+c/ z G/ z/ c z/ C4 |
+z3/2 B/ z/ b z/ B2- B3/2 z/ |
+z3/2 B/ z/ d z/ D4 |
+z3/2 +ff+ A/ z/ a z/ A2- A3/2 z/ |
+z3/2 +f+ A/ z/ c z/ E2- E3/2 z/ |
+z3/2 +mf+ ^G/ z/ B z/ E2- E3/2 z/ |
+z3/2 ^G/ z/ +mp+ e z/ E/ z E/ z/ e z/ |
+A2- A3/2 z9/2 |
+z8 |
+% Bar 100 (2:36)
+z8 |
+z8 |
++p+ [^C8-E8-] |
+[^C4-E4-] [C2-E2-] [C3/2E3/2] z/ |
++mp+ [D8-^F8-] |
+[D4-^F4-] [^C/-D/E/-F/] [C3/2-E3/2-] +p+ [C/E/^c/-] c z/ |
+[B4-d4-] [A/-B/^c/-d/] [A3/2-c3/2-] +mp+ [^C/-E/-A/c/] [C3/2-E3/2-] |
+[^C/D/-E/^F/-] [D7/2-F7/2-] +p+ [D/E/-F/] E7/2- |
++mp+ [E/^F/-] F7/2- [F/^G/-] G3/2- G3/2 z/ |
+^G4- +p+ [E/-G/] E z/ E3/2 z/ |
+% Bar 110 (2:52)
++mp+ E4- [^C/-E/] C7/2- |
+^C8- |
+^C2- C3/2 z/ +p+ D4- |
+D4- +mp+ [D/E/-] E3/2- E3/2 z/ |
+^F2- [F/^G/-] G3/2- [G/A/-] A3/2- +p+ [E/-A/] E z/ |
++mp+ E2- +p+ [E/^G/-] G3/2- +mp+ [G/A/-] A3/2- [^F/-A/] F z/ |
+E4- +p+ [E/e/-] e7/2- |
++mp+ [e/^f/-] f7/2- f2- f3/2 z/ |
+e8- |
++p+ [e/^f/-] f7/2- f2- f3/2 z/ |
+% Bar 120 (3:07)
++mp+ e8- |
++p+ [e/^f/-] f15/2- |
++mp+ [e/-^f/] e3/2- e3/2 z/ E4- |
+E8- |
+E8- |
+E8 |
+z8 |
+E4- +p+ [E/G/-] G7/2- |
+[^F-G] F/ z/ F2- [D/-F/] D3/2- [D/F/-] F z/ |
+^C2- +mp+ [C/E/-] E z/ +p+ E2- [D/-E/] D3/2- |
+% Bar 130 (3:23)
+[^C/-D/] C z/ A2- +mp+ [A/B/-] B c- +p+ [c/^c/-] c |
+E8- |
+E8- |
+E8 |
+z8 |
++mp+ E4- [E/G/-] G7/2- |
++p+ [G/A/-] A z/ +mp+ A2- +p+ [F/-A/] F3/2- +mp+ [F/A/-] A z/ |
++p+ E2- [E/G/-] G3/2 +mp+ G2- [F/-G/] F z/ |
++p+ E4- [E/c/-] c7/2- |
++mp+ [c/d/-] d15/2- |
+% Bar 140 (3:39)
+[c/-d/] c15/2 |
+d8- |
+[c/-d/] c15/2- |
+[c/d/-] d15/2 |
+z8 |
+z4 z2 z/ +f+ B z/ |
+z3/2 G/ z/ F z/ E z/ D/ z2 |
+z3/2 A/ z/ G z/ F/ z E/ z/ D z/ |
+C3/2 z5/2 +fff+ E z E z |
+z8 |
+% Bar 150 (3:55)
+z8 |
+z +mf+ B/ z/ ^G/ z/ B/ z/ e/ z/ B/ z/ G/ z/ B/ z/ |
+E2- E/ z11/2 |
+z c/ z/ A/ z/ c/ z/ e/ z/ c/ z/ A/ z/ c/ z/ |
+E2- E/ z11/2 |
+z e/ z/ c/ z/ e/ z/ g/ z/ e/ z/ c/ z/ e/ z/ |
+G2 z2 z4 |
+z e/ z/ c/ z/ e/ z/ g/ z/ e/ z/ c/ z/ e/ z/ |
+G2- G/ z11/2 |
+z ^f/ z/ ^d/ z/ f/ z/ b/ z/ f/ z/ d/ z/ f/ z/ |
+% Bar 160 (4:11)
+A2- A/ z11/2 |
+z ^c/ z/ A/ z/ c/ z/ e/ z/ =c/ z/ A/ z/ c/ z/ |
+E2- E/ z11/2 |
+z B/ z/ ^G/ z/ B/ z/ e/ z/ c/ z/ A/ z/ c/ z/ |
+E2- E/ z11/2 |
+z c/ z/ A/ z/ c/ z/ e/ z/ c/ z/ A/ z/ c/ z/ |
+E2 z2 z4 |
+z ^f/ z/ ^d/ z/ f/ z/ b/ z/ f/ z/ d/ z/ f/ z/ |
+A2- A/ z11/2 |
+z ^c/ z/ A/ z/ c/ z/ e/ z/ =c/ z/ A/ z/ c/ z/ |
+% Bar 170 (4:26)
+E2- E/ z11/2 |
+z B/ z/ ^G/ z/ B/ z/ e/ z/ c/ z/ A/ z/ c/ z/ |
+E2- E/ z11/2 |
+z e/ z/ ^c/ z/ e/ z/ g/ z/ e/ z/ c/ z/ e/ z/ |
+G2- G/ z11/2 |
+z F/ z/ D/ z/ F/ z/ A/ z/ F/ z/ D/ z/ d/ z/ |
+^G2 z2 z4 |
+z e/ z/ ^c/ z/ e/ z/ g/ z/ e/ z/ c/ z/ e/ z/ |
+G2 z2 z4 |
+z F/ z/ D/ z/ F/ z/ A/ z/ F/ z/ D/ z/ d/ z/ |
+% Bar 180 (4:42)
+^G2 z2 z4 |
+z +f+ e/ z/ +mf+ ^c/ z/ e/ z/ g/ z/ e/ z/ c/ z/ G/ z/ |
+^G2- G/ z11/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 190 (4:58)
+z8 |
++mp+ c/ z/ d/ z/ e/ z/ d/ z/ c/ z/ +p+ d/ z/ c/ z/ +mp+ B/ z/ |
+A/ z/ B/ z/ c/ z/ d/ z/ e/ z/ +p+ ^f/ z/ +mp+ ^g/ z/ +p+ a/ z/ |
++mp+ ^g/ z/ e/ z/ ^f/ z/ g/ z/ +p+ a/ z/ +mp+ b/ z/ a/ z/ =g/ z/ |
+^f/ z/ f/ z/ g/ z/ a/ z/ b/ z/ B/ z/ ^c/ z/ +p+ ^d/ z/ |
++mp+ e2- e3/2 z/ e z ^f/ z3/2 |
+g2- g3/2 z/ g4 |
+^f4 f/ z3/2 ^g z |
+a z f/ z3/2 e z d z |
+^c/ z/ c/ z/ d/ z/ e/ z/ A/ z/ A/ z/ B/ z/ c/ z/ |
+% Bar 200 (5:14)
++p+ d z c/ z3/2 +mp+ ^A/ z3/2 =A z |
+B/ z/ B/ z/ c/ z/ d/ z/ G/ z/ G/ z/ A/ z/ B/ z/ |
+c2- c3/2 z9/2 |
+z6 e2- |
+e2 d2- d2 +p+ d2- |
+d2 +mp+ c2- c3/2 z/ c'2 |
+^A/ z/ c/ z/ d/ z/ c/ z/ A/ z/ d/ z/ +p+ c/ z/ +mp+ A/ z/ |
+A/ z/ ^A/ z/ c/ z/ d/ z/ +p+ e/ z/ +mp+ f/ z/ +p+ g/ z/ +mp+ a/ z/ |
+B4 +p+ B z +mp+ ^c z |
+d4 d4 |
+% Bar 210 (5:30)
+[B/d/] z/ [B/d/] z/ [B/d/] z/ [B/d/] z/ [B/d/] z/ +mf+ [B/d/] z/ [B/d/] z/ [B/d/] z/ |
+[B/d/] z/ [B/d/] z/ [B/d/] z/ +f+ [B/d/] z/ [B/d/] z/ [B/d/] z/ [B/d/] z/ +ff+ [B/d/] z/ |
+[B/d/] z/ [B/d/] z/ [B/d/] z/ [B/d/] z/ +fff+ [B/d/] z/ [B/d/] z/ [B/d/] z/ [B/d/] z/ |
+[B/d/] z/ B/ z/ B/ z/ B/ z/ B/ z/ B/ z/ e/ z/ d/ z/ |
+[E2-c2-] [E3/2c3/2-] c/ [E/c/-] c/ z [Ec] z |
+[E2-B2-] [E3/2B3/2] z/ [E2-B2-] [E3/2B3/2] z/ |
+[E2-B2-] [E3/2B3/2] z/ [E/B/-] B/ z [E/B/-] B/ z |
+[E2-c2-] [E3/2c3/2] z/ [E2-c2-] [E3/2c3/2] z/ |
+[E2-c2-] [E3/2c3/2] z/ [Ec] z [Ec] z |
+[E2-d2-] [E3/2d3/2] z/ [E2-c2-] [E3/2c3/2] z/ |
+% Bar 220 (5:45)
+[E2-B2-] [E3/2B3/2] z/ [E/A/] z3/2 [EB] z |
+[E2-c2-] [E3/2c3/2] z9/2 |
+z8 |
+z8 |
+z8 |
++mp+ [^C8-E8-] |
+[^C4-E4-] [C2-E2-] [C3/2E3/2] z/ |
+[D8-^F8-] |
+[D4-^F4-] [^C/-D/E/-F/] [C3/2-E3/2-] [C/E/^c/-] c z/ |
++p+ [B4-d4-] +mp+ [A/-B/^c/-d/] [A3/2-c3/2-] [^C/-E/-A/c/] [C3/2-E3/2-] |
+% Bar 230 (6:01)
+[^C/D/-E/^F/-] [D7/2-F7/2-] +p+ [D/E/-F/] E7/2- |
++mp+ [E/^F/-] F7/2- [F/^G/-] G3/2- G3/2 z/ |
+^G4- [E/-G/] E z/ E3/2 z/ |
+E4- +p+ [^C/-E/] C7/2- |
+^C8- |
+^C4- +mp+ [C/D/-] D7/2- |
+D4- +p+ [D/E/-] E3/2- E3/2 z/ |
++mp+ ^F4- [E/-F/] E7/2- |
++p+ [E/^F/-] F7/2- +mp+ [F/^G/-] G7/2- |
+[E/-^G/] E15/2- |
+% Bar 240 (6:17)
+[E/^F/-] F7/2 ^G4 |
++p+ E8- |
++mp+ [E/^F/-] F7/2 z4 |
+E8- |
+[E/A/-] A15/2- |
+[G/-A/] G15/2- |
+[F/-G/] F7/2- F2- F3/2 z/ |
++f+ G2 z2 [G2g2] z2 |
+[C4-c4-] [C/c/] z7/2 |
++mp+ B4 +p+ B z +mp+ B z |
+% Bar 250 (6:33)
+A2- A3/2 z9/2 |
++f+ G2- G/ z3/2 [G2-g2-] [G/g/] z3/2 |
+[C4c4] z4 |
++mp+ B4 B z +p+ B z |
+z8 |
+z4 A4 |
+z4 E4 |
+z4 E4 |
+z4 A4 |
+z4 A4 |
+% Bar 260 (6:48)
+z4 G4 |
+G4 G2 G2 |
+G4 z4 |
+z4 c4 |
+z4 B4 |
+z4 e4 |
+z4 A4 |
+z4 E4 |
+E4 E4 |
+E4 E2 E2 |
+% Bar 270 (7:04)
+E4 z4 |
+z8 |
+z8 |
+E4 E2 E2 |
+E4 ^F2 ^G2 |
+A4 z4 |
+A4 z4 |
+z8 |
+z8 |]
+
+
+X: 2
+T: <7th2> 2/11[Harp] (7:17)
+%%part-name Harp
+M: 2/4
+Q: 76
+K: C maj
+
++mp+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:30)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+e2- e3/2 z/ e z e z |
+e2- e3/2 z/ e2- e3/2 z/ |
+e2- e3/2 z/ e z e z |
+% Bar 30 (0:45)
+e2- e3/2 z/ e2- e3/2 z/ |
+e2- e3/2 z/ e z ^f z |
+g3 z g3 z |
+g2- g3/2 z/ g z g z |
+g4 z4 |
+g3 z g z a z |
+b3 z b2- b3/2 z/ |
+^f2- f3/2 z/ f/ z3/2 ^g/ z3/2 |
+a2- a3/2 z/ a2- a3/2 z/ |
+e2- e3/2 z/ e z e z |
+% Bar 40 (1:01)
+e2- e3/2 z/ e2- e3/2 z/ |
+e2- e3/2 z/ ^f z ^g z |
+a2- a3/2 z9/2 |
++p+ g3 z g z a z |
+b3 z b2- b3/2 z/ |
+^f2- f3/2 z/ f/ z3/2 ^g/ z3/2 |
+a2- a3/2 z/ a2- a3/2 z/ |
+e2- e3/2 z/ e z e z |
+e2- e3/2 z/ e2- e3/2 z/ |
+e2- e3/2 z/ ^f z ^g z |
+% Bar 50 (1:17)
+a2- a3/2 z9/2 |
++mp+ c'8 |
+b4- b3 z |
+b/- [b/c'/-] c'/- [d/-c'/] d4- +mf+ [d/c'/-] [b/-c'/] b/ z/ |
+b2- [b/c'/-] c' z/ c'2- c'/ z3/2 |
+c'4- c'3/2 z/ c'/- [d/-c'/] d |
+^d2 e z e/ z e z =d/- |
+[d/e/-] e/ f9/2- +f+ [e/-f/] e/- [d/-e/] d/ z/ |
+d2 e3/2 z/ e2- e/ z3/2 |
+e8- |
+% Bar 60 (1:33)
+[^d/-e/] d7/2- d2- d/ z3/2 |
++ff+ d2 b- [^c/-b/] c/ d2 e/- [de] z/ |
+d2- [^c/-d/] c z/ c'2- c'3/2 z/ |
+c'8 |
++fff+ b7/2- [b/c'/-] c'3 z |
+b/ c' d4- [d/c'/-] c'/- [b/-c'/] b- |
+b/ a/ z a- [a/b/-] b c' z/ c' d- |
+[d/e/-] e15/2 |
+^d4- d3 z |
+d2 b- [^c/-b/] c/ d2 e/- [de] z/ |
+% Bar 70 (1:48)
+d2 ^c2 c'3 z |
+c'8 |
+b4 c'3 z |
+b/- [b/c'/-] c'/ d9/2- [d/c'/-] [b/-c'/] b- |
+[a/-b/] a5/2 z5 |
+z2 a2 c'2 e2 |
+z2 b2- [d/-b/] d3/2- [d/e/-] e3/2- |
+e/ z3/2 b2 d2- [d/^g/-] g3/2 |
+z2 c'2 e2- [e/a/-] a3/2- |
+a/ z3/2 a2 c'2- [c/-c'/] c3/2- |
+% Bar 80 (2:04)
+c/ z3/2 c'2- [e/-c'/] e3/2 e2- |
+e/ z3/2 b2- [d/-b/] d3/2- [d/g/-] g3/2- |
+g/ z3/2 c'2 e2 g2 |
+z2 c'2 e2 e2 |
+z2 ^d2 b2 b2 |
+z2 b2 d2 d2 |
+z2 ^c2 a2 a2 |
+z2 c'2 e2 e2 |
+z2 b2 e2 e2 |
+z2 b2 e2 e2 |
+% Bar 90 (2:20)
+z2 c'2 e2 e2 |
+z2 c'2 e2 e2 |
+z2 ^d2 b2 b2 |
+z2 b2 d2 d2 |
+z2 +ff+ ^c2 a2 a2 |
+z2 +f+ c'2 e2 e2 |
+z2 +mf+ b2 e2 e2 |
+z2 b2 e2 +mp+ [d3/2e3/2-] e/ |
+[e4c'4] z4 |
+z8 |
+% Bar 100 (2:36)
+z8 |
++p+ B/ c/- +mp+ [c/d/-] d9/2 c/- +p+ [B/-c/] B |
+A8- |
+A8 |
+B8- |
+B4- [A/-B/] A7/2- |
++mp+ [^G/-A/] G7/2- [G/A/-] A7/2 |
++p+ A4- [G/-A/] G7/2- |
+[G/A/-] A7/2- [A/B/-] B3/2- B3/2 z/ |
++mp+ B2- B3/2 z/ A2- [G/-A/g/-] [G3/2g3/2] |
+% Bar 110 (2:52)
++p+ [G2-g2-] [G3/2g3/2] z/ +mp+ [G4-g4-] |
+[G8-g8-] |
+[G3/2g3/2] z/ [A2g2] +p+ [A4-^f4-] |
+[A4^f4] A2- A3/2 z/ |
+A2- [A/B/-] B3/2- [B/^c/-] c3/2 +mp+ c2 |
++p+ ^G2- [G/B/-] B3/2 +mp+ B2- +p+ [A/-B/] A3/2 |
+^G4- [G/B/-^g/-] [B7/2-g7/2-] |
++mp+ [B/-^g/a/-] [B7/2-a7/2-] [B2-a2-] [B3/2-a3/2] B/ |
+[B8-^g8-] |
++p+ [B/-^g/a/-] [B7/2-a7/2-] [B2-a2-] [B3/2a3/2] z/ |
+% Bar 120 (3:07)
++mp+ [B8-^g8-] |
++p+ [B/-^g/a/-] [B7/2-a7/2-] [B2-a2-] [B3/2a3/2] z/ |
++mp+ [B4-^g4-] [^G/-B/g/] G3/2- G3/2 z/ |
+G8- |
++p+ [G/^G/-] G7/2- G2- G3/2 z/ |
++mp+ G8- |
++p+ [G/^G/-] G7/2- G2- G3/2 z/ |
+G4- +mp+ [G/g/-] g7/2- |
+[^f/-g/] f z/ f2- +p+ [d/-f/] d3/2- +mp+ [d/f/-] f z/ |
++p+ ^c2- +mp+ [c/e/-] e z/ +p+ e2- [d/-e/] d3/2- |
+% Bar 130 (3:23)
+[^c/-d/] c z/ c2- [c/d/-] d +mp+ ^d- +p+ [d/e/-] e |
+G8- |
+[G/^G/-] G7/2- G2- G3/2 z/ |
+G8- |
++mp+ [G/^G/-] G7/2- G2- G3/2 z/ |
+G4- +p+ [G/g/-] g7/2- |
+[g/a/-] a3/2 A2- [A/f/-] f3/2- [f/a/-] a z/ |
+e2- [e/g/-] g z/ g2- +mp+ [B/-g/] B z/ |
+c2- c3/2 z/ [G4-e4-] |
+[G/-e/f/-] [G15/2-f15/2-] |
+% Bar 140 (3:39)
+[G/-e/-f/] [G7/2-e7/2-] [G2-e2-] [G3/2e3/2] z/ |
+[G8-f8-] |
+[G/-e/-f/] [G15/2-e15/2-] |
+[G/-e/f/-] [G7/2-f7/2-] [G2-f2-] [G3/2f3/2-] f/ |
+z4 z2 z/ +f+ a z/ |
+g z/ f/ z/ e z/ d z/ c/ z/ B z/ |
+A/ z15/2 |
+z8 |
+z4 +fff+ B z B z |
+z8 |
+% Bar 150 (3:55)
++mp+ A3 z A2 A2 |
+^G3 z G3 z |
+[B2-g2-] [B3/2g3/2] z/ [B3/2g3/2-] g/ [B3/2g3/2] z/ |
+[c3a3] z [c2-a2-] [ca-] a/ z/ |
+G2- G3/2 z/ G2 [A3/2a3/2-] a/ |
+[c2-e2-] [c3/2e3/2] z/ [c2-e2-] [ce-] e/ z/ |
+[B2-d2-] [Bd-] d/ z/ [B3/2-d3/2] B/ [B3/2d3/2] z/ |
+[c2-e2-] [ce-] e/ z9/2 |
+[c2-e2-] [c3/2e3/2] z/ [c2e2] [c2^f2] |
+[B2-^f2-] [B-f] B/ z/ [B2-f2-b2-] [Bfb-] b/ z/ |
+% Bar 160 (4:11)
+[A2-d2-] [A3/2d3/2] z/ [A3/2d3/2-] d/ [B3/2-e3/2] B/ |
+[A2-e2-] [A3/2e3/2] z/ [A2-e2-a2-] [Aea-] a/ z/ |
+[c2-a2-] [c-a] c/ z/ [c3/2a3/2-] a/ A2 |
+^G2 z2 [c3/2a3/2-] a/ A2 |
+[B2-^g2-] [B3/2g3/2] z/ a3/2 z/ b3/2 z/ |
+[c3/2e3/2] z13/2 |
+[B2-e2-] [Be-] e/ z/ [B3/2-e3/2] B/ [c2^f2] |
+[B2-^f2-] [Bf-] f/ z/ [B3f3b3] z |
+[A2-d2-] [A3/2d3/2] z/ [A2d2] [B3/2e3/2-] e/ |
+[A2-e2-] [Ae-] e/ z/ [A2-e2-a2-] [Ae-a] e/ z/ |
+% Bar 170 (4:26)
+[c2-a2-] [c-a] c/ z/ [c3/2-a3/2] c/ A3/2 z/ |
+^G3/2 z5/2 [c2a2] A2 |
+[B2-^g2-] [B-g] B/ z/ a3/2 z/ b2 |
+[^c2-e2-] [c3/2e3/2] z9/2 |
+[^c4e4] [c2e2] [c2e2] |
+[d2-f2-] [d3/2-f3/2] d/ z4 |
+[d2-f2-] [d3/2f3/2-] f/ [d3/2-f3/2] d/ [d3/2f3/2-] f/ |
+[^c4e4] z4 |
+[^c3/2e3/2] z/ [c2e2] [c3/2-e3/2] c/ z2 |
+[d3/2f3/2-] f/ +mf+ [d2f2] [d3/2f3/2] z5/2 |
+% Bar 180 (4:42)
+[d3/2f3/2] z/ [d3/2-f3/2] d/ [d2f2] z2 |
+z4 [^c3/2e3/2] z/ [c2e2] |
+z4 +mp+ [d2f2] d3/2 z/ |
++p+ c'/ z/ d/ z/ e/ z/ d/ z/ c'/ z/ d/ z/ c'/ z/ b/ z/ |
+a/ z/ b/ z/ c'/ z/ d/ z/ e/ z/ ^f/ z/ ^g/ z/ a/ z/ |
+^g/ z/ e/ z/ ^f/ z/ g/ z/ a/ z/ b/ z/ a/ z/ =g/ z/ |
+^f/ z/ f/ z/ g/ z/ a/ z/ b/ z/ b/ z/ ^c/ z/ ^d/ z/ |
+e4 e z ^f z |
+g2- g3/2 z/ g4 |
+^f4 f/ z3/2 ^g z |
+% Bar 190 (4:58)
+a z f/ z7/2 d2- |
+d3/2 z/ c'2- c'3/2 z/ e2- |
+e3/2 z/ a2- a3/2 z/ e2- |
+e3/2 z/ d2- d3/2 z/ e2 |
+^f z e/ z3/2 ^d/ z/ d/ z/ e/ z/ f/ z/ |
+g2- g3/2 z9/2 |
+z8 |
+z8 |
+z8 |
+z4 z ^c/ z/ d/ z/ e/ z/ |
+% Bar 200 (5:14)
+d2- d3/2 z9/2 |
+z4 z b/ z/ c'/ z/ d/ z/ |
+e/ z/ f/ z/ g/ z/ f/ z/ e/ z/ f/ z/ e/ z/ d/ z/ |
+c'/ z/ d/ z/ e/ z/ f/ z/ g/ z/ a/ z/ b/ z/ c'/ z/ |
+^f2- f3/2 z/ f z ^g z |
+a2- a3/2 z/ a4- |
+a3/2 z/ g2- g3/2 z/ g2- |
+g3/2 z/ f2- f3/2 z/ f2 |
+g/ z/ g/ z/ e/ z/ d/ z/ ^c/ z/ e/ z/ a/ z/ g/ z/ |
+f/ z/ g/ z/ a/ z/ b/ z/ ^c/ z/ d/ z/ e/ z/ f/ z/ |
+% Bar 210 (5:30)
+f/ z/ +mp+ [^G/f/] z/ +p+ [G/f/] z/ +mp+ [G/f/] z/ [G/f/] z/ [G/f/] z/ [G/f/] z/ [G/f/] z/ |
++mf+ [^G/f/] z/ +mp+ [G/f/] z/ +mf+ [G/f/] z/ [G/f/] z/ +f+ [G/f/] z/ [G/f/] z/ [G/f/] z/ [G/f/] z/ |
+[^G/f/] z/ [G/f/] z/ +ff+ [G/f/] z/ [G/f/] z/ [G/f/] z/ [G/f/] z/ +fff+ [G/f/] z/ [G/f/] z/ |
+[^G/f/] z/ b/ z/ b/ z/ b/ z/ b/ z/ b/ z/ e/ z/ d/ z/ |
+[e2-c'2-] [e3/2c'3/2] z/ [e/c'/-] c'/ z [ec'] z |
+[e2-b2-] [e3/2b3/2] z/ [e3b3] z |
+[^g2-b2-] [g3/2b3/2] z/ [g/-b/] g/ z [g/-b/] g/ z |
+[a2-c'2-] [a3/2c'3/2] z/ [a2-c'2-] [a3/2c'3/2] z/ |
+[a2-c'2-] [a3/2c'3/2] z/ [ac'] z [ac'] z |
+[d2-b2-] [d3/2b3/2] z/ [a2-c'2-] [a3/2c'3/2] z/ |
+% Bar 220 (5:45)
+[^g2-b2-] [g3/2b3/2] z/ a z b z |
+c'2- c'3/2 z9/2 |
+z8 |
+z8 |
++mp+ d/ z/ B/ z/ ^c/ z/ d/ z/ e/ z/ d/ z/ c/ z/ B/ z/ |
+A8- |
+A8 |
++p+ B8- |
+B4- [A/-B/] A7/2- |
++mp+ [^G/-A/] G7/2- [G/A/-] A3/2- A3/2 z/ |
+% Bar 230 (6:01)
++p+ A4- +mp+ [G/-A/] G7/2- |
++p+ [G/A/-] A7/2- [A/B/-] B3/2- B3/2 z/ |
++mp+ B2- B3/2 z/ +p+ A2- +mp+ [G/-A/g/-] [G3/2g3/2] |
++p+ [G2-g2-] [G3/2g3/2] z/ +mp+ [G4-g4-] |
+[G8-g8-] |
+[G3/2g3/2] z/ [A2g2] +p+ [A4-^f4-] |
+[A4^f4] A2- A3/2 z/ |
+A4- [G/-A/] G7/2- |
+[G/A/-] A7/2- +mp+ [A/B/-] B7/2- |
++p+ [A/-B/] A7/2- A2- [G/-A/] G3/2- |
+% Bar 240 (6:17)
+[G/A/-] A7/2 +mp+ B2- B3/2 z/ |
++p+ A6 G2 |
+A4 B2- B3/2 z/ |
+^c8 |
+d8 |
+^c8 |
+d4- d2- d3/2 z/ |
++f+ d2 z2 [d2b2] z2 |
+[e4c'4] z4 |
++mp+ d4 +p+ d z d z |
+% Bar 250 (6:33)
+c2- c3/2 z9/2 |
++f+ [d2-b2-] [d/b/] z3/2 [d2-g2-b2-] [d/g/b/] z3/2 |
+[e4c'4] z4 |
++mp+ d4 +p+ d z d z |
+z8 |
+z4 A4 |
+z4 e4 |
+z4 e4 |
+z4 A4 |
+z4 c4 |
+% Bar 260 (6:48)
+z4 c4 |
+B4 A2 B2 |
+c4 z4 |
+z4 c4 |
+z4 B4 |
+z4 e4 |
+z4 A4 |
+z4 A4 |
+B4 A4 |
+B4 B2 B2 |
+% Bar 270 (7:04)
+A4 z4 |
+z8 |
+z8 |
+B4 B2 B2 |
+A4 z4 |
+e4 ^f2 ^g2 |
++mp+ [A4a4] z4 |
+z8 |
+z8 |]
+
+
+X: 3
+T: <7th2> 3/11[Harp] (7:17)
+%%part-name Harp
+M: 2/4
+Q: 76
+K: C maj
+
++mp+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:30)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:17)
+z8 |
+e2- e3/2 z/ e/ z3/2 e/ z3/2 |
+e2- e3/2 z/ e3 z |
+e2- e3/2 z/ e/ z3/2 +mf+ e/ z3/2 |
+e3 z e3 z |
+e2- e3/2 z/ e/ z3/2 ^f/ z3/2 |
+g3 z g2- g3/2 z/ |
+g2- g3/2 z/ +f+ g/ z3/2 g z |
+g4 z4 |
+g3 z g z a z |
+% Bar 60 (1:33)
+b2- b3/2 z/ b2- b3/2 z/ |
++ff+ ^f2- f3/2 z/ f/ z3/2 ^g z |
+a2- a3/2 z/ a3 z |
+e2- e3/2 z/ e z +fff+ e z |
+e2- e3/2 z/ e2- e3/2 z/ |
+e2- e3/2 z/ ^f/ z3/2 ^g z |
+a2- a3/2 z9/2 |
+g3 z g z a z |
+b2- b3/2 z/ b2- b3/2 z/ |
+^f2- f3/2 z/ f/ z3/2 ^g z |
+% Bar 70 (1:48)
+a2- a3/2 z/ a3 z |
+e2- e3/2 z/ e z e z |
+e2- e3/2 z/ e2- e3/2 z/ |
+e2- e3/2 z/ ^f/ z3/2 ^g/ z3/2 |
+a2- a3/2 z9/2 |
+c'8 |
+b4- b3 z |
+b c'/- [d/-c'/] d4- [d/c'/-] c'/ b/ z/ |
+b2- [b/c'/-] c'3/2 z/ c'5/2 z |
+c'6 c'- [d/-c'/] [d/^d/-] |
+% Bar 80 (2:04)
+^d5/2- [d/e/-] e/ z/ e3/2 z/ e z |
+d/ e f9/2- [e/-f/] [d/-e/] d/ z/ |
+d2- [d/e/-] e3/2 z/ e7/2 |
+e4 e4 |
+^d4- d3 z |
+d2- d/ b- [^c/-b/] c/ d3/2- [d/e/-] e/- [d/-e/] d/ |
+d2- d/ ^c2 c'3 z/ |
+c'8 |
+b4- [b/c'/-] c'7/2 |
+b/- [b/c'/-] c'/- [d/-c'/] d4- [d/c'/-] c'/- [b/-c'/] b/- |
+% Bar 90 (2:20)
+b/- [a/-b/] a/ z/ a- [a/b/-] b c' z/ c'- [d/-c'/] d/ |
+e4 e4- |
+[^d/-e/] d7/2- d3 z |
+d2- d/ b/- [^c/-b/] c d3/2- [d/e/-] e/- +ff+ [d/-e/] d/ |
+d2- d/ ^c3/2- [c/c'/-] c'5/2 z |
+c'8 |
++f+ b4 +mf+ c'2- c'3/2 z/ |
+b/- [b/c'/-] c'/- [d/-c'/] d4 +mp+ c' b- |
+[a/-b/] a7/2 z4 |
+b/- [b/c'/-] c' d2- d2 c'/- [b/-c'/] b- |
+% Bar 100 (2:36)
+[a/-b/] a3/2- a3/2 z9/2 |
+z4 +p+ e3/2 d- [d/b/-] b |
+e3/2 ^c- +mp+ [c/a/-] a- +p+ [c/-a/] c- [c/a/-] a/- +mp+ [e/-a/] e |
++p+ a3/2 e- [^c/-e/] c c3/2 +mp+ a- +p+ [e/-a/] e |
+^c3/2 ^f- +mp+ [d/-f/] d- [d/b/-] b +p+ f- +mp+ [d/-f/] d |
+b3/2 ^f- +p+ [d/-f/] d- [d/a/-] a +mp+ ^c- +p+ [c/a/-] a |
+B3/2 +mp+ d- [d/^g/-] g- +p+ [g/a/-] a ^c- [c/a/-] a- |
+[d/-a/] d +mp+ ^f- +p+ [f/b/-] b- [^c/-b/] c +mp+ e- +p+ [c/-e/] c- |
++mp+ [^c/^f/-] f +p+ a- +mp+ [d/-a/] d- [d/e/-] e +p+ ^g- +mp+ [e/-g/] e |
+d3/2- [d/^g/-] g/- +p+ [g/b/-] b- [a/-b/] a ^c- [c/a/-] a |
+% Bar 110 (2:52)
+a3/2 ^c- [c/a/-] a- [e/-a/] e- [c/-e/] c/- +mp+ [c/g/-] g- |
++p+ [^c/-g/] c g- [e/-g/] e +mp+ e3/2 +p+ c- [c/g/-] g |
+e3/2 ^c- [c/g/-] g- [^f/-g/] f d- [d/e/-] e |
+^f3/2 d- [d/f/-] f- [e/-f/] e- [^c/-e/] c/- +mp+ [c/e/-] e- |
+[d/-e/] d b- +p+ [e/-b/] e e3/2 +mp+ a- +p+ [^c/-a/] c |
+b3/2 ^g- [e/-g/] e- [e/^f/-] f +mp+ a- +p+ [^d/-a/] d |
+e3/2 b- [^g/-b/] g- +mp+ [e/-g/] e +p+ b- [g/-b/] g- |
+[^f/-^g/] f +mp+ b- [a/-b/] a- [f/-a/] f +p+ b- [a/-b/] a |
++mp+ e3/2 b- +p+ [^g/-b/] g- +mp+ [e/-g/] e +p+ b- [g/-b/] g- |
+[^d/-^g/] d +mp+ a- [^f/-a/] f- +p+ [f/b/-] b- [a/-b/] a/- +mp+ [f/-a/] f |
+% Bar 120 (3:07)
++p+ e3/2 ^g- [g/b/-] b- +mp+ [g/-b/] g b- +p+ [e/-b/] e |
++mp+ ^f3/2 +p+ b- +mp+ [a/-b/] a- +p+ [f/-a/] f b- +mp+ [a/-b/] a |
+e3/2- +p+ [e/b/-] b/- [^g/-b/] g- [e/-g/] e- +mp+ [e/b/-] b/- [g/-b/] g |
++p+ e3/2 +mp+ ^a- [g/-a/] g- +p+ [e/-g/] e g- [g/a/-] a- |
+[e/-^a/] e ^g- +mp+ [g/b/-] b- [e/-b/] e +p+ b- [g/-b/] g |
+e3/2 +mp+ ^a- [g/-a/] g- [e/-g/] e g- +p+ [g/a/-] a- |
+[e-^a] e/ ^g- [g/b/-] b- +mp+ [e/-b/] e- +p+ [e/b/-] b/- [g/-b/] g |
+e3/2 ^a- +mp+ [g/-a/] g- +p+ [e/-g/] e g- [g/a/-] a |
+e3/2 +mp+ b- +p+ [e/-b/] e e3/2 +mp+ b- +p+ [d/-b/] d- |
++mp+ [^c/-d/] c a- [e/-a/] e- +p+ [d/-e/] d ^g- [g/b/-] b |
+% Bar 130 (3:23)
+e3/2 a- [^c/-a/] c- [c/d/-] d +mp+ ^d- [d/e/-] e |
++p+ e3/2 +mp+ ^a- [g/-a/] g- [e/-g/] e- +p+ [e/g/-] g/- +mp+ [g/a/-] a- |
+[e-^a] e/ +p+ ^g- [g/b/-] b- +mp+ [e/-b/] e b- +p+ [g/-b/] g |
+e3/2 +mp+ ^a- [g/-a/] g- [e/-g/] e g- +p+ [g/a/-] a- |
+[e/-^a/] e ^g- [g/b/-] b- [e/-b/] e b- +mp+ [g/-b/] g |
++p+ e3/2 +mp+ ^a- +p+ [g/-a/] g- +mp+ [e/-g/] e g- [g/a/-] a- |
+[a/-^a/] =a +p+ f- +mp+ [f/a/-] a/ z/ a3/2 d- +p+ [d/f/-] f- |
++mp+ [e-f] e/ +p+ c'- [g/-c'/] g- +mp+ [f/-g/] f b- +p+ [d/-b/] d |
++mp+ e3/2 c'- [e/-c'/] e- +p+ [e/c'/-] c'- [e/-c'/] e/- [e/g/-] g |
++mp+ b3/2 d- [d/g/-] g- [g/b/-] b d- [d/g/-] g |
+% Bar 140 (3:39)
+c'3/2 e- [e/g/-] g- [g/c'/-] c' e- [e/g/-] g |
+b3/2 d- [d/g/-] g- [g/b/-] b d- [d/g/-] g |
+c'3/2 e- [e/g/-] g- [g/c'/-] c' e- [e/g/-] g |
+b3/2 d- [d/g/-] g- +mf+ [g/b/-] b +mp+ d- +mf+ [d/g/-] g |
+z4 z2 z/ +f+ a z/ |
+g/ z f/ z/ e z/ d z/ +ff+ c'/ z/ +f+ b z/ |
+a z/ g/ z/ f z/ e z/ d/ z/ +ff+ c z/ |
+B z7 |
+z4 +fff+ e/ z3/2 e/ z3/2 |
+z8 |
+% Bar 150 (3:55)
+z +mp+ c'/ z/ a/ z/ c'/ z/ e/ z/ c'/ z/ a/ z/ c'/ z/ |
+e2- e/ z11/2 |
+z b/ z/ ^g/ z/ b/ z/ e/ z/ b/ z/ g/ z/ b/ z/ |
+e2- e/ z11/2 |
+z c'/ z/ g/ z/ c'/ z/ e/ z/ c'/ z/ a/ z/ c'/ z/ |
+G2 z2 z4 |
+z d/ z/ b/ z/ d/ z/ g/ z/ d/ z/ b/ z/ d/ z/ |
+g2- g/ z11/2 |
+z g/ z/ e/ z/ g/ z/ c'/ z/ e/ z/ c/ z/ ^f/ z/ |
+^f2- f/ z11/2 |
+% Bar 160 (4:11)
+z a/ z/ ^f/ z/ a/ z/ d/ z/ a/ z/ e/ z/ b/ z/ |
+e2 z2 z4 |
+z c'/ z/ a/ z/ c'/ z/ e/ z/ c'/ z/ a/ z/ c'/ z/ |
+e2- e/ z11/2 |
+z b/ z/ e/ z/ b/ z/ e/ z/ b/ z/ e/ z/ d/ z/ |
+[e2c'2] z2 z4 |
+z e/ z/ B/ z/ e/ z/ b/ z/ e/ z/ c/ z/ ^f/ z/ |
+^f2- f/ z11/2 |
+z ^f/ z/ d/ z/ f/ z/ a/ z/ d/ z/ B/ z/ e/ z/ |
+e2- e/ z11/2 |
+% Bar 170 (4:26)
+z c'/ z/ a/ z/ c'/ z/ e/ z/ c'/ z/ a/ z/ c'/ z/ |
+e2- e/ z11/2 |
+z b/ z/ e/ z/ b/ z/ e/ z/ b/ z/ e/ z/ d/ z/ |
+[^c2e2-] e/ z11/2 |
+z ^c/ z/ g/ z/ c/ z/ e/ z/ c/ z/ g/ z/ c/ z/ |
+f2 z2 z4 |
+z f/ z/ d/ z/ f/ z/ b/ z/ f/ z/ d/ z/ d/ z/ |
+[^c2e2] z2 z4 |
+z ^c/ z/ g/ z/ c/ z/ e/ z/ c/ z/ g/ z/ c/ z/ |
+f2 z2 z4 |
+% Bar 180 (4:42)
+z +mf+ f/ z/ d/ z/ f/ z/ b/ z/ f/ z/ d/ z/ d/ z/ |
+^c2 z2 z4 |
+z +mp+ f/ z/ d/ z/ f/ z/ b/ z/ f/ z/ +p+ d/ z/ ^g/ z/ |
+a4 a/ z3/2 b/ z3/2 |
+c'2- c'3/2 z/ c'2- c'3/2 z/ |
+b2- b3/2 z/ b z ^c/ z3/2 |
+d/ z3/2 c'/ z3/2 b/ z3/2 a/ z3/2 |
+g/ z/ a/ z/ b/ z/ a/ z/ g/ z/ a/ z/ g/ z/ ^f/ z/ |
+e/ z/ ^f/ z/ g/ z/ a/ z/ b/ z/ ^c/ z/ ^d/ z/ e/ z/ |
+e/ z/ a/ z/ b/ z/ ^c/ z/ d/ z/ b/ z/ e/ z/ d/ z/ |
+% Bar 190 (4:58)
+c'/ z/ b/ z/ c'/ z/ d/ z/ e/ z/ e/ z/ ^f/ z/ ^g/ z/ |
+a4 z4 |
+z8 |
+z8 |
+z6 ^f2- |
+^f2 e2- e3/2 z/ b2- |
+b3/2 z/ e2- e2 b2- |
+b3/2 z/ a2- a2 b2 |
+c'2 a2 ^g/ z/ g/ z/ a/ z/ b/ z/ |
+a2- a3/2 z9/2 |
+% Bar 200 (5:14)
+z4 z ^f/ z/ g/ z/ a/ z/ |
+g2 g2 c'4- |
+c'2- c'3/2 z/ c' z d/ z3/2 |
+e2- e3/2 z/ e2- e3/2 z/ |
+b/ z/ c'/ z/ d/ z/ c'/ z/ b/ z/ d/ z/ c'/ z/ b/ z/ |
+a/ z/ b/ z/ c'/ z/ d/ z/ e/ z/ ^f/ z/ ^g/ z/ a/ z/ |
+g/ z/ a/ z/ ^a/ z/ =a/ z/ g/ z/ ^a/ z/ =a/ z/ g/ z/ |
+f/ z/ g/ z/ a/ z/ ^a/ z/ c'2 =a2- |
+a2 g2- g2 g2- |
+g2 f2- f3/2 z/ f2 |
+% Bar 210 (5:30)
+f/ z/ d/ z/ e/ z/ f/ z/ +mp+ d/ z/ b/ z/ c'/ z/ d/ z/ |
+b/ z/ +mf+ ^g/ z/ a/ z/ b/ z/ g/ z/ a/ z/ +f+ b/ z/ c'/ z/ |
+d/ z/ e/ z/ +ff+ f/ z/ ^g/ z/ a/ z/ b/ z/ +fff+ c'/ z/ ^c/ z/ |
+d/ z/ e/ z/ e/ z/ e/ z/ e/ z/ e/ z/ e/ z/ e/ z/ |
+e2- e3/2 z/ e z e z |
+e2- e3/2 z/ e3 z |
+e2- e3/2 z/ e z e z |
+e2- e3/2 z/ e2- e3/2 z/ |
+e2- e3/2 z/ e z e z |
+e2- e3/2 z/ e2- e3/2 z/ |
+% Bar 220 (5:45)
+e2- e3/2 z/ ^f/ z3/2 ^g z |
+a4 z4 |
++mp+ d/ z/ b/ z/ c'/ z/ d/ z/ e/ z/ d/ z/ c'/ z/ b/ z/ |
+a4 z4 |
+z4 e3/2 d- [d/b/-] b |
++p+ e3/2 ^c- +mp+ [c/a/-] a- +p+ [c/-a/] c +mp+ a- [e/-a/] e |
+a3/2 e- [^c/-e/] c c3/2 a- [e/-a/] e |
+^c3/2 ^f- [d/-f/] d- +p+ [d/b/-] b +mp+ f- [d/-f/] d |
+b3/2 ^f- [d/-f/] d- +p+ [d/a/-] a +mp+ ^c- [c/a/-] a |
+B3/2 d- [d/^g/-] g- [g/a/-] a ^c- [c/a/-] a- |
+% Bar 230 (6:01)
+[d/-a/] d ^f- [f/b/-] b- [^c/-b/] c- [c/e/-] e/- [c/-e/] c- |
+[^c/^f/-] f a- [d/-a/] d- [d/e/-] e- [e/^g/-] g/- [e/-g/] e |
+d3/2 ^g- [g/b/-] b- [a/-b/] a ^c- [c/a/-] a |
+a3/2 ^c- +p+ [c/a/-] a- [e/-a/] e +mp+ c- [c/g/-] g- |
+[^c/-g/] c g- [e/-g/] e e3/2 +p+ c- +mp+ [c/g/-] g |
++p+ e3/2 +mp+ ^c- [c/g/-] g- [^f/-g/] f- [d/-f/] d/- [d/e/-] e |
++p+ ^f3/2 d- +mp+ [d/f/-] f- [e/-f/] e ^c- [c/e/-] e- |
+[d/-e/] d a- +p+ [^f/-a/] f +mp+ e3/2 g- +p+ [^c/-g/] c |
++mp+ d3/2 a- +p+ [^f/-a/] f- +mp+ [e/-f/] e +p+ b- +mp+ [e/-b/] e |
+^c3/2 a- [e/-a/] e- [c/-e/] c a- [e/-a/] e- |
+% Bar 240 (6:17)
+[d/-e/] d a- [^f/-a/] f- [e/-f/] e b- +p+ [e/-b/] e- |
+[^c/-e/] c a- +mp+ [e/-a/] e- +p+ [c/-e/] c a- [e/-a/] e |
+d3/2 a- [^f/-a/] f- [e/-f/] e b- [e/-b/] e |
+a8- |
+a8- |
+a8 |
+z8 |
++f+ [d3/2b3/2] z5/2 [d3/2b3/2] z5/2 |
+[e4c'4] z4 |
++p+ ^g4 +mp+ ^f z g z |
+% Bar 250 (6:33)
+a2- a3/2 z9/2 |
++f+ [d2-b2-] [d/b/] z3/2 [d2-b2-] [d/b/] z3/2 |
+[e4c'4] z4 |
++mp+ ^g4 ^f z g z |
+z8 |
+z4 +p+ a4 |
+z4 e4 |
+z4 e4 |
+z4 a4 |
+z4 e4 |
+% Bar 260 (6:48)
+z4 e4 |
+d4 c2 d2 |
+e4 z4 |
+z4 c4 |
+z4 b4 |
+z4 e4 |
+z4 a4 |
+z4 c4 |
+d4 c4 |
+d4 d2 d2 |
+% Bar 270 (7:04)
+c4 z4 |
+z8 |
+z8 |
+d4 d2 d2 |
+c4 z4 |
+c4 e4 |
++mp+ ^f2 ^g2 +p+ a4- |
+a2- a/ z11/2 |
+z8 |]
+
+
+X: 4
+T: <7th2> 4/11[Theorbo] (7:17)
+%%part-name Theorbo
+M: 2/4
+Q: 76
+K: C maj
+
++mp+ z8 |
+z8 |
+[A,2-A2-c2-] [A,3/2A3/2c3/2] z/ [A,Ac] z [A,Ac] z |
+[^G,3^G3B3] z [G,2-G2-B2-] [G,GB-] B/ z/ |
+[E,2-E2-B2-] [E,EB-] B/ z/ [E,EB] z [E,EB] z |
+[A,2-A2-c2-] [A,-A-c] [A,/A/] z/ [A,2-A2-c2-] [A,3/2A3/2c3/2] z/ |
+[A,2-A2-c2-] [A,3/2A3/2c3/2] z/ [A,Ac] z [A,A-c] A/ z/ |
+[G,2-G2-c2-] [G,-G-c] [G,/G/] z/ [G,3G3c3] z |
+[G,2-G2-B2-] [G,GB-] B/ z/ [G,GA] z [G,GB-] B/ z/ |
+% Bar 10 (0:14)
+[C4-c4-] [C/c/] z7/2 |
+[c2-e2-] [c3/2e3/2] z/ [ce] z [ce] z |
+[B2-^d2-] [Bd-] d/ z/ [B2-d2-] [B3/2d3/2] z/ |
+[B2-d2-] [Bd-] d/ z/ [Bd] z [B-d] B/ z/ |
+[A2-^c2-] [Ac-] c/ z/ [A3=c3] z |
+[A2-c2-] [A3/2c3/2] z/ [Ac] z [A-c] A/ z/ |
+[^G3B3] z [A2-c2-] [A3/2-c3/2] A/ |
+[E2-B2-] [E3/2B3/2] z/ [E-B] E/ z/ [E-B] E/ z/ |
+[A2-c2-] [A3/2c3/2] z9/2 |
++p+ [c2-e2-] [c3/2e3/2] z/ [ce] z [ce] z |
+% Bar 20 (0:30)
+[B2-^d2-] [B3/2d3/2] z/ [B2-d2-] [B3/2d3/2] z/ |
+[B2-d2-] [Bd-] d/ z/ [Bd] z [Bd-] d/ z/ |
+[A2-^c2-] [Ac-] c/ z/ [A2-=c2-] [A/c/] z3/2 |
+[A2-c2-] [A3/2c3/2] z/ [Ac] z [A-c] A/ z/ |
+[^G3B3] z [A2-c2-] [A3/2-c3/2] A/ |
+[E2-B2-] [E3/2B3/2] z/ [E-B] E/ z/ [E-B] E/ z/ |
+[A2-c2-] [A3/2c3/2-] c/ z4 |
+z4 +mp+ A, z A, z |
+^G, z3 ^G/ z7/2 |
+z4 E, z E, z |
+% Bar 30 (0:45)
+A, z3 A2 z2 |
+z4 A, z A, z |
+G, z3 G3/2 z5/2 |
+z4 G z G3/2 z/ |
+C3 z c2- c3/2 z/ |
+z4 C z C z |
+B,3/2 z5/2 B z3 |
+z4 E z E z |
+A, z3 A z3 |
+z4 A, z A, z |
+% Bar 40 (1:01)
+^G, z3 A, z3 |
+z4 E, z E, z |
+A,3/2 z5/2 A z3 |
+z4 +p+ C z C z |
+B,3/2 z5/2 B z3 |
+z4 E z E z |
+A, z3 A z3 |
+z4 A, z A, z |
+^G, z3 A, z3 |
+z4 E, z E, z |
+% Bar 50 (1:17)
+A,3/2 z5/2 A z3 |
++mp+ A,4 z2 A z |
+^G,2- G,3/2 z5/2 ^G z |
+E,4- E,/ z3/2 +mf+ E z |
+A,2- A,3/2 z5/2 A z |
+A,2- A,3/2 z5/2 A z |
+G,2- G,3/2 z5/2 G z |
+G,4- G,/ z3/2 +f+ G z |
+C2- C3/2 z5/2 c z |
+C4 z2 c2 |
+% Bar 60 (1:33)
+B,4 z2 +ff+ B2 |
+B,4 z2 B2 |
+A,4 z2 A2 |
+A,4 z2 +fff+ A2 |
+^G,4 z2 A,2 |
+E,4 z2 E2 |
+A,4 z2 A2 |
+C4 z2 c2 |
+B,4 z2 B2 |
+B,4 z2 B2 |
+% Bar 70 (1:48)
+A,4 z2 A2 |
+A,4 z2 A2 |
+^G,4 z2 A,2 |
+E,4 z2 E2 |
+A,4 z2 A2 |
+[A,/-A/] A,- [A,/-a/] A,/- [A,/-c'/] A,/ z/ A3/2- [A,/A/-] A/ A3/2 |
+[^G,/-^G/] G,- [G,/-^g/] G,/- [G,/-b/] G,/ z/ G3/2- [G,/G/-] G/ G z/ |
+[E,/-E/] E,- [E,/-^g/] E,/- [E,-b] E,/ E3/2- [E,/E/-] E/ E z/ |
+[A,/-A/] A,- [A,/-a/] A,/- [A,/-c'/] A,/ z/ A3/2- [A,/A/-] A/ A z/ |
+[A,/-A/] A,- [A,/-a/] A,/- [A,/-c'/] A, A3/2- [A,/A/-] A/ A z/ |
+% Bar 80 (2:04)
+[G,/-G/] G,- [G,/-g/] G,/- [G,/-c'/] G,/ z/ G3/2- [G,/G/-] G/ G3/2 |
+[G,/-G/] G,- [G,/-b/] G,/- [G,/-d/] G, G3/2- [G,/G/-] G/ G z/ |
+C3/2- [C/-g/] C/- [C/-c'/] C C3/2 C- [C/-c/] C/ z/ |
+C3/2- [C/-g/] C/- [C-c'] C/ C3/2 C- [Cc] z/ |
+[B,-B] B,/- [B,/-B/] B,/- [B,b] z/ B3/2- [B,/B/-] B/ B z/ |
+[B,/-B/] B,- [B,/-b/] B,/- [B,-d] B,/ B3/2- [B,/B/-] B/ B z/ |
+[A,-A] A,/- [A,/-A/] A,/- [A,-a] A,/ A3/2- [A,/A/-] A/ A z/ |
+[A,-A] A,/- [A,/-a/] A,/- [A,c'] z/ A3/2- [A,/A/-] A/ A z/ |
+[^G,-^G] G,/- [G,/-^g/] G,/- [G,-b] G,/ A3/2- [A,/A/-] A/ A z/ |
+[E,-E] E,/- [E,/-^g/] E,/- [E,b] z/ E3/2- [E,/E/-] E/ E z/ |
+% Bar 90 (2:20)
+[A,-A] A,/- [A,/-A/] A,/- [A,a] z/ A z/ [A,/A/] z/ [B,B] z/ |
+[C/-c/] C- [C/-g/] C/- [Cc'] z/ C3/2 C- [Cc] z/ |
+[B,/-B/] B,- [B,/-B/] B,/- [B,-b] B,/ B3/2- [B,/B/-] B/ B z/ |
+[B,/-B/] B,- [B,/-b/] B,/- [B,d] z/ B3/2- [B,/B/-] B/ +ff+ B z/ |
+[A,-A] A,/- [A,/-A/] A,/- [A,a] z/ A3/2- [A,/A/-] A/ +f+ A z/ |
+[A,/-A/] A,- [A,/-a/] A,/- [A,c'] z/ A3/2- [A,/A/-] A/ A z/ |
++mf+ [^G,-^G] G,/- [G,/-^g/] G,/- [G,b] z/ A3/2- [A,/A/-] A/ A z/ |
+[E,/-E/] E,- +mp+ [E,/-^g/] E,/- [E,-e] E,/ e/ z [E,/e/] z/ [Ee] z/ |
+[A,2-A2-] [A,3/2A3/2-] A/ z4 |
+z8 |
+% Bar 100 (2:36)
+z8 |
+[E,2E2] z2 [^F,2^F2] +p+ [^G,2^G2] |
+[A,2A2] z2 +mp+ [A2a2] [A2a2] |
+[A,2A2] z2 +p+ [A2a2] [A2a2] |
+[A,2A2] z2 [A2a2] +mp+ [A2a2] |
++p+ [A,2A2] z2 +mp+ [A2a2] +p+ [A2a2] |
+[A,2A2] z2 +mp+ a2 [A/a/-] a3/2 |
+[A,2A2] z2 [A2a2] +p+ [A2a2] |
++mp+ [A,2A2] z2 [A2a2] +p+ [A2a2] |
+[A,2A2] z2 +mp+ [A2a2] +p+ [A2a2] |
+% Bar 110 (2:52)
++mp+ [A,2A2] z2 [A2a2] [A2a2] |
+[A,2A2] z2 [A2a2] +p+ [A2a2] |
++mp+ [A,2A2] z2 [A2a2] [A2a2] |
+[A,2A2] z2 [A2a2] [A2a2] |
+[^F,2^F2] [^G,2^G2] [A,2A2] [A,2A2] |
+[B,2B2] z2 [B2b2] [B2b2] |
+[E2e2] z2 e2 e2 |
++p+ [E2e2] z2 e2 e2 |
+[E2e2] z2 e2 e2 |
++mp+ [E2e2] z2 +p+ e2 +mp+ e2 |
+% Bar 120 (3:07)
+[E2e2] z2 +p+ e2 e2 |
++mp+ [E2e2] z2 +p+ e2 e2 |
++mp+ [E2e2] z2 +p+ e2 e2 |
+[^C2^c2] z2 +mp+ c2 +p+ c2 |
++mp+ [D2d2] z2 +p+ d2 +mp+ d2 |
+[^C2^c2] z2 +p+ c2 c2 |
++mp+ [D2d2] z2 +p+ d2 d2 |
++mp+ [^C2^c2] z2 +p+ c2 c2 |
+[D2d2] z2 +mp+ d2 +p+ d2 |
++mp+ [E2e2] z2 +p+ e2 e2 |
+% Bar 130 (3:23)
++mp+ [A,2A2] z2 [A2a2] [A2a2] |
+[^C2^c2] z2 c2 +p+ c2 |
+[D2d2] z2 +mp+ d2 d2 |
++p+ [^C2^c2] z2 c2 +mp+ c2 |
++p+ [D2d2] z2 d2 d2 |
+[^C2^c2] z2 [=C2=c2] +mp+ [C2c2] |
++p+ [F,2F2] z2 +mp+ [F2f2] [F2f2] |
+[G,2G2] z2 +p+ [G2g2] [G2g2] |
+[C2c2] z2 [c2c'2] +mp+ [c2c'2] |
+[C2c2] z2 [c2c'2] [c2c'2] |
+% Bar 140 (3:39)
+[C2c2] z2 [c2c'2] [c2c'2] |
+[C2c2] z2 [c2c'2] [c2c'2] |
+[C2c2] z2 [c2c'2] [c2c'2] |
+[C2c2] z2 +mf+ [c2c'2] [c2c'2] |
+z8 |
+z8 |
+z4 z2 z/ +f+ c z/ |
+B/ z A/ z/ G z/ F z/ E/ z/ D z/ |
+C/ z B,/ z/ A, z/ +fff+ ^G, z +ff+ G,/ z3/2 |
+z8 |
+% Bar 150 (3:55)
++mf+ [E,2-E2-] [E,3/2E3/2] z/ [E,2E2] +mp+ [E,2E2] |
+[E,2-E2-] [E,3/2E3/2] z/ +mf+ [E,2-E2-] [E,3/2E3/2] z/ |
+[E,2-E2-] [E,3/2E3/2] z/ [E,3/2-E3/2] E,/ [E,3/2-E3/2] E,/ |
+[E,2-E2-] [E,3/2E3/2] z/ [E,2-E2-] [E,3/2E3/2] z/ |
+[E,2-E2-] [E,3/2E3/2] z/ [E,3/2E3/2-] E/ [^F,2^F2] |
+[G,2-G2-] [G,3/2G3/2] z/ [G,2-G2-] [G,3/2G3/2] z/ |
+[G,2-G2-] [G,3/2G3/2] z/ [G,2G2] [G,2G2] |
+[G,2-G2-] [G,3/2G3/2] z9/2 |
+[G,2-G2-] [G,3/2G3/2] z/ [G,2G2] [A,2A2] |
++mp+ [B,2-B2-] [B,3/2B3/2] z/ +mf+ [B,2-B2-] [B,3/2B3/2] z/ |
+% Bar 160 (4:11)
+[^F,2-^F2-] [F,3/2F3/2] z/ [F,3/2-F3/2] F,/ [^G,3/2^G3/2-] G/ |
+[A,2-A2-] [A,3/2A3/2] z/ [A,2-A2-] [A,3/2A3/2] z/ |
+[E,2-E2-] [E,3/2E3/2] z/ [E,2E2] [E,3/2-E3/2] E,/ |
++mp+ [E,2-E2-] [E,3/2E3/2] z/ +mf+ [E,2-E2-] [E,3/2E3/2] z/ |
+[E,2-E2-] [E,3/2E3/2] z/ [^F,3/2^F3/2-] F/ [^G,2^G2] |
+[A,2-A2-] [A,3/2A3/2] z9/2 |
+[G,2-G2-] [G,3/2G3/2] z/ [G,2G2] [A,2A2] |
+[B,2-B2-] [B,3/2B3/2] z/ [B,2-B2-] [B,3/2B3/2] z/ |
+[^F,2-^F2-] [F,3/2F3/2] z/ [F,3/2-F3/2] F,/ [^G,3/2-^G3/2] G,/ |
+[A,2-A2-] [A,3/2A3/2] z/ [A,2-A2-] [A,3/2A3/2] z/ |
+% Bar 170 (4:26)
+[E,2-E2-] [E,3/2E3/2] z/ [E,3/2E3/2-] E/ [E,3/2-E3/2] E,/ |
+[E,2-E2-] [E,3/2E3/2] z/ [E,2-E2-] [E,3/2E3/2] z/ |
++mp+ [E,2-E2-] [E,3/2E3/2] z/ +mf+ [^F,3/2^F3/2-] F/ [^G,2^G2] |
+[A,2-A2-] [A,3/2A3/2] z9/2 |
+[A,4A4] [A,3/2-A3/2] A,/ [A,3/2A3/2] z/ |
+[A,4A4] z4 |
+[A,2-A2-] [A,3/2-A3/2] A,/ +mp+ [A,3/2A3/2-] A/ +mf+ [A,3/2-A3/2] A,/ |
+[A,2-A2-] [A,3/2A3/2-] A/ z4 |
+[A,3/2A3/2-] A/ [A,3/2-A3/2] A,/ [A,2A2] z2 |
+[A,3/2-A3/2] A,/ [A,2A2] [A,3/2A3/2] z5/2 |
+% Bar 180 (4:42)
+[A,2A2] +f+ [A,3/2A3/2-] A/ [A,3/2A3/2] z5/2 |
+z4 +mf+ [A,3/2A3/2-] A/ [A,2A2] |
+z4 +mp+ [A,2A2] [A,3/2A3/2] z/ |
+z4 [A,3/2-A3/2] A,/ [A,3/2A3/2] z/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 190 (4:58)
+z8 |
++p+ [A2-a2-] [A3/2a3/2] z/ [A/a/] z3/2 [B/-b/] B/ z |
+[c4c'4] [c2-c'2-] [c3/2-c'3/2] c/ |
+[B2-b2-] [B3/2b3/2-] b/ [B/-b/] B/ z ^c z |
+d z [cc'] z [Bb] z [Aa] z |
+[G/g/] z/ [A/a/] z/ [B/b/] z/ [A/a/] z/ [G/g/] z/ [A/a/] z/ [G/g/] z/ [^F/^f/] z/ |
+[E/e/] z/ [^F/^f/] z/ [G/g/] z/ [A/a/] z/ [B/b/] z/ +pp+ ^c/ z/ +p+ ^d/ z/ e/ z/ |
+e/ z/ [A/a/] z/ [B/b/] z/ ^c/ z/ d/ z/ [B/b/] z/ e/ z/ d/ z/ |
+[c/c'/] z/ [B/b/] z/ [c/c'/] z/ d/ z/ e/ z/ [E/e/] z/ [^F/^f/] z/ [^G/^g/] z/ |
+[A/a/-] a/ z [Gg] z [^F^f] z [E/-e/] E/ z |
+% Bar 200 (5:14)
+[^F/^f/] z/ [F/f/] z/ [G/g/] z/ [A/a/] z/ [D/d/] z/ [D/d/] z/ [E/e/] z/ [F/f/] z/ |
+[Gg] z [Ff] z [E/-e/] E/ z [D2-d2-] |
+[D2d2] [C2-c2-] [C3/2c3/2-] c/ [G2-g2-] |
+[G3/2g3/2-] g/ [C2-c2-] [C3/2-c3/2] C/ [c3/2-c'3/2] c/ |
+z8 |
+z8 |
+d4 d/ z3/2 e z |
+f4 f4 |
+[F/f/] z/ [E/e/] z/ [G/g/] z/ [F/f/] z/ [E/e/] z/ [G/g/] z/ [F/f/] z/ [E/e/] z/ |
+[D/d/] z/ [E/e/] z/ [F/f/] z/ [G/g/] z/ [A/a/] z/ [B/b/] z/ ^c/ z/ d/ z/ |
+% Bar 210 (5:30)
+d/ z/ [D/d/] z/ [D/d/] z/ [D/d/] z/ +mp+ [D/d/] z/ [D/d/] z/ [D/d/] z/ [D/d/] z/ |
+[D/d/] z/ [D/d/] z/ +mf+ [D/d/] z/ [D/d/] z/ [D/d/] z/ [D/d/] z/ +mp+ [D/d/] z/ [D/d/] z/ |
+[D/d/] z/ [D/d/] z/ [D/d/] z/ +mf+ [D/d/] z/ [D/d/] z/ [D/d/] z/ [D/d/] z/ +f+ [D/d/] z/ |
+[D/d/] z/ [D/d/] z/ [D/d/] z/ [D/d/] z/ [D/d/] z/ [D/d/] z/ [C/c/] z/ [B,/B/] z/ |
++ff+ [A,2-A2-] [A,3/2A3/2-] A/ +f+ [A,A] z [A,/A/-] A/ z |
+[^G,2-^G2-] [G,3/2G3/2] z/ [G,3G3] z |
++ff+ [E,2-E2-] [E,3/2E3/2] z/ +f+ [E,E] z +ff+ [E,E] z |
++f+ [A,2-A2-] [A,3/2A3/2] z/ +ff+ [A,2-A2-] [A,3/2A3/2] z/ |
+[A,2-A2-] [A,3/2A3/2] z/ +f+ [A,A] z [A,A] z |
+[^G,2-^G2-] [G,3/2G3/2] z/ [A,2-A2-] [A,3/2A3/2] z/ |
+% Bar 220 (5:45)
+[E,2-E2-] [E,3/2E3/2] z/ +ff+ [Ee] z [Ee] z |
+[A,2-A2-] [A,3/2A3/2-] A/ z4 |
+z8 |
+z8 |
++mf+ [E,2-E2-] [E,3/2E3/2] z/ [^F,2^F2] [^G,2^G2] |
++mp+ [A,2A2] z2 [A2a2] [A2a2] |
++p+ [A,2A2] z2 [A2a2] +mp+ [A2a2] |
++p+ [A,2A2] z2 +mp+ [A2a2] [A2a2] |
++p+ [A,2A2] z2 [A2a2] +mp+ [A2a2] |
+[A,2A2] z2 +p+ [A2a2] [A2a2] |
+% Bar 230 (6:01)
++mp+ [A,2A2] z2 [A2a2] [A2a2] |
+[A,2A2] z2 +p+ [A2a2] +mp+ [A2a2] |
++p+ [A,2A2] z2 +mp+ [A2a2] +p+ [A2a2] |
++mp+ [A,2A2] z2 +p+ [A2a2] [A2a2] |
++mp+ [A,2A2] z2 [A2a2] +p+ [A2a2] |
+[A,2A2] z2 +mp+ [A2a2] +p+ [A2a2] |
+[A,2A2] z2 +mp+ [A2a2] [A2a2] |
+[A,2A2] z2 +p+ [A2a2] [A2a2] |
++mp+ [A,2A2] z2 [A2a2] [A2a2] |
++p+ [A,2A2] z2 [A2a2] +mp+ [A2a2] |
+% Bar 240 (6:17)
+[A,3A3] z [Aa] z +p+ [Aa] z |
++mp+ [A,3A3] z +p+ [Aa] z [Aa] z |
+[A,3A3] z [Aa] z [Aa] z |
+[A8-a8-] |
+[F/-A/f/-a/] [F15/2-f15/2-] |
+[E/-F/e/-f/] [E15/2-e15/2-] |
+[D/-E/d/-e/] [D7/2-d7/2-] [D2-d2-] [D3/2d3/2] z/ |
++mf+ [G,2G2] z2 [G2g2] z2 |
+z8 |
++mp+ [E4e4] [Ee] z [Ee] z |
+% Bar 250 (6:33)
++p+ [A,2-A2-] [A,3/2A3/2] z9/2 |
++mf+ [G,2-G2-] [G,/G/] z3/2 [G2-g2-] [G/g/] z3/2 |
+[C4c4] z4 |
++mp+ [E4e4] [Ee] z [Ee] z |
+z8 |
+z4 +p+ [A,4A4] |
+z4 [E4e4] |
+z4 [E4e4] |
+z4 [A4a4] |
+z4 [A4a4] |
+% Bar 260 (6:48)
+z4 [G4g4] |
+[G,4G4] [G,2G2] [G,2G2] |
+[C4c4] z4 |
+z4 [c4c'4] |
+z4 [B4b4] |
+z4 e4 |
+z4 [A4a4] |
+z4 [A4a4] |
+[^G4^g4] [A4a4] |
+[E,4E4] [^F,2^F2] [^G,2^G2] |
+% Bar 270 (7:04)
+[A,4A4] z4 |
+z8 |
+z8 |
+[E,4E4] [^F,2^F2] [^G,2^G2] |
+[A,4A4] z4 |
+[A,4A4] z4 |
+[A,4A4] z4 |
+z8 |
+z8 |]
+
+
+X: 5
+T: <7th2> 5/11[Flute] (7:17)
+%%part-name Flute
+M: 2/4
+Q: 76
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:30)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:48)
+z8 |
+z8 |
+z8 |
+z4 ^G4 |
+z4 +mp+ A4 |
++f+ [E2-e2-] [E3/2e3/2] z/ [E/e/] z3/2 [E/e/] z3/2 |
+[E2-e2-] [E3/2e3/2] z/ [E3e3] z |
+[E2-e2-] [E3/2e3/2] z/ [E/e/] z3/2 [E/e/-] e/ z |
+[E3e3] z [E2-e2-] [E3/2e3/2] z/ |
+[E2-e2-] [E3/2e3/2] z/ [E/-e/] E/ z [^F^f] z |
+% Bar 80 (2:04)
+[G3g3] z [G3g3] z |
+[G2-g2-] [G3/2g3/2] z/ +mf+ [Gg] z +f+ [Gg] z |
+[G2-g2-] [G3/2g3/2] z9/2 |
+G2- G3/2 z/ G z A z |
+B2- B3/2 z/ +mf+ B3 z |
++f+ [^F2-^f2-] [F3/2f3/2] z/ +ff+ [F/-f/] F/ z +f+ [^G^g] z |
+[A2-a2-] [A3/2a3/2] z/ +ff+ [A3a3] z |
+[E3e3] z +f+ [E/-e/] E/ z [E/-e/] E/ z |
++ff+ [E2-e2-] [E3/2e3/2] z/ [E2-e2-] [E3/2e3/2] z/ |
++f+ [E3e3] z +ff+ [^F^f] z +f+ [^G^g] z |
+% Bar 90 (2:20)
+[A2-a2-] [A3/2a3/2] z9/2 |
+z8 |
+z8 |
+[^F2-^f2-] [F3/2f3/2] z/ [F/f/-] f/ z [^G/^g/-] g/ z |
+[A3a3] z +mf+ [A3a3] z |
+[E3e3] z [E/e/] z3/2 [E/e/-] e/ z |
+[E3e3] z [E2-e2-] [E3/2e3/2] z/ |
++mp+ [E3e3] z [^F^f] z [^G^g] z |
+[A2-a2-] [A3/2a3/2] z9/2 |
+z8 |
+% Bar 100 (2:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (2:52)
+z4 [e4-g4-] |
+[e8-g8-] |
+[e4-g4-] [d-e^f-g] [d3-f3-] |
+[d4-^f4-] [^c-de-f] [c3-e3-] |
+[B-^cd-e] [B3-d3-] +p+ [A/-B/c/-d/] [A7/2-c7/2-] |
++mp+ [^G-AB-^c] [G3-B3-] [^F/-G/-B/^d/-] [F/-G/d/-] [F3-d3-] |
++p+ [E-^F^de-] [E3-e3-] [Ee] z3 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (3:07)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 130 (3:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++mp+ e8- |
+e3/2- [e/f/-] f/- [e/-f/] e- [e/g/-] g- [f/-g/] f/- [A/-f/] A |
+c4- [ce-] e- [d/-e/] d3/2- |
+[c/-d/] c7/2- c z3 |
+f4- f3/2 z/ f3/2 z/ |
+% Bar 140 (3:39)
++mf+ f3/2 +mp+ e/ z/ +mf+ d z/ c/ z +mp+ B/ z/ +mf+ A z/ |
++mp+ G4- [G/A/-] A3/2- [A/B/] z3/2 |
+c11/2- +mf+ [c/d/-] d/- +mp+ [d/e/-] e- |
++mf+ [e/f/-] f7/2- f3/2 z f3/2 |
+f z/ e/ z/ d/ z c/ z B/ z/ +f+ A/ z |
++mf+ G3/2 z13/2 |
+z8 |
+z8 |
+z8 |
+z4 +f+ [Ee] z [Ee] z |
+% Bar 150 (3:55)
++mp+ c8- |
+[B/-c/] B7/2- B2- B3/2 z/ |
+B/ c/- [c/d/-] d4 c- [B/-c/] B/ z/ |
+B2- [B/c/-] c z/ c2- c/ z3/2 |
+c6 d2 |
+^d2- [d/e/-] e z/ e z e z |
+d/ e/ f9/2- [e/-f/] e/- [d/-e/] d |
+d2- [d/e/-] e z/ e2- e3/2 z/ |
+e6 ^f2 |
+e4- [^d/-e/] d5/2 z |
+% Bar 160 (4:11)
+d6 e2 |
+d2- [^c/-d/] c3/2- [=c/-^c/] =c5/2 z |
+c8 |
+B4- [B/c/-] c3/2- c3/2 z/ |
+B/- [B/c/-] [c/d/-] d4 c- [B/-c/] B/ z/ |
+A z/ A- [A/B/-] B c/ z c- [c/d/-] d |
+e4- e2- [e/^f/-] f3/2- |
+[e/-^f/] e7/2- [^d/-e/] d3/2 z2 |
+d3/2 B ^c3/2- [c/d/-] d e- [d/-e/] d |
+d2- [^c/-d/] c3/2- [=c/-^c/] =c3/2- c/ z3/2 |
+% Bar 170 (4:26)
+c8 |
+B4- [B/c/-] c3/2- c3/2 z/ |
+B/ c/- [c/d/-] d4 c- [B/-c/] B |
+A4- A/ z7/2 |
+A4- A3/2 B- [B/^c/-] c/ z/ |
+^c2- [c/d/-] d3/2 d2 z2 |
+d4- d3/2 e- [e/f/-] f/ z/ |
+f2- [e/-f/] e z/ e2 z2 |
+A z/ A A z/ A3/2 B +mf+ ^c z/ |
++mp+ ^c3/2 d +mf+ d z/ +mp+ d2 z2 |
+% Bar 180 (4:42)
+d z/ +mf+ d d z/ d3/2 e f z/ |
+f3/2- [e/-f/] e/ +mp+ e z9/2 |
+e3/2- [e/f/-] f/ f z9/2 |
++p+ f3/2- [e/-f/] e/ e z9/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 190 (4:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 200 (5:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 210 (5:30)
+^G4 G z +mp+ A z |
+B4 +mf+ B z c z |
+d4 d z +f+ e z |
+f2 +ff+ e/ z/ +f+ ^d/ z/ e/ z/ +ff+ E/ z/ ^F/ z/ ^G/ z/ |
++f+ A/ z/ B/ z/ c/ z/ B/ z/ A/ z/ c/ z/ B/ z/ A/ z/ |
+E/ z/ ^F/ z/ ^G/ z/ A/ z/ B/ z/ c/ z/ d/ z/ e/ z/ |
+d/ z/ B/ z/ c/ z/ d/ z/ e/ z/ d/ z/ c/ z/ B/ z/ |
+c/ z/ B/ z/ c/ z/ d/ z/ e/ z/ E/ z/ ^F/ z/ ^G/ z/ |
+A/ z/ B/ z/ c/ z/ B/ z/ A/ z/ c/ z/ B/ z/ A/ z/ |
+E/ z/ ^F/ z/ ^G/ z/ A/ z/ B/ z/ c/ z/ d/ z/ e/ z/ |
+% Bar 220 (5:45)
+d/ z/ B/ z/ c/ z/ d/ z/ e/ z/ d/ z/ c/ z/ B/ z/ |
+A4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 230 (6:01)
+z8 |
+z8 |
+z8 |
+z4 +p+ [e4-g4-] |
+[e8-g8-] |
+[e4-g4-] [d3/2-e3/2^f3/2-g3/2] [d5/2-f5/2-] |
+[d4-^f4-] [^c3/2-d3/2e3/2-f3/2] [c5/2-e5/2-] |
+[^F-^cd-e] [F3-d3-] [E/-F/-c/-d/] [E/-F/c/-] [E3-c3-] |
+[E^F-^cd-] [F3-d3-] [F^G-de-] [G3-e3-] |
+[^GA-^c-e] [A7c7] |
+% Bar 240 (6:17)
+[^F4d4] [^G4e4] |
+[A4-^c4-] [A2-c2-] [A3/2c3/2] z/ |
+[^F4d4] [^G4e4] |
++pp+ A2- A3/2 z/ +p+ A z A z |
+A4 +pp+ A2- A3/2 z/ |
++p+ A2- A3/2 z/ A z A z |
++pp+ A4 A2- A3/2 z/ |
++mf+ [D2-B2-] [D3/2B3/2] z/ [CA] z [DB] z |
+[E2-c2-] [E/c/] z11/2 |
+z8 |
+% Bar 250 (6:33)
+z8 |
++mp+ [D2-B2-] [D3/2B3/2] z/ [CA] z [DB] z |
+[E2-c2-] [E/c/] z11/2 |
+z8 |
+B4 A z [Be] z |
++p+ [c2-e2-] [c3/2e3/2] z/ [ce] z [ce] z |
+[B2-e2-] [B3/2e3/2] z/ [B2-e2-] [B3/2e3/2] z/ |
+z8 |
+z8 |
+z8 |
+% Bar 260 (6:48)
+z8 |
+z8 |
+z8 |
+e2- e3/2 z/ e z e z |
+^d2- d3/2 z/ =d2- d3/2 z/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 270 (7:04)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 6
+T: <7th2> 6/11[Clarinet] (7:17)
+%%part-name Clarinet
+M: 2/4
+Q: 76
+K: C maj
+
++mf+ [E8-A8-] |
+[E8-A8-] |
+[E4A4] z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:30)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:48)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++f+ [E3e3] z [E/-e/] E/ z [E/-e/] E/ z |
++mf+ [E3e3] z +f+ [E3e3] z |
+[E2-e2-] [E3/2e3/2] z/ [E/e/] z3/2 [Ee] z |
+[E3e3] z [E2-e2-] [E3/2e3/2] z/ |
+[E2-e2-] [E3/2e3/2] z/ [Ee] z [^F^f] z |
+% Bar 80 (2:04)
+[G3g3] z [G2-g2-] [Gg-] g/ z/ |
+[G2-g2-] [Gg-] g/ z/ [Gg] z [Gg] z |
+[G4g4-] g/ z7/2 |
+[G2-g2-] [G3/2g3/2] z/ [G/g/] z3/2 +ff+ [A/-a/] A/ z |
+[B2-b2-] [B3/2b3/2] z/ +f+ [B2-b2-] [B-b] B/ z/ |
++ff+ [^F3^f3] z +f+ [Ff] z +ff+ [^G^g] z |
+[A3a3] z +f+ [A3a3] z |
+[E3e3] z [E/e/] z3/2 +ff+ [E/e/-] e/ z |
+[E3e3] z +f+ [E3e3] z |
++ff+ [E3e3] z [^F^f] z [^G^g] z |
+% Bar 90 (2:20)
++f+ [A2-a2-] [A3/2a3/2] z9/2 |
+[G2-g2-] [G3/2g3/2] z/ [Gg] z [Aa] z |
+[B2-b2-] [B3/2b3/2] z/ [B3b3] z |
+[^F2-^f2-] [F-f] F/ z/ +mf+ [Ff] z [^G^g] z |
+[A3a3] z [A3a3] z |
+[E2-e2-] [E3/2e3/2] z/ [E/e/] z3/2 [Ee] z |
+[E3e3] z +mp+ [E2-e2-] [E-e] E/ z/ |
+[E2-e2-] [E3/2e3/2] z/ [^F/-^f/] F/ z [^G^g] z |
+[A2-a2-] [A3/2-a3/2] A/ z4 |
+[B2-d2-] [B3/2d3/2] z/ [B/-d/] B/ z [B/-d/] B/ z |
+% Bar 100 (2:36)
+[A2-c2-] [A/-c/] A/ z5 |
+z4 e4- |
+e4- [^c/-e/] c7/2- |
+[A/-^c/] A7/2- [A/c/-] c7/2 |
+^c4- [D/-B/-c/] [D7/2-B7/2-] |
+[D4-B4-] [^C-DA-B] [C3-A3-] |
+[B,/-^C/^G/-A/] [B,7/2-G7/2-] [B,/C/-G/A/-] [C7/2-A7/2-] |
+[^C/-D/-A/B/-] [C/D/-B/-] [D3-B3-] [D/-E/-B/^c/-] [D/E/-c/-] [E3-c3-] |
+[E/^F/-^c/d/-] [F7/2-d7/2-] [F/^G/-d/e/-] [G7/2-e7/2-] |
+[^GB-d-e] [B3-d3-] [A-B^c-d] [Ac-] c/- [c3/2a3/2] |
+% Bar 110 (2:52)
+[^c4-a4-] [c/-e/-a/] [c7/2-e7/2-] |
+[A/-^c/-e/] [A7/2-c7/2-] [A/c/-e/-] [c7/2e7/2] |
+[^c4-e4-] [c/d/-e/^f/-] [d7/2-f7/2-] |
+[d4-^f4-] [^c-de-f] [c3e3] |
+[B4-d4-] [A/-B/^c/-d/] [A7/2-c7/2-] |
+[^G/-A/B/-^c/-] [G/-B/-c/] [G3-B3-] [^F/-G/B/^d/-] [F7/2-d7/2-] |
+[^F/^G/-^d/e/-] [G15/2e15/2] |
+a6 a2 |
+a3/2 ^g/ z/ ^f/ z e/ z ^d/ z/ ^c/ z |
+B4- [B/^c/-] c3/2 ^d3/2 z/ |
+% Bar 120 (3:07)
+e11/2- [e/^f/-] f/- [f/^g/-] g |
+a6 a2 |
+a3/2- [^g/-a/] g/- [^f/-g/] f- [e/-f/] e- [^d/-e/] d/- [d/e/-] e |
+[^A8-e8-] |
+[^AB-e-] [B3-e3-] [B-e^f-] [B-f-] [B/-e/-f/] [B3/2-e3/2] |
+[^A/-B/e/-] [A15/2-e15/2-] |
+[^AB-e-] [B3-e3-] [B-e^g-] [B/-g/-] [B/-^f/-g/] [B/-f/-] [B/-e/-f/] [B-e] |
+[^A/-B/e/-] [A7/2-e7/2-] [A2-e2-] [G/-A/e/-] [G3/2e3/2-] |
+[^F3/2-e3/2-] [F/-d/-e/] [F/-d/-] [F/-^c/-d/] [Fc-] [F/-c/e/-] [F-e-] [F/d/-e/] [D/-d/-] [D/-F/-d/] [DF] |
+[^C4-A4-] [C/^G/-A/B/-] [G7/2-B7/2-] |
+% Bar 130 (3:23)
+[^G/A/-B/^c/-] [A7/2-c7/2-] [A/B/-c/d/-] [B-d-] [B/=c/-d/^d/-] [c/-d/-] [c/^c/-d/e/-] [ce] |
+[^A8-e8-] |
+[^AB-e-] [B3-e3-] [B-e^f-] [B-f-] [B/-e/-f/] [B3/2-e3/2] |
+[^A/-B/e/-] [A15/2-e15/2-] |
+[^AB-e-] [B3-e3-] [B-e^g-] [B/-g/-] [B/-^f/-g/] [B/-f/-] [B/-e/-f/] [B-e] |
+B/ z15/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 140 (3:39)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++f+ [Ee] z [Ee] z5 |
+% Bar 150 (3:55)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 160 (4:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 170 (4:26)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 180 (4:42)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 190 (4:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 200 (5:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 210 (5:30)
++pp+ ^G4 +p+ G z +pp+ A z |
++p+ B4 +mp+ B z c z |
+d2- d3/2 z/ d z +mf+ e z |
+f2 e- [^d/-e/] d/- [d/e/-] e/ E/ z/ +f+ ^F/ z/ ^G/ z/ |
++mf+ A/ z/ B/ z/ c/ z/ B/ z/ A/ z/ c/ z/ B/ z/ A/ z/ |
+E/ z/ ^F/ z/ ^G/ z/ A/ z/ B/ z/ c/ z/ d/ z/ e/ z/ |
+d/ z/ B/ z/ c/ z/ d/ z/ e/ z/ d/ z/ c/ z/ B/ z/ |
+c/ z/ B/ z/ c/ z/ d/ z/ e/ z/ E/ z/ ^F/ z/ ^G/ z/ |
+A/ z/ B/ z/ c/ z/ B/ z/ A/ z/ c/ z/ B/ z/ A/ z/ |
+E/ z/ ^F/ z/ ^G/ z/ A/ z/ B/ z/ c/ z/ d/ z/ e/ z/ |
+% Bar 220 (5:45)
+d/ z/ B/ z/ c/ z/ d/ z/ e/ z/ d/ z/ c/ z/ B/ z/ |
+A4 z4 |
++p+ [B2-d2-] [B3/2d3/2-] d/ [Bd] z [Bd] z |
+[A2-c2-] [A/c/] z11/2 |
+z4 e4 |
++mp+ e4- [^c/-e/] c7/2- |
+[A/-^c/] A7/2- [A/c/-] c7/2 |
++p+ ^c4- +mp+ [D/-B/-c/] [D7/2-B7/2-] |
+[D4-B4-] [^C-DA-B] [C3-A3-] |
+[B,/-^C/^G/-A/] [B,7/2-G7/2-] [B,/C/-G/A/-] [C7/2-A7/2-] |
+% Bar 230 (6:01)
+[^CD-AB-] [D3-B3-] [D/E/-B/^c/-] [E7/2-c7/2-] |
+[E/^F/-^c/d/-] [F7/2-d7/2-] [F/^G/-d/e/-] [G7/2-e7/2-] |
+[^GB-d-e] [B3-d3-] [A-B^c-d] [Ac-] [c3/2-a3/2] c/ |
+[^c4-a4-] [c/-e/-a/] [c7/2-e7/2-] |
+[A/-^c/-e/] [A7/2-c7/2-] [A/c/-e/-] [c7/2e7/2] |
+[^c4-e4-] [c/d/-e/^f/-] [d7/2-f7/2-] |
+[d4-^f4-] [^c/-d/e/-f/] [c7/2e7/2] |
+[^F4-d4-] [E/-F/^c/-d/] [E7/2-c7/2-] |
+[E/-^F/-^c/d/-] [E/F/-d/-] [F3-d3-] [F/^G/-d/e/-] [G7/2e7/2] |
+[A8^c8] |
+% Bar 240 (6:17)
+[^F4d4-] [^G/-d/e/-] [G7/2e7/2] |
++p+ [A4-^c4-] [A2-c2-] [A3/2c3/2] z/ |
+[^F4d4] [^G4e4] |
++pp+ A2- A3/2 z/ A z +p+ A z |
++pp+ A4 +p+ A4 |
+A2- A3/2 z/ A z +pp+ A z |
++p+ A4 +pp+ A2- A3/2 z/ |
++mp+ [B2-d2-] [B3/2d3/2] z/ [Ac] z [Bd] z |
+[c2-e2-] [c/e/] z11/2 |
+z8 |
+% Bar 250 (6:33)
+z8 |
+[B2-d2-] [B3/2d3/2] z/ [Ac] z [Bd] z |
+[c2-e2-] [c/e/] z11/2 |
+z8 |
+z8 |
+z8 |
+z8 |
++p+ [^G2-e2-] [G3/2e3/2] z/ [Ge] z [Ge] z |
+[A2-e2-] [A3/2e3/2] z/ [A2-e2-] [A3/2e3/2] z/ |
+z8 |
+% Bar 260 (6:48)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++pp+ [B2-^f2-] [B3/2f3/2] z/ +p+ [Bf] z [B^g] z |
++pp+ [A2-a2-] [A3/2a3/2] z/ +p+ [A2-a2-] [A3/2a3/2] z/ |
+z8 |
+z8 |
+z8 |
+% Bar 270 (7:04)
+z8 |
+[B2-d2-] [B3/2d3/2] z/ +pp+ [Bd] z [Bd] z |
+[A2-c2-] [A3/2c3/2] z9/2 |
+z8 |
+z8 |
+z8 |
++mp+ [E8-A8-] |
+[E8-A8-] |
+[E3A3] z5 |]
+
+
+X: 7
+T: <7th2> 7/11[Clarinet] (7:17)
+%%part-name Clarinet
+M: 2/4
+Q: 76
+K: C maj
+
++f+ [c8-e8-] |
+[c8-e8-] |
+[c4e4] z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:30)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 [e4g4] |
+z4 [^d4b4] |
+z4 +mf+ [d4^f4] |
+% Bar 70 (1:48)
+z4 +f+ [c4a4] |
+z4 [c4e4] |
+z4 [c4e4] |
+z4 +mf+ [B4e4] |
+z4 +f+ [c4e4] |
+e3 z e z e z |
+e3 z e3 z |
+e2- e3/2 z/ e z e z |
+e2- e3/2 z/ +mf+ e3 z |
++f+ e2- e3/2 z/ e z +mf+ ^f z |
+% Bar 80 (2:04)
++f+ g3 z +mf+ g3 z |
++f+ g2- g3/2 z/ +mf+ g/ z3/2 g z |
+g4 z4 |
++f+ [G4g4] [G/g/] z3/2 [A/a/] z3/2 |
++ff+ [B2-b2-] [B3/2b3/2] z/ [B2-b2-] [B/-b/] B/ z |
++f+ [^F2-^f2-] [F3/2f3/2] z/ [F/f/] z3/2 [^G^g] z |
+[A3a3] z [A2-a2-] [Aa-] a/ z/ |
+e3 z e z e z |
++mf+ e3 z +f+ e2- e3/2 z/ |
+e3 z ^f/ z3/2 ^g/ z3/2 |
+% Bar 90 (2:20)
+a4 z4 |
+g2- g3/2 z/ g z a z |
+b2- b3/2 z/ b3 z |
++mf+ ^f3 z f/ z3/2 ^g/ z3/2 |
+a2- a3/2 z/ a2- a3/2 z/ |
+e2- e3/2 z/ e/ z3/2 +mp+ e z |
+e2- e3/2 z/ e2- e3/2 z/ |
+e2- e3/2 z/ ^f/ z3/2 ^g z |
+a2- a3/2 z9/2 |
+e2- e3/2 z/ [e/-^f/] e/ z [e/-^g/] e/ z |
+% Bar 100 (2:36)
+[e3a3] z5 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (2:52)
+z4 +p+ e/- [e7/2-g7/2-] |
+[e8-g8-] |
+[e4-g4-] [d/-e/^f/-g/] [d3/2-f3/2-] [d/f/] z3/2 |
+z8 |
+z4 [^c4-a4-] |
+[^c/^g/-a/b/-] [g7/2-b7/2-] [^f-ga-b] [f3-a3-] |
+[e/-^f/^g/-a/] [e7/2-g7/2-] [e/g/] z7/2 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (3:07)
+z8 |
+z8 |
+z8 |
+[^A8-e8-] |
+[^AB-e-] [B3-e3-] [B3/2-e3/2^f3/2-] [B/-f/-] [B/-e/-f/] [B3/2-e3/2] |
+[^A/-B/e/-] [A15/2-e15/2-] |
+[^AB-e-] [B3-e3-] [B3/2-e3/2^g3/2-] [B/-^f/-g/] [B/-f/-] [B/-e/-f/] [B-e] |
+B/ z15/2 |
+z8 |
+z8 |
+% Bar 130 (3:23)
+z8 |
+[^A8-e8-] |
+[^AB-e-] [B3-e3-] [B3/2-e3/2^f3/2-] [B/-f/-] [B/-e/-f/] [B3/2-e3/2] |
+[^A/-B/e/-] [A15/2-e15/2-] |
+[^AB-e-] [B3-e3-] [B3/2-e3/2^g3/2-] [B/-^f/-g/] [B/-f/-] [B/-e/-f/] [B-e] |
+[B/e/-] e15/2- |
+e3/2- [e/-f/-] [e/f/-] [e/-f/] e g3/2- [f/-g/] f/- [A/-f/] A |
+c4- [ce-] e- [d/-e/] d3/2- |
+[c/-d/] c7/2- c z3 |
++mp+ f4- f3/2 z/ f3/2 z/ |
+% Bar 140 (3:39)
+f3/2 e/ z/ d z/ c/ z B/ z/ A z/ |
+G4- [G/A/-] A3/2 B/ z3/2 |
+c4- c3/2 d- [d/e/-] e- |
+[e/f/-] f7/2- f3/2 z +mf+ f3/2 |
+f z/ e/ z/ d/ z c/ z B/ z/ A z/ |
+G3/2 z13/2 |
+z8 |
+z8 |
+z8 |
+z4 +f+ e z +ff+ e z |
+% Bar 150 (3:55)
++mp+ c8- |
+[B/-c/] B7/2- B2- B3/2 z/ |
+B/ c/ d9/2 c- [B/-c/] B/ z/ |
+B2- [B/c/-] c z/ c2- c/ z3/2 |
+c6 d2 |
+^d2- [d/e/-] e/ z e z e z |
+[d/e/-] e/ f9/2- [e/-f/] e/- [d/-e/] d |
+d2- [d/e/-] e3/2 e2- e3/2 z/ |
+e6 ^f2 |
+e4- [^d/-e/] d5/2 z |
+% Bar 160 (4:11)
+d6 e2 |
+d2- [^c/-d/] c3/2- [=c/-^c/] =c5/2 z |
+c8 |
+B4- [B/c/-] c3/2- c3/2 z/ |
+B/- [B/c/-] [c/d/-] d4 c- [B/-c/] B |
+A/ z A- [A/B/-] B c/ z c- [c/d/-] d |
+e4- e2- [e/^f/-] f3/2- |
+[e/-^f/] e7/2- [^d/-e/] d3/2 z2 |
+d3/2 B ^c3/2- [c/d/-] d e- [d/-e/] d |
+d2- [^c/-d/] c3/2- [=c/-^c/] =c3/2- c/ z3/2 |
+% Bar 170 (4:26)
+c8 |
+B4- [B/c/-] c3/2- c3/2 z/ |
+B/ c/- [c/d/-] d4 c- [B/-c/] B |
+A4- A/ z7/2 |
+A4- A3/2 B- [B/^c/-] c/ z/ |
+^c2- [c/d/-] d3/2 d2- d/ z3/2 |
+d4- d3/2 e- [e/f/-] f/ z/ |
+f2- [e/-f/] e3/2 e2 z2 |
+A z/ A +mf+ A z/ +mp+ A3/2 B ^c z/ |
+^c3/2 d d z/ +mf+ d z3 |
+% Bar 180 (4:42)
++mp+ d z/ +mf+ d d z/ d3/2 e f z/ |
+f3/2 e +mp+ e3/2 z4 |
+e3/2 +p+ f f3/2 z4 |
+f3/2- [e/-f/] e/ e3/2 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 190 (4:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 200 (5:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+d2- d3/2 z/ d z e z |
+% Bar 210 (5:30)
+f8- |
+f8- |
+f8- |
+f2 +ff+ e/ z/ +f+ ^d/ z/ +ff+ e/ z/ [E/e/] z/ [^F/^f/] z/ [^G/^g/] z/ |
++f+ [A/a/] z/ [B/b/] z/ [c/c'/] z/ [B/b/] z/ [A/a/] z/ [c/c'/] z/ [B/b/] z/ [A/a/] z/ |
+[E/e/] z/ [^F/^f/] z/ [^G/^g/] z/ [A/a/] z/ [B/b/] z/ c/ z/ d/ z/ e/ z/ |
+d/ z/ B/ z/ c/ z/ d/ z/ e/ z/ d/ z/ c/ z/ B/ z/ |
+c/ z/ B/ z/ c/ z/ d/ z/ e/ z/ [E/e/] z/ [^F/^f/] z/ [^G/^g/] z/ |
+[A/a/] z/ [B/b/] z/ [c/c'/] z/ [B/b/] z/ [A/a/] z/ [c/c'/] z/ [B/b/] z/ [A/a/] z/ |
+e/ z/ ^f/ z/ ^g/ z/ a/ z/ b/ z/ c/ z/ d/ z/ e/ z/ |
+% Bar 220 (5:45)
+d/ z/ B/ z/ c/ z/ d/ z/ e/ z/ d/ z/ c/ z/ B/ z/ |
+A4 z4 |
++mp+ e2- e3/2 z/ [e^f] z [e^g] z |
+[e2-a2-] [e/a/] z11/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 230 (6:01)
+z8 |
+z8 |
+z8 |
+z4 +pp+ [e4-g4-] |
+[e8-g8-] |
+[e4-g4-] [d/-e/^f/-g/] [d3/2-f3/2-] [d/f/] z3/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 240 (6:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++mp+ [d2-b2-] [d3/2b3/2] z/ [ca] z [db] z |
+[e2-c'2-] [e/c'/] z11/2 |
+z8 |
+% Bar 250 (6:33)
+z8 |
+[d2-b2-] [d3/2b3/2] z/ [ca] z [db] z |
+[e2-c'2-] [e/c'/] z11/2 |
+z8 |
++p+ ^g2- g3/2 z/ +mp+ ^f z g z |
++p+ a2- a3/2 z/ a z a z |
+^g2- g3/2 z/ g2- g3/2 z/ |
+B2- B3/2 z/ B z B z |
+c2- c3/2 z/ c2- c3/2 z/ |
+z8 |
+% Bar 260 (6:48)
+z8 |
+z8 |
+z8 |
+g2- g3/2 z/ g z a z |
+b2- b3/2 z/ b2- b3/2 z/ |
+d2- d3/2 z/ d z d z |
+^c2- c3/2 z/ =c2- c3/2 z/ |
+z8 |
+z8 |
+z8 |
+% Bar 270 (7:04)
+z8 |
+e2- e3/2 z/ [e^f] z [e^g] z |
+[e2-a2-] [e3/2a3/2] z9/2 |
+z8 |
+z8 |
+z8 |
++mp+ [c8-e8-] |
+[c8-e8-] |
+[c2-e2-] [c/e/] z11/2 |]
+
+
+X: 8
+T: <7th2> 8/11[Clarinet] (7:17)
+%%part-name Clarinet
+M: 2/4
+Q: 76
+K: C maj
+
++f+ [A,8-C8-] |
+[A,8-C8-] |
+[A,4C4] z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:30)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 [C4E4] |
+z4 [B,4^F4] |
+z4 +mf+ [B,4D4] |
+% Bar 70 (1:48)
+z4 +f+ [A,4E4] |
+z4 [A,4E4] |
+z4 [A,4E4] |
+z4 [B,4D4] |
+z4 +mf+ [A,4C4] |
++f+ [E,3E3] z [E,/E/] z3/2 [E,E] z |
+[E,3E3] z [E,3E3] z |
+[E,2-E2-] [E,3/2E3/2] z/ [E,/E/] z3/2 [E,/E/-] E/ z |
++mf+ [E,3E3] z +f+ [E,3E3] z |
+[E,2-E2-] [E,3/2E3/2] z/ [E,/E/-] E/ z [^F,^F] z |
+% Bar 80 (2:04)
+[G,3G3] z [G,3G3] z |
+[G,3G3] z [G,/G/-] G/ z [G,G] z |
+[G,4G4] z4 |
+G,2- G,3/2 z/ G, z +ff+ A, z |
++f+ B,2- B,3/2 z/ B,2- B,3/2 z/ |
+^F,3 z F, z +ff+ ^G, z |
++f+ A,2- A,3/2 z/ A,2- A,3/2 z/ |
++ff+ [E,3E3] z [E,E] z [E,E] z |
++f+ [E,2-E2-] [E,E-] E/ z/ +ff+ [E,2-E2-] [E,3/2E3/2] z/ |
++f+ [E,3E3] z ^F, z +ff+ ^G, z |
+% Bar 90 (2:20)
++f+ A,3 z5 |
+G,2- G,3/2 z/ G, z A, z |
+B,2- B,3/2 z/ B,3 z |
++mf+ ^F,3 z F, z ^G, z |
+A,3 z A,3 z |
+[E,2-E2-] [E,E-] E/ z/ [E,E] z [E,E] z |
++mp+ [E,3E3] z [E,2-E2-] [E,-E] E,/ z/ |
+E,3 z ^F, z ^G,/ z3/2 |
+A,2- A,3/2 z9/2 |
+[B,2-D2-] [B,3/2D3/2] z/ [B,/-D/] B,/ z [B,/-D/] B,/ z |
+% Bar 100 (2:36)
+[A,3C3] z5 |
+z4 +p+ E4- |
+E4- [^C/-E/] C7/2- |
+[A,/-^C/] A,7/2- [A,/C/-] C7/2 |
+^C4- [D,/-B,/-C/] [D,7/2-B,7/2-] |
+[D,4-B,4-] [D,A,-B,^C-] [A,3-C3-] |
+[^G,/-A,/B,/-^C/] [G,7/2-B,7/2-] [G,/A,/-B,/C/-] [A,7/2-C7/2-] |
+[D,/-A,/B,/-^C/] [D,7/2-B,7/2-] [D,/E,/-B,/C/-] [E,7/2-C7/2-] |
+[E,/^F,/-^C/D/-] [F,7/2-D7/2-] [F,/^G,/-D/E/-] [G,7/2-E7/2-] |
+[^G,/-B,/-D/-E/] [G,/B,/-D/-] [B,3-D3-] [A,/-B,/^C/-D/-] [A,/-C/-D/] [A,-C-] [A,/C/-E/-] [C3/2E3/2] |
+% Bar 110 (2:52)
+[^C8-E8-] |
+[A,/-^C/-E/] [A,7/2-C7/2-] [A,/C/-E/-] [C3/2-E3/2-] [C3/2-E3/2] C/ |
+[^C4-E4-] [C/D/-E/^F/-] [D7/2-F7/2-] |
+[D4-^F4-] [^C3/2-D3/2E3/2-F3/2] [C5/2-E5/2-] |
+[B,/-^C/D/-E/] [B,7/2-D7/2-] [A,/-B,/C/-D/] [A,7/2-C7/2-] |
+[^G,/-A,/B,/-^C/] [G,7/2-B,7/2-] [^F,/-G,/B,/^D/-] [F,7/2-D7/2-] |
+[^F,/^G,/-^D/E/-] [G,7/2-E7/2-] [E,/-G,/-E/] [E,7/2G,7/2] |
+[^F,8-A,8-] |
+[E,-^F,^G,-A,] [E,7-G,7-] |
+[E,^F,-^G,A,-] [F,7-A,7-] |
+% Bar 120 (3:07)
+[E,-^F,^G,-A,] [E,7-G,7-] |
+[E,^F,-^G,A,-] [F,7-A,7-] |
+[E,/-^F,/^G,/-A,/] [E,7/2-G,7/2-] [E,G,B,-] B,3 |
+^A,8- |
+[^A,B,-] B,7- |
+[^A,/-B,/] A,15/2- |
+[^A,B,-] B,7 |
+^A,4 [^C4E4-] |
+[D,3/2-E3/2-] [D,/-D/-E/] [D,/-D/-] [D,/-^C/-D/] [D,-C-] [D,/-C/E/-] [D,-E-] [D,/-D/-E/] [D,/-D/-] [D,/-^F,/-D/] [D,F,] |
+[A,4-^C4-] [E,-A,B,-C] [E,3-B,3-] |
+% Bar 130 (3:23)
+[E,/-A,/-B,/^C/-] [E,/A,/-C/-] [A,3-C3-] [A,B,-CD-] [B,/-D/-] [B,/=C/-D/^D/-] [C/-D/-] [C/^C/-D/E/-] [CE] |
+^A,8- |
+[^A,B,-] B,7- |
+[^A,-B,] A,7- |
+[^A,B,-] B,7- |
+[^A,/-B,/] A,7/2- [A,4-E4-] |
+[A,-^A,EF-] [=A,3F3] [F,4A,4] |
+[E,4G,4] [F,4B,4] |
+[E,4C4] z4 |
+z8 |
+% Bar 140 (3:39)
+z8 |
++mf+ F6 F2 |
+F3/2 E/ z/ D/ z C/ z B,/ z/ A, z/ |
+G,4- +f+ [G,/B,/-] B,3/2- +mf+ [B,/D/-] D3/2 |
++f+ F z/ E/ z/ +ff+ D/ z C/ z +f+ B,/ z/ +ff+ A, z/ |
++f+ G,2 z2 z4 |
+z8 |
+z8 |
+z8 |
+z4 E z E z |
+% Bar 150 (3:55)
++mp+ C8- |
+[B,/-C/] B,7/2- B,2- B,3/2 z/ |
+B,/ C/- [C/D/-] D4 C- [B,/-C/] B,/ z/ |
+B,2- [B,/C/-] C3/2 C2- C/ z3/2 |
+C6 D2 |
+^D2- [D/E/-] E/ z E z E z |
+D/ E/ F9/2- [E/-F/] E/- [D/-E/] D |
+D2- [D/E/-] E3/2 E2- E3/2 z/ |
+E6 ^F2 |
+E4- [^D/-E/] D5/2 z |
+% Bar 160 (4:11)
+D6 E2 |
+D2- [^C/-D/] C3/2- [=C/-^C/] =C5/2 z |
+C8 |
+B,4- [B,/C/-] C3/2- C3/2 z/ |
+B,/ C/- [C/D/-] D4 C- [B,/-C/] B,/ z/ |
+A,/ z A,- [A,/B,/-] B, C/ z C- [C/D/-] D |
+E4- E2- [E/^F/-] F3/2- |
+[E/-^F/] E7/2- [^D/-E/] D3/2 z2 |
+D3/2 B, ^C3/2- [C/D/-] D E- [D/-E/] D |
+D2- [^C/-D/] C3/2- [=C/-^C/] =C3/2- C/ z3/2 |
+% Bar 170 (4:26)
+C8 |
+B,4- [B,/C/-] C3/2- C3/2 z/ |
+B,/ C/- [C/D/-] D4 C- [B,/-C/] B, |
+A,4- A,/ z7/2 |
+A,4- A,3/2 B,- [B,/^C/-] C/ z/ |
+^C2- [C/D/-] D3/2 D2 z2 |
+D4- D3/2 E- [E/F/-] F/ z/ |
+F2- [E/-F/] E z/ E2 z2 |
+A, z/ A, A, z/ A,3/2 B, ^C z/ |
+^C3/2 D D z/ D2 z2 |
+% Bar 180 (4:42)
+D z/ +mf+ D D z/ D3/2 E F z/ |
+F3/2- [E/-F/] E/ +mp+ E z9/2 |
+E3/2 F F z9/2 |
++p+ F3/2- [E/-F/] E/ E z9/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 190 (4:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 200 (5:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+D4 D z E z |
+% Bar 210 (5:30)
+F8- |
+F8- |
+F8- |
+F2 +f+ E/ z/ +ff+ ^D/ z/ +f+ E/ z/ +ff+ E,/ z/ ^F,/ z/ ^G,/ z/ |
++f+ A,/ z/ B,/ z/ C/ z/ B,/ z/ A,/ z/ C/ z/ B,/ z/ A,/ z/ |
+E,/ z/ ^F,/ z/ ^G,/ z/ A,/ z/ B,/ z/ C/ z/ D/ z/ E/ z/ |
+D/ z/ B,/ z/ C/ z/ D/ z/ E/ z/ D/ z/ C/ z/ B,/ z/ |
+C/ z/ B,/ z/ C/ z/ D/ z/ E/ z/ E,/ z/ ^F,/ z/ ^G,/ z/ |
+A,/ z/ B,/ z/ C/ z/ B,/ z/ A,/ z/ C/ z/ B,/ z/ A,/ z/ |
+E,/ z/ ^F,/ z/ ^G,/ z/ A,/ z/ B,/ z/ C/ z/ D/ z/ E/ z/ |
+% Bar 220 (5:45)
+D/ z/ B,/ z/ C/ z/ D/ z/ E/ z/ D/ z/ C/ z/ B,/ z/ |
+A,4 z4 |
++mp+ [B,4D4] [B,D] z [B,D] z |
+[A,2-C2-] [A,/C/] z11/2 |
+z4 E2- E3/2 z/ |
++p+ E4- [^C/-E/] C7/2- |
+[A,/-^C/] A,7/2- [A,/C/-] C7/2 |
+^C4- [D,/-B,/-C/] [D,7/2-B,7/2-] |
+[D,4-B,4-] [D,/A,/-B,/^C/-] [A,7/2-C7/2-] |
+[^G,/-A,/-B,/-^C/] [G,/-A,/B,/-] [G,3-B,3-] [G,/A,/-B,/C/-] [A,7/2-C7/2-] |
+% Bar 230 (6:01)
+[D,/-A,/B,/-^C/] [D,7/2-B,7/2-] [D,/E,/-B,/C/-] [E,7/2-C7/2-] |
+[E,/^F,/-^C/D/-] [F,7/2-D7/2-] [F,/^G,/-D/E/-] [G,7/2-E7/2-] |
+[^G,/-B,/-D/-E/] [G,/B,/-D/-] [B,3-D3-] [A,/-B,/^C/-D/-] [A,/-C/-D/] [A,-C-] [A,/C/-E/-] [C3/2E3/2] |
+[^C8-E8-] |
+[A,/-^C/-E/] [A,7/2-C7/2-] [A,/C/-E/-] [C7/2E7/2] |
+[^C4-E4-] [C/D/-E/^F/-] [D7/2-F7/2-] |
+[D4-^F4-] [^C/-D/-E/-F/] [C/-D/E/-] [C3-E3-] |
+[^F,/-^C/D/-E/] [F,7/2-D7/2-] [E,/-F,/C/-D/] [E,7/2-C7/2-] |
+[E,/^F,/-^C/D/-] [F,7/2-D7/2-] [F,/^G,/-D/E/-] [G,7/2-E7/2-] |
+[^G,/A,/-^C/-E/] [A,7/2-C7/2-] [A,2-C2-] [A,3/2-C3/2] A,/ |
+% Bar 240 (6:17)
++pp+ [^F,4D4] [^G,4E4] |
+[A,4-^C4-] [A,2-C2-] [A,3/2C3/2] z/ |
+[^F,4D4] [^G,4E4] |
++ppp+ A,2- A,3/2 z/ +pp+ A, z +ppp+ A, z |
+A,4 +pp+ A,2- A,3/2 z/ |
++ppp+ A,2- A,3/2 z/ A, z A, z |
+A,4 A,2- A,3/2 z/ |
++mp+ [B,2-D2-] [B,3/2D3/2] z/ [A,C] z [B,D] z |
+[C2-E2-] [C/E/] z11/2 |
+z8 |
+% Bar 250 (6:33)
+z8 |
++p+ [B,2-D2-] [B,3/2D3/2] z/ +mp+ [A,C] z +p+ [B,D] z |
++mp+ [C2-E2-] [C/E/] z11/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++p+ [A,2-C2-] [A,3/2C3/2] z/ [A,C] z [A,C] z |
+% Bar 260 (6:48)
+[G,2-C2-] [G,3/2C3/2] z/ [G,2-C2-] [G,3/2C3/2] z/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[A,2-C2-] [A,3/2C3/2] z/ [A,C] z [A,C] z |
+[^G,2-D2-] [G,3/2D3/2] z/ [A,2-C2-] [A,3/2C3/2] z/ |
+z8 |
+% Bar 270 (7:04)
+z8 |
+[B,2-D2-] [B,3/2D3/2] z/ [B,D] z [B,D] z |
+[A,2-C2-] [A,3/2C3/2] z9/2 |
+z8 |
+z8 |
+z8 |
++mp+ [A,8-C8-] |
+[A,8-C8-] |
+[A,3C3] z5 |]
+
+
+X: 9
+T: <7th2> 9/11[Horn] (7:17)
+%%part-name Horn
+M: 2/4
+Q: 76
+K: C maj
+
++mf+ e8- |
+e8- |
+e4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:30)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:48)
+z8 |
+z8 |
+z8 |
+z4 +f+ e4 |
+a4 z4 |
++fff+ e3 z +ff+ e/ z3/2 +fff+ e z |
++ff+ e3 z e3 z |
++fff+ e2- e3/2 z/ +ff+ e/ z3/2 e z |
+e3 z e3 z |
+e2- e3/2 z/ +fff+ e z ^f z |
+% Bar 80 (2:04)
+g3 z +ff+ g3 z |
++fff+ g3 z g z +ff+ g z |
++fff+ g2- g3/2 z9/2 |
+g2- g3/2 z/ g z a z |
+b2- b3/2 z/ b3 z |
+^f2- f3/2 z/ +ff+ f z +fff+ ^g/ z3/2 |
++ff+ a3 z +fff+ a2- a/ z3/2 |
+e3 z e z e z |
+e3 z e2- e3/2 z/ |
+e2- e3/2 z/ ^f z ^g z |
+% Bar 90 (2:20)
+a2- a3/2 z9/2 |
+g2- g3/2 z/ g z a z |
++ff+ b2- b3/2 z/ b3 z |
+^f2- f3/2 z/ f/ z3/2 ^g/ z3/2 |
+a3 z +f+ a3 z |
+e2- e3/2 z/ e z e z |
+e3 z e2- e3/2 z/ |
+e3 z +mf+ ^f/ z3/2 ^g z |
+a4 z4 |
+e2- e3/2 z/ e z e z |
+% Bar 100 (2:36)
+e3 z5 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (2:52)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+b8- |
+[e/-b/] e15/2- |
+e8- |
+e8- |
+[ea-] a5 a2 |
+% Bar 120 (3:07)
+a3/2- [^g/a/] z/ ^f/ z e/ z ^d/ z/ ^c/ z |
+b4- [^c-b] c ^d2 |
+e11/2- [^d/-e/] d/- [d/e/-] e |
+e8- |
+e4- [e3/2^f3/2-] f/- [e/-f/] e3/2 |
+e8- |
+e4- [e3/2^g3/2-] [^f/-g/] f/- [e/-f/] e |
+e8- |
+[e/^f/-] f15/2- |
+[e/-^f/] e7/2 e4 |
+% Bar 130 (3:23)
+e8 |
+e/ z15/2 |
+z4 ^f2- [e/-f/] e3/2 |
+e8- |
+e4- [e3/2^g3/2-] +mp+ [^f/-g/] f/- +mf+ [e/-f/] e |
+e4 e4 |
+a8- |
+[g/-a/] g7/2 g4 |
+g8- |
+g8- |
+% Bar 140 (3:39)
++mp+ [e4-g4-] [e/g/-] g7/2 |
++mf+ g8- |
++mp+ [e4g4-] g4 |
+g4- g3/2 z/ g2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++fff+ e z e z5 |
+% Bar 150 (3:55)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 160 (4:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 170 (4:26)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 180 (4:42)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 190 (4:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 200 (5:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 210 (5:30)
+z8 |
+z8 |
+z8 |
+z2 +mf+ e2- e4 |
++ff+ e2- e3/2 z/ +fff+ e z +ff+ e z |
++fff+ e2- e3/2 z/ e3 z |
+e2- e3/2 z/ +ff+ e z +fff+ e z |
+e2- e3/2 z/ e2- e3/2 z/ |
+e2- e3/2 z/ e z e z |
+e2- e3/2 z/ e2- e3/2 z/ |
+% Bar 220 (5:45)
+e2- e3/2 z/ +ff+ ^f z +fff+ ^g z |
+a2- a3/2 z9/2 |
++mp+ e2- e3/2 z/ e z e z |
+e2- e/ z11/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 230 (6:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 240 (6:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+g2- g3/2 z/ g z g z |
+g2- g/ z11/2 |
+z8 |
+% Bar 250 (6:33)
+z8 |
+g2- g3/2 z/ g z g z |
+g2- g/ z11/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+e2- e3/2 z/ e3/2 z/ ^f3/2 z/ |
+% Bar 260 (6:48)
+[e2-g2-] [e3/2g3/2] z/ [e2-g2-] [e3/2g3/2] z/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+e2- e3/2 z/ e3/2 z/ e3/2 z/ |
+[e2-b2-] [e3/2b3/2] z/ e2- e3/2 z/ |
+z8 |
+% Bar 270 (7:04)
+z8 |
+e2- e3/2 z/ e z e z |
+e2- e3/2 z9/2 |
+z8 |
+z8 |
+z8 |
++mf+ e8- |
+e8- |
+e2- e/ z11/2 |]
+
+
+X: 10
+T: <7th2> 10/11[Horn] (7:17)
+%%part-name Horn
+M: 2/4
+Q: 76
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:30)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:48)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[A4a4] z4 |
+e4 z4 |
++mf+ e4 z4 |
++f+ [A4a4] z4 |
+[A4a4] z4 |
+% Bar 80 (2:04)
+z4 +mf+ e4 |
+z8 |
+e4 z4 |
++f+ e4 z4 |
+z8 |
+e2- e3/2 z9/2 |
++ff+ [A2-a2-] [A3/2-a3/2] A/ z4 |
+[A2-a2-] [A3/2a3/2] z9/2 |
++mf+ e2- e3/2 z/ +ff+ [A4a4] |
++f+ e2- e3/2 z/ +ff+ e3/2 z/ +f+ e2 |
+% Bar 90 (2:20)
+[A2-a2-] [A3/2-a3/2] A/ z4 |
+e4 z4 |
+z8 |
++mf+ e4 z4 |
+[A4a4] z4 |
+[A4a4] z4 |
++mp+ e2- e3/2 z/ [A4a4] |
+e2- e3/2 z/ e3/2 z/ e3/2 z/ |
+[A4a4] z4 |
+z8 |
+% Bar 100 (2:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (2:52)
+z4 +p+ [A4-a4-] |
+[A8-a8-] |
+[A8-a8-] |
+[A8a8-] |
+[A4-a4-] [A2-a2-] [A3/2-a3/2] A/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (3:07)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 130 (3:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 140 (3:39)
++mp+ ^f4 z4 |
+z8 |
+^f4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++fff+ e z e z5 |
+% Bar 150 (3:55)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 160 (4:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 170 (4:26)
+z8 |
+z8 |
+z8 |
+z8 |
++mf+ [A4-a4-] [A/a/] z7/2 |
+z4 [A3/2a3/2] z/ [A3/2-a3/2] A/ |
+[A4-a4] A/ z7/2 |
+z4 [A3/2a3/2] z/ [A3/2a3/2-] a/ |
+[A3/2a3/2] z5/2 [A3/2a3/2] z/ [A3/2-a3/2] A/ |
+[A2a2] z2 [A3/2a3/2-] a/ +f+ [A3/2-a3/2] A/ |
+% Bar 180 (4:42)
+[A2a2] z2 +mf+ [A3/2a3/2-] a/ [A2a2] |
+[A3/2-a3/2] A/ [A2a2] z4 |
++mp+ [A2a2] [A3/2a3/2] z9/2 |
++p+ [A3/2-a3/2] A/ [A3/2-a3/2] A/ z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 190 (4:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 200 (5:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 210 (5:30)
+z8 |
+z8 |
+z8 |
+z2 +mf+ e2- e4 |
++ff+ e4 e z +fff+ e z |
+e2- e3/2 z/ +ff+ e2- e3/2 z/ |
++fff+ e2- e3/2 z/ +ff+ e z +fff+ e z |
+e2- e3/2 z/ +ff+ e2- e3/2 z/ |
+e2- e3/2 z/ +fff+ e z e z |
+e2- e3/2 z/ e2- e3/2 z/ |
+% Bar 220 (5:45)
+e2- e3/2 z/ e z e z |
+[A2-a2-] [A3/2-a3/2] A/ z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 230 (6:01)
+z8 |
+z8 |
+z8 |
+z4 +mp+ [A4-a4-] |
+[A8-a8-] |
+[A8-a8-] |
+[A8a8-] |
++p+ [A4-a4-] [A2-a2-] [A3/2-a3/2] A/ |
+z8 |
+z8 |
+% Bar 240 (6:17)
+z8 |
+z8 |
+z8 |
+z8 |
+[A2-a2-] [A3/2a3/2] z/ [Aa] z +pp+ [Aa] z |
+[A4-a4-] [A/a/] z7/2 |
++p+ [A2-a2-] [A3/2a3/2] z/ [Aa] z +pp+ [Aa] z |
+z8 |
++mp+ e2- e/ z11/2 |
+z8 |
+% Bar 250 (6:33)
+z8 |
+z8 |
++mf+ e2- e/ z11/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 260 (6:48)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 270 (7:04)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 11
+T: <7th2> 11/11[Drums] (7:17)
+%%part-name Drums
+M: 2/4
+Q: 76
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:30)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:17)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:48)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+A,4 z4 |
+E4 z4 |
+E4 z4 |
+A,4 z4 |
+A,4 z4 |
+% Bar 80 (2:04)
+z4 E4 |
+z8 |
+E4 z4 |
+E4 z4 |
+z8 |
+E2- E3/2 z9/2 |
+A,4 z4 |
+A,2- A,3/2 z9/2 |
+E4 A,2- A,3/2 z/ |
+E2- E3/2 z/ E3/2 z/ E3/2 z/ |
+% Bar 90 (2:20)
+A,2- A,3/2 z9/2 |
+^D2- D3/2 z9/2 |
+z8 |
+^D2- D3/2 z9/2 |
++f+ A,2- A,3/2 z9/2 |
++mf+ A,2- A,3/2 z9/2 |
++mp+ ^D2- D3/2 z/ A,2- A,3/2 z/ |
+^D2- D3/2 z/ D2 D2 |
+A,2- A,3/2 z9/2 |
+z8 |
+% Bar 100 (2:36)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (2:52)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (3:07)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 130 (3:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 140 (3:39)
+E4 z4 |
+z8 |
+E4- E/ z7/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++fff+ E3/2 z/ E3/2 z9/2 |
+% Bar 150 (3:55)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 160 (4:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 170 (4:26)
+z8 |
+z8 |
+z8 |
+z8 |
++mp+ A,2- A,3/2 z9/2 |
+z4 A,2 A,3/2 z/ |
+A,2- A,3/2 z9/2 |
+z4 A,3/2 z/ A,3/2 z/ |
+A,2 z2 A,3/2 z/ A,2 |
+A,2 z2 A,2 A,2 |
+% Bar 180 (4:42)
+A,3/2 z5/2 +mf+ A,3/2 z/ A,2 |
+A,2 A,3/2 z9/2 |
++mp+ A,2 A,2 z4 |
++p+ A,3/2 z/ A,3/2 z9/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 190 (4:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 200 (5:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 210 (5:30)
+z8 |
+z8 |
+z8 |
+z2 +mp+ E/ z/ +mf+ E/ z/ E/ z/ +f+ E/ z/ +ff+ E/ z/ +fff+ E/ z/ |
+E4 E z E z |
+E2- E3/2 z/ E2- E3/2 z/ |
+E2- E3/2 z/ E z E z |
+E2- E3/2 z/ E2- E3/2 z/ |
+E2- E3/2 z/ E z E z |
+E2- E3/2 z/ E2- E3/2 z/ |
+% Bar 220 (5:45)
+E2- E3/2 z/ E z E z |
+A,4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 230 (6:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 240 (6:17)
+z8 |
+z8 |
+z8 |
+z8 |
++mp+ A,2- A,3/2 z/ A, z A, z |
+A,4- A,/ z7/2 |
+A,2- A,3/2 z/ A, z A, z |
+z8 |
++ff+ E2- E/ z11/2 |
+z8 |
+% Bar 250 (6:33)
+z8 |
+z8 |
+E2- E/ z11/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 260 (6:48)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 270 (7:04)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+

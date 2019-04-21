@@ -1,0 +1,851 @@
+%abc-2.1
+%%song-title       Pensylvania 65-000
+%%song-duration    2:48
+%%abc-creator Maestro v2.0.0
+%%abc-version 2.1
+
+X: 1
+T: <Pensylvania 65-000> 1/6 [Flute] (2:48)
+%%part-name Flute
+M: 4/4
+Q: 170
+K: C maj
+
++mf+ z8 |
+z8 |
+z [GBd] [GB^c] [GBd] z [^GBd] [GBc] [GBd] |
+z [^FAd] [FA^c] [FAd] [DFB] [D3/2F3/2A3/2] z3/2 |
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+[G,4B,4D4] [G,B,E] z3 |
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+[G,4B,4D4] [^G,B,E] z3 |
+[^F,A,D] [A,CE] [A,D^F] [F3/2A3/2c3/2] z/ [DFA] [CDF] z |
+% Bar 10 (0:12)
+[^F,4A,4D4] [A,CE] z3 |
+z8 |
+z8 |
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+[G,4B,4D4] [G,B,E] z3 |
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+[G,4B,4D4] [^G,B,E] z3 |
+[^F,A,D] [A,CE] [A,D^F] [F3/2A3/2c3/2] z/ [DFA] [CDF] z |
+[^F,4A,4D4] [A,CE] z3 |
+z8 |
+% Bar 20 (0:26)
+z8 |
+[^D^FB] [DFc] z [D3F3B3] [DFA] z |
+[B,EG] [G,3/2B,3/2E3/2] z5/2 [B,^D^F] [B,DG] [DFA] |
+[^D^FB] [DFc] [DFB] [DFc] [DFB] [DFA] z [B,-E-G-] |
+[B,4E4G4] z3 [A,^CE] |
+[^CEA] z [CEB] z [CEA] z [CEG] z |
+[A,D^F] [^CEG] z [^D3F3A3] z [DFA] |
+[EGB] [EG^A] [EGB] [EGc] [E=A^c] [EA=c] [EA^c] z |
+[^FAd] [FAc] z [C3D3F3A3] z2 |
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+% Bar 30 (0:40)
+[G,4B,4D4] [G,B,E] z3 |
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+[G,4B,4D4] [^G,B,E] z3 |
+[^F,A,D] [A,CE] [A,D^F] [F3/2A3/2c3/2] z/ [DFA] [CDF] z |
+[^F,4A,4D4] [A,CE] z3 |
+z8 |
+z8 |
+[D^FB] [D3/2F3/2A3/2] z11/2 |
+[D^FB] z [DFA] z [DFB] z [DFA] z |
+[B,DA] [B,DG] z2 z4 |
+% Bar 40 (0:55)
+[B,DA] [B,DA] [B,DG] z [B,DA] z [B,DG] z |
+[A,D^F] [DFA] [DFB] z [FAd] z3 |
+[^DGc] [DG^A] [DGc] [DGA] [DGc] z [DGA] z |
+[^DG^A] [=D^F=A] z2 z4 |
+z8 |
+[D^FB] [D3/2F3/2A3/2] z11/2 |
+[D^FB] z [DFA] z [DFB] z [DFA] z |
+[B,DA] [B,DG] z2 z4 |
+[B,DA] z [B,DG] z [B,DA] z [B,DG] z |
+[A,D^F] [DFA] [DFB] z [FAd] z3 |
+% Bar 50 (1:09)
+[^DGc] [DG^A] [DGc] [DGA] [DGc] z [DGA] z |
+[^DG^A] [=D^F=A] z2 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:37)
+z8 |
+z8 |
+[^D6^F6B6] [D2F2B2] |
+[E6G6B6] [E2G2B2] |
+[^D6^F6B6] [D2F2B2] |
+[B,2E2G2] z2 z4 |
+[E6G6A6] [E2G2A2] |
+[D4^F4A4] [^D4F4A4] |
+[E4G4B4] [E4G4A4] |
+[^F4A4c4] z4 |
+% Bar 80 (1:51)
+[B,8-D8-G8-] |
+[B,4D4G4] z2 [D2G2^A2] |
+[D8-G8-B8-] |
+[D4G4B4] z2 [D2^G2B2] |
+[^F8-A8-c8-] |
+[^F4A4c4] z2 [F2A2d2] |
+[B,8-D8-G8-] |
+[B,4D4G4] z4 |
+z8 |
+z8 |
+% Bar 90 (2:05)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (2:19)
+z8 |
+z8 |
+z8 |
+z8 |
+[^D^FB] [DFc] z [D3F3B3] [DFA] z |
+[B,EG] [G,3/2B,3/2E3/2] z5/2 [B,^D^F] [B,DG] [DFA] |
+[^D^FB] [DFc] [DFB] [DFc] [DFB] [DFA] z [B,-E-G-] |
+[B,2E2G2] [^DAB] z [G2B2e2] z [GBe] |
+[GA^c] [GAe] [GAc] [^C2G2B2] z [CEA] [EGB] |
+[GA^c] [GAe] [GAc] [^C2G2B2] z [CEA] z |
+% Bar 110 (2:33)
+[EGB] [EG^A] [EGB] [EGc] [E=A^c] [EA=c] [EA^c] z |
+[Acd] [Ace] z [A3c3^f3] z2 |
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+[G,4B,4D4] [G,B,E] z3 |
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+[G,4B,4D4] [^G,B,E] z3 |
+[^F,A,D] [A,CE] [A,D^F] [F3/2A3/2c3/2] z/ [DFA] [CDF] z |
+[^F,4A,4D4] [A,CE] z3 |
+z8 |
+[G^A] [EGB] z [D5E5G5B5d5] |
+% Bar 120 (2:47)
+z8 |]
+
+
+X: 2
+T: <Pensylvania 65-000> 2/6 [Clarinet] (2:48)
+%%part-name Clarinet
+M: 4/4
+Q: 170
+K: C maj
+
++mf+ [G,2-G2-] [G,3/2G3/2] [A,/B,/^C/A/B/^c/] [E/^F/G/-e/^f/g/-] [G5/2g5/2] z |
+[Ee] [Dd] [B,B] [G,G] [^C^c] [Dd] z2 |
+[D,D] z3 [D,D] z3 |
+[D,D] z7 |
+z8 |
+z6 [DGBd] z |
+[DGBd] z7 |
+z6 [D^GBd] z |
+[D^FAd] z7 |
+% Bar 10 (0:12)
+z6 [D^FAd] z |
+z8 |
+z8 |
+z8 |
+z6 [DGBd] z |
+[DGBd] z7 |
+z6 [D^GBd] z |
+[D^FAd] z7 |
+z6 [D^FAd] z |
+z8 |
+% Bar 20 (0:26)
+z8 |
+z8 |
+z4 [EGBe] z3 |
+z8 |
+z [GBe] [GBe] [EGB] [GBe] z3 |
+z8 |
+z4 z3 [^D^FA] |
+[EGB] [EG^A] [EGB] [EGc] [E=A^c] [EA=c] [EA^c] z |
+[^FAd] [FAc] z [C3D3F3A3] z2 |
+z8 |
+% Bar 30 (0:40)
+z6 [DGBd] z |
+[DGBd] z7 |
+z6 [D^GBd] z |
+[D^FAd] z7 |
+z6 [D^FAd] z |
+z8 |
+z8 |
+z4 [^FAce] [FAcd] z2 |
+z8 |
+z4 [GBe] [GBd] z2 |
+% Bar 40 (0:55)
+z8 |
+z8 |
+[^DGc] [DG^A] [DGc] [DGA] [DGc] z [DGA] z |
+[^DG^A] [=D^F=A] z2 z2 [D/F/A/] [DFB] [F/A/^c/] |
+[^FAd] [Ad^f] [A^ce] [ceg] [A2d2f2] z2 |
+z4 [^FAce] [FAcd] z2 |
+z8 |
+z4 [GBe] [GBd] z2 |
+z8 |
+z8 |
+% Bar 50 (1:09)
+[^DGc] [DG^A] [DGc] [DGA] [DGc] z [DGA] z |
+[^DG^A] [=D^F=A] z2 z2 [D/F/A/] [DFB] [F/A/^c/] |
+[^FAd] z D z D [F3/2A3/2c3/2] z/ D |
+[D^FB] z D [D3/2F3/2A3/2] z7/2 |
+z8 |
+z4 z [DGB] [DG^A] [DGB] |
+[G8B8d8] |
+z4 z [DGB] [DG^A] [DGB] |
+[^F8-A8-c8-] |
+[^F4A4c4] z4 |
+% Bar 60 (1:23)
+[D8G8B8] |
+[D^FA] [DFB] z [F3/2A3/2d3/2] z7/2 |
+z8 |
+z6 [D2G2^A2] |
+[D8-G8-B8-] |
+[D4G4B4] z2 [D2G2B2] |
+[^F8-A8-c8-] |
+[^F4A4c4] z2 [F2A2c2] |
+[G8-B8-d8-] |
+[G2-B2-d2-] [G/B/d/] z11/2 |
+% Bar 70 (1:37)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (1:51)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 z [A,D^F] [A,CE] [A,C^D] |
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+[G,4B,4D4] [G,B,E] z3 |
+% Bar 90 (2:05)
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+[G,4B,4D4] [^G,B,E] z3 |
+[^F,A,D] [A,CE] [A,D^F] [F3/2A3/2c3/2] z/ [DFA] [CDF] z |
+[^F,4A,4D4] [A,CE] z3 |
+z8 |
+z8 |
+[G,B,D] [G,B,E] [B,DG] [D2G2B2] [B,DG] [G,B,E] z |
+[G,^A,D] [G,A,E] [A,DG] [E2G2^A2] [A,DG] [G,A,E] z |
+[G,B,D] [G,B,E] [B,DG] [D2G2B2] [B,DG] [G,B,E] z |
+[G,B,D] [G,B,E] z [G,B,E] z [^G,B,E] z [G,B,E] |
+% Bar 100 (2:19)
+[^F,A,D] z [F,/A,/D/] [A,C^F] [C/F/A/] [FAc] [DFA] [A,DF] z |
+[Ac^f] [^FAd] [Ace] [FAc] [FAd] [DFB] [FAc] [DFA] |
+[G,2-G2-] [G,3/2G3/2] [A,/B,/^C/A/B/^c/] [E/^F/G/-e/^f/g/-] [G5/2g5/2] z |
+[Ee] [Dd] [B,B] [G,G] [Dd] z [^C^c] z |
+z8 |
+z4 [EGBe] z3 |
+z8 |
+z2 [^DAB] z [G2B2e2] z2 |
+z8 |
+z8 |
+% Bar 110 (2:33)
+[EGB] [EG^A] [EGB] [EGc] [E=A^c] [EA=c] [EA^c] z |
+[Acd] [Ace] z [A3c3^f3] z2 |
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+[G,4B,4D4] [G,B,E] z3 |
+[G,B,D] [G,B,E] [B,DG] [D3/2G3/2B3/2] z/ [B,DG] [G,B,E] z |
+[G,4B,4D4] [^G,B,E] z3 |
+[^F,A,D] [A,CE] [A,D^F] [F3/2A3/2c3/2] z/ [DFA] [CDF] z |
+[^F,4A,4D4] [A,CE] z3 |
+[G,2-G2-] [G,3/2G3/2] [A,/B,/^C/A/B/^c/] [E/^F/G/-e/^f/g/-] [G5/2g5/2] z |
+[G^A] [EGB] z [D5E5G5B5d5] |
+% Bar 120 (2:47)
+z8 |]
+
+
+X: 3
+T: <Pensylvania 65-000> 3/6 [Horn] (2:48)
+%%part-name Horn
+M: 4/4
+Q: 170
+K: C maj
+
++mf+ z8 |
+z8 |
+D z [DGB] z D z [D^GB] z |
+D z [D^Fc] z [DFc] z [DFc] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [^GB] z |
+D z [^Fc] z D z [Fc] z |
+% Bar 10 (0:12)
+D z [^Fc] z C z [Fc] z |
+z8 |
+z8 |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [^GB] z |
+D z [^Fc] z D z [Fc] z |
+D z [^Fc] z C z [Fc] z |
+z8 |
+% Bar 20 (0:26)
+z8 |
+B, z ^F z ^D z F z |
+B, z E z B, z ^D z |
+B, z ^D z B, z ^F z |
+E z G z [EG] z3 |
+A, z ^C z A, z E z |
+D z ^F z ^D z F z |
+B, z [EG] z A, z [EG] z |
+D z [^FA] z D z3 |
+D z [GB] z D z [GB] z |
+% Bar 30 (0:40)
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [^GB] z |
+D z [^Fc] z D z [Fc] z |
+D z [^Fc] z C z [Fc] z |
+z8 |
+z8 |
+D z [^Fc] z D z [Fc] z |
+D z [^Fc] z D z [Fc] z |
+D z [GB] z D z [GB] z |
+% Bar 40 (0:55)
+D z [GB] z D z [GB] z |
+D z [^FB] z D z [FB] z |
+^D z ^A z D z A z |
+^D z [^FA] z =D z [FA] z |
+[^FAd] z [G^ce] z [Ad^f] z3 |
+D z [^Fc] z D z [Fc] z |
+D z [^Fc] z D z [Fc] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [^FB] z D z [FB] z |
+% Bar 50 (1:09)
+^D z ^A z D z A z |
+^D z [^FA] z =D z [FA] z |
+D z [^FA] z D z [FA] z |
+D z [^FA] z D z3 |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [^GB] z |
+D z [^Fc] z D z [Fc] z |
+D z [^Fc] z C z [Fc] z |
+% Bar 60 (1:23)
+z8 |
+z8 |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [^GB] z |
+D z [^Fc] z D z [Fc] z |
+D z [^Fc] z C z [Fc] z |
+z8 |
+z8 |
+% Bar 70 (1:37)
+z8 |
+z8 |
+B, z ^F z ^D z F z |
+B, z E z B, z E z |
+B, z ^D z B, z ^F z |
+E z G z [EG] z3 |
+A, z ^C z A, z E z |
+D z ^F z ^D z F z |
+B, z [EG] z A, z [EG] z |
+D z [^FA] z D z3 |
+% Bar 80 (1:51)
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [^GB] z |
+D z [^Fc] z D z [Fc] z |
+D z [^Fc] z C z [Fc] z |
+z8 |
+z6 E z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+% Bar 90 (2:05)
+D z [GB] z D z [GB] z |
+D z [GB] z D z [^GB] z |
+D z [^Fc] z D z [Fc] z |
+D z [^Fc] z C z [Fc] z |
+z8 |
+z8 |
+D z [GB] z D z [GB] z |
+D z [G^A] z ^C z [GA] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [^GB] z |
+% Bar 100 (2:19)
+D z [^Fc] z D z [Fc] z |
+D z [^Fc] z C z [Fc] z |
+z8 |
+z8 |
+B, z ^F z ^D z F z |
+B, z E z B, z ^D z |
+B, z ^D z B, z ^F z |
+E z ^F z [EG] z3 |
+A, z ^C z A, z E z |
+A, z ^C z A, z E z |
+% Bar 110 (2:33)
+B, z [EG] z A, z [EG] z |
+D z [^Fc] z D z [Fc] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [GB] z |
+D z [GB] z D z [^GB] z |
+D z [^Fc] z D z [Fc] z |
+D z [^Fc] z C z [Fc] z |
+z8 |
+z8 |
+% Bar 120 (2:47)
+z8 |]
+
+
+X: 4
+T: <Pensylvania 65-000> 4/6 [Horn2] (2:48)
+%%part-name Horn2
+M: 4/4
+Q: 170
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:12)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:26)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:40)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (0:55)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:09)
+z8 |
+z8 |
+z8 |
+z4 z ^F, E, ^D, |
+D, E, G, B, z G, E, z |
+D, E, z2 z4 |
+B, z B, ^A, B, G, E, z |
+D, E, z2 z4 |
+C B, C B, C A, ^F, z |
+E ^D z =D2 E, ^F, z |
+% Bar 60 (1:23)
+G, G, E, D, G, B, z2 |
+A, B, z D3/2 z/ ^F, E, ^D, |
+B, z B,/ G, D,/ D B, G, z |
+E ^D z =D7/2 z3/2 |
+B, z D z B, G, z A, |
+B, G, A, B,7/2 z3/2 |
+A,/ ^F, D,/ B,/ F, D,/ C/ A, F,/ D/ C F,/ |
+E z A, D7/2 z3/2 |
+G, G,7 |
+B, D3/2 z11/2 |
+% Bar 70 (1:37)
+E z D z B, A, G, ^F, |
+G, z7 |
+b ^d z2 b z d z |
+e b g e3/2 z5/2 e |
+^f ^d f d b z a z |
+g3 z4 ^c |
+a ^c z2 a z e z |
+^f d z a5/2 z/ a z |
+b/ a g/ b/ a g/ ^c z a z |
+d a c' a3 z2 |
+% Bar 80 (1:51)
+d g z b2 g e z |
+d/ e d/ b d g2 z2 |
+e e z e2 ^d =d z |
+d/ e d/ b g d2 z2 |
+c' a e a d a e a |
+d a e d2 z3 |
+e z d z b g3/2 z3/2 |
+e d b g2 z3 |
+z8 |
+z8 |
+% Bar 90 (2:05)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (2:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (2:33)
+z8 |
+z4 z [Bb] [^A^a] [Bb] |
+d8- |
+d4- d [Bb] [^A^a] [Bb] |
+d8- |
+d4- d [Bb] [^A^a] [Bb] |
+d8- |
+d4- d z3 |
+z8 |
+z8 |
+% Bar 120 (2:47)
+z8 |]
+
+
+X: 5
+T: <Pensylvania 65-000> 5/6 [Bagpipe] (2:48)
+%%part-name Bagpipe
+M: 4/4
+Q: 170
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+D, z A, z C, z D, z |
+% Bar 10 (0:12)
+^F, z D, z C, z A, z |
+z8 |
+z8 |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+D, z A, z C, z D, z |
+^F, z D, z C, z A, z |
+z8 |
+% Bar 20 (0:26)
+z8 |
+^D, z ^F, z B, z D, z |
+E, z B, z G, z ^F, z |
+^D, z A, z B, z D, z |
+E, z B, z G, z E, z |
+G, z A, z ^C, z E, z |
+D, z ^F, z A, z C, z |
+G, z B, z A, z E, z |
+D, z C, z A, z D, z |
+G, z B, z D, z E, z |
+% Bar 30 (0:40)
+G, z E, z D, z B, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+D, z A, z C, z D, z |
+^F, z D, z C, z A, z |
+z8 |
+z8 |
+D, z ^F, z A, z B, z |
+D, z A, z ^F, z D, z |
+G, z B, z D, z E, z |
+% Bar 40 (0:55)
+G, z E, z D, z B, z |
+^F, z A, z D, z F, z |
+G, z ^D, z ^A, z G, z |
+^D, z =D, z ^F, z A, z |
+B, z D, z B, z A, z |
+D, z ^F, z A, z B, z |
+D, z A, z ^F, z D, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+^F, z A, z D, z F, z |
+% Bar 50 (1:09)
+G, z ^D, z ^A, z G, z |
+^D, z =D, z ^F, z A, z |
+D, z ^F, z A, z C, z |
+D, z C, z A, z G, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+D, z A, z D, z ^F, z |
+A, z ^F, z C, z A, z |
+% Bar 60 (1:23)
+z8 |
+z8 |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+D, z A, z D, z ^F, z |
+A, z ^F, z C, z A, z |
+z8 |
+z8 |
+% Bar 70 (1:37)
+z8 |
+z8 |
+^D, z ^F, z B, z D, z |
+E, z B, z G, z ^F, z |
+^D, z A, z B, z D, z |
+E, z B, z G, z E, z |
+G, z A, z ^C, z E, z |
+D, z ^F, z A, z C, z |
+G, z B, z A, z E, z |
+D, z C, z A, z D, z |
+% Bar 80 (1:51)
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+D, z A, z C, z D, z |
+^F, z D, z C, z A, z |
+z8 |
+z6 C, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+% Bar 90 (2:05)
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+D, z A, z C, z D, z |
+^F, z D, z C, z A, z |
+z8 |
+z8 |
+G, z B, z D, z E, z |
+G, z E, z ^C, z ^A, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+% Bar 100 (2:19)
+D, z A, z C, z D, z |
+^F, z D, z C, z A, z |
+z8 |
+z8 |
+^D, z ^F, z B, z D, z |
+E, z B, z G, z ^F, z |
+^D, z A, z B, z D, z |
+E, z B, z G, z E, z |
+G, z A, z ^C, z E, z |
+A, z E, z ^C, z A, z |
+% Bar 110 (2:33)
+G, z B, z A, z E, z |
+^F, z D, z A, z F, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+G, z B, z D, z E, z |
+G, z E, z D, z B, z |
+D, z A, z C, z D, z |
+^F, z D, z C, z A, z |
+z8 |
+z8 |
+% Bar 120 (2:47)
+z8 |]
+
+
+X: 6
+T: <Pensylvania 65-000> 6/6 [Drums] (2:48)
+%%part-name Drums
+M: 4/4
+Q: 170
+K: C maj
+
++mf+ z8 |
+E2 z2 z4 |
+E2 z2 E2 z2 |
+E2 z2 z2 [E2A2] |
+^F z F z F z F z |
+^F z F z F z [EA] z |
+[EA] z ^F z F z F z |
+^F z F z F z [EA] z |
+[EA] z ^F z F z F z |
+% Bar 10 (0:12)
+^F z F z F z [EA] z |
+^F ^C F C A z G, z |
+A, z/ A,/ z E z A z2 |
+^F z F z F z F z |
+^F z F z F z [EA] z |
+[EA] z ^F z F z F z |
+^F z F z F z [EA] z |
+[EA] z ^F z F z F z |
+^F z F z F z [EA] z |
+^F ^C F C A z G, z |
+% Bar 20 (0:26)
+A, z/ A,/ z E z A z2 |
+^F z F z F z F z |
+^F z F z [EA] z F z |
+^F z F z F z F z |
+^F E E E [EA] z F z |
+^F z F z F z F z |
+^F z F z F z F z |
+^F z F z F z F z |
+^F z F z F E [EA] E |
+^F z F z F z F z |
+% Bar 30 (0:40)
+^F z F z F z [EA] z |
+[EA] z ^F z F z F z |
+^F z F z F z [EA] z |
+[EA] z ^F z F z F z |
+^F z F z F z [EA] z |
+^F ^C F C A z G, z |
+A, z/ A,/ z E z2 A z |
+^F z F z [EA] z F z |
+^F z F z F z F z |
+^F z F z [EA] z F z |
+% Bar 40 (0:55)
+^F z F z F z F z |
+^F z F z F z [EA] z |
+^F z F z F z F z |
+^F z F z F z E z |
+E z E z E z [EA] z |
+^F z F z [EA] z F z |
+^F z F z F z F z |
+^F z F z [EA] z F z |
+^F z F z F z F z |
+^F z F z F z [EA] z |
+% Bar 50 (1:09)
+^F z F z F z F z |
+^F z F z F z E z |
+E z E z E [EA] z E |
+[EA] z E [EA] z4 |
+^C, z C, z C, z C, z |
+^C, z C, z C, z C, z |
+^C, z C, z C, z C, z |
+^C, z C, z C, z C, z |
+^C, z C, z C, z C, z |
+^C, z C, z C, z C, z |
+% Bar 60 (1:23)
+z8 |
+z3 [EA] z4 |
+^C, z C, z C, z C, z |
+^C, z C, z C, z C, z |
+^C, z C, z C, z C, z |
+^C, z C, z C, z C, z |
+^C, z C, z C, z C, z |
+^C, z C, z C, z C, z |
+z8 |
+z4 ^F z3 |
+% Bar 70 (1:37)
+z8 |
+z2 ^F/ F/ F/ F/ [EA] F [EA] F |
+^F z F z F z F z |
+^F z F z [EA] z F z |
+^F z F z F z F z |
+^F E E E [EA] z F z |
+^F z F z F z F z |
+^F z F z F z F z |
+^F z F z F z F z |
+^F z F z F E [EA] E |
+% Bar 80 (1:51)
+^F z F z F z F z |
+^F z F z F z [EA] z |
+[EA] z ^F z F z F z |
+^F z F z F z [EA] z |
+[EA] z ^F z F z F z |
+^F z F z F z [EA] z |
+z8 |
+z4 z ^F F [EA] |
+^F z F z F z F z |
+^F z F z F z [EA] z |
+% Bar 90 (2:05)
+[EA] z ^F z F z F z |
+^F z F z F z [EA] z |
+[EA] z ^F z F z F z |
+^F z F z F z [EA] z |
+^F ^C F C A z G, z |
+A, z/ A,/ z E z A z2 |
+[E^F] z [EF] z [EF] z [EF] z |
+[E^F] z [EF] z [EF] z [EFA] z |
+[E^FA] z [EF] z [EF] z [EF] z |
+[E^F] z [EF] z [EF] z [EFA] z |
+% Bar 100 (2:19)
+[E^FA] z [EF] z [EF] z [EF] z |
+[E^F] z [EF] z [EF] z [EFA] z |
+z6 [E2A2] |
+E ^F E F [EA] z [EA] z |
+^F z F z F z F z |
+^F z F z [EA] z F z |
+^F z F z F z F z |
+^F E E E [EA] z F z |
+^F z F z F z F z |
+^F z F z F z F z |
+% Bar 110 (2:33)
+^F z F z F z F z |
+[EA] A/- [E/A/] z3/2 [E/A/] z4 |
+^F z F z F z F z |
+^F z F z F z [EA] z |
+[EA] z ^F z F z F z |
+^F z F z F z [EA] z |
+[EA] z ^F z F z F z |
+^F z F z F z [EA] z |
+z6 [EA] z |
+E E z [EA] z4 |
+% Bar 120 (2:47)
+z8 |]
+
