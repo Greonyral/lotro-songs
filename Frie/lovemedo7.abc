@@ -1,14 +1,480 @@
 %abc-2.1
-%%song-title       Love Me Do-Beatles
+%%song-title       Love Me Do '63 Beatles
 %%song-duration    2:29
-%%song-transcriber Morganfey
-%%abc-creator Maestro v2.0.0
+%%abc-creator Maestro v2.5.0
 %%abc-version 2.1
 
 X: 1
-T: <Love Me Do-'63-Beatles> 1/7 [Harp] (2:29) 9-16-14
-%%part-name Harp
-Z: Morganfey
+T: Love Me Do '63 Beatles [Basic Flute] 1/7 (2:29) 2019-12-05
+%%part-name Basic Flute
+M: 4/4
+Q: 160
+K: C maj
+
++ff+ F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
+F3/2 F F3/2 E3/2 E E3/2 |
+D3/2 G,/ z3/2 G,/ z3/2 G,2 G,/ |
+F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ C3/2 [B,/D/] |
+z2 G,3/2 z/ G,2 z3/2 G,/- |
+G,/ z G,2 G,/ C2 B,2 |
++fff+ D4 D2 F3/2 G/- |
+% Bar 10 (0:13)
+G2 z2 z2 F2 |
+D4 D2 F3/2 G/- |
+G2 z2 z2 F2 |
+D4 D2 F3/2 G/- |
+G2 z2 z2 F2 |
+G4 G2 G2 |
+G8- |
+G3/2 z5/2 G,2 G,2 |
+[^A,3/2F3/2-] [G,5/2-F5/2] +ff+ [G,4E4] |
+D3/2 +fff+ G,/ ^C3/2 [G,/=C/-] C3/2 +ff+ G,/ G,3/2 +fff+ [G,/^A,/-] |
+% Bar 20 (0:28)
++ff+ [^A,3/2F3/2] +fff+ [G,-F] +ff+ [G,F-] +fff+ [G,/-F/] +ff+ [G,4E4] |
+D3/2 G,/ z3/2 G,/ z3/2 G,2 z/ |
++fff+ D4 D2 F3/2 G/- |
+G2 z2 z2 F2 |
+D4 D2 F3/2 G/- |
+G2 z2 z2 F2 |
+D4 D2 F3/2 G/- |
+G2 z2 z2 F2 |
+G4 G2 G2 |
+G8- |
+% Bar 30 (0:43)
+G3/2 z5/2 G,2 G,2 |
+[^A,3/2F3/2-] [G,5/2-F5/2] +ff+ [G,4E4] |
+D3/2 +fff+ G,/ ^C3/2 [G,/=C/-] C3/2 +ff+ G,/ G,3/2 +fff+ [G,/^A,/-] |
++ff+ [^A,3/2F3/2] +fff+ [G,-F] +ff+ [G,F-] +fff+ [G,/-F/] +ff+ [G,4E4] |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
++fff+ A,4 A,2 G,2 |
+^F,6 z2 |
+G4 F2 C2 |
+^A,2 G,2- G,2 +ff+ G,2 |
+A,7/2- [A,/B,/] +fff+ A,2 G,2 |
+% Bar 40 (0:58)
+^F,6 z2 |
+G4 F2 C2 |
+G,2 z2 z4 |
+D4 D2 F3/2 G/- |
+G2 z2 z2 F2 |
+D4 D2 F3/2 G/- |
+G2 z2 z2 F2 |
+D4 D2 F3/2 G/- |
+G2 z2 z2 F2 |
+G4 G2 G2 |
+% Bar 50 (1:13)
+G8- |
+G3/2 z5/2 G,2 G,2 |
+[^A,3/2F3/2-] [G,5/2-F5/2] +ff+ [G,4E4] |
+D3/2 +fff+ G,/ ^C3/2 [G,/=C/-] C3/2 +ff+ G,/ G,3/2 +fff+ [G,/^A,/-] |
++ff+ [^A,3/2F3/2] +fff+ [G,-F] +ff+ [G,F-] +fff+ [G,/-F/] +ff+ [G,4E4] |
+D3/2 G,/ z3/2 G,/ z3/2 G,2 G,/ |
+A,4 A,2 G,2 |
+^F,6 z2 |
+G,4 F,2 E,2 |
+D,6 z2 |
+% Bar 60 (1:28)
+A,2- A,3/2 [A,/B,/] A,2 G,2 |
+^F,6 z3/2 G,/- |
+G,4 F,2 E,2 |
+D,6 z3/2 G,/ |
+z2 G,3/2 z/ G,2- G,/ z G,/ |
+z3/2 G,/ z3/2 G,/ C2 [B,2D2] |
+z2 G,3/2 z/ G,2- G,/ z G,/ |
+z8 |
++fff+ D4 D2 F3/2 G/- |
+G2 z2 z2 F2 |
+% Bar 70 (1:43)
+D4 D2 F3/2 G/- |
+G2 z2 z2 F2 |
+D4 D2 F3/2 G/- |
+G2 z2 z2 F2 |
+G4 G2 G2 |
+G8- |
+G3/2 z5/2 G,2 G,2 |
+[^A,3/2F3/2-] [G,5/2-F5/2] +ff+ [G,4E4] |
+D3/2 +fff+ G,/ ^C3/2 [G,/=C/-] C3/2 +ff+ G,/ G,3/2 +fff+ [G,/^A,/-] |
++ff+ [^A,3/2F3/2] +fff+ [G,-F] +ff+ [G,F-] +fff+ [G,/-F/] +ff+ [G,4E4] |
+% Bar 80 (1:58)
+D3/2 G,/ z3/2 +fff+ [G,/G/-] G3/2- +ff+ [G,/G/-] [G,3/2G3/2] +fff+ [G,/^A/-] |
++ff+ [F3/2-^A3/2] +fff+ [F2-G2] [F/G/-] +ff+ [E4G4] |
+D3/2 +fff+ G,/ D3/2 [G,/C/-] C3/2- +ff+ [G,/C/-] [G,3/2C3/2-] [G,/C/] |
++fff+ [^A,3/2F3/2] [G,-F] +ff+ [G,F-] +fff+ [G,/-F/] +ff+ [G,4E4] |
+D3/2 G,/ z3/2 +fff+ [G,/G/-] G3/2- +ff+ [G,/G/-] [G,3/2G3/2] +fff+ [G,/^A/-] |
++ff+ [F3/2-^A3/2] +fff+ [F2-G2] [F/G/-] +ff+ [E4G4] |
+D3/2 +fff+ G,/ D3/2 [G,/C/-] C3/2- +ff+ [G,/C/-] +f+ [G,3/2C3/2-] [G,/C/] |
++fff+ [^A,3/2F3/2] [G,-F] +f+ [G,F-] +fff+ [G,/-F/] +f+ [G,4E4] |
+D3/2 G,/ z3/2 +ff+ [G,/G/-] G3/2- +f+ [G,/G/-] [G,3/2G3/2] +ff+ [G,/^A/-] |
++mf+ [F3/2-^A3/2] +ff+ [F2-G2] [F/G/-] +mf+ [E4G4] |
+% Bar 90 (2:13)
+D3/2 +f+ G,/ D3/2 [G,/C/-] C3/2- +mf+ [G,/C/-] [G,3/2C3/2-] +mp+ [G,/C/] |
++f+ [^A,3/2F3/2] [G,-F] +mp+ [G,F-] +mf+ [G,/-F/] +mp+ [G,4E4] |
+D3/2 G,/ z3/2 +mf+ [G,/G/-] G3/2- +mp+ [G,/G/-] [G,3/2G3/2] +mf+ [G,/^A/-] |
++p+ [F3/2-^A3/2] +mp+ [F2-G2] [F/G/-] +p+ [E4G4] |
+D3/2 +mp+ G,/ D3/2 [G,/C/-] C3/2- +p+ [G,/C/-] [G,3/2C3/2-] +pp+ [G,/C/] |
++p+ [^A,3/2F3/2] [G,-F] +pp+ [G,F-] +p+ [G,/-F/] +pp+ [G,4E4] |
+D3/2 G,/ z3/2 [G,/G/-] G3/2- [G,/G/-] [G,3/2G3/2] [G,/^A/-] |
++ppp+ [F3/2-^A3/2] +pp+ [F2-G2] [F/G/-] +ppp+ [E4G4] |
+D3/2 G,/ D3/2 [G,/C/-] C3/2- [G,/C/-] +pppp+ [G,3/2C3/2-] [G,/C/] |
+[^A,3/2F3/2] [G,-F] [G,F-] [G,/-F/] [G,4E4] |]
+
+
+X: 2
+T: Love Me Do '63 Beatles [Basic Clarinet] 2/7 (2:29) 2019-12-05
+%%part-name Basic Clarinet
+M: 4/4
+Q: 160
+K: C maj
+
++ffff+ f4 e4 |
+d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
+f3/2 f f3/2 e3/2 e e3/2 |
+d3/2 G/ z3/2 G/ z3/2 G2 G/ |
+f4 e4 |
+d3/2 G/ z3/2 G/ z3/2 G/ c3/2 [B/d/] |
+z2 G3/2 z/ G2 z3/2 G/- |
+G/ z G2 G/ c2 B2 |
++fff+ [G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+% Bar 10 (0:13)
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [d2f2] |
+[e4g4] [d2g2] [c2g2] |
+[e8-g8-] |
+[e3/2g3/2] z5/2 G2 G2 |
++ffff+ [^A3/2f3/2-] +fff+ [G5/2-f5/2] +ffff+ [G4e4] |
+d3/2 +fff+ G/ ^c3/2 +ffff+ [G/=c/-] c3/2 G/ G3/2 [G/^A/-] |
+% Bar 20 (0:28)
+[^A3/2f3/2] [G-f] [Gf-] +fff+ [G/-f/] +ffff+ [G4e4] |
+d3/2 G/ z3/2 G/ z3/2 G2 z/ |
++fff+ [G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [d2f2] |
+[e4g4] [d2g2] [c2g2] |
+[e8-g8-] |
+% Bar 30 (0:43)
+[e3/2g3/2] z5/2 G2 G2 |
++ffff+ [^A3/2f3/2-] +fff+ [G5/2-f5/2] +ffff+ [G4e4] |
+d3/2 +fff+ G/ ^c3/2 +ffff+ [G/=c/-] c3/2 G/ G3/2 [G/^A/-] |
+[^A3/2f3/2] [G-f] [Gf-] +fff+ [G/-f/] +ffff+ [G4e4] |
+d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
++fff+ A4 A2 G2 |
+^F6 z2 |
+[G4g4] [F2f2] [C2c2] |
+[G,2^A2] [G,2-G2-] [G,2G2] +ffff+ G2 |
+A7/2- [A/B/] +fff+ A2 G2 |
+% Bar 40 (0:58)
+^F6 z2 |
+[G4g4] [F2f2] [C2c2] |
+[G,2G2] z2 z4 |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [d2f2] |
+[e4g4] [d2g2] [c2g2] |
+% Bar 50 (1:13)
+[e8-g8-] |
+[e3/2g3/2] z5/2 G2 G2 |
++ffff+ [^A3/2f3/2-] +fff+ [G5/2-f5/2] +ffff+ [G4e4] |
+d3/2 +fff+ G/ ^c3/2 +ffff+ [G/=c/-] c3/2 G/ G3/2 [G/^A/-] |
+[^A3/2f3/2] [G-f] [Gf-] +fff+ [G/-f/] +ffff+ [G4e4] |
+d3/2 G/ z3/2 G/ z3/2 G2 G/ |
+A4 A2 G2 |
+^F6 z2 |
+G4 F2 E2 |
+D6 z2 |
+% Bar 60 (1:28)
+A2- A3/2 [A/B/] A2 G2 |
+^F6 z3/2 G/- |
+G4 F2 E2 |
+D6 z3/2 G/ |
+z2 G3/2 z/ G2- G/ z G/ |
+z3/2 G/ z3/2 G/ c2 [B2d2] |
+z2 G3/2 z/ G2- G/ z G/ |
+z8 |
++fff+ [G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+% Bar 70 (1:43)
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [d2f2] |
+[e4g4] [d2g2] [c2g2] |
+[e8-g8-] |
+[e3/2g3/2] z5/2 G2 G2 |
++ffff+ [^A3/2f3/2-] +fff+ [G5/2-f5/2] +ffff+ [G4e4] |
+d3/2 +fff+ G/ ^c3/2 +ffff+ [G/=c/-] c3/2 G/ G3/2 [G/^A/-] |
+[^A3/2f3/2] [G-f] [Gf-] +fff+ [G/-f/] +ffff+ [G4e4] |
+% Bar 80 (1:58)
+d3/2 G/ z3/2 [G/g/-] g3/2- [G/g/-] [G3/2g3/2] [G/^a/-] |
+[f3/2-^a3/2] +fff+ [f2-g2] [f/g/-] +ffff+ [e4g4] |
+d3/2 +fff+ G/ d3/2 +ffff+ [G/c/-] c3/2- [G/c/-] [G3/2c3/2-] [G/c/] |
+[^A3/2f3/2] [G-f] [Gf-] +fff+ [G/-f/] +ffff+ [G4e4] |
+d3/2 G/ z3/2 [G/g/-] g3/2- [G/g/-] [G3/2g3/2] [G/^a/-] |
+[f3/2-^a3/2] +fff+ [f2-g2] [f/g/-] +ffff+ [e4g4] |
+d3/2 +fff+ G/ d3/2 +ffff+ [G/c/-] c3/2- [G/c/-] [G3/2c3/2-] [G/c/] |
+[^A3/2f3/2] [G-f] [Gf-] +fff+ [G/-f/] +ffff+ [G4e4] |
+d3/2 G/ z3/2 [G/g/-] g3/2- [G/g/-] [G3/2g3/2] [G/^a/-] |
+[f3/2-^a3/2] +ff+ [f2-g2] [f/g/-] +ffff+ [e4g4] |
+% Bar 90 (2:13)
+d3/2 +f+ G/ d3/2 +ffff+ [G/c/-] c3/2- [G/c/-] [G3/2c3/2-] [G/c/] |
+[^A3/2f3/2] [G-f] [Gf-] +mf+ [G/-f/] +ffff+ [G4e4] |
+d3/2 G/ z3/2 [G/g/-] g3/2- [G/g/-] [G3/2g3/2] [G/^a/-] |
+[f3/2-^a3/2] +mp+ [f2-g2] [f/g/-] +ffff+ [e4g4] |
+d3/2 +mp+ G/ d3/2 +ffff+ [G/c/-] c3/2- [G/c/-] [G3/2c3/2-] [G/c/] |
+[^A3/2f3/2] [G-f] [Gf-] +p+ [G/-f/] +ffff+ [G4e4] |
+d3/2 G/ z3/2 [G/g/-] g3/2- [G/g/-] [G3/2g3/2] [G/^a/-] |
+[f3/2-^a3/2] +pp+ [f2-g2] [f/g/-] +ffff+ [e4g4] |
+d3/2 +ppp+ G/ d3/2 +ffff+ [G/c/-] c3/2- [G/c/-] [G3/2c3/2-] [G/c/] |
+[^A3/2f3/2] +fff+ [G-f] [Gf-] +pppp+ [G/-f/] +fff+ [G4e4] |]
+
+
+X: 3
+T: Love Me Do '63 Beatles [Basic Bagpipe] 3/7 (2:29) 2019-12-05
+%%part-name Basic Bagpipe
+M: 4/4
+Q: 160
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+% Bar 10 (0:13)
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [d2f2] |
+[e4g4] [d2g2] [c2g2] |
+[e8-g8-] |
+[e3/2g3/2] z5/2 +mp+ G2 G2 |
+^A3/2 G13/2 |
+z3/2 G/ ^c3/2 =c2 z2 ^A/- |
+% Bar 20 (0:28)
+^A3/2 G2 G9/2 |
+z8 |
++mf+ [G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [d2f2] |
+[e4g4] [d2g2] [c2g2] |
+[e8-g8-] |
+% Bar 30 (0:43)
+[e3/2g3/2] z5/2 +mp+ G2 G2 |
+^A3/2 G13/2 |
+z3/2 G/ ^c3/2 =c2 z2 ^A/- |
+^A3/2 G2 G9/2 |
+z8 |
+A4 A2 G2 |
+^F6 z2 |
++mf+ [G4g4] [F2f2] [C2c2] |
+[G,2^A2] [G,2-G2-] [G,2G2] z2 |
++mp+ A4 A2 G2 |
+% Bar 40 (0:58)
+^F6 z2 |
++mf+ [G4g4] [F2f2] [C2c2] |
+[G,2G2] z2 z4 |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [d2f2] |
+[e4g4] [d2g2] [c2g2] |
+% Bar 50 (1:13)
+[e8-g8-] |
+[e3/2g3/2] z5/2 +mp+ G2 G2 |
+^A3/2 G13/2 |
+z3/2 G/ ^c3/2 =c2 z2 ^A/- |
+^A3/2 G2 G9/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:28)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
++mf+ [G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+% Bar 70 (1:43)
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [G2f2] |
+[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
+[c2g2] z2 z2 [d2f2] |
+[e4g4] [d2g2] [c2g2] |
+[e8-g8-] |
+[e3/2g3/2] z5/2 +mp+ G2 G2 |
+^A3/2 G13/2 |
+z3/2 G/ ^c3/2 =c2 z2 ^A/- |
+^A3/2 G2 G9/2 |
+% Bar 80 (1:58)
+z2 z3/2 g4 ^a/- |
+^a3/2 g2 g9/2 |
+z3/2 G/ d3/2 c9/2 |
+^A3/2 G2 G9/2 |
+z2 z3/2 g4 ^a/- |
+^a3/2 g2 g9/2 |
+z3/2 G/ d3/2 c9/2 |
+^A3/2 G2 G9/2 |
+z2 z3/2 +p+ g4 ^a/- |
+^a3/2 g2 g9/2 |
+% Bar 90 (2:13)
+z3/2 +pp+ G/ d3/2 c9/2 |
+^A3/2 G2 +ppp+ G9/2 |
+z2 z3/2 g4 +pppp+ ^a/- |
+^a3/2 g2 g9/2 |
+z3/2 G/ d3/2 c9/2 |
+^A3/2 G2 G9/2 |
+z2 z3/2 g4 ^a/- |
+^a3/2 g2 g9/2 |
+z3/2 G/ d3/2 c9/2 |
+^A3/2 G2 G9/2 |]
+
+
+X: 4
+T: Love Me Do '63 Beatles [Basic Pibgorn] 4/7 (2:29) 2019-12-05
+%%part-name Basic Pibgorn
+M: 4/4
+Q: 160
+K: C maj
+
++ff+ F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
+F3/2 F F3/2 E3/2 E E3/2 |
+D3/2 G,/ z3/2 G,/ z3/2 G,2 G,/ |
+F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ C3/2 [B,/D/] |
+z2 G,3/2 z/ G,2 z3/2 G,/- |
+G,/ z G,2 G,/ C2 B,2 |
+z8 |
+% Bar 10 (0:13)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
+% Bar 20 (0:28)
+F3/2 F F3/2 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,2 z/ |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:43)
+z8 |
+F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
+F3/2 F F3/2 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
+A,4 A,2 G,2 |
+^F,6 z2 |
+z8 |
+z6 G,2 |
+A,2- A,3/2 B,/ A,2 G,2 |
+% Bar 40 (0:58)
+^F,6 z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:13)
+z8 |
+z8 |
+F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
+F3/2 F F3/2 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,2 G,/ |
+A,4 A,2 G,2 |
+^F,6 z2 |
+G,4 F,2 E,2 |
+D,6 z2 |
+% Bar 60 (1:28)
+A,2- A,3/2 [A,/B,/] A,2 G,2 |
+^F,6 z3/2 G,/- |
+G,4 F,2 E,2 |
+D,6 z3/2 G,/ |
+z2 G,3/2 z/ G,2- G,/ z G,/ |
+z3/2 G,/ z3/2 G,/ C2 [B,2D2] |
+z2 G,3/2 z/ G,2- G,/ z G,/ |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:43)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
+F3/2 F F3/2 E4 |
+% Bar 80 (1:58)
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
+F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
+F3/2 F F3/2 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
+F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ +f+ G,3/2 G,/ |
+F3/2 F F3/2 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 +mf+ G,/ |
+F4 E4 |
+% Bar 90 (2:13)
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 +mp+ G,/ |
+F3/2 F F3/2 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 +p+ G,/ |
+F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 +pp+ G,/ |
+F3/2 F F3/2 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
++ppp+ F4 E4 |
+D3/2 G,/ z3/2 G,/ z3/2 G,/ +pppp+ G,3/2 G,/ |
+F3/2 F F3/2 E4 |]
+
+
+X: 5
+T: Love Me Do '63 Beatles [Lute of Ages] 5/7 (2:29) 2019-12-05
+%%part-name Lute of Ages
 M: 4/4
 Q: 160
 K: C maj
@@ -123,128 +589,9 @@ K: C maj
 [G,2-B,2-D2-G2B2g2] [G,2B,2D2G2B2g2] [G,2-B,2-D2-G2B2g2] [z2G,2B,2D2] |]
 
 
-X: 2
-T: <Love Me Do-'63-Beatles> 2/7 [Flute] (2:29) 9-16-14
-%%part-name Flute
-Z: Morganfey
-M: 4/4
-Q: 160
-K: C maj
-
-+fff+ z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-% Bar 10 (0:13)
-[C2G2] z2 z2 [G,2F2] |
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-[C2G2] z2 z2 [G,2F2] |
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-[C2G2] z2 z2 [D2F2] |
-[E4G4] [D2G2] [C2G2] |
-[E8-G8-] |
-[E3/2G3/2] z5/2 G,2 G,2 |
-^A,3/2 G,13/2 |
-z3/2 G,/ ^C3/2 =C2 z2 ^A,/- |
-% Bar 20 (0:28)
-^A,3/2 G,2 G,9/2 |
-z8 |
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-[C2G2] z2 z2 [G,2F2] |
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-[C2G2] z2 z2 [G,2F2] |
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-[C2G2] z2 z2 [D2F2] |
-[E4G4] [D2G2] [C2G2] |
-[E8-G8-] |
-% Bar 30 (0:43)
-[E3/2G3/2] z5/2 G,2 G,2 |
-^A,3/2 G,13/2 |
-z3/2 G,/ ^C3/2 =C2 z2 ^A,/- |
-^A,3/2 G,2 G,9/2 |
-z8 |
-A,4 A,2 G,2 |
-^F,6 z2 |
-[G,4G4] [F,2F2] [C,2C2] |
-[G,2^A,2] G,2- G,2 z2 |
-A,4 A,2 G,2 |
-% Bar 40 (0:58)
-^F,6 z2 |
-[G,4G4] [F,2F2] [C,2C2] |
-G,2 z2 z4 |
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-[C2G2] z2 z2 [G,2F2] |
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-[C2G2] z2 z2 [G,2F2] |
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-[C2G2] z2 z2 [D2F2] |
-[E4G4] [D2G2] [C2G2] |
-% Bar 50 (1:13)
-[E8-G8-] |
-[E3/2G3/2] z5/2 G,2 G,2 |
-^A,3/2 G,13/2 |
-z3/2 G,/ ^C3/2 =C2 z2 ^A,/- |
-^A,3/2 G,2 G,9/2 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-% Bar 60 (1:28)
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-[C2G2] z2 z2 [G,2F2] |
-% Bar 70 (1:43)
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-[C2G2] z2 z2 [G,2F2] |
-[G,4D4] [G,2D2] [D3/2F3/2] [C/-G/-] |
-[C2G2] z2 z2 [D2F2] |
-[E4G4] [D2G2] [C2G2] |
-[E8-G8-] |
-[E3/2G3/2] z5/2 G,2 G,2 |
-^A,3/2 G,13/2 |
-z3/2 G,/ ^C3/2 =C2 z2 ^A,/- |
-^A,3/2 G,2 G,9/2 |
-% Bar 80 (1:58)
-z2 z3/2 G4 ^A/- |
-^A3/2 G2 G9/2 |
-z3/2 G,/ D3/2 C9/2 |
-^A,3/2 G,2 G,9/2 |
-z2 z3/2 G4 ^A/- |
-^A3/2 G2 G9/2 |
-z3/2 G,/ D3/2 C9/2 |
-^A,3/2 G,2 G,9/2 |
-z2 z3/2 +ff+ G4 ^A/- |
-^A3/2 G2 G9/2 |
-% Bar 90 (2:13)
-z3/2 +f+ G,/ D3/2 C9/2 |
-^A,3/2 G,2 +mf+ G,9/2 |
-z2 z3/2 G4 ^A/- |
-^A3/2 +mp+ G2 G9/2 |
-z3/2 G,/ D3/2 C9/2 |
-+p+ ^A,3/2 G,2 G,9/2 |
-z2 z3/2 +pp+ G4 ^A/- |
-^A3/2 G2 G9/2 |
-z3/2 +ppp+ G,/ D3/2 C9/2 |
-+pppp+ ^A,3/2 G,2 G,9/2 |]
-
-
-X: 3
-T: <Love Me Do-'63-Beatles> 3/7 [Theorbo] (2:29) 9-16-14
-%%part-name Theorbo
-Z: Morganfey
+X: 6
+T: Love Me Do '63 Beatles [Basic Theorbo] 6/7 (2:29) 2019-12-05
+%%part-name Basic Theorbo
 M: 4/4
 Q: 160
 K: C maj
@@ -359,474 +706,119 @@ C2 z2 G2 z2 |
 +pppp+ G2 z2 D2 z2 |]
 
 
-X: 4
-T: <Love Me Do-'63-Beatles> 4/7 [Clarinet] (2:29) 9-16-14
-%%part-name Clarinet
-Z: Morganfey
-M: 4/4
-Q: 160
-K: C maj
-
-+fff+ z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-% Bar 10 (0:13)
-[c2g2] z2 z2 [G2f2] |
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-[c2g2] z2 z2 [G2f2] |
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-[c2g2] z2 z2 [d2f2] |
-[e4g4] [d2g2] [c2g2] |
-[e8-g8-] |
-[e3/2g3/2] z5/2 G2 G2 |
-^A3/2 G13/2 |
-z3/2 G/ ^c3/2 =c2 z2 ^A/- |
-% Bar 20 (0:28)
-^A3/2 G2 G9/2 |
-z8 |
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-[c2g2] z2 z2 [G2f2] |
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-[c2g2] z2 z2 [G2f2] |
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-[c2g2] z2 z2 [d2f2] |
-[e4g4] [d2g2] [c2g2] |
-[e8-g8-] |
-% Bar 30 (0:43)
-[e3/2g3/2] z5/2 G2 G2 |
-^A3/2 G13/2 |
-z3/2 G/ ^c3/2 =c2 z2 ^A/- |
-^A3/2 G2 G9/2 |
-z8 |
-A4 A2 G2 |
-^F6 z2 |
-[G4g4] [F2f2] [C2c2] |
-[G,2^A2] [G,2-G2-] [G,2G2] z2 |
-A4 A2 G2 |
-% Bar 40 (0:58)
-^F6 z2 |
-[G4g4] [F2f2] [C2c2] |
-[G,2G2] z2 z4 |
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-[c2g2] z2 z2 [G2f2] |
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-[c2g2] z2 z2 [G2f2] |
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-[c2g2] z2 z2 [d2f2] |
-[e4g4] [d2g2] [c2g2] |
-% Bar 50 (1:13)
-[e8-g8-] |
-[e3/2g3/2] z5/2 G2 G2 |
-^A3/2 G13/2 |
-z3/2 G/ ^c3/2 =c2 z2 ^A/- |
-^A3/2 G2 G9/2 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-% Bar 60 (1:28)
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-[c2g2] z2 z2 [G2f2] |
-% Bar 70 (1:43)
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-[c2g2] z2 z2 [G2f2] |
-[G4d4] [G2d2] [d3/2f3/2] [c/-g/-] |
-[c2g2] z2 z2 [d2f2] |
-[e4g4] [d2g2] [c2g2] |
-[e8-g8-] |
-[e3/2g3/2] z5/2 G2 G2 |
-^A3/2 G13/2 |
-z3/2 G/ ^c3/2 =c2 z2 ^A/- |
-^A3/2 G2 G9/2 |
-% Bar 80 (1:58)
-z2 z3/2 g4 ^a/- |
-^a3/2 g2 g9/2 |
-z3/2 G/ d3/2 c9/2 |
-^A3/2 G2 G9/2 |
-z2 z3/2 g4 ^a/- |
-^a3/2 g2 g9/2 |
-z3/2 G/ d3/2 c9/2 |
-^A3/2 G2 G9/2 |
-z2 z3/2 +ff+ g4 ^a/- |
-^a3/2 g2 g9/2 |
-% Bar 90 (2:13)
-z3/2 +f+ G/ d3/2 c9/2 |
-^A3/2 G2 +mf+ G9/2 |
-z2 z3/2 g4 ^a/- |
-^a3/2 +mp+ g2 g9/2 |
-z3/2 G/ d3/2 c9/2 |
-+p+ ^A3/2 G2 G9/2 |
-z2 z3/2 +pp+ g4 ^a/- |
-^a3/2 g2 g9/2 |
-z3/2 +ppp+ G/ d3/2 c9/2 |
-+pppp+ ^A3/2 G2 G9/2 |]
-
-
-X: 5
-T: <Love Me Do-'63-Beatles> 5/7 [Bagpipe] (2:29) 9-16-14
-%%part-name Bagpipe
-Z: Morganfey
-M: 4/4
-Q: 160
-K: C maj
-
-+mf+ f4 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
-f3/2 f f3/2 e3/2 e e3/2 |
-d3/2 G/ z3/2 G/ z3/2 G2 G/ |
-f4 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ c3/2 [B/d/] |
-z2 G3/2 z/ G2 z3/2 G/- |
-G/ z G2 G/ c2 B2 |
-z8 |
-% Bar 10 (0:13)
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-f4 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
-% Bar 20 (0:28)
-f3/2 f f3/2 e4 |
-d3/2 G/ z3/2 G/ z3/2 G2 z/ |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-% Bar 30 (0:43)
-z8 |
-f4 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
-f3/2 f f3/2 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
-A4 A2 G2 |
-^F6 z2 |
-z8 |
-z6 G2 |
-A2- A3/2 B/ A2 G2 |
-% Bar 40 (0:58)
-^F6 z2 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-% Bar 50 (1:13)
-z8 |
-z8 |
-f4 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
-f3/2 f f3/2 e4 |
-d3/2 G/ z3/2 G/ z3/2 G2 G/ |
-A4 A2 G2 |
-^F6 z2 |
-G4 F2 E2 |
-D6 z2 |
-% Bar 60 (1:28)
-A2- A3/2 [A/B/] A2 G2 |
-^F6 z3/2 G/- |
-G4 F2 E2 |
-D6 z3/2 G/ |
-z2 G3/2 z/ G2- G/ z G/ |
-z3/2 G/ z3/2 G/ c2 [B2d2] |
-z2 G3/2 z/ G2- G/ z G/ |
-z8 |
-z8 |
-z8 |
-% Bar 70 (1:43)
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-f4 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
-f3/2 f f3/2 e4 |
-% Bar 80 (1:58)
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
-f4 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
-f3/2 f f3/2 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
-f4 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ +mp+ G3/2 G/ |
-f3/2 f f3/2 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 +p+ G/ |
-f4 e4 |
-% Bar 90 (2:13)
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 +pp+ G/ |
-f3/2 f f3/2 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 +ppp+ G/ |
-f4 e4 |
-d3/2 G/ z3/2 G/ z3/2 +pppp+ G/ G3/2 G/ |
-f3/2 f f3/2 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
-f4 e4 |
-d3/2 G/ z3/2 G/ z3/2 G/ G3/2 G/ |
-f3/2 f f3/2 e4 |]
-
-
-X: 6
-T: <Love Me Do-'63-Beatles> 6/7 [Drums] (2:29) 9-16-14
-%%part-name Drums
-Z: Morganfey
-M: 4/4
-Q: 160
-K: C maj
-
-+f+ ^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-% Bar 10 (0:13)
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z15/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-% Bar 20 (0:28)
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-% Bar 30 (0:43)
-^C/ z15/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-% Bar 40 (0:58)
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/C/B/] z3/2 |
-z2 [^D,/^C/B/] z3/2 [D,/C/B/] z7/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-% Bar 50 (1:13)
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z15/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-% Bar 60 (1:28)
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z C/ C/ z3/2 [D,/B/] z3/2 |
-^C/ z7/2 [C/A/] z7/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-% Bar 70 (1:43)
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z3/2 |
-^C/ z15/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-% Bar 80 (1:58)
-^C/ z3/2 [^D,/B/] z [D,/C/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/C/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/C/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/C/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 +mf+ [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/C/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-% Bar 90 (2:13)
-+mp+ ^C/ z3/2 [^D,/B/] z [D,/C/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 +p+ [^D,/B/] z [D,/C/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z +pp+ [D,/C/B/] C/ z3/2 [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/C/B/] C/ z3/2 +ppp+ [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |
-^C/ z3/2 [^D,/B/] z [D,/C/B/] C/ z3/2 +pppp+ [D,/B/] z3/2 |
-^C/ z3/2 [^D,/B/] z3/2 C/ z3/2 [D,/B/] z C/ |]
-
-
 X: 7
-T: <Love Me Do-'63-Beatles> 7/7 [Pibgorn] (2:29) 9-16-14
-%%part-name Pibgorn
-Z: Morganfey
+T: Love Me Do '63 Beatles [Basic Drum] 7/7 (2:29) 2019-12-05
+%%part-name Basic Drum
 M: 4/4
 Q: 160
 K: C maj
 
-+mp+ F4 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
-F3/2 F F3/2 E3/2 E E3/2 |
-D3/2 G,/ z3/2 G,/ z3/2 G,2 G,/ |
-F4 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ C3/2 [B,/D/] |
-z2 G,3/2 z/ G,2 z3/2 G,/- |
-G,/ z G,2 G,/ C2 B,2 |
-z8 |
++f+ D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
 % Bar 10 (0:13)
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-F4 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z15/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
 % Bar 20 (0:28)
-F3/2 F F3/2 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,2 z/ |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
 % Bar 30 (0:43)
-z8 |
-F4 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
-F3/2 F F3/2 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
-A,4 A,2 G,2 |
-^F,6 z2 |
-z8 |
-z6 G,2 |
-A,2- A,3/2 B,/ A,2 G,2 |
+D/ z15/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
 % Bar 40 (0:58)
-^F,6 z2 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/D/E/] z3/2 |
+z2 [G,/D/E/] z3/2 [G,/D/E/] z7/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
 % Bar 50 (1:13)
-z8 |
-z8 |
-F4 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
-F3/2 F F3/2 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,2 G,/ |
-A,4 A,2 G,2 |
-^F,6 z2 |
-G,4 F,2 E,2 |
-D,6 z2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z15/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
 % Bar 60 (1:28)
-A,2- A,3/2 [A,/B,/] A,2 G,2 |
-^F,6 z3/2 G,/- |
-G,4 F,2 E,2 |
-D,6 z3/2 G,/ |
-z2 G,3/2 z/ G,2- G,/ z G,/ |
-z3/2 G,/ z3/2 G,/ C2 [B,2D2] |
-z2 G,3/2 z/ G,2- G,/ z G,/ |
-z8 |
-z8 |
-z8 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z D/ D/ z3/2 [G,/E/] z3/2 |
+D/ z7/2 [D/A/] z7/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
 % Bar 70 (1:43)
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-z8 |
-F4 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
-F3/2 F F3/2 E4 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z3/2 |
+D/ z15/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
 % Bar 80 (1:58)
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
-F4 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
-F3/2 F F3/2 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
-F4 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ +p+ G,3/2 G,/ |
-F3/2 F F3/2 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 +pp+ G,/ |
-F4 E4 |
+D/ z3/2 [G,/E/] z [G,/D/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/D/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/D/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/D/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 +mf+ [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/D/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
 % Bar 90 (2:13)
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 +ppp+ G,/ |
-F3/2 F F3/2 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 +pppp+ G,/ G,3/2 G,/ |
-F4 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
-F3/2 F F3/2 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
-F4 E4 |
-D3/2 G,/ z3/2 G,/ z3/2 G,/ G,3/2 G,/ |
-F3/2 F F3/2 E4 |]
++mp+ D/ z3/2 [G,/E/] z [G,/D/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 +p+ [G,/E/] z [G,/D/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z +pp+ [G,/D/E/] D/ z3/2 [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/D/E/] D/ z3/2 +ppp+ [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |
+D/ z3/2 [G,/E/] z [G,/D/E/] D/ z3/2 +pppp+ [G,/E/] z3/2 |
+D/ z3/2 [G,/E/] z3/2 D/ z3/2 [G,/E/] z D/ |]
 
