@@ -3,7 +3,7 @@
 %%song-duration    5:34
 %%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-03-03 13:47:09
+%%export-timestamp 2023-03-03 18:29:47
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
@@ -354,22 +354,22 @@ A,- A, z z/3 +f+ A,2/3 A,2 z z3 |
 +fff+ A,2 z z z z/3 +f+ A,2/3 A,2 A,2 |
 z z z z z z z z/3 +fff+ A,2/3 +f+ A,- A,/3 A,2/3 |
 +fff+ A,2 z z3 z2 z2 |
-z2 z z/3 +f+ A,2/3 z z z z z z/3 A,2/3 |
++f+ A,2 z z/3 A,2/3 z z z z z z/3 A,2/3 |
 A,2 z3 z z z z2 |
 % Bar 120 (3:43)
 +fff+ A,2 z z7 |
 A,2 z z z z/3 A,2/3 z z z2 |
-z z7 A,2 |
-z z z3 z z z/3 A,2/3 z z |
++f+ A,- A, z6 +fff+ A,2 |
++f+ A,- A, z3 z z z/3 +fff+ A,2/3 z z |
 A,2 z z z z z z/3 A,2/3 z z |
 A,2 z z z3 z z2 |
 A,2 z z3 z z z2 |
 A,2 z z A,2 z z z2 |
-z9 z |
-A,2 z2 A,- A,/3 z2/3 z3 z |
+z4 +f+ A,2 z3 z |
++fff+ A,2 z2 A,- A,/3 z2/3 z3 z |
 % Bar 130 (4:01)
-z10 |
-A,- A, z z z2 A,2 z2 |
++f+ A,2 z8 |
++fff+ A,- A, z z z2 A,2 z2 |
 z3 z +f+ A,2 z4 |
 z3 z +fff+ A,2 z z +f+ A,2 |
 A,2 z3 z z4 |
@@ -382,7 +382,7 @@ A,2 z4 z2 A,2 |
 +fff+ A,2 z z z z z z z z |
 +f+ A,2 z2 z2 z4 |
 A,2 z z z z z z z z |
-z5 z z4 |
+A,2 z3 z z4 |
 A,2 z3 z z z z2 |
 +fff+ A,2 z z z3 z z z |
 A,2 z z z6 |
@@ -838,7 +838,6 @@ z z/3 [^F,2/3^A,2/3^D2/3] z2 [F,A,D] z3 [=F,2^G,2^C2] |
 z z/3 [^F,2/3^A,2/3^D2/3] z2 [F,A,D] z3 [=F,2^G,2^C2] |
 z z/3 [^F,2/3^A,2/3^D2/3] z2 [F,A,D] z3 [=F,2^G,2^C2] |
 [^F,-^A,-^D-] [F,/3A,/3D/3] z2/3 z8 |]
-
 
 X:5
 T: Take Five (5:34) - Lute of Ages 5/7
@@ -1462,4 +1461,5 @@ z10 |
 [^C2G2] G- G/3 [E2/3G2/3] G- G/3- [E2/3G2/3] [E-G-] [E/3-G/3] [E2/3G2/3] G- G/3- [E2/3G2/3] |
 [^C2G2] G- G/3 [E2/3G2/3] G- G/3- [E2/3G2/3] [E-G-] [E/3-G/3] [E2/3G2/3] G- G/3- [E2/3G2/3] |
 +fff+ A3/2 z17/2 |]
+
 
