@@ -1,0 +1,92 @@
+Name: <insert title> 
+Speedup: 0
+Pitch: 0
+Style: TSO  % Defaults for -a rock and a hard place-, others: TSO, Meisterbarden, Bara
+Volume: 0       % scaled, midi volume was -16
+Compress: 1.0   % default : midi dynamics, between 0 and 1: smaller loudness differences, >1: increase loudness differences
+%no pitch guessing   %uncomment to switch off guessing of default octaves
+%no back folding     %uncomment to switch off folding of tone-pitches inside the playable region
+fadeout length 0    %seconds before the end to start with fadeout (try something between 5 and 15)
+Transcriber Bruzo 
+
+
+abctrack begin
+%voladjust    %uncomment to try automatic compensation for U16.1 volumes (experimental!)
+polyphony 6 top % options: top removes tones from higher pitch first, bottom lower pitch first
+duration 2 10000
+panning -4  339  0
+instrument bagpipes
+%
+% Miditrack original Instrument lead5th
+miditrack 1 pitch 0 volume 0 delay 0 prio 1
+abctrack end
+
+
+abctrack begin
+%voladjust    %uncomment to try automatic compensation for U16.1 volumes (experimental!)
+polyphony 6 top % options: top removes tones from higher pitch first, bottom lower pitch first
+duration 2 10000
+panning -13  251  3
+instrument flute
+%
+% Miditrack original Instrument distgtr
+miditrack 5 pitch 0 volume 0 delay 0 prio 1
+abctrack end
+
+
+abctrack begin
+%voladjust    %uncomment to try automatic compensation for U16.1 volumes (experimental!)
+polyphony 6 top % options: top removes tones from higher pitch first, bottom lower pitch first
+duration 2 10000
+panning 41  182  1
+instrument horn
+%
+% Miditrack original Instrument distgtr
+miditrack 3 pitch 0 volume 0 delay 0 prio 1
+abctrack end
+
+
+abctrack begin
+%voladjust    %uncomment to try automatic compensation for U16.1 volumes (experimental!)
+polyphony 6 top % options: top removes tones from higher pitch first, bottom lower pitch first
+duration 2 10000
+panning -40  147  2
+instrument lute
+%
+% Miditrack original Instrument distgtr
+miditrack 4 pitch 0 volume 0 delay 0 prio 1
+abctrack end
+
+
+abctrack begin
+%voladjust    %uncomment to try automatic compensation for U16.1 volumes (experimental!)
+polyphony 6 top % options: top removes tones from higher pitch first, bottom lower pitch first
+duration 2 10000
+panning -9  100  4
+instrument theorbo
+%
+% Miditrack original Instrument fngrbass
+miditrack 6 pitch 0 volume 0 delay 0 prio 1
+abctrack end
+
+
+abctrack begin
+%voladjust    %uncomment to try automatic compensation for U16.1 volumes (experimental!)
+polyphony 6 top % options: top removes tones from higher pitch first, bottom lower pitch first
+duration 2 10000
+panning 6  67  5
+instrument drums 5
+%
+% Miditrack original Instrument acpiano
+miditrack 7 pitch 0 volume 0 delay 0 prio 1
+abctrack end
+
+
+%BV 0  x:  420  y: 339
+%BV 1  x:  476  y: 251
+%BV 2  x:  151  y: 182
+%BV 3  x:  636  y: 147
+%BV 4  x:  452  y: 100
+%BV 5  x:  357  y: 67
+
+
