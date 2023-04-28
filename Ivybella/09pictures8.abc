@@ -1,18 +1,20 @@
 %abc-2.1
-%%song-title       Pictures at an Exhibition - Catacombae
+%%song-title       Mussorgsky - Pictures at an Exhibition (part 8) - Catacombae
 %%song-composer    Mussorgsky
 %%song-duration    1:49
+%%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-02-25 00:58:47
+%%export-timestamp 2023-04-22 09:58:30
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: Pictures at an Exhibition - Catacombae (1:49) - Basic Horn 1/9
+T: Mussorgsky - Pictures at an Exhibition (part 8) - Catacombae (1:49) - Basic Horn 1/9
 %%part-name Basic Horn
 %%made-for Basic Horn
 C: Mussorgsky
+Z: Ivybella
 M: 6/4
 Q: 75
 K: C maj
@@ -80,10 +82,11 @@ z555/56 z165/28 |]
 
 
 X:2
-T: Pictures at an Exhibition - Catacombae (1:49) - Basic Clarinet 2/9
+T: Mussorgsky - Pictures at an Exhibition (part 8) - Catacombae (1:49) - Basic Clarinet 2/9
 %%part-name Basic Clarinet
 %%made-for Basic Clarinet
 C: Mussorgsky
+Z: Ivybella
 M: 6/4
 Q: 75
 K: C maj
@@ -151,10 +154,11 @@ z555/56 z165/28 |]
 
 
 X:3
-T: Pictures at an Exhibition - Catacombae (1:49) - Basic Flute 3/9
+T: Mussorgsky - Pictures at an Exhibition (part 8) - Catacombae (1:49) - Basic Flute 3/9
 %%part-name Basic Flute
 %%made-for Basic Flute
 C: Mussorgsky
+Z: Ivybella
 M: 6/4
 Q: 75
 K: C maj
@@ -222,10 +226,11 @@ z555/56 z165/28 |]
 
 
 X:4
-T: Pictures at an Exhibition - Catacombae (1:49) - Sprightly Fiddle 4/9
+T: Mussorgsky - Pictures at an Exhibition (part 8) - Catacombae (1:49) - Sprightly Fiddle 4/9
 %%part-name Sprightly Fiddle
 %%made-for Sprightly Fiddle
 C: Mussorgsky
+Z: Ivybella
 M: 6/4
 Q: 75
 K: C maj
@@ -326,10 +331,11 @@ e// +p+ e// +pp+ e// e// e// +p+ e// e// +pp+ e// ^c// +p+ c// +pp+ c// c// c// 
 z555/56 z165/28 |]
 
 X:5
-T: Pictures at an Exhibition - Catacombae (1:49) - Bardic Fiddle 5/9
+T: Mussorgsky - Pictures at an Exhibition (part 8) - Catacombae (1:49) - Bardic Fiddle 5/9
 %%part-name Bardic Fiddle
 %%made-for Bardic Fiddle
 C: Mussorgsky
+Z: Ivybella
 M: 6/4
 Q: 75
 K: C maj
@@ -417,10 +423,11 @@ z555/56 z165/28 |]
 
 
 X:6
-T: Pictures at an Exhibition - Catacombae (1:49) - Lonely Mountain Bassoon 6/9
+T: Mussorgsky - Pictures at an Exhibition (part 8) - Catacombae (1:49) - Lonely Mountain Bassoon 6/9
 %%part-name Lonely Mountain Bassoon
 %%made-for Lonely Mountain Bassoon
 C: Mussorgsky
+Z: Ivybella
 M: 6/4
 Q: 75
 K: C maj
@@ -488,10 +495,11 @@ z555/56 z165/28 |]
 
 
 X:7
-T: Pictures at an Exhibition - Catacombae (1:49) - Basic Bassoon 7/9
+T: Mussorgsky - Pictures at an Exhibition (part 8) - Catacombae (1:49) - Basic Bassoon 7/9
 %%part-name Basic Bassoon
 %%made-for Basic Bassoon
 C: Mussorgsky
+Z: Ivybella
 M: 6/4
 Q: 75
 K: C maj
@@ -559,10 +567,11 @@ z555/56 z165/28 |]
 
 
 X:8
-T: Pictures at an Exhibition - Catacombae (1:49) - Lute of Ages 8/9
+T: Mussorgsky - Pictures at an Exhibition (part 8) - Catacombae (1:49) - Lute of Ages 8/9
 %%part-name Lute of Ages
 %%made-for Lute of Ages
 C: Mussorgsky
+Z: Ivybella
 M: 6/4
 Q: 75
 K: C maj
@@ -630,10 +639,11 @@ z555/56 z165/28 |]
 
 
 X:9
-T: Pictures at an Exhibition - Catacombae (1:49) - Basic Theorbo 9/9
+T: Mussorgsky - Pictures at an Exhibition (part 8) - Catacombae (1:49) - Basic Theorbo 9/9
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
 C: Mussorgsky
+Z: Ivybella
 M: 6/4
 Q: 75
 K: C maj

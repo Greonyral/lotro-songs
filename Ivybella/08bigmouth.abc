@@ -1,24 +1,26 @@
 %abc-2.1
-%%song-title       Bigmouth Strikes Again
+%%song-title       The Smiths - Bigmouth Strikes Again
+%%song-composer    The Smiths
 %%song-duration    3:17
 %%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-03-17 12:09:29
+%%export-timestamp 2023-04-22 08:52:09
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: Bigmouth Strikes Again (3:17) - Basic Horn 1/8
+T: The Smiths - Bigmouth Strikes Again (3:17) - Basic Horn 1/8
 %%part-name Basic Horn
 %%made-for Basic Horn
+C: The Smiths
 Z: Ivybella
 M: 4/4
 Q: 132
 K: C maj
 L: 1/8
 
-+fff+ z8 |
++ffff+ z8 |
 z8 |
 z8 |
 z8 |
@@ -140,9 +142,10 @@ z8 |]
 
 
 X:2
-T: Bigmouth Strikes Again (3:17) - Basic Clarinet 2/8
+T: The Smiths - Bigmouth Strikes Again (3:17) - Basic Clarinet 2/8
 %%part-name Basic Clarinet
 %%made-for Basic Clarinet
+C: The Smiths
 Z: Ivybella
 M: 4/4
 Q: 132
@@ -271,9 +274,10 @@ z [A,2A2] [B,2B2] [B,B] [^C^c] [^D^d] |
 
 
 X:3
-T: Bigmouth Strikes Again (3:17) - Basic Flute 3/8
+T: The Smiths - Bigmouth Strikes Again (3:17) - Basic Flute 3/8
 %%part-name Basic Flute
 %%made-for Basic Flute
+C: The Smiths
 Z: Ivybella
 M: 4/4
 Q: 132
@@ -402,9 +406,10 @@ z A,2 B,2 B, ^C ^D |
 
 
 X:4
-T: Bigmouth Strikes Again (3:17) - Traveller's Trusty Fiddle 4/8
+T: The Smiths - Bigmouth Strikes Again (3:17) - Traveller's Trusty Fiddle 4/8
 %%part-name Traveller's Trusty Fiddle
 %%made-for Traveller's Trusty Fiddle
+C: The Smiths
 Z: Ivybella
 M: 4/4
 Q: 132
@@ -532,11 +537,11 @@ z [A,2A2] [B,2B2] [B,B] [^C^c] [^D^d] |
 z [A,2A2] [B,2B2] [B,B] [^C^c] [^D^d] |
 [^D2^d2] [^C2^c2] z4 |]
 
-
 X:5
-T: Bigmouth Strikes Again (3:17) - Basic Bassoon 5/8
+T: The Smiths - Bigmouth Strikes Again (3:17) - Basic Bassoon 5/8
 %%part-name Basic Bassoon
 %%made-for Basic Bassoon
+C: The Smiths
 Z: Ivybella
 M: 4/4
 Q: 132
@@ -665,9 +670,10 @@ z a2 b2 b ^c ^d |
 
 
 X:6
-T: Bigmouth Strikes Again (3:17) - Lute of Ages 6/8
+T: The Smiths - Bigmouth Strikes Again (3:17) - Lute of Ages 6/8
 %%part-name Lute of Ages
 %%made-for Lute of Ages
+C: The Smiths
 Z: Ivybella
 M: 4/4
 Q: 132
@@ -797,9 +803,10 @@ L: 1/8
 
 
 X:7
-T: Bigmouth Strikes Again (3:17) - Basic Theorbo 7/8
+T: The Smiths - Bigmouth Strikes Again (3:17) - Basic Theorbo 7/8
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
+C: The Smiths
 Z: Ivybella
 M: 4/4
 Q: 132
@@ -928,9 +935,10 @@ A, ^C2 A, B, ^D B, ^F, |
 
 
 X:8
-T: Bigmouth Strikes Again (3:17) - Basic Drum 8/8
+T: The Smiths - Bigmouth Strikes Again (3:17) - Basic Drum 8/8
 %%part-name Basic Drum
 %%made-for Basic Drum
+C: The Smiths
 Z: Ivybella
 M: 4/4
 Q: 132
@@ -1056,4 +1064,5 @@ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ |
 [^C/^c/] c/ c/ c/ [E/c/] c/ c/ [C/c/] [C/c/] c/ c/ c/ [E/c/] c/ [C/c/] c/ |
 [^C/^c/] c/ c/ [C/c/] [E/c/] c/ [C/c/] c/ c/ c/ [C/c/] c/ [E/c/] c/ c/ [C/c/] |
 [^C,/^C/A/^c/] c/ c/ c/ [C,/E/A/c/] z11/2 |]
+
 

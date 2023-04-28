@@ -1,18 +1,20 @@
 %abc-2.1
-%%song-title       The Druid's Spell
+%%song-title       Deanta - The Druid's Spell
 %%song-composer    Deanta
 %%song-duration    2:09
+%%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-02-19 02:59:45
+%%export-timestamp 2023-04-22 07:51:00
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: The Druid's Spell (2:09) - Basic Flute 1/5
+T: Deanta - The Druid's Spell (2:09) - Basic Flute 1/5
 %%part-name Basic Flute
 %%made-for Basic Flute
 C: Deanta
+Z: Ivybella
 M: 6/8
 Q: 134
 K: C maj
@@ -127,16 +129,17 @@ A5/4 z7/4 |]
 
 
 X:2
-T: The Druid's Spell (2:09) - Basic Bassoon 2/5
+T: Deanta - The Druid's Spell (2:09) - Basic Bassoon 2/5
 %%part-name Basic Bassoon
 %%made-for Basic Bassoon
 C: Deanta
+Z: Ivybella
 M: 6/8
 Q: 134
 K: C maj
 L: 1/8
 
-+mf+ z3/2 A,3/2- |
++mp+ z3/2 A,3/2- |
 A,5/4 z// A,3/2- |
 A,3- |
 A,5/4 z// G,- G,/3 z/6 |
@@ -244,10 +247,11 @@ D,- D,/3 z/6 A,3/2- |
 A,// z11/4 |]
 
 X:3
-T: The Druid's Spell (2:09) - Lonely Mountain Bassoon 3/5
+T: Deanta - The Druid's Spell (2:09) - Lonely Mountain Bassoon 3/5
 %%part-name Lonely Mountain Bassoon
 %%made-for Lonely Mountain Bassoon
 C: Deanta
+Z: Ivybella
 M: 6/8
 Q: 134
 K: C maj
@@ -362,10 +366,11 @@ A5/4 z// [A,/-A/-] [A,/3-A/3] A,/6- [A,/3G/3-] G/6 |
 
 
 X:4
-T: The Druid's Spell (2:09) - Misty Mountain Harp 4/5
+T: Deanta - The Druid's Spell (2:09) - Misty Mountain Harp 4/5
 %%part-name Misty Mountain Harp
 %%made-for Misty Mountain Harp
 C: Deanta
+Z: Ivybella
 M: 6/8
 Q: 134
 K: C maj
@@ -480,10 +485,11 @@ A5/4 z// [A,/-A/-] [A,/3-A/3] A,/6- [A,/3G/3-] G/6 |
 
 
 X:5
-T: The Druid's Spell (2:09) - Lute of Ages 5/5
+T: Deanta - The Druid's Spell (2:09) - Lute of Ages 5/5
 %%part-name Lute of Ages
 %%made-for Lute of Ages
 C: Deanta
+Z: Ivybella
 M: 6/8
 Q: 134
 K: C maj

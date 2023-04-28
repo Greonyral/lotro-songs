@@ -1,16 +1,20 @@
 %abc-2.1
-%%song-title       F-Zero - Big Blue
+%%song-title       F-Zero (Video Game) - Big Blue
+%%song-composer    Yumiko Kanki Naoto Ishida
 %%song-duration    2:03
+%%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-02-16 06:10:56
+%%export-timestamp 2023-04-22 07:41:53
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: F-Zero - Big Blue (2:03) - Basic Clarinet 1/7
+T: F-Zero (Video Game) - Big Blue (2:03) - Basic Clarinet 1/7
 %%part-name Basic Clarinet
 %%made-for Basic Clarinet
+C: Yumiko Kanki Naoto Ishida
+Z: Ivybella
 M: 4/4
 Q: 110
 K: C maj
@@ -87,9 +91,11 @@ z8 |]
 
 
 X:2
-T: F-Zero - Big Blue (2:03) - Bardic Fiddle 2/7
+T: F-Zero (Video Game) - Big Blue (2:03) - Bardic Fiddle 2/7
 %%part-name Bardic Fiddle
 %%made-for Bardic Fiddle
+C: Yumiko Kanki Naoto Ishida
+Z: Ivybella
 M: 4/4
 Q: 110
 K: C maj
@@ -159,9 +165,11 @@ z [^D/^G/] [C/F/] [D/G/] [C/F/] [D/G/] [C/F/] [C/F/] [F,/C/] [^G,/^C/] [F,/=C/] 
 z8 |]
 
 X:3
-T: F-Zero - Big Blue (2:03) - Traveller's Trusty Fiddle 3/7
+T: F-Zero (Video Game) - Big Blue (2:03) - Traveller's Trusty Fiddle 3/7
 %%part-name Traveller's Trusty Fiddle
 %%made-for Traveller's Trusty Fiddle
+C: Yumiko Kanki Naoto Ishida
+Z: Ivybella
 M: 4/4
 Q: 110
 K: C maj
@@ -232,9 +240,11 @@ z8 |]
 
 
 X:4
-T: F-Zero - Big Blue (2:03) - Basic Bassoon 4/7
+T: F-Zero (Video Game) - Big Blue (2:03) - Basic Bassoon 4/7
 %%part-name Basic Bassoon
 %%made-for Basic Bassoon
+C: Yumiko Kanki Naoto Ishida
+Z: Ivybella
 M: 4/4
 Q: 110
 K: C maj
@@ -305,9 +315,11 @@ z8 |]
 
 
 X:5
-T: F-Zero - Big Blue (2:03) - Lute of Ages 5/7
+T: F-Zero (Video Game) - Big Blue (2:03) - Lute of Ages 5/7
 %%part-name Lute of Ages
 %%made-for Lute of Ages
+C: Yumiko Kanki Naoto Ishida
+Z: Ivybella
 M: 4/4
 Q: 110
 K: C maj
@@ -404,9 +416,11 @@ z8 |]
 
 
 X:6
-T: F-Zero - Big Blue (2:03) - Basic Theorbo 6/7
+T: F-Zero (Video Game) - Big Blue (2:03) - Basic Theorbo 6/7
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
+C: Yumiko Kanki Naoto Ishida
+Z: Ivybella
 M: 4/4
 Q: 110
 K: C maj
@@ -477,9 +491,11 @@ z8 |]
 
 
 X:7
-T: F-Zero - Big Blue (2:03) - Basic Drum 7/7
+T: F-Zero (Video Game) - Big Blue (2:03) - Basic Drum 7/7
 %%part-name Basic Drum
 %%made-for Basic Drum
+C: Yumiko Kanki Naoto Ishida
+Z: Ivybella
 M: 4/4
 Q: 110
 K: C maj

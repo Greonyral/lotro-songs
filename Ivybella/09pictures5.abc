@@ -1,18 +1,20 @@
 %abc-2.1
-%%song-title       Pictures at an Exhibition - Ballet of Unhatched Chicks
+%%song-title       Mussorgksy - Pictures at an Exhibition (part 5) - Ballet of Unhatched Chicks
 %%song-composer    Mussorgksy
 %%song-duration    1:59
+%%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-02-19 03:25:19
+%%export-timestamp 2023-04-22 09:51:01
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: Pictures at an Exhibition - Ballet of Unhatched Chicks (1:59) - Basic Horn 1/9
+T: Mussorgksy - Pictures at an Exhibition (part 5) - Ballet of Unhatched Chicks (1:59) - Basic Horn 1/9
 %%part-name Basic Horn
 %%made-for Basic Horn
 C: Mussorgksy
+Z: Ivybella
 M: 5/4
 Q: 165
 K: C maj
@@ -167,10 +169,11 @@ z165/169
 
 
 X:2
-T: Pictures at an Exhibition - Ballet of Unhatched Chicks (1:59) - Basic Clarinet 2/9
+T: Mussorgksy - Pictures at an Exhibition (part 5) - Ballet of Unhatched Chicks (1:59) - Basic Clarinet 2/9
 %%part-name Basic Clarinet
 %%made-for Basic Clarinet
 C: Mussorgksy
+Z: Ivybella
 M: 5/4
 Q: 165
 K: C maj
@@ -326,10 +329,11 @@ z165/169
 
 
 X:3
-T: Pictures at an Exhibition - Ballet of Unhatched Chicks (1:59) - Basic Flute 3/9
+T: Mussorgksy - Pictures at an Exhibition (part 5) - Ballet of Unhatched Chicks (1:59) - Basic Flute 3/9
 %%part-name Basic Flute
 %%made-for Basic Flute
 C: Mussorgksy
+Z: Ivybella
 M: 5/4
 Q: 165
 K: C maj
@@ -486,10 +490,11 @@ z11/3 +ffff+ c11/24 ^c121/24- |
 
 
 X:4
-T: Pictures at an Exhibition - Ballet of Unhatched Chicks (1:59) - Traveller's Trusty Fiddle 4/9
+T: Mussorgksy - Pictures at an Exhibition (part 5) - Ballet of Unhatched Chicks (1:59) - Traveller's Trusty Fiddle 4/9
 %%part-name Traveller's Trusty Fiddle
 %%made-for Traveller's Trusty Fiddle
 C: Mussorgksy
+Z: Ivybella
 M: 5/4
 Q: 165
 K: C maj
@@ -655,10 +660,11 @@ z11/3
 	z11/4 +p+ [f33/8-a33/8-] [f11/24a11/24] z11/12 z11/2 |]
 
 X:5
-T: Pictures at an Exhibition - Ballet of Unhatched Chicks (1:59) - Lonely Mountain Bassoon 5/9
+T: Mussorgksy - Pictures at an Exhibition (part 5) - Ballet of Unhatched Chicks (1:59) - Lonely Mountain Bassoon 5/9
 %%part-name Lonely Mountain Bassoon
 %%made-for Lonely Mountain Bassoon
 C: Mussorgksy
+Z: Ivybella
 M: 5/4
 Q: 165
 K: C maj
@@ -814,10 +820,11 @@ z11/3 +fff+ c'11/24 ^c121/24- |
 
 
 X:6
-T: Pictures at an Exhibition - Ballet of Unhatched Chicks (1:59) - Basic Bassoon 6/9
+T: Mussorgksy - Pictures at an Exhibition (part 5) - Ballet of Unhatched Chicks (1:59) - Basic Bassoon 6/9
 %%part-name Basic Bassoon
 %%made-for Basic Bassoon
 C: Mussorgksy
+Z: Ivybella
 M: 5/4
 Q: 165
 K: C maj
@@ -978,10 +985,11 @@ z165/169
 
 
 X:7
-T: Pictures at an Exhibition - Ballet of Unhatched Chicks (1:59) - Misty Mountain Harp 7/9
+T: Mussorgksy - Pictures at an Exhibition (part 5) - Ballet of Unhatched Chicks (1:59) - Misty Mountain Harp 7/9
 %%part-name Misty Mountain Harp
 %%made-for Misty Mountain Harp
 C: Mussorgksy
+Z: Ivybella
 M: 5/4
 Q: 165
 K: C maj
@@ -1136,10 +1144,11 @@ z11/3
 
 
 X:8
-T: Pictures at an Exhibition - Ballet of Unhatched Chicks (1:59) - Basic Theorbo 8/9
+T: Mussorgksy - Pictures at an Exhibition (part 5) - Ballet of Unhatched Chicks (1:59) - Basic Theorbo 8/9
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
 C: Mussorgksy
+Z: Ivybella
 M: 5/4
 Q: 165
 K: C maj
@@ -1294,10 +1303,11 @@ z11/3
 
 
 X:9
-T: Pictures at an Exhibition - Ballet of Unhatched Chicks (1:59) - Basic Drum 9/9
+T: Mussorgksy - Pictures at an Exhibition (part 5) - Ballet of Unhatched Chicks (1:59) - Basic Drum 9/9
 %%part-name Basic Drum
 %%made-for Basic Drum
 C: Mussorgksy
+Z: Ivybella
 M: 5/4
 Q: 165
 K: C maj

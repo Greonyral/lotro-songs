@@ -1,18 +1,20 @@
 %abc-2.1
-%%song-title       Pictures at an Exhibition - Goldenberg and Schmuyle
+%%song-title       Mussorgsky - Pictures at an Exhibition (part 6) - Goldenberg and Schmuyle
 %%song-composer    Mussorgsky
 %%song-duration    2:29
+%%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-02-19 03:27:26
+%%export-timestamp 2023-04-22 09:56:22
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: Pictures at an Exhibition - Goldenberg and Schmuyle (2:29) - Basic Horn 1/7
+T: Mussorgsky - Pictures at an Exhibition (part 6) - Goldenberg and Schmuyle (2:29) - Basic Horn 1/7
 %%part-name Basic Horn
 %%made-for Basic Horn
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 45
 K: C maj
@@ -246,10 +248,11 @@ z9/5
 
 
 X:2
-T: Pictures at an Exhibition - Goldenberg and Schmuyle (2:29) - Basic Clarinet 2/7
+T: Mussorgsky - Pictures at an Exhibition (part 6) - Goldenberg and Schmuyle (2:29) - Basic Clarinet 2/7
 %%part-name Basic Clarinet
 %%made-for Basic Clarinet
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 45
 K: C maj
@@ -499,10 +502,11 @@ z9/5
 
 
 X:3
-T: Pictures at an Exhibition - Goldenberg and Schmuyle (2:29) - Bardic Fiddle 3/7
+T: Mussorgsky - Pictures at an Exhibition (part 6) - Goldenberg and Schmuyle (2:29) - Bardic Fiddle 3/7
 %%part-name Bardic Fiddle
 %%made-for Bardic Fiddle
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 45
 K: C maj
@@ -736,10 +740,11 @@ z4
 	+fff+ [^A,9/10^A9/10] z9/10 |]
 
 X:4
-T: Pictures at an Exhibition - Goldenberg and Schmuyle (2:29) - Traveller's Trusty Fiddle 4/7
+T: Mussorgsky - Pictures at an Exhibition (part 6) - Goldenberg and Schmuyle (2:29) - Traveller's Trusty Fiddle 4/7
 %%part-name Traveller's Trusty Fiddle
 %%made-for Traveller's Trusty Fiddle
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 45
 K: C maj
@@ -973,10 +978,11 @@ z4
 
 
 X:5
-T: Pictures at an Exhibition - Goldenberg and Schmuyle (2:29) - Basic Bassoon 5/7
+T: Mussorgsky - Pictures at an Exhibition (part 6) - Goldenberg and Schmuyle (2:29) - Basic Bassoon 5/7
 %%part-name Basic Bassoon
 %%made-for Basic Bassoon
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 45
 K: C maj
@@ -1210,10 +1216,11 @@ z9/5
 
 
 X:6
-T: Pictures at an Exhibition - Goldenberg and Schmuyle (2:29) - Lonely Mountain Bassoon 6/7
+T: Mussorgsky - Pictures at an Exhibition (part 6) - Goldenberg and Schmuyle (2:29) - Lonely Mountain Bassoon 6/7
 %%part-name Lonely Mountain Bassoon
 %%made-for Lonely Mountain Bassoon
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 45
 K: C maj
@@ -1447,10 +1454,11 @@ z15/2 [E/6e/6] +mf+ [F/6f/6] [E/6e/6] |
 
 
 X:7
-T: Pictures at an Exhibition - Goldenberg and Schmuyle (2:29) - Basic Theorbo 7/7
+T: Mussorgsky - Pictures at an Exhibition (part 6) - Goldenberg and Schmuyle (2:29) - Basic Theorbo 7/7
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 45
 K: C maj

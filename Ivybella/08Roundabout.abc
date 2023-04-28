@@ -1,16 +1,20 @@
 %abc-2.1
-%%song-title       Roundabout
+%%song-title       Yes - Roundabout
+%%song-composer    Yes
 %%song-duration    6:19
+%%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-02-13 07:59:03
+%%export-timestamp 2023-04-22 08:06:49
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: Roundabout (6:19) - Basic Clarinet 1/8
+T: Yes - Roundabout (6:19) - Basic Clarinet 1/8
 %%part-name Basic Clarinet
 %%made-for Basic Clarinet
+C: Yes
+Z: Ivybella
 M: 4/4
 Q: 130
 K: C maj
@@ -341,9 +345,11 @@ z80/7 |]
 
 
 X:2
-T: Roundabout (6:19) - Basic Flute 2/8
+T: Yes - Roundabout (6:19) - Basic Flute 2/8
 %%part-name Basic Flute
 %%made-for Basic Flute
+C: Yes
+Z: Ivybella
 M: 4/4
 Q: 130
 K: C maj
@@ -624,9 +630,11 @@ z80/7 |]
 
 
 X:3
-T: Roundabout (6:19) - Bardic Fiddle 3/8
+T: Yes - Roundabout (6:19) - Bardic Fiddle 3/8
 %%part-name Bardic Fiddle
 %%made-for Bardic Fiddle
+C: Yes
+Z: Ivybella
 M: 4/4
 Q: 130
 K: C maj
@@ -871,9 +879,11 @@ z13/6
 z80/7 |]
 
 X:4
-T: Roundabout (6:19) - Traveller's Trusty Fiddle 4/8
+T: Yes - Roundabout (6:19) - Traveller's Trusty Fiddle 4/8
 %%part-name Traveller's Trusty Fiddle
 %%made-for Traveller's Trusty Fiddle
+C: Yes
+Z: Ivybella
 M: 4/4
 Q: 130
 K: C maj
@@ -957,8 +967,9 @@ z [B,2/3D2/3-G2/3] D/3 [G,-C-E-] [G,/3C/3E/3-] E/3 z/3 [A,C-F-] [C/F/] z/ [C2/3-
 % Bar 60 (2:06)
 [B,7E7G7] [G,-B,-E-G-] |
 [G,2/3B,2/3E2/3G2/3] z/3 [G,/B,/E/G/-] G/ [A,3/2^C3/2^F3/2A3/2] z/ [B,-D-F-G-B-] [B,/3D/3F/3G/3-B/3] G/3 z/3 [A,3/2C3/2F3/2A3/2] z/ |
-[B,-D-^F-G-B-] [B,/3D/3F/3-G/3-B/3-] [F/3G/3B/3] z/3 [A,2/3^C2/3F2/3A2/3-] A/3 [G,3-B,3-E3-G3-] [G,2/3B,2/3E2/3G2/3] z/3 [B,-E-G-] |
-[B,2/3E2/3G2/3] z/3 [B,/E/G/-] G/ [^C^F-A-] [F2/3A2/3] z/3 [D-F-G-B-] [D/3F/3-G/3-B/3-] [F/3G/3B/3] z/3 [C2/3F2/3A2/3-] A/3 [D-F-A-B-] |
+[B,-D-^F-G-B-] [B,/3D/3F/3-G/3-B/3-] [F/3G/3B/3] z/3 [A,2/3^C2/3F2/3A2/3-] A/3 [G,-B,-E-G-] [G,-B,E-G-] [G,-B,-E-G-] [G,2/3B,2/3-E2/3G2/3] B,/3 [G,-B,-E-G-] |
+[G,2/3-B,2/3E2/3-G2/3-] [G,/3E/3-G/3-] [B,/3D/3-E/3G/3-] [D/3-G/3] D/3 [^CE-^F-A-] [E/F/A/] =F/- [D2/3-F2/3^F2/3G2/3-B2/3-] [D2/3F2/3-G2/3-B2/3-] [F/3-G/3B/3]
+	F/3 [C2/3F2/3-A2/3-] [F/3A/3] [D-F-A-B-] |
 [D6-^F6-A6-B6-] [D2/3F2/3A2/3B2/3] z/3 [G,-B,-E-G-] |
 [G,/3B,/3-E/3-G/3-] [B,/3E/3G/3] z/3 [G,/B,/E/G/-] G/ [A,-^C-^F-A-] [A,/3C/3F/3-A/3-] [F/3A/3] z/3 [B,-D-F-G-B-] [B,/3D/3F/3G/3-B/3-] [G/3B/3] z/3 [A,-C-F-A-]
 	[A,/3C/3-F/3-A/3-] [C/3F/3A/3] z/3 |
@@ -968,7 +979,7 @@ c/3 d/3 e/3 ^F/3- [F/3G/3] A/3 C2/3 z/3 C2/3 z/3 B/3 c/3 d/3 F2/3 [G/3A/3] B, B/
 [E,/-B,/E/G/] E,/- [E,/3-B,/3E/3G/3-] [E,/3-G/3] E,/3 [A,-^C-^F-A-] [A,/3C/3F/3-A/3-] [F/3A/3] z/3 [B,-D-F-G-B-] [B,/3D/3F/3G/3-B/3-] [G/3B/3] z/3 [A,-C-F-A-]
 	[A,/3C/3F/3-A/3-] [F/3A/3] z/3 |
 % Bar 70 (2:25)
-[B,-D-^F-G-B-] [B,/3D/3F/3-G/3-B/3-] [F/3G/3B/3] z/3 [A,2/3^C2/3F2/3A2/3-] A/3 [G,3-B,3-E3-G3-] [G,2/3B,2/3-E2/3G2/3] B,/3 [G,-B,-E-G-] |
+[B,-D-^F-G-B-] [B,/3D/3F/3-G/3-B/3-] [F/3G/3B/3] z/3 [A,2/3^C2/3F2/3A2/3-] A/3 [G,3-B,3-E3-G3-] [G,2/3B,2/3E2/3G2/3] z/3 [G,-B,-E-G-] |
 [G,/B,/E/G/] z/ [G,/3B,/3E/3G/3-] G/3 z/3 [A,-^C-^F-A-] [A,/3C/3F/3-A/3-] [F/3A/3] z/3 [B,-D-F-G-B-] [B,/3D/3F/3-G/3-B/3-] [F/3G/3-B/3-] [G/3B/3]
 	[A,2/3C2/3F2/3A2/3] z/3 [G,-B,-E-G-] |
 [G,4-B,4-E4-G4-] [G,2/3-B,2/3-E2/3-G2/3] [G,/3-B,/3-E/3] [G,-B,E-G-] [G,/3B,/3-E/3G/3] B,2/3 [G,-B,-E-G-] |
@@ -1178,9 +1189,11 @@ A65/66- [A65/198B65/198-] B65/99 z65/66 B65/66- [B65/198-c65/198] B65/99 B65/132
 
 
 X:5
-T: Roundabout (6:19) - Lonely Mountain Bassoon 5/8
+T: Yes - Roundabout (6:19) - Lonely Mountain Bassoon 5/8
 %%part-name Lonely Mountain Bassoon
 %%made-for Lonely Mountain Bassoon
+C: Yes
+Z: Ivybella
 M: 4/4
 Q: 130
 K: C maj
@@ -1424,9 +1437,11 @@ z80/7 |]
 
 
 X:6
-T: Roundabout (6:19) - Lute of Ages 6/8
+T: Yes - Roundabout (6:19) - Lute of Ages 6/8
 %%part-name Lute of Ages
 %%made-for Lute of Ages
+C: Yes
+Z: Ivybella
 M: 4/4
 Q: 130
 K: C maj
@@ -1510,8 +1525,9 @@ z [B2/3d2/3-g2/3] d/3 +fff+ [G-c-e-] [G/3c/3e/3-] e/3 z/3 +ffff+ [Ac-f-] [c/f/] 
 % Bar 60 (2:06)
 [B7e7g7] [G-B-e-g-] |
 [G2/3B2/3e2/3g2/3] z/3 [G/B/e/g/-] g/ [A3/2^c3/2^f3/2a3/2] z/ [B-d-f-g-b-] [B/3d/3f/3g/3-b/3] g/3 z/3 [A3/2c3/2f3/2a3/2] z/ |
-[B-d-^f-g-b-] [B/3d/3f/3-g/3-b/3-] [f/3g/3b/3] z/3 [A2/3^c2/3f2/3a2/3-] a/3 [G3-B3-e3-g3-] [G2/3B2/3e2/3g2/3] z/3 [B-e-g-] |
-[B2/3e2/3g2/3] z/3 +fff+ [B/e/g/-] g/ +ffff+ [^c^f-a-] [f2/3a2/3] z/3 [d-f-g-b-] [d/3f/3-g/3-b/3-] [f/3g/3b/3] z/3 [c2/3f2/3a2/3-] a/3 [d-f-a-b-] |
+[B-d-^f-g-b-] [B/3d/3f/3-g/3-b/3-] [f/3g/3b/3] z/3 [A2/3^c2/3f2/3a2/3-] a/3 [G-B-e-g-] [G-Be-g-] +fff+ [G-B-e-g-] [G2/3B2/3-e2/3g2/3] B/3 +ffff+ [G-B-e-g-] |
+[G2/3-B2/3e2/3-g2/3-] [G/3e/3-g/3-] [B/3d/3-e/3g/3-] [d/3-g/3] d/3 [^ce-^f-a-] [e/f/a/] =f/- [d2/3-f2/3^f2/3g2/3-b2/3-] [d2/3f2/3-g2/3-b2/3-] [f/3-g/3b/3] f/3
+	[c2/3f2/3-a2/3-] [f/3a/3] [d-f-a-b-] |
 [d6-^f6-a6-b6-] [d2/3f2/3a2/3b2/3] z/3 [G-B-e-g-] |
 [G/3B/3-e/3-g/3-] [B/3e/3g/3] z/3 [G/B/e/g/-] g/ [A-^c-^f-a-] [A/3c/3f/3-a/3-] [f/3a/3] z/3 [B-d-f-g-b-] [B/3d/3f/3g/3-b/3-] [g/3b/3] z/3 [A-c-f-a-]
 	[A/3c/3-f/3-a/3-] [c/3f/3a/3] z/3 |
@@ -1521,7 +1537,7 @@ c'/3 d/3 e/3 ^f/3- [f/3g/3] a/3 c2/3 z/3 c2/3 z/3 b/3 c'/3 d/3 f2/3 [g/3a/3] B b
 [E/-B/e/g/] E/- [E/3-B/3e/3g/3-] [E/3-g/3] E/3 [A-^c-^f-a-] [A/3c/3f/3-a/3-] [f/3a/3] z/3 [B-d-f-g-b-] [B/3d/3f/3g/3-b/3-] [g/3b/3] z/3 [A-c-f-a-]
 	[A/3c/3f/3-a/3-] [f/3a/3] z/3 |
 % Bar 70 (2:25)
-[B-d-^f-g-b-] [B/3d/3f/3-g/3-b/3-] [f/3g/3b/3] z/3 [A2/3^c2/3f2/3a2/3-] a/3 [G3-B3-e3-g3-] [G2/3B2/3-e2/3g2/3] B/3 [G-B-e-g-] |
+[B-d-^f-g-b-] [B/3d/3f/3-g/3-b/3-] [f/3g/3b/3] z/3 [A2/3^c2/3f2/3a2/3-] a/3 [G3-B3-e3-g3-] [G2/3B2/3e2/3g2/3] z/3 [G-B-e-g-] |
 [G/B/e/g/] z/ [G/3B/3e/3g/3-] g/3 z/3 [A-^c-^f-a-] [A/3c/3f/3-a/3-] [f/3a/3] z/3 [B-d-f-g-b-] [B/3d/3f/3-g/3-b/3-] [f/3g/3-b/3-] [g/3b/3] [A2/3c2/3f2/3a2/3] z/3
 	[G-B-e-g-] |
 [G4-B4-e4-g4-] [G2/3-B2/3-e2/3-g2/3] [G/3-B/3-e/3] [G-Be-g-] [G/3B/3-e/3g/3] B2/3 [G-B-e-g-] |
@@ -1750,9 +1766,11 @@ a65/66- [a65/198b65/198-] b65/99 z65/66 b65/66- [b65/198-c'65/198] b65/99 b65/13
 
 
 X:7
-T: Roundabout (6:19) - Basic Theorbo 7/8
+T: Yes - Roundabout (6:19) - Basic Theorbo 7/8
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
+C: Yes
+Z: Ivybella
 M: 4/4
 Q: 130
 K: C maj
@@ -1997,9 +2015,11 @@ z80/7 |]
 
 
 X:8
-T: Roundabout (6:19) - Basic Drum 8/8
+T: Yes - Roundabout (6:19) - Basic Drum 8/8
 %%part-name Basic Drum
 %%made-for Basic Drum
+C: Yes
+Z: Ivybella
 M: 4/4
 Q: 130
 K: C maj

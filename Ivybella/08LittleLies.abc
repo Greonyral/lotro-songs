@@ -1,16 +1,20 @@
 %abc-2.1
-%%song-title       Little Lies
+%%song-title       Fleetwood Mac - Little Lies
+%%song-composer    Fleetwood Mac
 %%song-duration    3:36
+%%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-02-19 03:02:27
+%%export-timestamp 2023-04-22 08:08:42
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: Little Lies (3:36) - Basic Horn 1/8
+T: Fleetwood Mac - Little Lies (3:36) - Basic Horn 1/8
 %%part-name Basic Horn
 %%made-for Basic Horn
+C: Fleetwood Mac
+Z: Ivybella
 M: 4/4
 Q: 125
 K: C maj
@@ -143,9 +147,11 @@ z8 |]
 
 
 X:2
-T: Little Lies (3:36) - Basic Clarinet 2/8
+T: Fleetwood Mac - Little Lies (3:36) - Basic Clarinet 2/8
 %%part-name Basic Clarinet
 %%made-for Basic Clarinet
+C: Fleetwood Mac
+Z: Ivybella
 M: 4/4
 Q: 125
 K: C maj
@@ -278,9 +284,11 @@ z8 |]
 
 
 X:3
-T: Little Lies (3:36) - Basic Flute 3/8
+T: Fleetwood Mac - Little Lies (3:36) - Basic Flute 3/8
 %%part-name Basic Flute
 %%made-for Basic Flute
+C: Fleetwood Mac
+Z: Ivybella
 M: 4/4
 Q: 125
 K: C maj
@@ -413,9 +421,11 @@ z8 |]
 
 
 X:4
-T: Little Lies (3:36) - Brusque Bassoon 4/8
+T: Fleetwood Mac - Little Lies (3:36) - Brusque Bassoon 4/8
 %%part-name Brusque Bassoon
 %%made-for Brusque Bassoon
+C: Fleetwood Mac
+Z: Ivybella
 M: 4/4
 Q: 125
 K: C maj
@@ -548,9 +558,11 @@ e ^f ^g a b ^c d e |
 
 
 X:5
-T: Little Lies (3:36) - Basic Bassoon 5/8
+T: Fleetwood Mac - Little Lies (3:36) - Basic Bassoon 5/8
 %%part-name Basic Bassoon
 %%made-for Basic Bassoon
+C: Fleetwood Mac
+Z: Ivybella
 M: 4/4
 Q: 125
 K: C maj
@@ -683,9 +695,11 @@ z [d^fa] z// [d3/4f3/4a3/4] z [dfa] [f//-a//-] [d3/4f3/4a3/4-] a [d-fa] |
 
 
 X:6
-T: Little Lies (3:36) - Lute of Ages 6/8
+T: Fleetwood Mac - Little Lies (3:36) - Lute of Ages 6/8
 %%part-name Lute of Ages
 %%made-for Lute of Ages
+C: Fleetwood Mac
+Z: Ivybella
 M: 4/4
 Q: 125
 K: C maj
@@ -818,9 +832,11 @@ z8 |]
 
 
 X:7
-T: Little Lies (3:36) - Basic Theorbo 7/8
+T: Fleetwood Mac - Little Lies (3:36) - Basic Theorbo 7/8
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
+C: Fleetwood Mac
+Z: Ivybella
 M: 4/4
 Q: 125
 K: C maj
@@ -953,9 +969,11 @@ e2 z e3/2 z/ E3/2 z/ E/ z/ |
 
 
 X:8
-T: Little Lies (3:36) - Basic Drum 8/8
+T: Fleetwood Mac - Little Lies (3:36) - Basic Drum 8/8
 %%part-name Basic Drum
 %%made-for Basic Drum
+C: Fleetwood Mac
+Z: Ivybella
 M: 4/4
 Q: 125
 K: C maj

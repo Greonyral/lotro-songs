@@ -1,18 +1,20 @@
 %abc-2.1
-%%song-title       Pictures at an Exhibition - Bydlo
+%%song-title       Mussorgsky - Pictures at an Exhibition (part 4) - Bydlo
 %%song-composer    Mussorgsky
 %%song-duration    2:43
+%%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-02-19 03:49:37
+%%export-timestamp 2023-04-22 09:54:17
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: Pictures at an Exhibition - Bydlo (2:43) - Basic Horn 1/9
+T: Mussorgsky - Pictures at an Exhibition (part 4) - Bydlo (2:43) - Basic Horn 1/9
 %%part-name Basic Horn
 %%made-for Basic Horn
 C: Mussorgsky
+Z: Ivybella
 M: 2/4
 Q: 50
 K: C maj
@@ -105,10 +107,11 @@ z200/17 |]
 
 
 X:2
-T: Pictures at an Exhibition - Bydlo (2:43) - Basic Clarinet 2/9
+T: Mussorgsky - Pictures at an Exhibition (part 4) - Bydlo (2:43) - Basic Clarinet 2/9
 %%part-name Basic Clarinet
 %%made-for Basic Clarinet
 C: Mussorgsky
+Z: Ivybella
 M: 2/4
 Q: 50
 K: C maj
@@ -201,10 +204,11 @@ z200/17 |]
 
 
 X:3
-T: Pictures at an Exhibition - Bydlo (2:43) - Basic Flute 3/9
+T: Mussorgsky - Pictures at an Exhibition (part 4) - Bydlo (2:43) - Basic Flute 3/9
 %%part-name Basic Flute
 %%made-for Basic Flute
 C: Mussorgsky
+Z: Ivybella
 M: 2/4
 Q: 50
 K: C maj
@@ -297,10 +301,11 @@ z200/17 |]
 
 
 X:4
-T: Pictures at an Exhibition - Bydlo (2:43) - Bardic Fiddle 4/9
+T: Mussorgsky - Pictures at an Exhibition (part 4) - Bydlo (2:43) - Bardic Fiddle 4/9
 %%part-name Bardic Fiddle
 %%made-for Bardic Fiddle
 C: Mussorgsky
+Z: Ivybella
 M: 2/4
 Q: 50
 K: C maj
@@ -392,10 +397,11 @@ z100/9 |
 z200/17 |]
 
 X:5
-T: Pictures at an Exhibition - Bydlo (2:43) - Traveller's Trusty Fiddle 5/9
+T: Mussorgsky - Pictures at an Exhibition (part 4) - Bydlo (2:43) - Traveller's Trusty Fiddle 5/9
 %%part-name Traveller's Trusty Fiddle
 %%made-for Traveller's Trusty Fiddle
 C: Mussorgsky
+Z: Ivybella
 M: 2/4
 Q: 50
 K: C maj
@@ -465,8 +471,8 @@ z100/11 |
 z100/11 |
 z100/11 |
 z100/11 |
-+fff+ ^G,50/11 +ff+ A,50/11 |
-+fff+ D,50/11 +ff+ ^C,50/11 |
+^G,50/11 A,50/11 |
+D,50/11 +fff+ ^C,50/11 |
 z475/88
 	%%Q: 42
 	z325/84 |
@@ -488,10 +494,11 @@ z200/17 |]
 
 
 X:6
-T: Pictures at an Exhibition - Bydlo (2:43) - Basic Bassoon 6/9
+T: Mussorgsky - Pictures at an Exhibition (part 4) - Bydlo (2:43) - Basic Bassoon 6/9
 %%part-name Basic Bassoon
 %%made-for Basic Bassoon
 C: Mussorgsky
+Z: Ivybella
 M: 2/4
 Q: 50
 K: C maj
@@ -584,10 +591,11 @@ z200/17 |]
 
 
 X:7
-T: Pictures at an Exhibition - Bydlo (2:43) - Misty Mountain Harp 7/9
+T: Mussorgsky - Pictures at an Exhibition (part 4) - Bydlo (2:43) - Misty Mountain Harp 7/9
 %%part-name Misty Mountain Harp
 %%made-for Misty Mountain Harp
 C: Mussorgsky
+Z: Ivybella
 M: 2/4
 Q: 50
 K: C maj
@@ -680,10 +688,11 @@ z200/17 |]
 
 
 X:8
-T: Pictures at an Exhibition - Bydlo (2:43) - Basic Theorbo 8/9
+T: Mussorgsky - Pictures at an Exhibition (part 4) - Bydlo (2:43) - Basic Theorbo 8/9
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
 C: Mussorgsky
+Z: Ivybella
 M: 2/4
 Q: 50
 K: C maj
@@ -776,10 +785,11 @@ L: 1/16
 
 
 X:9
-T: Pictures at an Exhibition - Bydlo (2:43) - Basic Drum 9/9
+T: Mussorgsky - Pictures at an Exhibition (part 4) - Bydlo (2:43) - Basic Drum 9/9
 %%part-name Basic Drum
 %%made-for Basic Drum
 C: Mussorgsky
+Z: Ivybella
 M: 2/4
 Q: 50
 K: C maj

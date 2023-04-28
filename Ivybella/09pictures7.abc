@@ -1,18 +1,20 @@
 %abc-2.1
-%%song-title       Pictures at an Exhibition - Limoges. Le marché
+%%song-title       Pictures at an Exhibition (part 7) - Limoges. Le marché
 %%song-composer    Mussorgsky
 %%song-duration    4:01
+%%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-02-19 03:30:09
+%%export-timestamp 2023-04-22 09:57:19
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: Pictures at an Exhibition - Limoges. Le marché (4:01) - Basic Horn 1/9
+T: Pictures at an Exhibition (part 7) - Limoges. Le marché (4:01) - Basic Horn 1/9
 %%part-name Basic Horn
 %%made-for Basic Horn
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 35
 K: C maj
@@ -109,10 +111,11 @@ z7/2
 
 
 X:2
-T: Pictures at an Exhibition - Limoges. Le marché (4:01) - Basic Clarinet 2/9
+T: Pictures at an Exhibition (part 7) - Limoges. Le marché (4:01) - Basic Clarinet 2/9
 %%part-name Basic Clarinet
 %%made-for Basic Clarinet
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 35
 K: C maj
@@ -221,10 +224,11 @@ D,7/6- D,7/2 z14/3 z14/3 z14/3 |]
 
 
 X:3
-T: Pictures at an Exhibition - Limoges. Le marché (4:01) - Basic Flute 3/9
+T: Pictures at an Exhibition (part 7) - Limoges. Le marché (4:01) - Basic Flute 3/9
 %%part-name Basic Flute
 %%made-for Basic Flute
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 35
 K: C maj
@@ -319,10 +323,11 @@ z14/3 z14/3 z14/3 z14/3 |]
 
 
 X:4
-T: Pictures at an Exhibition - Limoges. Le marché (4:01) - Traveller's Trusty Fiddle 4/9
+T: Pictures at an Exhibition (part 7) - Limoges. Le marché (4:01) - Traveller's Trusty Fiddle 4/9
 %%part-name Traveller's Trusty Fiddle
 %%made-for Traveller's Trusty Fiddle
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 35
 K: C maj
@@ -487,10 +492,11 @@ z37/8 z11/8
 z14/3 z14/3 z14/3 z14/3 |]
 
 X:5
-T: Pictures at an Exhibition - Limoges. Le marché (4:01) - Lonely Mountain Bassoon 5/9
+T: Pictures at an Exhibition (part 7) - Limoges. Le marché (4:01) - Lonely Mountain Bassoon 5/9
 %%part-name Lonely Mountain Bassoon
 %%made-for Lonely Mountain Bassoon
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 35
 K: C maj
@@ -579,10 +585,11 @@ z14/3 z14/3 z14/3 z14/3 |]
 
 
 X:6
-T: Pictures at an Exhibition - Limoges. Le marché (4:01) - Basic Bassoon 6/9
+T: Pictures at an Exhibition (part 7) - Limoges. Le marché (4:01) - Basic Bassoon 6/9
 %%part-name Basic Bassoon
 %%made-for Basic Bassoon
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 35
 K: C maj
@@ -697,10 +704,11 @@ z14/3 z14/3 z14/3 z14/3 |]
 
 
 X:7
-T: Pictures at an Exhibition - Limoges. Le marché (4:01) - Lute of Ages 7/9
+T: Pictures at an Exhibition (part 7) - Limoges. Le marché (4:01) - Lute of Ages 7/9
 %%part-name Lute of Ages
 %%made-for Lute of Ages
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 35
 K: C maj
@@ -794,10 +802,11 @@ z14/3 z14/3 z14/3 z14/3 |]
 
 
 X:8
-T: Pictures at an Exhibition - Limoges. Le marché (4:01) - Basic Theorbo 8/9
+T: Pictures at an Exhibition (part 7) - Limoges. Le marché (4:01) - Basic Theorbo 8/9
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 35
 K: C maj
@@ -886,10 +895,11 @@ z37/8 z27/8 |
 
 
 X:9
-T: Pictures at an Exhibition - Limoges. Le marché (4:01) - Basic Drum 9/9
+T: Pictures at an Exhibition (part 7) - Limoges. Le marché (4:01) - Basic Drum 9/9
 %%part-name Basic Drum
 %%made-for Basic Drum
 C: Mussorgsky
+Z: Ivybella
 M: 4/4
 Q: 35
 K: C maj

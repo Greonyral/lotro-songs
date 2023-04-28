@@ -1,18 +1,19 @@
 %abc-2.1
-%%song-title       Creeping Death
+%%song-title       Metallica - Creeping Death
 %%song-composer    Metallica
 %%song-duration    7:11
 %%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-03-30 15:30:51
+%%export-timestamp 2023-04-22 07:08:58
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: Creeping Death (7:11) - Basic Horn 1/8
+T: Metallica - Creeping Death (7:11) - Basic Horn 1/8
 %%part-name Basic Horn
 %%made-for Basic Horn
+C: Metallica
 Z: Ivybella
 M: 4/4
 Q: 183
@@ -383,9 +384,10 @@ z8 |]
 
 
 X:2
-T: Creeping Death (7:11) - Basic Flute 2/8
+T: Metallica - Creeping Death (7:11) - Basic Flute 2/8
 %%part-name Basic Flute
 %%made-for Basic Flute
+C: Metallica
 Z: Ivybella
 M: 4/4
 Q: 183
@@ -756,9 +758,10 @@ E2 z6 |]
 
 
 X:3
-T: Creeping Death (7:11) - Traveller's Trusty Fiddle 3/8
+T: Metallica - Creeping Death (7:11) - Traveller's Trusty Fiddle 3/8
 %%part-name Traveller's Trusty Fiddle
 %%made-for Traveller's Trusty Fiddle
+C: Metallica
 Z: Ivybella
 M: 4/4
 Q: 183
@@ -1127,11 +1130,11 @@ z8 |
 z8 |
 z8 |]
 
-
 X:4
-T: Creeping Death (7:11) - Basic Bassoon 4/8
+T: Metallica - Creeping Death (7:11) - Basic Bassoon 4/8
 %%part-name Basic Bassoon
 %%made-for Basic Bassoon
+C: Metallica
 Z: Ivybella
 M: 4/4
 Q: 183
@@ -1502,9 +1505,10 @@ z8 |]
 
 
 X:5
-T: Creeping Death (7:11) - Brusque Bassoon 5/8
+T: Metallica - Creeping Death (7:11) - Brusque Bassoon 5/8
 %%part-name Brusque Bassoon
 %%made-for Brusque Bassoon
+C: Metallica
 Z: Ivybella
 M: 4/4
 Q: 183
@@ -1875,9 +1879,10 @@ z8 |]
 
 
 X:6
-T: Creeping Death (7:11) - Lute of Ages 6/8
+T: Metallica - Creeping Death (7:11) - Lute of Ages 6/8
 %%part-name Lute of Ages
 %%made-for Lute of Ages
+C: Metallica
 Z: Ivybella
 M: 4/4
 Q: 183
@@ -2248,9 +2253,10 @@ z8 |]
 
 
 X:7
-T: Creeping Death (7:11) - Basic Theorbo 7/8
+T: Metallica - Creeping Death (7:11) - Basic Theorbo 7/8
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
+C: Metallica
 Z: Ivybella
 M: 4/4
 Q: 183
@@ -2621,9 +2627,10 @@ E,2 z6 |]
 
 
 X:8
-T: Creeping Death (7:11) - Basic Drum 8/8
+T: Metallica - Creeping Death (7:11) - Basic Drum 8/8
 %%part-name Basic Drum
 %%made-for Basic Drum
+C: Metallica
 Z: Ivybella
 M: 4/4
 Q: 183
@@ -2996,4 +3003,5 @@ z4 [D2A2^c2] z2 |
 	[B,/D/c/d/] |
 [E/^A/] [B,/D/-^c/-^d/] [D/E/c/] [B,/A/d/] [D/E/c/] [B,/A/-d/] [E/A/] [B,/D/c/d/] E2 z [D=Ac] |
 [D2A2^c2] z6 |]
+
 

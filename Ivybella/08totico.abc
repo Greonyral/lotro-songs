@@ -1,18 +1,19 @@
 %abc-2.1
-%%song-title       Turn on, Tune in, Cop Out
+%%song-title       Freak Power - Turn on, Tune in, Cop Out
 %%song-composer    Freak Power
 %%song-duration    4:15
 %%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-03-30 15:43:11
+%%export-timestamp 2023-04-22 07:16:09
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: Turn on, Tune in, Cop Out (4:15) - Basic Clarinet 1/8
+T: Freak Power - Turn on, Tune in, Cop Out (4:15) - Basic Clarinet 1/8
 %%part-name Basic Clarinet
 %%made-for Basic Clarinet
+C: Freak Power
 Z: Ivybella
 M: 4/4
 Q: 123
@@ -175,9 +176,10 @@ z123/13 |]
 
 
 X:2
-T: Turn on, Tune in, Cop Out (4:15) - Basic Flute 2/8
+T: Freak Power - Turn on, Tune in, Cop Out (4:15) - Basic Flute 2/8
 %%part-name Basic Flute
 %%made-for Basic Flute
+C: Freak Power
 Z: Ivybella
 M: 4/4
 Q: 123
@@ -339,9 +341,10 @@ z123/13 |]
 
 
 X:3
-T: Turn on, Tune in, Cop Out (4:15) - Traveller's Trusty Fiddle 3/8
+T: Freak Power - Turn on, Tune in, Cop Out (4:15) - Traveller's Trusty Fiddle 3/8
 %%part-name Traveller's Trusty Fiddle
 %%made-for Traveller's Trusty Fiddle
+C: Freak Power
 Z: Ivybella
 M: 4/4
 Q: 123
@@ -521,11 +524,11 @@ z123/13 |
 z123/13 |
 z123/13 |]
 
-
 X:4
-T: Turn on, Tune in, Cop Out (4:15) - Brusque Bassoon 4/8
+T: Freak Power - Turn on, Tune in, Cop Out (4:15) - Brusque Bassoon 4/8
 %%part-name Brusque Bassoon
 %%made-for Brusque Bassoon
+C: Freak Power
 Z: Ivybella
 M: 4/4
 Q: 123
@@ -687,9 +690,10 @@ z8 |
 
 
 X:5
-T: Turn on, Tune in, Cop Out (4:15) - Misty Mountain Harp 5/8
+T: Freak Power - Turn on, Tune in, Cop Out (4:15) - Misty Mountain Harp 5/8
 %%part-name Misty Mountain Harp
 %%made-for Misty Mountain Harp
+C: Freak Power
 Z: Ivybella
 M: 4/4
 Q: 123
@@ -851,9 +855,10 @@ z123/13 |
 
 
 X:6
-T: Turn on, Tune in, Cop Out (4:15) - Lute of Ages 6/8
+T: Freak Power - Turn on, Tune in, Cop Out (4:15) - Lute of Ages 6/8
 %%part-name Lute of Ages
 %%made-for Lute of Ages
+C: Freak Power
 Z: Ivybella
 M: 4/4
 Q: 123
@@ -1015,9 +1020,10 @@ z123/13 |]
 
 
 X:7
-T: Turn on, Tune in, Cop Out (4:15) - Basic Theorbo 7/8
+T: Freak Power - Turn on, Tune in, Cop Out (4:15) - Basic Theorbo 7/8
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
+C: Freak Power
 Z: Ivybella
 M: 4/4
 Q: 123
@@ -1179,9 +1185,10 @@ z8 |
 
 
 X:8
-T: Turn on, Tune in, Cop Out (4:15) - Basic Drum 8/8
+T: Freak Power - Turn on, Tune in, Cop Out (4:15) - Basic Drum 8/8
 %%part-name Basic Drum
 %%made-for Basic Drum
+C: Freak Power
 Z: Ivybella
 M: 4/4
 Q: 123
@@ -1499,4 +1506,5 @@ A,123/416 A,123/416 A,123/416 A,123/416 +pp+ A,123/416 A,123/416 +ppp+ A,123/416
 	A,123/416 A,123/416 A,123/416 A,123/416 A,123/416 A,123/416 A,123/416 A,123/416 A,123/416 A,123/416 A,123/416 A,123/416 +ppp+ A,123/416 +pp+ A,123/416
 	A,123/416 A,123/416 A,123/416 A,123/416 |
 z123/13 |]
+
 

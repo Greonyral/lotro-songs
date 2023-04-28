@@ -1,16 +1,20 @@
 %abc-2.1
-%%song-title       StairwayToHeaven
+%%song-title       Led Zeppelin - Stairway to Heaven
+%%song-composer    Led Zeppelin
 %%song-duration    7:08
+%%song-transcriber Ivybella
 %%abc-creator Maestro v2.5.0.101
-%%export-timestamp 2023-02-15 06:55:49
+%%export-timestamp 2023-04-22 07:45:44
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
 
 X:1
-T: StairwayToHeaven (7:08) - Basic Clarinet 1/7
+T: Led Zeppelin - Stairway to Heaven (7:08) - Basic Clarinet 1/7
 %%part-name Basic Clarinet
 %%made-for Basic Clarinet
+C: Led Zeppelin
+Z: Ivybella
 M: 4/4
 Q: 85
 K: C maj
@@ -201,9 +205,11 @@ z680/67 |]
 
 
 X:2
-T: StairwayToHeaven (7:08) - Basic Flute 2/7
+T: Led Zeppelin - Stairway to Heaven (7:08) - Basic Flute 2/7
 %%part-name Basic Flute
 %%made-for Basic Flute
+C: Led Zeppelin
+Z: Ivybella
 M: 4/4
 Q: 85
 K: C maj
@@ -403,9 +409,11 @@ A,425/134- A,85/201 z85/402 z425/67 |]
 
 
 X:3
-T: StairwayToHeaven (7:08) - Traveller's Trusty Fiddle 3/7
+T: Led Zeppelin - Stairway to Heaven (7:08) - Traveller's Trusty Fiddle 3/7
 %%part-name Traveller's Trusty Fiddle
 %%made-for Traveller's Trusty Fiddle
+C: Led Zeppelin
+Z: Ivybella
 M: 4/4
 Q: 85
 K: C maj
@@ -634,9 +642,11 @@ z680/67 |
 z680/67 |]
 
 X:4
-T: StairwayToHeaven (7:08) - Misty Mountain Harp 4/7
+T: Led Zeppelin - Stairway to Heaven (7:08) - Misty Mountain Harp 4/7
 %%part-name Misty Mountain Harp
 %%made-for Misty Mountain Harp
+C: Led Zeppelin
+Z: Ivybella
 M: 4/4
 Q: 85
 K: C maj
@@ -862,9 +872,11 @@ z680/67 |]
 
 
 X:5
-T: StairwayToHeaven (7:08) - Lute of Ages 5/7
+T: Led Zeppelin - Stairway to Heaven (7:08) - Lute of Ages 5/7
 %%part-name Lute of Ages
 %%made-for Lute of Ages
+C: Led Zeppelin
+Z: Ivybella
 M: 4/4
 Q: 85
 K: C maj
@@ -1142,9 +1154,11 @@ z680/67 |]
 
 
 X:6
-T: StairwayToHeaven (7:08) - Basic Theorbo 6/7
+T: Led Zeppelin - Stairway to Heaven (7:08) - Basic Theorbo 6/7
 %%part-name Basic Theorbo
 %%made-for Basic Theorbo
+C: Led Zeppelin
+Z: Ivybella
 M: 4/4
 Q: 85
 K: C maj
@@ -1337,9 +1351,11 @@ z680/67 |]
 
 
 X:7
-T: StairwayToHeaven (7:08) - Basic Drum 7/7
+T: Led Zeppelin - Stairway to Heaven (7:08) - Basic Drum 7/7
 %%part-name Basic Drum
 %%made-for Basic Drum
+C: Led Zeppelin
+Z: Ivybella
 M: 4/4
 Q: 85
 K: C maj
