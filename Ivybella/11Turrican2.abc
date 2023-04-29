@@ -3,8 +3,8 @@
 %%song-composer    Chris Huelsbeck
 %%song-duration    4:47
 %%song-transcriber Ivybella
-%%abc-creator Maestro v2.5.0.111
-%%export-timestamp 2023-04-29 08:08:11
+%%abc-creator Maestro v2.5.0.101
+%%export-timestamp 2023-04-29 00:40:41
 %%swing-rhythm false
 %%mix-timings true
 %%abc-version 2.1
@@ -91,7 +91,7 @@ z8 |
 z8 |
 z8 |
 z8 |
-+fff+ E,// ^F,3/4 z/ F,/ F, z4 F,/ z/ |
++ffff+ E,// ^F,3/4 z/ F,/ F, z4 F,/ z/ |
 ^G,/3 A,2/3- A,/ A,/ A,/ A,/ z5 |
 A,// ^A,// B, B,/ B,/ z9/2 B,/ z/ |
 C,// ^C,5/4 C,/ C,/ C,/ z/ C,/ z4 |
@@ -120,7 +120,7 @@ z8 |
 % Bar 90 (3:49)
 z8 |
 z8 |
-F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ |
++fff+ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ |
 F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ |
 F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ |
 F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ F,/ |
@@ -292,15 +292,15 @@ Q: 93
 K: C maj
 L: 1/8
 
-+ff+ z8 |
++ffff+ z8 |
 z8 |
 z8 |
 z8 |
 z8 |
 z8 |
 ^D/ D/ ^d/ D/ D/ d/ D/ D/ d/ D/ D/ d/ D/ D/ d/ D/ |
-^D/ D/ ^d/ D/ D/ d/ D/ +f+ D/ d/ D/ D/ +mf+ d/ D/ D/ +mp+ d/ D/ |
-+fff+ ^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
+^D/ D/ ^d/ D/ D/ d/ D/ D/ d/ D/ D/ +fff+ d/ D/ D/ +ff+ d/ D/ |
++ffff+ ^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
 % Bar 10 (0:23)
 ^F,/ ^F/ F,/ F/ F,/ F/ F,/ F/ ^G,/ ^G/ G,/ G/ G,/ G/ G,/ G/ |
 ^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
@@ -316,7 +316,7 @@ z8 |
 ^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
 ^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
 ^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
-+ffff+ ^F,/ ^F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ |
+^F,/ ^F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ |
 ^F,/ ^F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ |
 G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ |
 G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ |
@@ -338,7 +338,7 @@ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ |
 ^F,/ ^F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ |
 G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ G,/ G/ |
 A,/ A/ A,/ A/ A,/ A/ A,/ A/ A,/ A/ A,/ A/ A,/ A/ A,/ A/ |
-+fff+ ^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
+^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
 ^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
 ^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
 ^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
@@ -363,7 +363,7 @@ z8 |
 z8 |
 z8 |
 z8 |
-+ffff+ E,// ^F,3/4 z/ F,/ F, z4 F,/ z/ |
+E,// ^F,3/4 z/ F,/ F, z4 F,/ z/ |
 ^G,/3 A,2/3- A,/ A,/ A,/ A,/ z5 |
 A,// ^A,// B, B,/ B,/ z9/2 B,/ z/ |
 C// ^C5/4 C/ C/ C/ z/ C/ z4 |
@@ -409,11 +409,11 @@ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ F,/ F/ |
 ^D,/ ^D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ D,/ D/ |
 B,/ B,/ B,/ B,/ B,/ B,/ B,/ B,/ B,/ B,/ B,/ B,/ B,/ B,/ B,/ B,/ |
 ^C,/ ^C/ C,/ C/ C,/ C/ C,/ C/ C,/ C/ C,/ C/ C,/ C/ C,/ C/ |
-^D,/ ^D/ D,/ D,/ D/ D,/ D,/ +fff+ D/ D,/ +ff+ D/ D,/ +f+ D,/ D/ D,/ z/ +mf+ [D,/D/] |
-^D,/ ^D/ +mp+ D,/ D,/ D/ D,/ +p+ D,/ D/ D,/ D/ D/ z +ffff+ ^A,/ ^G,/ A,/ |
+^D,/ ^D/ D,/ D,/ D/ D,/ D,/ D/ D,/ D/ D,/ D,/ D/ D,/ z/ [D,/D/] |
++fff+ ^D,/ ^D/ D,/ +ff+ D,/ D/ D,/ +f+ D,/ D/ D,/ D/ D/ z +ffff+ ^A,/ ^G,/ A,/ |
 % Bar 110 (4:41)
-^D,/ ^D/ D,/ ^A,/ D/ D,/ ^G,/ +fff+ D/ D,/ +ff+ D/ D,/ +f+ A,/ D/ D,/ +mf+ G,/ D/ |
-^D,/ ^D/ +mp+ D,/ ^A,/ D/ D,/ +p+ ^G,/ D/ D,/ D/ D/ z5/2 |
+^D,/ ^D/ D,/ ^A,/ D/ D,/ ^G,/ D/ D,/ D/ D,/ A,/ D/ D,/ G,/ +fff+ D/ |
+^D,/ ^D/ D,/ +ff+ ^A,/ D/ D,/ +f+ ^G,/ D/ D,/ D/ D/ z5/2 |
 z8 |]
 
 
@@ -817,18 +817,14 @@ z8 |
 	[G,//C//] z// [G,//D//] z// G,// z// |
 [^G,//^C//] z// G,// z// [G,//^D//] z// G,// z// [G,//C//] z// [G,//D//] z// G,// z// [G,//D//] z// G,// z// [G,//C//] z// G,// z// [G,//D//] z// G,// z//
 	[G,//C//] z// [G,//D//] z// G,// z// |
-[^G//-^A//-B//-^c//^d//-] [G//A//-B//-d//-] [G/A/-B/-d/] [G/A/-B/-d/-] [G/A/-B/-d/-] [G//-A//-B//-c//d//-] [G//A//-B//-d//] [G/A/-B/-d/-] [G/A/-B/-d/]
-	[G/A/-B/-d/-] [G/A/-B/-d/-] [G//-A//-B//-c//d//-] [G//A//-B//-d//-] [G/A/-B/-d/] [G/A/-B/-d/-] [G/A/-B/-d/-] [G//-A//-B//-c//d//-] [G//A//-B//-d//]
-	[G/A/-B/-d/-] [G/A/B/d/] |
-[^G//-^A//-B//-^c//^d//-] [G//A//-B//-d//-] [G/A/-B/-d/] [G/A/-B/-d/-] [G/A/-B/-d/-] [G//-A//-B//-c//d//-] [G//A//-B//-d//] [G/A/-B/-d/-] [G/A/-B/-d/]
-	[G/A/-B/-d/-] [G/A/-B/-d/-] [G//-A//-B//-c//d//-] [G//A//-B//-d//-] [G/A/-B/-d/] [G/A/-B/-d/-] [G/A/-B/-d/-] [G//-A//-B//-c//d//-] [G//A//-B//-d//]
-	[G/A/-B/-d/-] [G/A/B/d/] |
-[^F/-^G/^A/-^c/-] [F/-G/A/-c/-] [F//-G//-A//-c//-^d//] [F//-G//A//-c//-] [F/-G/A/-c/] [F/-G/A/-c/-] [F//-G//-A//-c//-d//] [F//-G//A//-c//-] [F/-G/A/-c/-]
-	[F//-G//-A//-c//-d//] [F//-G//A//-c//-] [F/-G/A/-c/] [F/-G/A/-c/-] [F/-G/A/-c/-] [F//-G//-A//-c//-d//] [F//-G//A//-c//-] [F/-G/A/-c/] [F/-G/A/-c/-]
-	[F//-G//-A//-c//-d//] [F//-G//A//-c//-] [F//G//A//c//] z// |
-[^F/-^G/^A/-^c/-] [F/-G/A/-c/-] [F//-G//-A//-c//-^d//] [F//-G//A//-c//-] [F/-G/A/-c/] [F/-G/A/-c/-] [F//-G//-A//-c//-d//] [F//-G//A//-c//-] [F/-G/A/-c/-]
-	[F//-G//-A//-c//-d//] [F//-G//A//-c//-] [F/-G/A/-c/] [F/-G/A/-c/-] [F/-G/A/-c/-] [F//-G//-A//-c//-d//] [F//-G//A//-c//-] [F/-G/A/-c/] [F/-G/A/-c/-]
-	[F//-G//-A//-c//-d//] [F//-G//A//-c//-] [F/G/A/c/] |
+[^G//^c//] z// G// z// [G//^d//] z// G// z// [G//c//] z// [G//d//] z// G// z// [G//d//] z// G// z// [G//c//] z// G// z// [G//d//] z// G// z// [G//c//] z//
+	[G//d//] z// G// z// |
+[^G//^c//] z// G// z// [G//^d//] z// G// z// [G//c//] z// [G//d//] z// G// z// [G//d//] z// G// z// [G//c//] z// G// z// [G//d//] z// G// z// [G//c//] z//
+	[G//d//] z// G// z// |
+[^G//^c//] z// G// z// [G//^d//] z// G// z// [G//c//] z// [G//d//] z// G// z// [G//d//] z// G// z// [G//c//] z// G// z// [G//d//] z// G// z// [G//c//] z//
+	[G//d//] z// G// z// |
+[^G//^c//] z// G// z// [G//^d//] z// G// z// [G//c//] z// [G//d//] z// G// z// [G//d//] z// G// z// [G//c//] z// G// z// [G//d//] z// G// z// [G//c//] z//
+	[G//d//] z// G// z// |
 [B,//E//] z// B,// z// [B,//^F//] z// B,// z// [B,//E//] z// [B,//F//] z// B,// z// [B,//F//] z// B,// z// [B,//E//] z// B,// z// [B,//F//] z// B,// z//
 	[B,//E//] z// [B,//F//] z// B,// z// |
 [B,//E//] z// B,// z// [B,//^F//] z// B,// z// [B,//E//] z// [B,//F//] z// B,// z// [B,//F//] z// B,// z// [B,//E//] z// B,// z// [B,//F//] z// B,// z//
@@ -1006,6 +1002,142 @@ E3/2 ^D3/2 B,3/2 ^C3/2 ^G, B, |
 ^F3/2 =F3/2 ^D3/2 ^F3/2 =F ^C |
 ^D8- |
 ^D15/2- D/ |
+% Bar 110 (4:41)
+z8 |
+z8 |
+z8 |]
+
+
+X: 17
+T: Turrican 2 - Intro (Video Game) (4:47) - Basic Bassoon
+%%part-name Basic Bassoon
+%%made-for Basic Bassoon
+C: Chris Huelsbeck
+Z: Ivybella
+M: 4/4
+Q: 93
+K: C maj
+L: 1/8
+
++mp+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:49)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:40)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (2:06)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (2:32)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:58)
+z8 |
+z8 |
+z8 |
+z8 |
+[^d8^g8^a8b8] |
+[^d8^g8^a8b8] |
+[^c31/4^f31/4^g31/4^a31/4] z// |
+[^c8^f8^g8^a8] |
+z8 |
+z8 |
+% Bar 80 (3:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (3:49)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (4:15)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
 % Bar 110 (4:41)
 z8 |
 z8 |
