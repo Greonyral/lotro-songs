@@ -1,0 +1,205 @@
+%abc-2.1
+%%song-title       BessiesBlues
+%%song-duration    0:54
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 2
+T: BessiesBlues (0:54) - Basic Harp
+%%part-name Basic Harp
+M: 4/4
+Q: 170
+K: C maj
+
++ff+ z8 |
+z8 |
+[^A4-^c4-g4-] [A3c3g3] z |
+[^d/^f/c'/] z7/2 [d2-f2-c'2-] [d/f/-c'/-] [f/c'/] [^A-^c-g-] |
+[^A4-^c4-g4-] [A3c3g3] z |
++f+ [^A/^c/g/] z5/2 [A/c/g/] z9/2 |
++ff+ [^d4-^f4-c'4-] [d2-f2-c'2-] [d3/2f3/2c'3/2] z/ |
+[^d/^f/c'/] z9/2 [d2f2c'2] z |
++f+ [^A^cg] z3 +ff+ [A/c/g/] z7/2 |
+% Bar 10 (0:12)
+z3 [^A/^c/g/] z3/2 [A2c2g2] z |
+[^G4-d4-f4-] [G2-d2-f2-] [G/d/f/] z3/2 |
++f+ [^F4-c4-^d4-] [F3c3d3] z |
+z4 [^A/^d/g/] z7/2 |
++ff+ [^A/^d/g/] z5/2 +mf+ [A/^c/d/g/] z9/2 |
++ff+ [^A4-^c4-g4-] [A3c3g3] z |
+[^d/^f/c'/] z7/2 [d2-f2-c'2-] [d/f/-c'/-] [f/c'/] [^A-^c-g-] |
+[^A4-^c4-g4-] [A3c3g3] z |
++f+ [^A/^c/g/] z5/2 [A/c/g/] z9/2 |
++ff+ [^d4-^f4-c'4-] [d2-f2-c'2-] [d3/2f3/2c'3/2] z/ |
+% Bar 20 (0:26)
+[^d/^f/c'/] z9/2 [d2f2c'2] z |
++f+ [^A^cg] z3 +ff+ [A/c/g/] z7/2 |
+z3 [^A/^c/g/] z3/2 [A2c2g2] z |
+[^G4-d4-f4-] [G2-d2-f2-] [G/d/f/] z3/2 |
++f+ [^F4-c4-^d4-] [F3c3d3] z |
+z4 [^A/^d/g/] z7/2 |
++ff+ [^A/^d/g/] z5/2 +mf+ [A/^c/d/g/] z9/2 |
++ff+ [^A4-^c4-g4-] [A3c3g3] z |
+[^d/^f/c'/] z7/2 [d2-f2-c'2-] [d/f/-c'/-] [f/c'/] [^A-^c-g-] |
+[^A4-^c4-g4-] [A3c3g3] z |
+% Bar 30 (0:40)
++f+ [^A/^c/g/] z5/2 [A/c/g/] z9/2 |
++ff+ [^d4-^f4-c'4-] [d2-f2-c'2-] [d3/2f3/2c'3/2] z/ |
+[^d/^f/c'/] z9/2 [d2f2c'2] z |
++f+ [^A^cg] z3 +ff+ [A/c/g/] z7/2 |
+z3 [^A/^c/g/] z3/2 [A2c2g2] z |
+[^G4-d4-f4-] [G2-d2-f2-] [G/d/f/] z3/2 |
++f+ [^F4-c4-^d4-] [F3c3d3] z |
+z4 [^A/^d/g/] z7/2 |
++ff+ [^A/^d/g/] z5/2 +mf+ [A/^c/d/g/] z9/2 |]
+
+
+X: 3
+T: BessiesBlues (0:54) - Basic Theorbo
+%%part-name Basic Theorbo
+M: 4/4
+Q: 170
+K: C maj
+
++fff+ z8 |
+z8 |
+^D2 G,2 ^A,2 =A,2 |
++ff+ ^G,2 +fff+ C2 ^C2 +ff+ D2 |
++fff+ ^D2 +ff+ F2 G2 +fff+ ^G3/2 z/ |
++f+ ^A3/2 z/ +ff+ ^G2 +fff+ =G2 +ff+ A2 |
++fff+ ^G2 +ff+ C2 +fff+ F2 +f+ E2 |
++ff+ ^D2 +fff+ ^G,2 C2 B,2 |
+^A,2 +ff+ C2 ^C2 D2 |
+% Bar 10 (0:12)
+^D2 +fff+ G,2 +ff+ ^G,2 A,2 |
++fff+ ^A,3/2 z/ +ff+ D2 F2 +fff+ A,2 |
++ff+ ^G,2 +f+ C2 +ff+ ^C2 +fff+ D2 |
++ff+ ^D3/2 z/ F2 +f+ G2 +ff+ ^G2 |
+^A3/2 z/ +fff+ ^A,2 F2 E2 |
+^D2 G,2 ^A,2 =A,2 |
++ff+ ^G,2 +fff+ C2 ^C2 +ff+ D2 |
++fff+ ^D2 +ff+ F2 G2 +fff+ ^G3/2 z/ |
++f+ ^A3/2 z/ +ff+ ^G2 +fff+ =G2 +ff+ A2 |
++fff+ ^G2 +ff+ C2 +fff+ F2 +f+ E2 |
+% Bar 20 (0:26)
++ff+ ^D2 +fff+ ^G,2 C2 B,2 |
+^A,2 +ff+ C2 ^C2 D2 |
+^D2 +fff+ G,2 +ff+ ^G,2 A,2 |
++fff+ ^A,3/2 z/ +ff+ D2 F2 +fff+ A,2 |
++ff+ ^G,2 +f+ C2 +ff+ ^C2 +fff+ D2 |
++ff+ ^D3/2 z/ F2 +f+ G2 +ff+ ^G2 |
+^A3/2 z/ +fff+ ^A,2 F2 E2 |
+^D2 G,2 ^A,2 =A,2 |
++ff+ ^G,2 +fff+ C2 ^C2 +ff+ D2 |
++fff+ ^D2 +ff+ F2 G2 +fff+ ^G3/2 z/ |
+% Bar 30 (0:40)
++f+ ^A3/2 z/ +ff+ ^G2 +fff+ =G2 +ff+ A2 |
++fff+ ^G2 +ff+ C2 +fff+ F2 +f+ E2 |
++ff+ ^D2 +fff+ ^G,2 C2 B,2 |
+^A,2 +ff+ C2 ^C2 D2 |
+^D2 +fff+ G,2 +ff+ ^G,2 A,2 |
++fff+ ^A,3/2 z/ +ff+ D2 F2 +fff+ A,2 |
++ff+ ^G,2 +f+ C2 +ff+ ^C2 +fff+ D2 |
++ff+ ^D3/2 z/ F2 +f+ G2 +ff+ ^G2 |
+^A3/2 z/ +fff+ ^A,2 F2 E2 |]
+
+
+X: 5
+T: BessiesBlues (0:54) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 4/4
+Q: 170
+K: C maj
+
++fff+ z8 |
+z8 |
+G2 +f+ ^D ^C3 z2 |
++fff+ c2 ^G +ff+ ^F3 z ^A,/ z/ |
+G +mf+ ^D +ff+ G z +f+ G3/2 z/ G +ff+ G- |
+G +f+ ^D +ff+ =D- +f+ [^C/-D/] C3 z3/2 |
+z +fff+ c2 +ff+ ^D +fff+ c- +ff+ [D/-c/] D/ z +fff+ c- |
+c3 +ff+ ^G z ^F z ^D |
++fff+ G- +f+ [^D/G/] z/ +ff+ G3/2 z/ +fff+ G2 +ff+ G G- |
+% Bar 10 (0:12)
+G/ z/ ^D +f+ =D +fff+ ^C3/2 z5/2 +f+ G |
++ff+ F2 D3/2 z/ ^A,3/2 z/ +fff+ F +f+ D |
++ff+ ^D +f+ C ^G,3/2 z/ C3/2 z/ +ff+ D D- |
+^D3 F- [D/-F/] D/ +f+ C3/2 z3/2 |
+z4 +fff+ F +f+ G +mf+ ^G +f+ ^A |
++ff+ G2 +f+ ^D ^C2 z2 +fff+ c- |
+c2 +ff+ ^G ^D ^F- +f+ [D/F/] z/ +fff+ G3/2 z/ |
+G3/2 z/ +ff+ G3/2 z/ G3/2 z/ G G- |
+G +f+ ^D +ff+ =D +mf+ ^C3 z2 |
+z +fff+ c2 +mf+ ^D +fff+ c- +f+ [D/-c/] D/ z +fff+ c- |
+% Bar 20 (0:26)
+c2- c/ z/ +ff+ ^G z +f+ ^F z +ff+ ^D |
+G +mf+ ^D +ff+ G3/2 z/ G3/2 z/ +mf+ G +ff+ G- |
+G ^D =D +f+ ^C5/2 z3/2 +ff+ G |
++f+ F2 D +fff+ C +f+ ^A, +ff+ C +f+ D +ff+ F |
++fff+ ^D +ff+ C +f+ ^A, +mf+ ^G,- +f+ [^F,/-G,/] F,/- +mf+ [^D,/-F,/] D,/ +f+ F, +ff+ G, |
++f+ ^F,- +ff+ [^D,/-F,/] D,3/2 z +fff+ D,3 z |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:40)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 8
+T: BessiesBlues (0:54) - Basic Drum
+%%part-name Basic Drum
+M: 4/4
+Q: 170
+K: C maj
+
++fff+ ^D z3 D z3 |
+^D z D z D z D z |
+^C,3/2 z/ [C,^c-] c/ z/ C, z [C,c-] c/ z/ |
+^C, z [C,^c-] c C, z [C,c-] c |
+^C, z [C,^c-] c/ z/ C, z [C,c-] c |
+^C, z [C,^c-] c C, z [C,/c/-] c/ z |
+^C,3/2 z/ [C,^c-] c/ z/ C, z [C,c-] c/ z/ |
+^C, z [C,^c-] c C, z [C,c-] c |
+^C, z [C,^c-] c/ z/ C, z [C,c-] c |
+% Bar 10 (0:12)
+^C, z [C,^c-] c C, z [C,/c/-] c/ z |
+^C,3/2 z/ [C,^c-] c/ z/ C, z [C,c-] c/ z/ |
+^C, z [C,^c-] c C, z [C,c-] c |
+^C, z [C,^c-] c/ z/ C, z [C,c-] c |
+^C, z [C,^c-] c C, z [C,/c/-] c/ z |
+^C,3/2 z/ [C,^c-] c/ z/ C, z [C,c-] c/ z/ |
+^C, z [C,^c-] c C, z [C,c-] c |
+^C, z [C,^c-] c/ z/ C, z [C,c-] c |
+^C, z [C,^c-] c C, z [C,/c/-] c/ z |
+^C,3/2 z/ [C,^c-] c/ z/ C, z [C,c-] c/ z/ |
+% Bar 20 (0:26)
+^C, z [C,^c-] c C, z [C,c-] c |
+^C, z [C,^c-] c/ z/ C, z [C,c-] c |
+^C, z [C,^c-] c C, z [C,/c/-] c/ z |
+^C,3/2 z/ [C,^c-] c/ z/ C, z [C,c-] c/ z/ |
+^C, z [C,^c-] c C, z [C,c-] c |
+^C, z [C,^c-] c/ z/ C, z [C,c-] c |
+^C, z [C,^c-] c C, z [C,/c/-] c/ z |
+^C,3/2 z/ [C,^c-] c/ z/ C, z [C,c-] c/ z/ |
+^C, z [C,^c-] c C, z [C,c-] c |
+^C, z [C,^c-] c/ z/ C, z [C,c-] c |
+% Bar 30 (0:40)
+^C, z [C,^c-] c C, z [C,/c/-] c/ z |
+^C,3/2 z/ [C,^c-] c/ z/ C, z [C,c-] c/ z/ |
+^C, z [C,^c-] c C, z [C,c-] c |
+^C, z [C,^c-] c/ z/ C, z [C,c-] c |
+^C, z [C,^c-] c C, z [C,/c/-] c/ z |
+^C,3/2 z/ [C,^c-] c/ z/ C, z [C,c-] c/ z/ |
+^C, z [C,^c-] c C, z [C,c-] c |
+^C, z [C,^c-] c/ z/ C, z [C,c-] c |
+^C, z [C,^c-] c C, z [C,/c/-] c/ z |]
+

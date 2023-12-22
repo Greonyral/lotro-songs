@@ -1,0 +1,293 @@
+%abc-2.1
+%%song-title       Ultima2Sewers
+%%song-duration    2:03
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 4
+T: Ultima2Sewers (2:03) - Basic Flute
+%%part-name Basic Flute
+M: 4/4
+Q: 111
+K: C maj
+
++mf+ z6 G,2 |
++f+ C,3 +mf+ D, +f+ ^D,2 +mf+ =D, C, |
++f+ D,2 +ff+ ^A,2- A,2 +mf+ G,2 |
+C,3 +f+ D, +mf+ ^D,2 =D, C, |
++f+ G,6 +mf+ G,2 |
++f+ C,3 D, ^D,2 +mf+ =D, C, |
++f+ F,2 ^A,2- A,2 +mf+ D,2 |
+C,2 D, ^D, F,2 +f+ ^A,2 |
+C,6 +mf+ G,2 |
+% Bar 10 (0:19)
++f+ C,3 +mf+ D, +f+ ^D,2 +mf+ =D, C, |
++f+ D,2 +ff+ ^A,2- A,2 +mf+ G,2 |
+C,3 +f+ D, +mf+ ^D,2 =D, C, |
++f+ G,6 +mf+ G,2 |
++f+ C,3 D, ^D,2 +mf+ =D, C, |
++f+ F,2 ^A,2- A,2 +mf+ D,2 |
+C,2 D, ^D, F,2 +f+ ^A,2 |
++mf+ C,6 +mp+ G,2 |
++mf+ C,3 +p+ D, +mf+ ^D,2 +p+ =D, C, |
++mf+ G,2 +f+ ^D,2- D,2 +mf+ F,2 |
+% Bar 20 (0:41)
+^D,3 F, +ff+ ^F,2 +mf+ =F, D, |
++ff+ ^F,6 +f+ ^G,2 |
++ff+ ^F,3 +f+ ^G, A,4- |
+A,4 +mf+ ^C,2 ^D,2 |
+E,2 ^F, G, C,4- |
+C,2 B, +mp+ A, +f+ ^D,2 G,2 |
+C,3 +mf+ D, +f+ ^D,2 +mf+ =D, C, |
++f+ D,2 +ff+ ^A,2- A,2 +mf+ G,2 |
+C,3 +f+ D, +mf+ ^D,2 =D, C, |
++f+ G,6 +mf+ G,2 |
+% Bar 30 (1:02)
++f+ C,3 D, ^D,2 +mf+ =D, C, |
++f+ F,2 ^A,2- A,2 +mf+ D,2 |
+C,2 D, ^D, F,2 +f+ ^A,2 |
+C,6 +mf+ G,2 |
++f+ C,3 +mf+ D, +f+ ^D,2 +mf+ =D, C, |
++f+ D,2 +ff+ ^A,2- A,2 +mf+ G,2 |
+C,3 +f+ D, +mf+ ^D,2 =D, C, |
++f+ G,6 +mf+ G,2 |
++f+ C,3 D, ^D,2 +mf+ =D, C, |
++f+ F,2 ^A,2- A,2 +mf+ D,2 |
+% Bar 40 (1:24)
+C,2 D, ^D, F,2 +f+ ^A,2 |
+C,6 +mf+ G,2 |
+C,3 +p+ D, +mf+ ^D,2 +p+ =D, C, |
++mf+ G,2 +f+ ^D,2- D,2 +mf+ F,2 |
+^D,3 F, +ff+ ^F,2 +mf+ =F, D, |
++ff+ ^F,6 +f+ ^G,2 |
++ff+ ^F,3 +f+ ^G, A,4- |
+A,4 +mf+ ^C,2 ^D,2 |
+E,2 ^F, G, C,4- |
+C,2 B, +mp+ A, +f+ ^D,2 G,2 |
+% Bar 50 (1:45)
+C,3 +mf+ D, z// +f+ ^D,7/4 z// +mf+ =D,3/4 C, |
++f+ D,2 +ff+ ^A,2- A,2 +mf+ G,2 |
+z// C,11/4 +f+ D, z// +mf+ ^D,7/4 z// =D,3/4 z// C,3/4 |
++f+ G,6 z// +mf+ G,7/4 |
+z// +f+ C,3 D,3/4 z// ^D,7/4 +mf+ =D, z// C,3/4- |
+C,// +f+ F,2 ^A,15/4 z// +mf+ D,7/4 |
+z// C,7/4 z// D, ^D,3/4 F,2- F,// +f+ ^A,7/4- |
+^A,// C,23/4 z2 |
+z8 |]
+
+
+X: 5
+T: Ultima2Sewers (2:03) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 4/4
+Q: 111
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:41)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 g z z2 c' z |
++f+ g z +mp+ f ^d +mf+ f z +f+ g z |
+z2 +mf+ g z z2 +f+ c' z |
+g z +mp+ f +mf+ ^d +f+ =d3 z |
+% Bar 30 (1:02)
+z2 g2 z2 c'2 |
+g z +mf+ f +f+ ^d f2 g2 |
++mf+ g4- g z +p+ f z |
++f+ ^d2 +pp+ =d +p+ ^d c z z2 |
+z2 +mf+ g z z2 c' z |
++f+ g z +mp+ f ^d +mf+ f z +f+ g z |
+z2 +mf+ g z z2 +f+ c' z |
+g z +mp+ f +mf+ ^d +f+ =d3 z |
+z2 g2 z2 c'2 |
+g z +mf+ f +f+ ^d f2 g2 |
+% Bar 40 (1:24)
++mf+ g4- g z +p+ f z |
++f+ ^d2 +pp+ =d +p+ ^d c z z2 |
+z8 |
+z2 +mp+ c d ^d2 f2 |
+^f6 =f ^f |
+^d2 =d ^d ^f2 =f ^f |
+^c4- c z c ^d |
+e2 ^d ^c A2 B2 |
+c6 d e |
+z// g7/4 ^f e f2 z2 |
+% Bar 50 (1:45)
+z2 +mf+ g z z2 z// c'3/4 z |
++f+ g z +mp+ f z// ^d3/4 +mf+ f z +f+ g z |
+z2 z// +mf+ g3/4 z z2 z// +f+ c'3/4 z |
+g z +mp+ f z// +mf+ ^d +f+ =d11/4 z |
+z2 z// g7/4 z2 c'2- |
+c'// g3/4 z z// +mf+ f3/4 z// +f+ ^d3/4 z// f7/4 z// g7/4 |
+z// +mf+ g19/4 z z// +p+ f3/4 z |
+z// +f+ ^d2 +pp+ =d3/4 z// +p+ ^d3/4 z// c z11/4 |
+z8 |]
+
+
+X: 7
+T: Ultima2Sewers (2:03) - Basic Bassoon
+%%part-name Basic Bassoon
+M: 4/4
+Q: 111
+K: C maj
+
++ppp+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:19)
+[^d8g8-] |
++pppp+ [f8g8] |
++ppp+ [^d8g8-] |
++pppp+ [d8g8] |
++ppp+ [^d8g8-] |
+[f8g8-] |
++pppp+ [^d4g4] +pp+ [f4^a4] |
++ppp+ [^d8-g8-] |
+[^d8g8-] |
+g6 +pp+ a2 |
+% Bar 20 (0:41)
++p+ ^a8- |
+^a2 ^d2 +mp+ a2 =a +pp+ ^g |
++mp+ ^f8- |
+^f6 +pp+ ^g2 |
++mp+ a8- |
+a4 ^a4 |
++pp+ [^d8-g8-] |
+[^d2g2] z2 z4 |
+z8 |
+z8 |
+% Bar 30 (1:02)
+z8 |
+z8 |
+z8 |
+z8 |
++ppp+ [^d8g8-] |
++pppp+ [f8g8] |
++ppp+ [^d8g8-] |
++pppp+ [d8g8] |
++ppp+ [^d8g8-] |
+[f8g8-] |
+% Bar 40 (1:24)
++pppp+ [^d4g4] +pp+ [f4^a4] |
++ppp+ [^d8-g8-] |
+[^d8g8-] |
+g6 +pp+ a2 |
++p+ ^a8- |
+^a2 ^d2 +mp+ a2 =a +pp+ ^g |
++mp+ ^f8- |
+^f6 +pp+ ^g2 |
++mp+ a8- |
+a4 ^a4 |
+% Bar 50 (1:45)
++ppp+ [^d8g8-] |
++pppp+ [f8g8] |
++ppp+ g//- +pppp+ [^d31/4g31/4-] |
+[d8g8] |
++ppp+ g//- [^d31/4-g31/4-] |
+[^d//g//-] [f31/4g31/4-] |
+g//- +pppp+ [^d15/4g15/4] +pp+ [f4-^a4-] |
+[f//^a//] +ppp+ [^d31/4g31/4] |
+z8 |]
+
+
+X: 9
+T: Ultima2Sewers (2:03) - Basic Fiddle
+%%part-name Basic Fiddle
+M: 4/4
+Q: 111
+K: C maj
+
++pp+ C,8- |
+C,8 |
+C,8- |
+C,8 |
+C,8- |
+C,8 |
+C,8- |
+C,8 |
+C,8- |
+% Bar 10 (0:19)
+C,8 |
+C,8- |
+C,8 |
+C,8- |
+C,8 |
+C,8- |
+C,8 |
+C,8- |
+C,8 |
+C,8 |
+% Bar 20 (0:41)
++p+ ^D,8- |
+^D,8 |
+^F,8- |
+^F,8 |
+A,8- |
+A,8 |
++pp+ C,8- |
+C,8 |
+C,8- |
+C,8 |
+% Bar 30 (1:02)
+C,8- |
+C,8 |
+C,8- |
+C,8 |
+C,8- |
+C,8 |
+C,8- |
+C,8 |
+C,8- |
+C,8 |
+% Bar 40 (1:24)
+C,8- |
+C,8 |
+C,8- |
+C,8 |
++p+ ^D,8- |
+^D,8 |
+^F,8- |
+^F,8 |
+A,8- |
+A,8 |
+% Bar 50 (1:45)
++pp+ C,8- |
+C,8 |
+C,8- |
+C,8 |
+C,8- |
+C,8 |
+C,8- |
+C,8 |
+z8 |]
+
