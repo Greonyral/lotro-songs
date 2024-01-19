@@ -1,0 +1,137 @@
+%abc-2.1
+%%song-title       Fife
+%%song-duration    1:40
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Fife (1:40) - Lute of Ages
+%%part-name Lute of Ages
+M: 6/8
+Q: 94
+K: C maj
+
++pp+ [d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d/a/c'/] c'// [d/a/c'/] c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d/a/] c'// [d/a/] z// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d/a/c'/] c'// [d/a/c'/] c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d/a/] c'// [d/a/] z// |
++mf+ [d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+% Bar 10 (0:17)
+[d/a/] d// [d/a/] d// [d/a/c'/] c'// [d/a/c'/] c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d//a//] d// c'// [d//a//] c'// c'// |
+[d//a//] [d//a//] d// [d//a//] [d//a//] d// [d/f/a/] [d/f/a/] [d/f/a/] |
+[d//a//] [d//a//] d// [d//a//] [d//a//] d// [d/a/c'/] [d/a/c'/] [d/a/c'/] |
+[d//a//] [d//a//] d// [d//a//] [d//a//] d// [d/f/a/] [d/f/a/] [d/f/a/] |
+[d//a//] [d//a//] [d//a//] [d//a//c'//] [d//a//c'//] [d//a//c'//] [d//a//] [d//a//] [d//a//] [d/a/] z// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d/a/c'/] c'// [d/a/c'/] c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+% Bar 20 (0:36)
+[d/a/] d// [d/a/] d// [d//a//] d// c'// [d//a//] c'// c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d/a/c'/] c'// [d/a/c'/] c'// |
+[c/d/g/] d// [c/d/g/] d// [c/f/g/] f// [c/f/g/] f// |
+[c/d/g/] d// [c/d/g/] d// [c//d//g//] d// c'// [c//d//g//] c'// c'// |
+[^A/d/f/] d// [A/d/f/] d// [A/f/] f// [A/f/] f// |
+[^A/d/f/] d// [A/d/f/] d// [A/f/c'/] c'// [A/f/c'/] c'// |
+[c/d/g/] d// [c/d/g/] d// [c/f/g/] f// [c/f/g/] f// |
+[c/d/g/] d// [c/d/g/] d// [c//d//g//] d// c'// [c//d//g//] c'// c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+% Bar 30 (0:55)
+[d/a/] d// [d/a/] d// [d/a/c'/] c'// [d/a/c'/] c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d//a//] d// c'// [d//a//] c'// c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d/a/c'/] c'// [d/a/c'/] c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d//a//] d// c'// [d//a//] c'// c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d/a/c'/] c'// [d/a/c'/] c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+% Bar 40 (1:14)
+[d/a/] d// [d/a/] d// [d//a//] d// c'// [d//a//] c'// c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d/a/c'/] c'// [d/a/c'/] c'// |
+[d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d//a//] d// c'// [d//a//] c'// c'// |
++mp+ [d/a/] d// [d/a/] d// [d/f/a/] f// [d/f/a/] f// |
+[d/a/] d// [d/a/] d// [d/a/c'/] c'// [d/a/c'/] c'// |
+[c/d/g/] d// [c/d/g/] d// [c/f/g/] f// [c/f/g/] f// |
+[c/d/g/] d// [c/d/g/] d// [c//d//g//] d// c'// [c//d//g//] c'// c'// |
+[^A/d/f/] d// [A/d/f/] d// [A/f/] f// [A/f/] f// |
+% Bar 50 (1:33)
+[^A/d/f/] d// [A/d/f/] d// [A/f/c'/] c'// [A/f/c'/] c'// |
+[c/d/g/] d// [c/d/g/] d// [c/f/g/] f// [c/f/g/] f// |
+[c/d/g/] d// [c/d/g/] d// [c//d//g//] d// c'// [c3/4d3/4g3/4] |]
+
+
+X: 5
+T: Fife (1:40) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 6/8
+Q: 94
+K: C maj
+
++mf+ z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+D// A// F// G/ F// E/ C// D/ E// |
+% Bar 10 (0:17)
+D// A// F// G/ F// E/ C// D/ z// |
+D// A// F// G/ F// E/ C// D/ E// |
+D// E// F// G// F// E// D/- D/ z/ |
+D// A// F// G/ F// E/ C// D/ E// |
+D// A// F// G/ F// E/ C// D/ z// |
+D// A// F// G/ F// E/ C// D/ E// |
+F// E// D// C/ D// D/- D |
+D3- |
+D3/2 A// A// F// G/ E// |
+D3 |
+% Bar 20 (0:36)
+A// A// F// G/ F// E/ C// D/ z// |
+D// A// F// G/ F// E/ C// D/ E// |
+D// E// F// G// F// E// D/ C// D/ z// |
+D// A// F// G/ F// E/ C// D/ E// |
+F// G// F// E// D// C// D/- D/ z/ |
+D// A// F// G/ F// E/ C// D/ E// |
+D// E// F// G// F// E// D/ C// D/ z// |
+D// A// F// G/ F// E/ C// D/ E// |
+F// G// F// E// D// C// D/- D/ z/ |
+D/ A// F/ z// D/ A// F/ z// |
+% Bar 30 (0:55)
+D/ A// F/ z// D/ A// D/ z// |
+D/ A// F/ z// D/ A// F/ z// |
+D/ A// F/ z// D/8 E/8 D/8 E/8 D/8 E/8 C// D// z// |
+D/ A// F/ z// D/ A// F/ z// |
+D/ A// F/ z// D/ A// D/ z// |
+D/ A// F/ z// D/ A// F/ z// |
+D/ A// F/ z// D/8 E/8 D/8 E/8 D/8 E/8 C// D// z// |
+D// A// F// G/ F// E/ C// D/ E// |
+F// G// F// E// D// C// D/ E// F/ z// |
+D// A// F// G/ F// E/ C// D/ E// |
+% Bar 40 (1:14)
+F// F// G/ F// E// D/ D/ z/ |
+A// A// A// G// G// G// F// F// F// E// E// E// |
+D/ C// D/ E// F// G// F// E/ z// |
+A// A// A// G// G// G// F// F// F// E// E// E// |
+D/ C// D/ E// F/ E// D/ z// |
+D/ D// D/ D// E/ E// E/ E// |
+F/ F// F/ F// G/ G// G/ G// |
+A/ F// G/ F// E/ D// C/ D// |
+E/ F// G/ F// E/ C// D/ z// |
+D/ D// D/ D// E/ E// E/ E// |
+% Bar 50 (1:33)
+F/ F// F/ F// G/ G// G/ G// |
+A/ F// G/ F// E/ C// D/ E// |
+F/ G// F/ E// D/ C// D/ z// |]
+
