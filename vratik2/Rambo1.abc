@@ -1,0 +1,333 @@
+%abc-2.1
+%%song-title       Rambo1
+%%song-duration    2:12
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X:1
+T: Rambo1 (2:12) - Basic Flute 1/4
+%%part-name Basic Flute
+M: 4/4
+Q: 120
+K: C maj
+
++ff+ z8 |
+z4 z E, ^F,2 |
+B,4 D,4 |
+z4 z D, ^C,2 |
+B,2 ^F,2 A,4 |
+z4 z B, A,2 |
+A,3 E, z E, ^F,2 |
+G,6 A,2 |
+z3 ^C, z4 |
+% Bar 10 (0:18)
+^C,4 E, E, ^F, C, |
+^C, D,- D, z z4 |
+^C, D,- D, D, z2 C,2 |
+[E,2B,2] ^F,2 z4 |
+z4 ^F, F, [D,2A,2] |
+[D,2A,2] [^C,2-E,2-] [C,2E,2] [C,2^F,2] |
+^C,2 B,2 B,4 |
+^C, D,- D, D, z4 |
+[E,2^G,2] B,2- B,2 ^F, B, |
+B,3 [C,A,] [C,4A,4] |
+% Bar 20 (0:38)
+z2 [E,CE] [D,F,D] z B, [C,2A,2C2] |
+B,3 [C,A,] z2 [C,2E,2] |
+D, E, z2 z2 [C,2E,2] |
+[D,2G,2] D, D,- D, D,- D, z |
+D, [^C,-E,-] [C,2E,2] [C,E,] C, [D,2G,2B,2] |
+[^C,2E,2] ^F, C, C,4 |
+[^F,2B,2] z [F,A,] z4 |
+[D,4^F,4B,4] [D,4F,4B,4D4] |
+[D,6B,6] [^C,2^C2] |
+[D,2^F,2B,2] F,2 [D,4F,4A,4] |
+% Bar 30 (0:58)
+z4 z B, A,2 |
+[D,3E,3A,3] [^C,E,A,] z2 ^F,2 |
+[D,4G,4B,4] z B, A,2 |
+[^C,3E,3A,3] [C,E,A,] z2 ^F,2 |
+[D,3G,3B,3] [D,G,B,] z D, E,2 |
+[^C,8^F,8B,8] |
+z B, E, ^F, B, E, F, A, |
+z [D,-^F,-B,-] [D,2F,2B,2] [D,3F,3B,3] D, |
+[^C,3E,3A,3] [C,E,A,] z4 |
+z [D,-^F,-B,-] [D,2F,2B,2] [D,3F,3B,3] D, |
+% Bar 40 (1:18)
+[C,E,G,] D, [C,E,G,] D, E, [C,-E,-G,-] [C,2E,2G,2] |
+z [D,-^F,-B,-] [D,2F,2B,2] [D,3F,3B,3] D, |
+[^C,3E,3A,3] [C,E,A,] z4 |
+z [D,-^F,-B,-] [D,2F,2B,2] [D,3F,3B,3] D, |
+[C,E,G,] D, [C,E,G,] D, E, [^F,-B,-] [F,2B,2] |
+B, ^F, B, E, ^C, F,/ B,/ z A, |
+E, G,/ C,/ z G, E, A, D, G, |
+B, C,- C, B, C,4 |
+z B, C,2 A,4 |
+B, C,- C, B, C2 C2 |
+% Bar 50 (1:38)
+C, B, C,2 A,2 [E,2B,2] |
+[C,2E,2A,2] [C,2E,2] D, C, C,2 |
+z D, C,2- C,2 C,2 |
+[C,G,] D, z2 D, D,- D, D, |
+[D,4F,4A,4] z [C,C] B,2 |
+[D,G,A,] B,- B, B, B,2 B,2 |
+[C,F,G,] A,- A, [C,F,A,] [C,2F,2A,2] [C,2F,2A,2] |
+A, B,- B,2 C,3 C, |
+[E,A,] B, [E,2^G,2] [E,G,B,] [E,G,B,] [E,G,B,] [E,G,B,] |
+z [C,-E,-A,-] [C,2E,2A,2] [C,3E,3A,3] C, |
+% Bar 60 (1:58)
+[D,3G,3B,3] [D,G,B,] z4 |
+z [C,-E,-A,-] [C,2E,2A,2] [C,3E,3A,3] C, |
+[D,F,^A,] C, [D,F,A,] C, D, [D,-F,-A,-] [D,F,A,] C, |
+D, z E, F, A, B, D, E, |
+F, D, E,2 [C,4E,4A,4] |
+[C,4E,4A,4C4] [C,4E,4A,4C4] |
+z A, D, G, [C,4E,4A,4] |
+z8 |]
+
+
+X:2
+T: Rambo1 (2:12) - Basic Bassoon 2/4
+%%part-name Basic Bassoon
+M: 4/4
+Q: 120
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+e8 |
+% Bar 10 (0:18)
+z8 |
+[^f4b4] d4 |
+z8 |
+d4 a4 |
+z8 |
+z8 |
+g4 z d e2 |
+^f8 |
+z8 |
+z8 |
+% Bar 20 (0:38)
+z8 |
+z8 |
+c'6 z2 |
+[g4^a4] [g4a4] |
+[e4a4] z4 |
+[g8b8] |
+z4 ^c e ^f b |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+a8 |
+z4 a d e2 |
+a4 c'4 |
+% Bar 50 (1:38)
+c'4 z c' b2 |
+a2 e2 [e4g4] |
+z4 z a [e2g2c'2] |
+g3 [g-b-] [g3b3] [gb] |
+z8 |
+z8 |
+z8 |
+[e4a4] z4 |
+e4 z4 |
+z8 |
+% Bar 60 (1:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+X:3
+T: Rambo1 (2:12) - Lute of Ages 3/4
+%%part-name Lute of Ages
+M: 4/4
+Q: 120
+K: C maj
+
++mf+ B, ^F ^c d B F B, A, |
+G, D A B G D G, A, |
+B, ^F ^c d B F B, A, |
+G, D A B G D G, A, |
+B, ^F B ^C D A d E |
+D A d e d A E D |
+A, E B ^c A E B, A, |
+E, B, G A B G E D |
+A, E B ^c A E B, ^C |
+% Bar 10 (0:18)
+^A, ^F ^A ^c A F A, ^F, |
+B, ^F ^c d B F B, A, |
+G, D A B G D G, A, |
+B, ^F B ^C D A d E |
+D A d e d A E D |
+A, E B ^c A E B, A, |
+G, D A B G D G, A, |
+B, ^F B B, B, F ^f e |
+B ^G E B, B, ^F B B, |
+A, E B c A E A, E, |
+% Bar 20 (0:38)
+F, C e d c B A c |
+A, E B c e c B A, |
+G, E G c g c G E |
+G, D ^A c d c A G, |
+A, E B ^c A E A, B, |
+G, ^C ^F ^A C F A ^c |
+^F, ^C ^F B ^c B F C |
+B, ^F ^c d B F B, A, |
+G, D A B G D G, A, |
+B, ^F B ^C D A d E |
+% Bar 30 (0:58)
+D A d e d A E D |
+A, E B ^c A E B, A, |
+E, B, G A B G E D |
+A, E B ^c A E B, A, |
+G, D A B G D G, A, |
+^F,3 [F,^F] [F,2F2] [F,2F2] |
+[^F,^F] [F,-F-] [F,F] [F,F] [F,2F2] [F,2F2] |
+B,2 z3 B, z2 |
+z ^F,- F, z z F, F,2 |
+B,2 z3 B, z2 |
+% Bar 40 (1:18)
+z C C z z2 C2 |
+B,2 z3 B, z2 |
+z ^F,- F, z z F, F,2 |
+B,2 z3 B, z2 |
+z C C2 z ^F,- F, F, |
+z8 |
+z4 z A d z |
+A,4 A, C A, G, |
+F,6 z/ C/ B, |
+A,4 A, C A, G, |
+% Bar 50 (1:38)
+F,6 z/ C/ B, |
+A,3 B, C4 |
+C6 G, C |
+G,4 G,3 G, |
+z2 F G A2 z A, |
+G,4 G,2 G,2 |
+F,4 F,2 F,2 |
+E,3 A, E,2 E,2 |
+E,3 ^G, E,2 E,2 |
+A,2 z3 A, z2 |
+% Bar 60 (1:58)
+z E,- E, z z E, E,2 |
+A,2 z3 A, z2 |
+z ^A, A,2 z3 A, |
+^A, z E, F, =A, B, D E |
+F z z2 [A,4E4A4] |
+[E4A4c4] [F,4C4F4] |
+z [A,A] [Dd] [Gg] [A4c4e4a4] |
+z8 |]
+
+
+X:4
+T: Rambo1 (2:12) - Basic Theorbo 4/4
+%%part-name Basic Theorbo
+M: 4/4
+Q: 120
+K: C maj
+
++mf+ B,8 |
+G,8 |
+B,4 z2 B, A, |
+G,4 z2 G, A, |
+B,3 ^C D2 z E |
+D4 z4 |
+A,4 z2 B, A, |
+E,4 z2 E D |
+A,4 z2 E/ B,/ A, |
+% Bar 10 (0:18)
+^A,4 z2 A,2 |
+B,4 z2 ^F/ B,/ A, |
+G,4 z4 |
+B,3 ^C D4 |
+D4 z2 E D |
+A,4 z2 B, A, |
+G,4 z2 G, A, |
+B,3 B, B,4 |
+E,4 z3 B, |
+A,4 z3 E, |
+% Bar 20 (0:38)
+F,4 z3 C |
+A,4 z2 B, A, |
+G,4 z3 B, |
+G,4 z2 z/ D/ G, |
+A,4 z2 A, B, |
+G,4 G,2 z G, |
+^F,8 |
+B,4 z2 B, A, |
+G,4 z2 G, A, |
+B,3 ^C D4 |
+% Bar 30 (0:58)
+D4 z2 E D |
+A,4 z2 B, A, |
+E,4 z2 E D |
+A,4 z2 B, A, |
+G,4 z2 G, A, |
+^F,3 F, F,2 F,2 |
+^F, F,- F, F, F,2 F,2 |
+B,2 z3 B, z2 |
+z ^F,- F, z z F, F,2 |
+B,2 z3 B, z2 |
+% Bar 40 (1:18)
+z C- C z z C C2 |
+B,2 z3 B, z2 |
+z ^F,- F, z z F, F,2 |
+B,2 z3 B, z2 |
+z C C2 z ^F,- F, F, |
+z8 |
+z8 |
+A,4 z2 A, G, |
+F,4 z2 F, B, |
+A,4 z2 A, G, |
+% Bar 50 (1:38)
+F,4 z3 B, |
+A,3 B, C4 |
+C6 G, C |
+G,4 G,3 G, |
+z8 |
+G,4 G,3 G, |
+F,4 F,3 F, |
+E,3 A, E,2 E,2 |
+E,3 ^G, E,2 E,2 |
+A,2 z3 A, z2 |
+% Bar 60 (1:58)
+z E,- E, z z E, E,2 |
+A,2 z3 A, z2 |
+z ^A, A,2 z3 A, |
+^A, z E, F, =A, B, D E |
+F z z2 [A,4E4A4] |
+[E4A4c4] [F,4C4F4] |
+z [A,A] [Dd] [Gg] [A4c4e4a4] |
+z8 |]
+
+
