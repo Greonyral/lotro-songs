@@ -1,0 +1,281 @@
+%abc-2.1
+%%song-title       AncientStories
+%%song-duration    1:50
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: AncientStories (1:50) - Lute of Ages
+%%part-name Lute of Ages
+M: 3/4
+Q: 85
+K: C maj
+
+%%Q: 79
++mf+ A85/79 e85/79 a85/79 e85/79 [A85/79a85/79] e85/79 |
+G85/79 d85/79 g85/79 d85/79 [G85/79g85/79] d85/79 |
+E85/79 B85/79 e85/79 B85/79 [E85/79e85/79] B85/79 |
+A85/79 e85/79 a170/79 z170/79 |
+%%Q: 85
+[A//-e//-] [A3/4e3/4a3/4-] [ea] [eac'-] [ec'] [Aa-] [ea] |
+[Gdb] [da] [dgb] [dg] [Ga] [db] |
+[E//-G//-] [E//-G//-B//-] [E/G/-B/g/-] [GBg] [eb] b/- [b/c'/] [eb] [Ba] |
+[Aea] [eb] [eac'] a [cc'] d |
+[Aea-] [ea] [a-c'-] [eac'] [a-c'] [ea] |
+% Bar 10 (0:19)
+[G//-b//] [G3/4d3/4a3/4] [dg] [ga] [de] [gb] [de] |
+[D//-d//-] [D//-d//a//-] [D/d/-a/-] [Ada] d- [Ad] [D//-c'//] [D//-d//] [D/c'/] [Ab] |
+[A//-c//-] [A//-c//-e//-] [A/c/-e/a/-] [c-e-a] [c2e2a2] z2 |
+[Aa] e a [ec'] [Aa] [eg] |
+[Gb] [da] [gb] [Gg] [Ga] [db] |
+[Eg] [Be] [eb] [eb] [Eb] [Ba] |
+[Ac'] e [A-a] [Ac'] [ce] a |
+[e-a] [ea] [a-c'-] [eac'] [Aa-] [ea] |
+[G//-b//] [G3/4d3/4a3/4] [dg] [ga] [de] [Ggb] [de] |
+[D//-d//-] [D//-d//a//-] [D/d/a/-] [da] [Ad-] [da] [dc'] [Ab] |
+% Bar 20 (0:40)
+[A//-c//-] [A//-c//-e//-] [A/c/-e/a/-] [c-e-a] [c2e2a2] z2 |
+[A//-e//-] [A3/4e3/4a3/4-] [ea] [eac'-] [ec'] [Aa-] [ea] |
+[Gdb] [da] [dgb] [dg] [Ga] [db] |
+[E//-G//-] [E//-G//-B//-] [E/G/-B/g/-] [GBg] [eb] b/- [b/c'/] [eb] [Ba] |
+[Aea] [eb] [eac'] a [cc'] d |
+[Aea-] [ea] [a-c'-] [eac'] [a-c'] [ea] |
+[G//-b//] [G3/4d3/4a3/4] [dg] [ga] [de] [gb] [de] |
+[D//-d//-] [D//-d//a//-] [D/d/-a/-] [Ada] d- [Ad] [D//-c'//] [D//-d//] [D/c'/] [Ab] |
+[A//-c//-] [A//-c//-e//-] [A/c/-e/a/-] [c-e-a] [c2e2a2-] a z |
++mp+ [DAd] [Ae] [d^f] [ea] [dg] a |
+% Bar 30 (1:02)
+[Dda] [A^f] [dg] d [DAf] [Ae] |
+[Aea] [eb] [ea] [eg] [ec'] e |
+[Aa] [eb] [a-c'] [da] [Aea] +mf+ [eg] |
+[Dd-^f-] [Adf] [df-a] [fa] [dg] a/- [g/a/] |
+[D^f-] [Af] d2 [Dd-] [Ad] |
+[Ae] e a- [ea] [ec'] [de] |
+[A//-e//-] [A//-e//-a//-] [A//-e//a//-c'//-] [A//e//a//-c'//-] [e-ac'-] [e2-a2-c'2-] [A-eac'] A |
++p+ [DAd] [Ae] [d^f] [ea] [dg] a |
+[Dda] [A^f] [dg] d [DAf] [Ae] |
+[Aea] [eb] [ea] [eg] [ec'] e |
+% Bar 40 (1:23)
+[Aa] [eb] [a-c'] [da] [Aea] +mf+ [eg] |
+[Dd-^f-] [Adf] [df-a] [fa] [dg] a/- [g/a/] |
+[D^f-] [Af] d2 [Dd-] [Ad] |
+[Ae] e a- [ea] [ec'] [de] |
+[A//-e//-] [A//-e//-a//-] [A//-e//a//-c'//-] [A//e//a//-c'//-] [e-ac'-] [e2-a2-c'2-] [A-eac'] A |
++mp+ [Aa] e a [ec'] [Aa] [eg] |
+[Gb] [da] [gb] [Gg] [Ga] [db] |
+[Eg] [Be] [eb] [eb] [Eb] [Ba] |
+[Ac'] e [A-a] [Ac'] [ce] a |
++mf+ [e-a] [ea] [a-c'-] [eac'] [Aa-] [ea] |
+% Bar 50 (1:44)
+[G//-b//] [G3/4d3/4a3/4] [dg] [ga] [de] [Ggb] [de] |
+%%Q: 77
+[D85/308-d85/308-] [D85/308-d85/308a85/308-] [D85/154d85/154a85/154-] [d85/77a85/77] [A85/77d85/77-] [d85/77a85/77] [d85/77c'85/77] [A85/77b85/77] |
+[A85/308-c85/308-e85/308] [A85/308-c85/308-e85/308-] [A85/22-c85/22-e85/22-a85/22-] [A85/77c85/77e85/77a85/77] z85/77 |]
+
+
+X: 3
+T: AncientStories (1:50) - Basic Theorbo
+%%part-name Basic Theorbo
+M: 3/4
+Q: 85
+K: C maj
+
+%%Q: 79
++mp+ a510/79 |
+g510/79 |
+e510/79 |
+a340/79- a85/79 z85/79 |
+%%Q: 85
+a6 |
+g6 |
+e6 |
+a6 |
+a6 |
+% Bar 10 (0:19)
+g6 |
+d6 |
+a6 |
+a3 e a2 |
+g3 d g2 |
+e3 b e2 |
+a3 e a2 |
+e3 g e d |
+d e g e d c' |
+a d d2- d2 |
+% Bar 20 (0:40)
+a4- a z |
+a6 |
+g6 |
+e6 |
+a6 |
+a6 |
+g6 |
+d6 |
+a4- a z |
+a6 |
+% Bar 30 (1:02)
+d4 a2 |
+c'6 |
+b4- b z |
++mf+ a6 |
+d4 a2 |
+c'6- |
+c'4- c' z |
++mp+ a6 |
+d4 a2 |
+c'6 |
+% Bar 40 (1:23)
+b4- b z |
++mf+ a6 |
+d4 a2 |
+c'6- |
+c'4- c' z |
++mp+ a3 e a2 |
+g3 d g2 |
+e3 b e2 |
+a3 e a2 |
+e3 g e d |
+% Bar 50 (1:44)
+d e g e d c' |
+%%Q: 77
+a85/77 d85/77 d170/77- d170/77 |
+e340/77- e85/77 z85/77 |]
+
+
+X: 4
+T: AncientStories (1:50) - Basic Flute
+%%part-name Basic Flute
+M: 3/4
+Q: 85
+K: C maj
+
+%%Q: 79
++p+ z510/79 |
+z510/79 |
+z510/79 |
+z510/79 |
+%%Q: 85
+A,2 C,2 A,2 |
+B,2- B,3/4 z// C, B,2 |
+G,2 B,2 G,2 |
+A,2- A,3/4 z// B, C,2 |
+C,2 E,2 E,2 |
+% Bar 10 (0:19)
+D, C, B,2- B,3/4 z5/4 |
+B, C, D,2 C, B, |
+A,2- A,- A,3/4 z9/4 |
++mf+ A,2 C2 A,2 |
+B, A, B, G, A, B, |
+G,2 B,3/2 C/ B, A, |
+A, B, C A, C D |
++mp+ E,2 A,2 A,2 |
+A, G, A, E, G, B, |
+D,2 D,2 C,// D,// C,/ B, |
+% Bar 20 (0:40)
+A,4- A,3/4 z5/4 |
++p+ A,2 C,2 A,2 |
+B,2- B,3/4 z// C, B,2 |
+G,2 B,2 G,2 |
+A,2- A,3/4 z// B, C,2 |
+C,2 E,2 E,2 |
+D, C, B,2- B,3/4 z5/4 |
+B, C, D,2 C, B, |
+A,2- A,- A,3/4 z// G,2 |
++mf+ ^F,2 F,2 G, A,/ G,/ |
+% Bar 30 (1:02)
+^F,2- F,- F,3/4 z// F, G, |
+A,2 A,2 B, C,/ B,/ |
+A,4- A,3/4 z5/4 |
++p+ ^F,2 F,2 G, A,/ G,/ |
+^F,2- F,- F,3/4 z// A, D, |
+E,2 A,2 E, D, |
+E,4- E,3/4 z5/4 |
++mf+ ^F,2 F,2 G, A,/ G,/ |
+^F,2- F,- F,3/4 z// F, G, |
+A,2 A,2 B, C,/ B,/ |
+% Bar 40 (1:23)
+A,4- A,3/4 z5/4 |
++p+ ^F,2 F,2 G, A,/ G,/ |
+^F,2- F,- F,3/4 z// A, D, |
+E,2 A,2 E, D, |
+E,4- E,3/4 z5/4 |
++mf+ A,2 C2 A,2 |
+B, A, B, G, A, B, |
+G,2 B,3/2 C/ B, A, |
+A, B, C A, C D |
++mp+ E,2 A,2 A,2 |
+% Bar 50 (1:44)
+A, G, A, E, G, B, |
+%%Q: 77
+D,170/77 D,170/77 C,85/308 D,85/308 C,85/154 B,85/77 |
+A,340/77- A,255/308 z425/308 |]
+
+
+X: 5
+T: AncientStories (1:50) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 3/4
+Q: 85
+K: C maj
+
+%%Q: 79
++p+ z510/79 |
+z510/79 |
+z510/79 |
+z510/79 |
+%%Q: 85
+A,2 C2 A,2 |
+B,2- B,3/4 z// C B,2 |
+G,2 B,2 G,2 |
+A,2- A,3/4 z// B, C2 |
+C2 E2 E2 |
+% Bar 10 (0:19)
+D C B,2- B,3/4 z5/4 |
+B, C D2 C B, |
+A,2- A,- A,3/4 z9/4 |
++mf+ A2 c2 A2 |
+B A B G A B |
+G2 B3/2 c/ B A |
+A B c A c d |
++mp+ E2 A,2 A,2 |
+A, G, A, E G, B, |
+D2 D2 C// D// C/ B, |
+% Bar 20 (0:40)
+A,4- A,3/4 z5/4 |
++p+ A,2 C2 A,2 |
+B,2- B,3/4 z// C B,2 |
+G,2 B,2 G,2 |
+A,2- A,3/4 z// B, C2 |
+C2 E2 E2 |
+D C B,2- B,3/4 z5/4 |
+B, C D2 C B, |
+A,2- A,- A,3/4 z// G,2 |
++mf+ ^F,2 F,2 G, A,/ G,/ |
+% Bar 30 (1:02)
+^F,2- F,- F,3/4 z// F, G, |
+A,2 A,2 B, C/ B,/ |
+A,4- A,3/4 z5/4 |
++p+ ^F,2 F,2 G, A,/ G,/ |
+^F,2- F,- F,3/4 z// A, D |
+E2 A,2 E D |
+E4- E3/4 z5/4 |
++mf+ ^F,2 F,2 G, A,/ G,/ |
+^F,2- F,- F,3/4 z// F, G, |
+A,2 A,2 B, C/ B,/ |
+% Bar 40 (1:23)
+A,4- A,3/4 z5/4 |
++p+ ^F,2 F,2 G, A,/ G,/ |
+^F,2- F,- F,3/4 z// A, D |
+E2 A,2 E D |
+E4- E3/4 z5/4 |
++mf+ A2 c2 A2 |
+B A B G A B |
+G2 B3/2 c/ B A |
+A B c A c d |
++mp+ E2 A,2 A,2 |
+% Bar 50 (1:44)
+A, G, A, E G, B, |
+%%Q: 77
+D170/77 D170/77 C85/308 D85/308 C85/154 B,85/77 |
+A,340/77- A,255/308 z425/308 |]
+
