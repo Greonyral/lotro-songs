@@ -1,0 +1,469 @@
+%abc-2.1
+%%song-title       ElevenMileCanyon
+%%song-duration    1:33
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: ElevenMileCanyon (1:33) - Lute of Ages
+%%part-name Lute of Ages
+M: 4/4
+Q: 250
+K: C maj
+
++ff+ [A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cea] g |
+[A-a] [Ag] [ce] [dg] [G-d] [Ge] [GBg] [eg] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cec'] [dg] |
+[A-e] [Ag] [ce] [dg] [G-e] [Gd] [cec'] [gb] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cea] g |
+[A-a] [Ag] [ce] [dg] [G-d] [Ge] [GBg] [eg] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cec'] [dg] |
+[Acec'] a [GBeg] e [A-c-e-g] [A3c3e3a3] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+% Bar 10 (0:08)
+[G-d] [Gc'] [GBd] [eg] [G-d] [Gc'] [GBg] [ga] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-d] [Gc'] [GBb] [ga] [G-g] [Ge] [Bde] [eg] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-d] [Gc'] [GBd] [eg] [G-d] [Gc'] [GBg] [ga] |
+[G-e] [Gd] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-g] [Ge] [Bde] [cg] [A4c4e4] |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:27)
+z8 |
+z8 |
+z8 |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cea] g |
+[A-a] [Ag] [ce] [dg] [G-d] [Ge] [GBg] [eg] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cec'] [dg] |
+[A-e] [Ag] [ce] [dg] [G-e] [Gd] [cec'] [gb] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cea] g |
+[A-a] [Ag] [ce] [dg] [G-d] [Ge] [GBg] [eg] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cec'] [dg] |
+% Bar 40 (0:37)
+[Acec'] a [GBeg] e [A-c-e-g] [A3c3e3a3] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-d] [Gc'] [GBd] [eg] [G-d] [Gc'] [GBg] [ga] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-d] [Gc'] [GBb] [ga] [G-g] [Ge] [Bde] [eg] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-d] [Gc'] [GBd] [eg] [G-d] [Gc'] [GBg] [ga] |
+[G-e] [Gd] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-g] [Ge] [Bde] [cg] [A4c4e4] |
+z8 |
+% Bar 50 (0:47)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (0:56)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cea] g |
+[A-a] [Ag] [ce] [dg] [G-d] [Ge] [GBg] [eg] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cec'] [dg] |
+[A-e] [Ag] [ce] [dg] [G-e] [Gd] [cec'] [gb] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cea] g |
+% Bar 70 (1:06)
+[A-a] [Ag] [ce] [dg] [G-d] [Ge] [GBg] [eg] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cec'] [dg] |
+[Acec'] a [GBeg] e [A-c-e-g] [A3c3e3a3] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-d] [Gc'] [GBd] [eg] [G-d] [Gc'] [GBg] [ga] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-d] [Gc'] [GBb] [ga] [G-g] [Ge] [Bde] [eg] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-d] [Gc'] [GBd] [eg] [G-d] [Gc'] [GBg] [ga] |
+[G-e] [Gd] [ce] g [G-e] [Gd] [cec'] [ga] |
+% Bar 80 (1:15)
+[G-g] [Ge] [Bde] [cg] [A4c4e4] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cea] g |
+[A-a] [Ag] [ce] [dg] [G-d] [Ge] [GBg] [eg] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cec'] [dg] |
+[A-e] [Ag] [ce] [dg] [G-e] [Gd] [cec'] [gb] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cea] g |
+[A-a] [Ag] [ce] [dg] [G-d] [Ge] [GBg] [eg] |
+[A-a] [A^g] [cea] [=gb] [A-c'] [Ab] [cec'] [dg] |
+[Acec'] a [GBeg] e [A-c-e-g] [A3c3e3a3] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+% Bar 90 (1:25)
+[G-d] [Gc'] [GBd] [eg] [G-d] [Gc'] [GBg] [ga] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-d] [Gc'] [GBb] [ga] [G-g] [Ge] [Bde] [eg] |
+[G2e2] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-d] [Gc'] [GBd] [eg] [G-d] [Gc'] [GBg] [ga] |
+[G-e] [Gd] [ce] g [G-e] [Gd] [cec'] [ga] |
+[G-g] [Ge] [Bde] [cg] +mp+ [A4-c4-e4-] |
+[A8c8e8] |
+z8 |]
+
+
+X: 11
+T: ElevenMileCanyon (1:33) - Basic Lute
+%%part-name Basic Lute
+M: 4/4
+Q: 250
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:08)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+A2 [ce] g A2 [ce] g |
+A2 [ce] g G2 [GB] g |
+A2 [ce] g A2 [ce] g |
+% Bar 20 (0:18)
+A2 [ce] g G2 [ce] g |
+A2 [ce] g A2 [ce] g |
+A2 [ce] g G2 [GB] g |
+A2 [ce] g A2 [ce] g |
+[Ace] z [GBe] z [A4c4e4] |
+G2 [ce] g G2 [ce] g |
+G2 [GB] g G2 [GB] g |
+G2 [ce] g G2 [ce] g |
+G2 [GB] g G2 [Be] g |
+G2 [ce] g G2 [ce] g |
+% Bar 30 (0:27)
+G2 [GB] g G2 [GB] g |
+G2 [ce] g G2 [ce] g |
+G2 [Be] g [A4c4e4] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (0:37)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+A2 [ce] g A2 [ce] g |
+% Bar 50 (0:47)
+A2 [ce] g G2 [GB] g |
+A2 [ce] g A2 [ce] g |
+A2 [ce] g G2 [ce] g |
+A2 [ce] g A2 [ce] g |
+A2 [ce] g G2 [GB] g |
+A2 [ce] g A2 [ce] g |
+[Ace] z [GBe] z [A4c4e4] |
+G2 [ce] g G2 [ce] g |
+G2 [GB] g G2 [GB] g |
+G2 [ce] g G2 [ce] g |
+% Bar 60 (0:56)
+G2 [GB] g G2 [Be] g |
+G2 [ce] g G2 [ce] g |
+G2 [GB] g G2 [GB] g |
+G2 [ce] g G2 [ce] g |
+G2 [Be] g [A4c4e4] |
+A2 [ce] g A2 [ce] g |
+A2 [ce] g G2 [GB] g |
+A2 [ce] g A2 [ce] g |
+A2 [ce] g G2 [ce] g |
+A2 [ce] g A2 [ce] g |
+% Bar 70 (1:06)
+A2 [ce] g G2 [GB] g |
+A2 [ce] g A2 [ce] g |
+[Ace] z [GBe] z [A4c4e4] |
+G2 [ce] g G2 [ce] g |
+G2 [GB] g G2 [GB] g |
+G2 [ce] g G2 [ce] g |
+G2 [GB] g G2 [Be] g |
+G2 [ce] g G2 [ce] g |
+G2 [GB] g G2 [GB] g |
+G2 [ce] g G2 [ce] g |
+% Bar 80 (1:15)
+G2 [Be] g [A4c4e4] |
+A2 [ce] g A2 [ce] g |
+A2 [ce] g G2 [GB] g |
+A2 [ce] g A2 [ce] g |
+A2 [ce] g G2 [ce] g |
+A2 [ce] g A2 [ce] g |
+A2 [ce] g G2 [GB] g |
+A2 [ce] g A2 [ce] g |
+[Ace] z [GBe] z [A4c4e4] |
+G2 [ce] g G2 [ce] g |
+% Bar 90 (1:25)
+G2 [GB] g G2 [GB] g |
+G2 [ce] g G2 [ce] g |
+G2 [GB] g G2 [Be] g |
+G2 [ce] g G2 [ce] g |
+G2 [GB] g G2 [GB] g |
+G2 [ce] g G2 [ce] g |
+G2 [Be] g [A4-c4-e4-] |
+[A8c8e8] |
+z8 |]
+
+
+X: 3
+T: ElevenMileCanyon (1:33) - Basic Theorbo
+%%part-name Basic Theorbo
+M: 4/4
+Q: 250
+K: C maj
+
++mf+ A4 E4 |
+A4 G4 |
+A4 E4 |
+A4 c4 |
+A4 E4 |
+A4 G4 |
+A4 E4 |
+A2 E2 A4 |
+c4 G4 |
+% Bar 10 (0:08)
+d4 G4 |
+c4 G4 |
+G4 E4 |
+c4 G4 |
+d4 G4 |
+c4 G4 |
+G2 E2 A,4 |
+A4 E4 |
+A4 G4 |
+A4 E4 |
+% Bar 20 (0:18)
+A4 c4 |
+A4 E4 |
+A4 G4 |
+A4 E4 |
+A2 E2 A4 |
+c4 G4 |
+d4 G4 |
+c4 G4 |
+G4 E4 |
+c4 G4 |
+% Bar 30 (0:27)
+d4 G4 |
+c4 G4 |
+G2 E2 A,4 |
+A4 E4 |
+A4 G4 |
+A4 E4 |
+A4 c4 |
+A4 E4 |
+A4 G4 |
+A4 E4 |
+% Bar 40 (0:37)
+A2 E2 A4 |
+c4 G4 |
+d4 G4 |
+c4 G4 |
+G4 E4 |
+c4 G4 |
+d4 G4 |
+c4 G4 |
+G2 E2 A,4 |
+A4 E4 |
+% Bar 50 (0:47)
+A4 G4 |
+A4 E4 |
+A4 c4 |
+A4 E4 |
+A4 G4 |
+A4 E4 |
+A2 E2 A4 |
+c4 G4 |
+d4 G4 |
+c4 G4 |
+% Bar 60 (0:56)
+G4 E4 |
+c4 G4 |
+d4 G4 |
+c4 G4 |
+G2 E2 A,4 |
+A4 E4 |
+A4 G4 |
+A4 E4 |
+A4 c4 |
+A4 E4 |
+% Bar 70 (1:06)
+A4 G4 |
+A4 E4 |
+A2 E2 A4 |
+c4 G4 |
+d4 G4 |
+c4 G4 |
+G4 E4 |
+c4 G4 |
+d4 G4 |
+c4 G4 |
+% Bar 80 (1:15)
+G2 E2 A,4 |
+A4 E4 |
+A4 G4 |
+A4 E4 |
+A4 c4 |
+A4 E4 |
+A4 G4 |
+A4 E4 |
+A2 E2 A4 |
+c4 G4 |
+% Bar 90 (1:25)
+d4 G4 |
+c4 G4 |
+G4 E4 |
+c4 G4 |
+d4 G4 |
+c4 G4 |
+G2 E2 A,4- |
+A,8 |
+z8 |]
+
+
+X: 5
+T: ElevenMileCanyon (1:33) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 4/4
+Q: 250
+K: C maj
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:08)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+A, ^G, A, B, C B, A, =G, |
+A, G, E, D, D, E, G, E, |
+A, ^G, A, B, C B, C D |
+% Bar 20 (0:18)
+E G E D E D C B, |
+A, ^G, A, B, C B, A, =G, |
+A, G, E, D, D, E, G, E, |
+A, ^G, A, B, C B, C D |
+C A, G, E, G, A,3 |
+E2 E G E D C A, |
+D C D E D C G, A, |
+E2 E G E D C A, |
+D C B, A, G, E, D, E, |
+E2 E G E D C A, |
+% Bar 30 (0:27)
+D C D E D C G, A, |
+E D E G E D C A, |
+G, E, D, C, A,4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (0:37)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+A, ^G, A, B, C B, A, =G, |
+% Bar 50 (0:47)
+A, G, E, D, D, E, G, E, |
+A, ^G, A, B, C B, C D |
+E G E D E D C B, |
+A, ^G, A, B, C B, A, =G, |
+A, G, E, D, D, E, G, E, |
+A, ^G, A, B, C B, C D |
+C A, G, E, G, A,3 |
+E2 E G E D C A, |
+D C D E D C G, A, |
+E2 E G E D C A, |
+% Bar 60 (0:56)
+D C B, A, G, E, D, E, |
+E2 E G E D C A, |
+D C D E D C G, A, |
+E D E G E D C A, |
+G, E, D, C, A,4 |
+A, ^G, A, B, C B, A, =G, |
+A, G, E, D, D, E, G, E, |
+A, ^G, A, B, C B, C D |
+E G E D E D C B, |
+A, ^G, A, B, C B, A, =G, |
+% Bar 70 (1:06)
+A, G, E, D, D, E, G, E, |
+A, ^G, A, B, C B, C D |
+C A, G, E, G, A,3 |
+E2 E G E D C A, |
+D C D E D C G, A, |
+E2 E G E D C A, |
+D C B, A, G, E, D, E, |
+E2 E G E D C A, |
+D C D E D C G, A, |
+E D E G E D C A, |
+% Bar 80 (1:15)
+G, E, D, C, A,4 |
+A, ^G, A, B, C B, A, =G, |
+A, G, E, D, D, E, G, E, |
+A, ^G, A, B, C B, C D |
+E G E D E D C B, |
+A, ^G, A, B, C B, A, =G, |
+A, G, E, D, D, E, G, E, |
+A, ^G, A, B, C B, C D |
+C A, G, E, G, A,3 |
+E2 E G E D C A, |
+% Bar 90 (1:25)
+D C D E D C G, A, |
+E2 E G E D C A, |
+D C B, A, G, E, D, E, |
+E2 E G E D C A, |
+D C D E D C G, A, |
+E D E G E D C A, |
+G, E, D, C, A,4- |
+A,8 |
+z8 |]
+
