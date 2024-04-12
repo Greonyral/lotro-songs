@@ -1,0 +1,30 @@
+%abc-2.1
+%%song-title       Grand Piano
+%%song-duration    0:22
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 7
+T: Grand Piano (0:22) - Basic Bassoon
+%%part-name Basic Bassoon
+M: 4/4
+Q: 149
+K: C maj
+
++pppp+ z6 [^A/^a/] z/ ^d/ z/ |
+^d4- d3/2 z/ ^a2- |
+^a4- a3/2 z/ ^d/ z/ [^A/a/] z/ |
+^d/ z/ ^a/ z/ a2- a4- |
+^a2 ^D,3/2 z/ D,2- [D,/-^A/a/] D,/- [D,/-^d/] D,/- |
+[^D,4-^d4-] [D,3/2-d3/2] D,/- [D,2-^a2-] |
+[^D,4-^a4-] [D,3/2-a3/2] D,/- [D,/-^d/] D,/- [D,/-^A/a/] D,/ |
+^d/ z/ ^a/ z/ a2- a4- |
+^a2 ^D,3/2 z/ D,2- [D,/-^A/a/] D,/- [D,/-^d/] D,/ |
+% Bar 10 (0:14)
+[B,2^g2-] [^D3/2-g3/2] D/ [B,2^F2^f2-] [^G,3/2-f3/2] G,/ |
+[^C,2^C2f2-] [^G,3/2-f3/2] G,/ [C3/2-^G3/2-^d3/2] [C/-G/-] [C3/2-G3/2-^g3/2] [C/G/] |
+[^D,/-^D/-^a/] [D,/-D/-] [D,/-D/-^d/] [D,/-D/-] [D,3/2D3/2d3/2-] d/- [D,2-D2-d2] [D,/-D/-d/] [D,/-D/-] [D,/D/^A/a/] z/ |
+[^D,/-^D/-^d/] [D,/-D/-] [D,/-D/-^a/] [D,/-D/-] [D,3/2D3/2a3/2-] a/- [D,3/2D3/2a3/2-] a/- [D,3/2a3/2-] a/ |
+^D,8 |
+z8 |]
+
