@@ -1,0 +1,50 @@
+%abc-2.1
+%%song-title       Track 24 (GM)
+%%song-duration    1:00
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X:1
+T: Track 24 (GM) (1:00) - Basic Bassoon 1/1
+%%part-name Basic Bassoon
+M: 4/4
+Q: 130
+K: C maj
+
++mf+ z8 |
+[D,2A,2] +mp+ D D- [A,/D/-] D/ D D2 |
++mf+ [D,2C2] +mp+ C- [C/-D/] C/ +mf+ [A,3/2D3/2-] D/ +mp+ D2 |
+[D,2A,2] D D- [A,D] D D2 |
++mf+ [D,2C2] +mp+ C- [C/-D/] C/ +mf+ [A,D-] D +mp+ D2 |
++f+ [D,3/2A,3/2-a3/2-] [A,/a/-] +mp+ [Da-] [D-a-] [A,/D/-a/-] [D/a/-] [Da-] [D2a2-] |
+[A,C-a-] [Ca-] [A,/^D/-a/-] [D3/2a3/2-] +mf+ [=D-a] +f+ [Dg] +mf+ [Df] [Dg] |
++f+ [D,2A,2a2-] +mp+ [Da-] [D-a-] [A,Da-] [Da-] [D2a2-] |
+[A,C-a-] [Ca-] [A,/B,/-a/-] [B,/a/-] [Ca-] [D2-a2-] [D/-a/] D3/2 |
+% Bar 10 (0:16)
++mf+ [D,A,-] +f+ [A,/-a/] A,/ +mf+ [Da] [D-g] [D,Df] +f+ [Dg-] +mp+ [D-g] +mf+ [D^d] |
+[D,/C/-d/-] [C/-d/-] +f+ [Cd-a-] +mp+ [D,/C/-d/-a/-] [C/-d/-a/-] +mf+ [Cd-ga] +mp+ [D2-d2-f2] +mf+ [D/^D/-d/-^d/-] [D/=d/^d/-] +mp+ [=Dd] |
++f+ [D,A,-d-] [A,/-d/-a/] [A,/d/-] +mf+ [Dd-a] [Dd-^a] [Dd-c'] +f+ [Dd-a-] +mp+ [D-d-a] +f+ [Ddg] |
++mf+ [A,C-a-] [Ca-] +mp+ [A,/C/-a/-] [C3/2a3/2-] [D2-a2-] [D3/2-a3/2] D/ |
++mf+ [D,A,-] [A,/-a/] A,/ [Da] [D-g] [A,/D/-f/-] [D/f/-] [Df] +f+ [D2^d2] |
++mp+ [D,Cd-] +fff+ [^Dd-c'] +mf+ [Cd-^a] +f+ [=D/^D/-d/-c'/] [D/d/-] +ff+ [A,=D-d-=a] +f+ [Dd-^a] [CDd-g] +mf+ [B,d-=a] |
++mp+ [D,A,-d-f-] [A,d-f-] [Dd-f-] [D-d-f-] [A,/D/-d/-f/-] [D/d/f/-] +f+ [Dcf-] +mf+ [D-Bf-] [Dcf-] |
+[A,/C/-d/-f/-] [C/-d/-f/] +f+ [Cde] [A,C-d-] +mf+ [Cde] +mp+ [D4d4-] |
+[G,3/2D3/2-d3/2-] [D/d/] G G- +mf+ [D/G/-] G/ +f+ [Gg] +mf+ [G-a] [G^a] |
+[D/F/-^c/] F/- +ff+ [Fd] +f+ [D/F/-^a/-] [F3/2a3/2] [G-g-] +ff+ [G-g-a] +f+ [G-g-=a] +mf+ [Gg^a] |
+% Bar 20 (0:35)
++ff+ [G,D-g-] [Dg-] +mp+ [Gg-] [G-g] +mf+ [D/G/-] G/ +f+ [Gg] +mp+ [D/G/-a/] G/- +mf+ [G/-^a/] G/ |
+[D/F/-^c/-] [F/-c/] [Fd] +f+ [D/^G/-e/] G/- [Gf] [=G-d-] +mp+ [FG-d-] [E/-G/d/-] [E/d/-] [Dd] |
+[D,-A,-] +f+ [D,/A,/-a/-] [A,/a/] [D/-d/f/-] [D/f/-] [D-d-f-] +mp+ [A,/D/-d/-f/-] [D/d/f/-] +f+ [D/-f/-c'/] [D/f/-] [D2f2-c'2-] |
++mp+ [A,/-C/-f/-c'/] [A,/C/-f/-] +f+ [Cf-c'] +mf+ [A,/^D/-f/-^a/-] [D/-f/-a/] +mp+ [Df-=a] +f+ [=D-fg-] [D-g] [Dfa] [D^df] |
+[D,A,-d-] [A,d-] +mp+ [Dd-] [D-d-a-] [A,/D/-d/-a/-] [D/d/a/-] +f+ [DAa-] [D2d2-a2-] |
++mp+ [A,da-] +mf+ [B,ea-] [A,/C/-f/-a/-] [C/f/a/-] [^Cea-] [D/-d/-a/] [D/-d/-] +f+ [D-d-g] [D-d^a] [D=a] |
+[G,3/2D3/2-d3/2-] [D/d/-] +mf+ [G/-d/-g/] [G/d/] +f+ [G-g-] +mf+ [D/G/-g/-] [G/g/-] +mp+ [Gg-] [G2g2-] |
+[F/-G/g/-] [F3/2g3/2-] [F^G-g-] [Gg-] +p+ [=G-g-] +f+ [G/-g/^a/-] [G/-a/] [G-d-] +mf+ [G^cd] |
++f+ [G,-D-d-] +ff+ [G,/D/-d/-c'/-] [D/d/-c'/] +f+ [Gd-^a] [G-d-=a] [D/G/-d/-^a/-] [G/d/-a/] +mf+ [Gd-=a] +f+ [G-d-g] +ff+ [Gd-f] |
++f+ [D/^G/-d/-g/-] [G/d/-g/] +mf+ [Fd-f] +f+ [D/G/-d/-e/-] [G/-d/e/] [Gfc'] [=G-d-^a] +mp+ [FG-d-=a] +mf+ [E/-G/d/-g/-] [E/d/-g/] [Ddf] |
+% Bar 30 (0:53)
++f+ [D,3/2A,3/2-d3/2-] [A,/d/-] [Dd-f] +mf+ [D-d-a-] +mp+ [A,/D/-d/-a/-] [D/d/-a/-] [Dd-a-] [D2d2-a2-] |
+[A,/C/-d/-a/-] [C/-d/a/-] +f+ [Cea-] +mf+ [A,/^D/-f/-a/-] [D/-f/a/-] [Dea-] +f+ [=D-d-a] +ff+ [Dd-g] [Dd-f] +f+ [D/-d/e/-] [D/e/] |
+[D,A,-d-] [A,d-] +mf+ [Dcd] [D-d-] +mp+ [A,/D/-d/-] [D/d/-] +ff+ [Dd-f-] +f+ [D/-d/f/-a/-] [D3/2f3/2-a3/2-] |
++mf+ [A,fa-] [B,ea-] [A,/C/-d/-a/-] [C/d/a/-] +f+ [^Cca] +mf+ [D,/-D/d/-] [D,5/2d5/2] z |]
+
