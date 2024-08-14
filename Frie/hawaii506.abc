@@ -1,0 +1,581 @@
+%abc-2.1
+%%song-title       Hawaii 50 '68
+%%song-composer    M Stevens
+%%song-duration    1:48
+%%song-transcriber 2024-08-13
+%%abc-creator Maestro v2.5.0.117
+%%export-timestamp 2024-08-13 23:11:17
+%%swing-rhythm false
+%%mix-timings true
+%%abc-version 2.1
+
+X: 1
+T: Hawaii 50 '68 M Stevens Lute of Ages 1/6 1:48 2024-08-13
+%%part-name Lute of Ages
+%%made-for Lute of Ages
+C: M Stevens
+Z: 2024-08-13
+M: 4/4
+Q: 163
+K: C maj
+L: 1/8
+
++ffff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 G G ^A d2 c- |
+% Bar 10 (0:13)
+c3 G5- |
+G2 G G F ^A2 G- |
+G8 |
+z2 G G ^A d2 c- |
+c3 g5- |
+g z f f d ^A2 g- |
+g8- |
+g8 |
+z2 ^a2 g f ^d c |
+G F ^D C5 |
+% Bar 20 (0:27)
+z2 c'2 a g f d |
+c ^A ^G A2 c d2 |
+c3 g5 |
+z2 f f d ^A2 c- |
+c5 c c ^G- |
+^G8 |
+z2 ^G G B ^d2 ^c- |
+^c3 ^G5- |
+^G2 G G ^F B2 G- |
+^G8 |
+% Bar 30 (0:42)
+z2 ^G G B ^d2 ^c- |
+^c3 ^g5- |
+^g z ^f f ^d B2 g- |
+^g8- |
+^g8 |
+z2 b a ^g ^f e ^d |
+^c ^d B c5 |
+z2 ^c b a g ^f ^d |
+^c B c ^d2 c B2 |
+^c3 ^g5 |
+% Bar 40 (0:57)
+z2 ^f f ^d B2 ^c- |
+^c8 |
+z8 |
+z2 A A c e2 d- |
+d3 A5- |
+A2 A A G c2 A- |
+A8 |
+z2 A A c e2 d- |
+d3 a5- |
+a z g g e c2 a- |
+% Bar 50 (1:12)
+a8- |
+a8 |
+z2 a3 g f e |
+d e A d5 |
+z2 d3 c' ^a ^g |
+g f d e2 d c2 |
+d3 a5 |
+z2 g g e c z d- |
+d8 |
+z2 g g e g c' d- |
+% Bar 60 (1:26)
+d8 |
+z8 |
+z8 |
+z8 |
+z8 |
+A/- [A/-d/-] [A7d7f7a7] |
+z8 |
+z2 A A c e2 d- |
+d2 d d f a2 g- |
+g2 G G ^A d2 c- |
+% Bar 70 (1:41)
+c2 c c ^d g2 f- |
+f2 f g ^g c'2 ^a- |
+^a2 a z3 c' z |
+z2 d6 |
+D D D2 z4 |]
+
+
+X: 2
+T: Hawaii 50 '68 M Stevens Basic Flute 2/6 1:48 2024-08-13
+%%part-name Flute
+%%made-for Basic Flute
+C: M Stevens
+Z: 2024-08-13
+M: 4/4
+Q: 163
+K: C maj
+L: 1/8
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 G +f+ G ^A d2 c- |
+% Bar 10 (0:13)
+[C,c-] +mf+ [Gc-^d] [Gcd] +f+ [C,Gd] [C,Gd] +mf+ [G2d2] [G-=d-] |
++f+ [^A,G-d-] [Gd-] +ff+ [Gd-] [A,G-d-] +f+ [A,FG-d-] +ff+ [G2^A2d2-] +f+ [G-d] |
+[C,G] +mf+ [G^d] [G-d-] +f+ [C,Gd] [C,Gd] +mf+ [Gd] [G2d2] |
++f+ [^D,G-^d-] [Gd-] +ff+ [Gd-] [D,G-d-] +f+ [D,G-^Ad-] [G2-=d2^d2-] [Gc-d] |
+[C,c-] +mf+ [Gc-^d] [G-cd-] +ff+ [C,Gdg-] +f+ [C,Gdg-] +mf+ [Gdg-] [G2d2g2-] |
++f+ [^A,G-d-g] [G-d-] [G-d-f] [A,G-df] [A,G-d-] [G2-^A2d2-] [Gdg-] |
+[^D,g-] +mf+ [G^dg-] [G-d-g-] +f+ [D,Gdg-] [D,Gdg-] +mf+ [Gdg-] [G2d2g2-] |
++f+ [G,G-d-g-] [G2-d2-g2-] [G,G-d-g-] [G,G-d-g-] [G3d3g3] |
+C, z +ff+ ^a- +f+ [C,a] [C,g] f ^d c |
+[C,G] F ^D [C,C-] [C,C-] +mf+ [C-G^d] [C2G2d2] |
+% Bar 20 (0:27)
++f+ [F,c-f-] [c-f-] +ff+ [c-f-c'-] +f+ [F,c-f-c'] [F,c-f-a] [c-fg] [c-f-] [cdf] |
+[^G,c] ^A ^G A- [^A,A] c d2 |
+[C,c-] c2 +ff+ [C,g-] +f+ [C,g-] +mf+ [G^dg-] [G2d2g2] |
++f+ [^G,G-^d-] [G-d-] [G-d-f] [G,G-d-f] [^A,G-=d^d-] [G2-^A2d2-] [Gc-d] |
+[C,c] +mf+ [c^d] [cd] +f+ [C,cd] [C,cd] [cd] [c-d-] [^G-cd] |
+[^G,8^G8] |
+z2 +ff+ ^G, G, B, ^D2 ^C- |
++fff+ [^C,^C-] C- +mf+ [CE-] +fff+ [C,^G,-E-] [C,G,-E] +mf+ [G,-^D] [G,-C] G,- |
++fff+ [^G,/-B,/-^D/] +mf+ [G,/-B,/^C/] [G,D-] +ff+ [G,D-] +fff+ [G,B,D-] [^F,B,D-] +ff+ [B,2D2-] [G,-D] |
++fff+ [^C,^G,-] G,- +mf+ [G,-E-] +fff+ [C,G,-E-] [C,G,-E] +mf+ [G,-^D] [G,-^C] G, |
+% Bar 30 (0:42)
++fff+ [E,/-^G/] +mf+ [E,/^F/] G- +ff+ [^G,G-] +fff+ [E,G,G-] [E,B,G-] +ff+ [^D2G2-] [^C-G] |
++fff+ [^C,^C-] C- +mf+ [CE-] +fff+ [C,E-^G-] [C,EG-] +mf+ [^DG-] [CG-] G- |
++fff+ [B,/-^D/^G/-] +mf+ [B,/^C/G/] D- +ff+ [D-^F] +fff+ [B,DF] [B,D-] +ff+ [B,2D2-] [DG-] |
++fff+ [E,^G-] G- +mf+ [^D/3G/3-] [G/3-^A/3B/3-] [G/3-B/3-] +fff+ [E,G-B-] [E,G-B] +mf+ [GA] G/- [^F/G/-] [E/G/-] [D/G/-] |
++fff+ [^G,/-^C/^G/-] [G,/G/-] +mf+ [=CG-] [G2/3-c2/3] G/3 +fff+ [G,G-] [G,G-] +mf+ [G/-c/] [^F/G/] G/- [G/-A/] [G/-B/] G/ |
++fff+ [^C,^c] z +ff+ B +fff+ [C,A] [C,^G] +ff+ ^F E ^D |
++fff+ [^C,^C] +ff+ ^D B, +fff+ [C,C-] [C,C-] +mf+ [C/-^G/] +mp+ [C/-^F/] +mf+ [C/3-G/3-] [C/3-F/3-G/3] [C/3-F/3] [C/-G/] [C/F/] |
++fff+ [^F,^c] z +ff+ c +fff+ [F,B] [F,A] +ff+ G ^F ^D |
++fff+ [A,^C] +ff+ B, C ^D- +fff+ [B,D] +ff+ C B,2 |
++fff+ [^C,^C-] C- +mf+ [CE] +fff+ [C,^G-] [C,CG-] G- +mf+ [CG-] [^D-G] |
+% Bar 40 (0:57)
++fff+ [A,^D-] D- +ff+ [D-^F] +fff+ [A,DF] [B,D-] +ff+ [B,2D2-] [^C-D] |
++fff+ [^C,^C-] C +mf+ C/- [C/-^D/] +fff+ [C,/-C/-E/] +mf+ [C,/C/-^G/] +fff+ [C,2/3-C2/3-^c2/3] [C,/3C/3-] +mf+ [C2/3-^d2/3] C/3- [C2/3-e2/3] C/3- +fff+ [A,-CAa] |
+A,8 |
+z2 +f+ A A c e2 d- |
+d2- [E,/3d/3-] +ff+ [F,2/3-d2/3] +f+ [F,A] +ff+ [E,/3F,/3-F/3-A/3-d/3-] [F,2/3F2/3-A2/3-d2/3-] [G,F-A-d-] [F,F-A-d-] [F/3-A/3-d/3-] [E,2/3-F2/3A2/3-d2/3] |
++mf+ [E,2-E2-G2-A2c2-] +f+ [E,-E-G-Ac-] [E,-E-GAc-] [E,-E-G-c] [E,2-E2-G2-c2-] [E,EGA-c] |
+A2- [E,/3A/3-] +ff+ [F,2/3-A2/3-] [F,A] [E,/3F,/3-F/3-A/3-d/3-] [F,2/3F2/3-A2/3-d2/3-] [E,F-A-d-] [D,F-A-d-] [A,-FAd] |
++mf+ [A,2-A2c2-f2-] +f+ [A,-Ac-f-] [A,-A-cf-] [A,-A-c-f-] [A,2-A2-c2-e2f2-] [A,Acd-f] |
+d2- [E,/3d/3-] +ff+ [F,2/3-d2/3] +f+ [F,a-] +ff+ [E,/3F,/3-F/3-A/3-d/3-a/3-] [F,2/3F2/3-A2/3-d2/3-a2/3-] [G,F-A-d-a-] [F,F-A-d-a-] [F/3-A/3-d/3-a/3-]
+	[E,2/3-F2/3A2/3d2/3a2/3-] |
++mf+ [E,-E-G-c-a] [E,-E-G-c-] +f+ [E,-E-G-c-g] [E,-E-G-c-g] [E,-E-G-ce] [E,2-E2-G2-c2-] [E,EGca-] |
+% Bar 50 (1:12)
+a2- [^G,/3A/3-a/3-] +ff+ [A,2/3-A2/3-a2/3-] [A,Aa-] +f+ [G,/3A/3-c/3-f/3-a/3-] +ff+ [A,2/3A2/3-c2/3f2/3-a2/3-] [CAc-f-a-] [A,A-c-f-a-] [=G,GAcfa-] |
++mf+ [EA-^c-a-] +ff+ [E,E-A-c-a-] [E-A-c-a-] [^C,5^C5E5A5c5a5] |
+z2 +mf+ [DFA-d] A2 +ff+ [DFGAd] F E |
++mf+ [DFAd] +ff+ E A, +mf+ [D-FAd] D2- [D-FAd] D |
+z2 [DF^Ad-] d2 +ff+ [DFAcd] A ^G |
+[DFG^Ad] F D [DE-FAd] E D [C-Gce] C |
+D2 +mf+ [DFA] +ff+ A2 +mf+ [DFA-] A2 |
+[Gce] z +ff+ G G E C z D- |
+D8 |
+z2 G G E G c d- |
+% Bar 60 (1:26)
+d6- +f+ [C,2-^A,2-C2-^A2-c2-d2] |
+[C,2-^A,2-C2-^A2-c2-] [C,/3-E,/3A,/3-C/3-A/3-c/3-] +ff+ [C,2/3-F,2/3-A,2/3-C2/3-A2/3-c2/3-] [C,-F,A,-C-A-c-] +f+ [C,/3-=A,/3^A,/3C/3-A/3-c/3-] +ff+
+	[C,2/3-A,2/3-C2/3-A2/3-c2/3-] [C,-A,-C-A-c] +mf+ [C,2-A,2-C2-A2-c2-] |
+[C,3/2-^A,3/2-C3/2-^A3/2-c3/2-d3/2] [C,/-A,/-C/-A/-c/-] [C,2-A,2-C2A2-c2-f2] [C,/-A,/-C/-A/-c/-^a/-] [C,/-A,/-C/-A/-c/-a/-] [C,/-A,/-C/-A/-c/-a/]
+	[C,/A,/-C/F/A/-c/] +fff+ [C,/-G,/-A,/-C/-A/-c'/-] [C,/-G,/-A,/-C/-A/c'/-] +mf+ [C,/-G,/-A,/-C/-A/-c'/] [C,/G,/A,/C/A/c/] |
++ffff+ [D,-A,-D-d-] [D,A,Dd] z6 |
+z8 |
+z8 |
+z2 +mf+ D, D, F, B,2 +ffff+ A,- |
+A,8- |
+A,8- |
+[G,2-A,2-] +mf+ [G,-A,-G] [G,A,G] +ffff+ [G,-^A] +mf+ [G,2-d2] [G,-c-] |
+% Bar 70 (1:41)
+[G,2c2] c +ffff+ [A,c] [A,^d] [A,g-] [A,g] +mf+ c'- |
++ffff+ [A,2c'2-] c'- [A,c'-] [A,c'-] [A,c'-] [A,c'-] c' |
+z/ +mf+ F/ G/ ^G/ [^A,^Adf] z3 +ffff+ [C,Cceg] z |
+z2 [D,/-D/E/d/^f/-a/-] +mf+ [D,/-D/-d/-f/-a/-] [D,/-D/-d/-e/f/a/-] [D,/-D/-^F/d/-f/-a/-] [D,/-D/-d/-f/-g/a/] [D,/-D/-A/d/-f/-a/-] [D,/-D/-d/-f/-a/-^a/]
+	[D,/-D/-^c/d/f/-=a/-] [D,2D2d2f2a2] |
+D, D, D,2 z4 |]
+
+
+X: 3
+T: Hawaii 50 '68 M Stevens Basic Bassoon 3/6 1:48 2024-08-13
+%%part-name Basic Bassoon
+%%made-for Basic Bassoon
+C: M Stevens
+Z: 2024-08-13
+M: 4/4
+Q: 163
+K: C maj
+L: 1/8
+
++ff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 G +f+ G ^A d2 c- |
+% Bar 10 (0:13)
+[C,c-] c2 [C,G-] [C,G-] G3- |
+[^A,G-] G +ff+ G [A,G] +f+ [A,F] +ff+ ^A2 +f+ G- |
+[C,G-] G2- [C,G-] [C,G-] G3 |
+^D, z +ff+ G [D,G] +f+ [D,^A] d2 c- |
+[C,c-] c2 +ff+ [C,g-] +f+ [C,g-] g3- |
+[^A,g] z f [A,f] [A,d] ^A2 g- |
+[^D,g-] g2- [D,g-] [D,g-] g3- |
+[G,g-] g2- [G,g-] [G,g-] g3 |
+C, z +ff+ ^a- +f+ [C,a] [C,g] f ^d c |
+[C,G] F ^D [C,C-] [C,C-] C3 |
+% Bar 20 (0:27)
+F, z +ff+ c'- +f+ [F,c'] [F,a] g f d |
+[^G,c] ^A ^G A- [^A,A] c d2 |
+[C,c-] c2 +ff+ [C,g-] +f+ [C,g-] g3 |
+^G, z f [G,f] [^A,d] ^A2 c- |
+[C,c-] c2- [C,c-] [C,c] c c ^G- |
+[^G,8^G8] |
+z2 +fff+ ^G G B ^d2 ^c- |
+[^C,^c-] c2 [C,^G-] [C,G-] G3- |
+[B,^G-] G G [B,G] [B,^F] B2 G- |
+[^C,^G-] G2- [C,G-] [C,G-] G3 |
+% Bar 30 (0:42)
+E, z ^G [E,G] [E,B] ^d2 ^c- |
+[^C,^c-] c2 [C,^g-] [C,g-] g3- |
+[B,^g] z ^f [B,f] [B,^d] B2 g- |
+[E,^g-] g2- [E,g-] [E,g-] g3- |
+[^G,^g-] g2- [G,g-] [G,g-] g3 |
+^C, z b [C,a] [C,^g] ^f e ^d |
+[^C,^c] ^d B [C,c-] [C,c-] c3 |
+^F, z ^c [F,b] [F,a] g ^f ^d |
+[A,^c] B c ^d- [B,d] c B2 |
+[^C,^c-] c2 [C,^g-] [C,g-] g3 |
+% Bar 40 (0:57)
+A, z ^f [A,f] [B,^d] B2 ^c- |
+[^C,^c-] c2- [C,c-] [C,c-] c2- [A,-c] |
+A,8 |
+z2 +f+ A A c e2 d- |
+d2- +ff+ [E/3d/3-] +fff+ [F2/3-d2/3] +f+ [FA] +fff+ [E/3F/3-A/3-d/3-] [F2/3-A2/3-d2/3-] [FGA-d-] [F-A-d-] [F/3-A/3-d/3-] [E2/3F2/3A2/3-d2/3] |
++mf+ [E2-G2-A2c2-] +f+ [E-G-Ac-] [E-GAc-] [E-G-c] [E2-G2-c2-] [EGA-c] |
+A2- +ff+ [E/3A/3-] +fff+ [F2/3-A2/3-] [FA] [E/3F/3-A/3-d/3-] [F2/3-A2/3-d2/3-] [EF-A-d-] [DF-Ad-] [FAd] |
++mf+ [A2c2-f2-] +f+ [Ac-f-] [A-cf-] [A-c-f-] [A2-c2-e2f2-] [Acd-f] |
+d2- +ff+ [E/3d/3-] +fff+ [F2/3-d2/3] +f+ [Fa-] +fff+ [E/3F/3-A/3-d/3-a/3-] [F2/3-A2/3-d2/3-a2/3-] [FGA-d-a-] [F-A-d-a-] [F/3-A/3-d/3-a/3-]
+	[E2/3F2/3A2/3d2/3a2/3-] |
++mf+ [E-G-c-a] [E-G-c-] +f+ [E-G-c-g] [E-G-c-g] [E-G-ce] [E2-G2-c2-] [EGca-] |
+% Bar 50 (1:12)
+a2- +ff+ [^G/3a/3-] +fff+ [A2/3-a2/3-] [Aa-] [G/3A/3c/3-f/3-a/3-] [A2/3-c2/3f2/3-a2/3-] [Ac-f-a-] [A-c-f-a-] [=GAcfa-] |
++mf+ [EA-^c-a-] +fff+ [E2-A2-c2-a2-] [^C5E5A5c5a5] |
+z2 [DFAda-] a2 [DFAdg] f e |
++mf+ [DFAd] +fff+ e A +mf+ [DFAd-] d2 [FAd-] d |
+z2 [DF^Ad-] d2 +fff+ [DFAdc'] ^a ^g |
+[DF^Adg] f d [DFAde-] e d +mf+ [Gc-e] c |
++fff+ d2- +mf+ [DFAd] +fff+ a2- +mf+ [DFAa-] a2 |
+[Gce] z +fff+ g g e c z d- |
+d8 |
+z2 g g e g c' d- |
+% Bar 60 (1:26)
+d6- +f+ [C,2-^A,2-C2-^A2-c2-d2] |
+[C,2-^A,2-C2-^A2-c2-] +ff+ [C,/3-A,/3-C/3-E/3A/3-c/3-] +fff+ [C,2/3-A,2/3-C2/3-F2/3-A2/3-c2/3-] [C,-A,-C-FA-c-] +ff+ [C,/3-A,/3-C/3-=A/3^A/3c/3-] +fff+
+	[C,2/3-A,2/3-C2/3-A2/3-c2/3-] [C,-A,-C-A-c] +mf+ [C,2-A,2-C2-A2-c2-] |
+[C,3/2-^A,3/2-C3/2-^A3/2-c3/2-d3/2] [C,/-A,/-C/-A/-c/-] [C,2-A,2-C2-A2-c2-f2] [C,-A,-C-A-c-^a-] [C,2/3-A,2/3-C2/3-A2/3-c2/3-a2/3] [C,/3-A,/3-C/3A/3-c/3] +fff+
+	[C,-G,-A,-C-G-A-] [C,G,A,CGA] |
++ffff+ [A,-D-A-d-] [A,DAd] z6 |
+z8 |
+z8 |
+z2 +mf+ D, D, F, B,2 +ffff+ A,- |
+A,8- |
+A,8- |
+[G,2-A,2-] +mf+ [G,-A,-G] [G,A,G] +ffff+ [G,-^A] +mf+ [G,2-d2] [G,-c-] |
+% Bar 70 (1:41)
+[G,2c2] c +ffff+ [A,c] [A,^d] [A,g-] [A,g] +mf+ c'- |
++ffff+ [A,2c'2-] c'- [A,c'-] [A,c'-] [A,c'-] [A,c'-] c' |
+z2 +mf+ [^A,^Adf] z3 +ffff+ [C,Cceg] z |
+z2 [D,6D6d6^f6a6] |
++mf+ D, D, D,2 z4 |]
+
+
+X: 4
+T: Hawaii 50 '68 M Stevens Basic Clarinet 4/6 1:48 2024-08-13
+%%part-name Clarinet
+%%made-for Basic Clarinet
+C: M Stevens
+Z: 2024-08-13
+M: 4/4
+Q: 163
+K: C maj
+L: 1/8
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:13)
+z [^dg] [dg] [dg] [dg] [d2g2] [=d-g-] |
+[d8g8] |
+z [^dg] [d2g2] [dg] [dg] [d2g2] |
+[^d8g8] |
+z [^dg] [d2g2] [dg] [dg] [d2g2] |
+[d8g8] |
+z [^dg] [d2g2] [dg] [dg] [d2g2] |
+[d8g8] |
+z8 |
+z5 [^dg] [d2g2] |
+% Bar 20 (0:27)
+[f8c'8] |
+z8 |
+z5 [^dg] [d2g2] |
+[^d8g8] |
+z [^dc'] [dc'] [dc'] [dc'] [dc'] [d2c'2] |
+z8 |
+z8 |
+z2 e3 ^d ^c z |
+^d/ ^c/ d7 |
+z2 e3 ^d ^c z |
+% Bar 30 (0:42)
+^g/ ^f/ g7 |
+z2 e3 ^d ^c z |
+^d/ ^c/ d7 |
+z2 ^d/3 [^a/3b/3-] b/3- b2 a ^g/ ^f/ e/ d/ |
+^c/ z/ =c c'2/3 z/3 ^g2 c'/ ^f/ g/ a/ b/ z/ |
+^c z7 |
+z5 ^g/ +mp+ ^f/ +mf+ g/3- [f/3-g/3] f/3 g/ f/ |
+^c z7 |
+z8 |
+z2 e z ^c z c ^d- |
+% Bar 40 (0:57)
+^d8 |
+z2 ^c/ ^d/ e/ ^g/ c2/3 z/3 d2/3 z/3 e2/3 z/3 +f+ a |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:12)
+z2 +mf+ a2 a c' a g |
+z e z ^c5 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:26)
+z8 |
+z8 |
+z4 c/ d/ e/ f/ g/ a/ ^a/ c'/ |
++f+ d2 z6 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:41)
+z8 |
+z8 |
+z/ +mf+ f/ g/ ^g/ ^a z5 |
+z2 e/ d/ e/ ^f/ g/ a/ ^a/ ^c/ d2 |
+z8 |]
+
+
+X: 5
+T: Hawaii 50 '68 M Stevens Basic Theorbo 5/6 1:48 2024-08-13
+%%part-name Theorbo
+%%made-for Basic Theorbo
+C: M Stevens
+Z: 2024-08-13
+M: 4/4
+Q: 163
+K: C maj
+L: 1/8
+
++ffff+ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+C2 z6 |
+z3 E z E z E |
+C2 z6 |
+z3 E z E z E |
+C2 z6 |
+z3 E z E z E |
+C2 z6 |
+z8 |
+% Bar 10 (0:13)
+C3 C C4 |
+^A,3 A, A,4 |
+C3 C C4 |
+^D3 D D4 |
+C3 C C4 |
+^A,3 A, A,4 |
+^D3 D D4 |
+G3 G G4 |
+C3 C C4 |
+C3 C C4 |
+% Bar 20 (0:27)
+F3 F F4 |
+^G,4 ^A,4 |
+C3 C C4 |
+^G,3 G, ^A,4 |
+C3 C C4 |
+^G,8 |
+z8 |
+^C3 C C4 |
+B,3 B, B,4 |
+^C3 C C4 |
+% Bar 30 (0:42)
+E3 E E4 |
+^C3 C C4 |
+B,3 B, B,4 |
+E3 E E4 |
+^G3 G G4 |
+^C3 C C4 |
+^C3 C C4 |
+^F3 F F4 |
+A,4 B,4 |
+^C3 C C4 |
+% Bar 40 (0:57)
+A,3 A, B,4 |
+^C3 C C4 |
+A,8 |
+z8 |
+D2 A, D D2 A,2 |
+C2 A, C C C G,2 |
+D2 A, D D2 A,2 |
+F2 C F F F C2 |
+D2 A, D D2 A,2 |
+C2 A, C C C G,2 |
+% Bar 50 (1:12)
+F2 C F F2 C2 |
+A,2 E, A, A, A, E2 |
+D2 A, D D2 A,2 |
+D2 A, D D D A,2 |
+^A,2 F, A, A,2 F,2 |
+^A,2 F, A, C2 G,2 |
+D2 A, D D2 A,2 |
+C2 z6 |
+D2 A, D D D G,2 |
+C2 G, C C C A,2 |
+% Bar 60 (1:26)
+D2 A, D ^A,4- |
+^A,8 |
+z6 C2 |
+D2 z D D D D2 |
+D2 z D D D D2 |
+D2 z D D D D2 |
+D2 z D D D D2 |
+A,2 z A, A, A, A, z |
+A,2 z A, A, A, A, z |
+A,2 z A, A, A, A, z |
+% Bar 70 (1:41)
+A,2 z A, A, A, A, z |
+A,2 z A, A, A, A, z |
+^A,2 C2 C2 D2 |
+D A, D A, D A, D2 |
+D/ D/ D D2 z4 |]
+
+
+X: 6
+T: Hawaii 50 '68 M Stevens Basic Drum 6/6 1:48 2024-08-13
+%%part-name Drum
+%%made-for Basic Drum
+C: M Stevens
+Z: 2024-08-13
+M: 4/4
+Q: 163
+K: C maj
+L: 1/8
+
++mf+ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ +f+ E/ +mf+ E/ +f+ E/ E/ E/ E/ |
+[^CA] C [^A,Ec] C [A,Cc] C [A,Ec] C |
+[^A,^CF-c] [CF] [A,Ec] C [A,Cc] C [A,Ec] C |
+[^A,/-^C/-F/c/-] [A,/C/c/] C [A,Ec] C [A,Cc] C [A,Ec] C |
+[^A,^CF-c] [CF-] [A,EF-c] [CF-] [A,CF-c] [CF-] [A,EF-c] [CF] |
+[^A,^CF-c] [CF-] [A,EF-c] [CF-] [A,CF-c] [CF-] [A,EF-c] [CF] |
+[^A,/-^C/-F/c/-] [A,/C/c/] C [A,Ec] C [A,Cc] C [A,Ec] C |
+[^A,^CF-c] [CF-] [A,EF-c] F/- [C/F/-] [C/F/-] F/- [F/-^F/] =F/- +mf+ [E/F/-] [E/F/-] +f+ [C/F/-] F/ |
+^C/ z13/2 [EA] |
+% Bar 10 (0:13)
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] z [Cc] z [A,Ec] z |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] z/ +mf+ E/ +f+ [A,/-E/] [A,/E/] E/ E/ |
+[^CA] z [^A,Ec] C [Cc] z [A,Ec] z |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+% Bar 20 (0:27)
+[^Cc] z [^A,Ec] C [Cc] z [A,Ec] C |
+[^A,/-E/] [A,/E/] a/ a/ [^C/-E/A/-] [C/A/] C [Cc] z [A,Ec] z |
+[^CA] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] z |
+[^Cc] z [^A,Ec] C [A,Cc] E [A,/-E/] +mf+ [A,/E/] +f+ E/ A,/ |
+E z +ff+ ^C z C z C z |
+[^CA] +f+ ^F/ F/ B,/ z/ B,/ z/ a/ a/ a/ z/ F/ F/ F/ z/ |
+[^CA] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] z [Cc] z [A,Ec] z |
+% Bar 30 (0:42)
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^F/c/-] [F/c/] F [^A,^Cc] F/ F/ [Fc] C [A,c] F/ F/ |
+[^CEA] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+% Bar 40 (0:57)
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] z [A,^Fc] [A,E] |
+z2 ^C z3 C z |
+[EA] z4 B,/ B,/ B, a |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
+% Bar 50 (1:12)
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C |
++ff+ [^Cc] z +f+ [^A,/-^F/] [A,/F/] +mf+ E/ +f+ E/ +mf+ C/ C/ C/ +f+ C/ [A,/-a/] [A,/a/] a/ a/ |
+[^CA] z [^A,Ec] z [Cc] z [A,Ec] C |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] C2/3- +mf+ [C/3E/3] |
++f+ [E/c/-] c/ z [^A,Ec] z [^Cc] C [A,Ec] z |
+[^Cc] z [^A,Ec] z [Cc] C [A,Ec] z |
+[^Cc] z [^A,Ec] z [C^F] E [A,/-F/] [A,/F/] F/ z/ |
+[^CEc] z5 [CA-] A |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] z |
+[^Cc] z [^A,Ec] C [Cc] C [A,Ec] z |
+% Bar 60 (1:26)
+[^Cc] z [^A,Ec] z [Cc] z [A,E] z |
+[^A,Ec] ^C/ +ff+ C/ +f+ [A,Ec] C/ C/ [A,Ec] C/ C/ [A,Ec] C/ C/ |
+[^A,Ec] ^C/ C/ [A,Ec] C/ C/ [A,Ec] C [A,/-E/] +mf+ [A,/E/] +f+ E |
+[^CA] z [^A,Ec] z c C [A,Ec] z |
+[^A,^C] [A,/-^F/] [A,/F/] [A,/F/] z/ [A,/-C/-F/] [A,/C/] [A,/-^d/] [A,/d/] [A,/-d/] A,/ [A,/-B,/] A,/ [A,/C/-] C/ |
+[^CA] z [^A,Ec] C [Cc] C [A,EA] z |
+[^C^d-] d/ d/ [C^Fc] z [CEc] z [CEc] z |
+[^Cc] z [^A,Ec] z [Cc] C [A,Ec] C |
+[^Cc] z [^A,Ec] z [Cc] z [A,Ec] C |
+[^Cc] z [^A,Ec] z [Cc] z [A,Ec] z |
+% Bar 70 (1:41)
+[^Cc] C [^A,Ec] z [Cc] C [A,Ec] C |
+[^Cc] C/ z/ [^A,Ec] C [c/-a/] +mf+ [c/a/] a/ +f+ C/ [A,C] z |
+c z ^A, z +ff+ [^CA] z +f+ c z |
+^A, z A, z A, z A, z |
+[^C/E/] [C/E/] [CE] [C2E2] z4 |]
+
