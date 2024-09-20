@@ -1,0 +1,81 @@
+%abc-2.1
+%%song-title       Piano
+%%song-duration    2:00
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X:1
+T: Piano (2:00) - Lute of Ages 1/1
+%%part-name Lute of Ages
+M: 4/4
+Q: 120
+K: C maj
+
++mf+ B,4- B,2- B,3/2 z/ |
+B,4- B,2- B,3/2 z/ |
+[C,2-c2-^d2g2-c'2] [C,-c-d-g-c'] [C,-c-=d^dfg] [C,2-c2-d2-g2-] [C,-c-dfg^g] [C,-c-d=g] |
+[C,4-c4-^d4-g4-] [C,2-c2-=d2^d2-f2g2] [C,2-c2-d2g2-c'2] |
+[C,2-c2-^d2g2-c'2] [C,-c-d-g-c'] [C,-c-=d^dfg] [C,2-c2-d2-g2-] [C,-c-dfg^g] [C,cd=g] |
+[^d4g4] [d-g-] [d-fg-^g] [=d^df=g] [dg] |
+[F,2-c2-f2-^g2] [F,-c-f-g-c'] [F,-c-f-=g^g^a] [F,2-c2-f2-g2-c'2] [F,-c-^cf-ga] [F,-=c-f-gc'] |
+[F,2-c2-f2-^g2-c'2-] [F,-c-f-g-c'-] [F,3/4-c3/4-f3/4-g3/4-c'3/4] [F,//-c//-f//-g//] [F,-c-f-g-c'] [F,-c-^cf-g^a] [F,-=c-f-g-c'] [F,cf=g^ga] |
+[C,2-c2-^d2g2-] [C,-c-d-g-c'] [C,-c-=d^dg-^a] [C,4-c4-d4-g4-c'4-] |
+% Bar 10 (0:18)
+[C,2-c2-^d2-g2-c'2-] [C,3/2-c3/2-d3/2-g3/2-c'3/2] [C,/-c/-d/g/-] [C,4c4d4g4] |
+[^G,2-^d2-^g2b2] [G,-d-g-b-] [G,-d-=g^g^ab] [G,4-d4-g4-b4-] |
+[^G,4-^d4-^g4b4] [G,-d-g-b-] [G,-d-=g^g^ab] [G,-d-g-b-] [G,^cdgab] |
+[B,2-d2^f2-b2] [B,-d-f-b-] [B,-^cdf-^ab] [B,4-d4-f4-b4-] |
+[B,4-d4^f4-b4] [B,-d-f-b-] [B,-^cdef-b] [B,-d-fb-] [B,df^ab] |
+[^G,2-^d2-^g2b2] [G,-d-g-b-] [G,-d-=g^g^ab] [G,4-d4-g4-b4-] |
+[^G,4-^d4-^g4b4] [G,-d-g-b-] [G,-d-=g^g^ab] [G,-d-g-b-] [G,^cdgab] |
+[B,2-d2^f2-b2] [B,-d-f-b-] [B,-^cdf-^ab] [B,4-d4-f4-b4-] |
+[B,8d8^f8b8] |
+[C,4-c4-^d4-g4-c'4-] [C,2-c2-d2-g2-c'2-] [C,3/2-c3/2-d3/2-g3/2-c'3/2] [C,/-c/-d/-g/-] |
+% Bar 20 (0:38)
+[C,8-c8-^d8-g8-] |
+[C,8G,8-c8^d8g8] |
+G,4- G,2- G,- G,// z3/4 |
+G,8- |
+G,4- G,2- G,- G,// z3/4 |
+[C,8c8^d8g8] |
+[B,4-B4-d4-^f4-b4-] [B,2-B2-d2-f2-b2-] [B,3/2-B3/2d3/2-f3/2-b3/2-] [B,/d/f/b/] |
+[C,8c8^d8g8] |
+[D,8d8^f8a8] |
+[G,8d8g8^a8] |
+% Bar 30 (0:58)
+[D,8d8f8a8] |
+[G,8d8g8^a8] |
+[D,8d8f8a8] |
+[^C,-^c-e-^g-] [C,-c-e-=g^g-] [C,-c-^deg-] [C,-c-e-g-] [C,-c-e-=g^g-] [C,-c-e-^fg-] [C,-c-=de-g-] [C,-c-^de-g-] |
+[^C,-^c-e-^f^g-] [C,-ce-=fg-] [C,-c-e-g-] [C,-c-de-g-] [C,-c-efg-] [C,-c-e-g-] [C,-ce-g-c'] [C,-c-eg-] |
+[^C,-^c-e-^g-] [C,-c-^de-g-] [C,-c-e-g-b] [C,-c-e-g-c'] [C,-c-de-g-] [C,-c-=de-g-] [C,-c-e-g-^a] [C,c-e-gb] |
+[^cde-] [c-e-] [c-e-a] [ce-^a] [c-e-] [c-e-c'] [c-e-^g-] [c-e-g-=a] |
+[^c-e-^g-c'] [c7-e7g7-] |
+[G,4-^c4-^g4-] [G,2-c2-g2-] [G,3/2c3/2-g3/2-] [c/g/] |
+[C,2-c2-^d2g2] [C,2-c2-d2-g2-] [C,2-c2-=d2^d2f2g2] [C,2c2d2g2] |
+% Bar 40 (1:18)
+[^A,2-d2-g2^a2-] [A,2-d2^d2g2-a2-] [A,2-=d2-f2g2a2-] [A,2d2^d2g2a2] |
+[^G,3-c3-f3-^g3-] [G,-c-^df=g^g-] [G,2-c2=d2f2-g2-] [G,2c2^d2f2g2] |
+[G,2-d2g2b2-] [G,2-d2g2-b2-] [G,2-d2f2g2-b2-] [G,-B-d-g-b-] [G,3/4-B3/4-d3/4-g3/4-b3/4-] [G,//B//d//g//b//] |
+[C,2-c2-^d2g2] [C,2-c2-d2-g2-] [C,2-c2-=d2^d2f2g2] [C,2c2d2g2] |
+[^A,2-d2-g2^a2-] [A,2-d2^d2g2-a2-] [A,2-=d2-f2g2a2-] [A,2d2^d2g2a2] |
+[^G,3-c3-f3-^g3-] [G,-c-^df=g^g-] [G,2-c2=d2f2-g2-] [G,2c2^d2f2g2] |
+[G,2-d2-g2b2-] [G,2d2g2b2] [^G,2-c2-^d2^g2-] [G,2c2d2g2] |
+[^C,2-^c2-e2^g2] [C,2-c2-e2-g2-] [C,2-c2-^d2e2^f2g2] [C,2c2e2g2] |
+[B,2-^d2-^g2b2-] [B,2-d2e2g2-b2-] [B,2-d2-^f2g2b2-] [B,2d2e2g2b2] |
+[A,3-^c3-^f3-a3-] [A,-c-ef^ga-] [A,2-c2^d2f2-a2-] [A,2c2e2f2a2] |
+% Bar 50 (1:38)
+[^G,2-c2-^d2^g2] [G,2-c2-d2g2-] [G,2-c2d2^f2g2-] [G,2c2d2g2] |
+[^C,2-^c2-e2^g2] [C,2-c2-e2-g2-] [C,2-c2-^d2e2^f2g2] [C,2c2e2g2] |
+[B,2-^d2-^g2b2-] [B,2-d2e2g2-b2-] [B,2-d2-^f2g2b2-] [B,2d2e2g2b2] |
+[A,3-^c3-^f3-a3-] [A,-c-ef^ga-] [A,2-c2^d2f2-a2-] [A,2c2e2f2a2] |
+[^G,2-c2-^d2^g2] [G,2-c2-d2g2-] [G,2-c2d2^f2g2-] [G,2-c2d2-g2-] |
+[^G,8-^D8-^G8-c8-^d8-^g8-] |
+[^G,4-^D4-^G4-c4-^d4-^g4-] [G,2-D2-G2-c2-d2-g2-] [G,-D-G-c-d-g-] [G,//-D//G//c//-d//-g//-] [G,3/4c3/4d3/4g3/4] |
+[^C,-^C-E-^G-^c-e-] [C,-C-E-G-c-e-] [C,-C-E-G-c-e-] [C,-C-E-G-c-e] [C,-C-E-G-c-e-] [C,-C-E-G-c-e] [C,-C-E-G-c-^d] [C,-C-E-G-c-e-] |
+[^C,-^C-E-^G-^c-e-] [C,-C-E-G-c-e-] [C,-C-E-G-c-e-] [C,-C-E-G-c-e] [C,-C-E-G-c-e-] [C,-C-E-G-c-e] [C,-C-E-G-c-^d] [C,-C-E-G-c-e-] |
+[^C,-^C-E-^G-^c-e-] [C,-C-E-G-c-e-] [C,-C-E-G-c-e-] [C,-C-E-G-c-e] [C,-C-E-G-c-e-] [C,-C-E-G-c-e] [C,-C-E-G-c-^d] [C,CEGce-] |
+% Bar 60 (1:58)
+[e-a] [e-^g-] [e-^fg] [eg-] [e-g-] [e-fg-] [^deg-] [eg] |
+z8 |]
+
