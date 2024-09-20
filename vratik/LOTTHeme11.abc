@@ -1,0 +1,524 @@
+%abc-2.1
+%%song-title       Lure of the Temptress-11
+%%song-duration    1:33
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Lure of the Temptress-11 (1:33) - Lute of Ages
+%%part-name Lute of Ages
+M: 4/4
+Q: 149
+K: C maj
+
+%%Q: 138
++p+ z149/92 z1937/276 |
+z149/138 ^f149/138 g149/138 e149/138 f149/69 g149/138 e149/138 |
+^f149/46 e149/276 f149/276 g298/69 |
++mp+ a298/69 +p+ g298/69 |
+^f596/69- |
+^f149/276 z149/276 +mp+ f149/138 g149/138 e149/138 f149/69 g149/138 e149/138 |
+^f149/46 e149/276 f149/276 g298/69 |
+a298/69 g298/69 |
+b596/69- |
+% Bar 10 (0:15)
+b149/138 [d149/138b149/138] [e149/138c'149/138] [a149/138c'149/138] [d149/69b149/69] [e149/138c'149/138-] [a149/138c'149/138] |
+[d298/69b298/69] [^g298/69c'298/69] |
+[d149/69-f149/69-^a149/69-] [d149/92-f149/92a149/92-] [d149/276a149/276] +p+ [^d298/69^g298/69c'298/69] |
++pp+ [d298/69g298/69b298/69] [^d298/69^g298/69c'298/69] |
+[d298/69f298/69^a298/69] [^d298/69^g298/69c'298/69] |
+[e596/69-g596/69-c'596/69-] |
+[e149/69g149/69c'149/69] [^c149/69f149/69^g149/69] [e149/69=g149/69c'149/69] +p+ [c149/69f149/69^g149/69] |
++pp+ [e596/69-g596/69-c'596/69-] |
+[e149/69g149/69c'149/69] [^c149/69f149/69^g149/69] +ppp+ [e149/69=g149/69c'149/69] +pp+ [c149/69f149/69^g149/69] |
++ppp+ [e596/69-g596/69-c'596/69-] |
+% Bar 20 (0:33)
+[e596/69g596/69c'596/69] |
+z149/92
+	%%Q: 149
+	z13/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:49)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:05)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:21)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 5
+T: Lure of the Temptress-11 (1:33) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 4/4
+Q: 149
+K: C maj
+
+%%Q: 138
++mp+ D,149/92- D,1937/276- |
+D,596/69 |
++f+ D,298/69 +mf+ C,298/69 |
++mp+ ^A,298/69 +mf+ C,298/69 |
++mp+ D,596/69- |
+D,596/69 |
++mf+ D,298/69 C,298/69 |
+^A,298/69 C,298/69- |
+[C,149/276G,149/276-] G,745/92- |
+% Bar 10 (0:15)
+G,596/69- |
+G,298/69 F,298/69 |
++mp+ ^D,298/69 +p+ F,298/69 |
++mp+ G,298/69 F,298/69 |
++mf+ ^D,298/69 F,298/69 |
+C,596/69- |
+C,596/69- |
+C,596/69 |
+C,596/69- |
+C,149/46 z745/138 |
+% Bar 20 (0:33)
+z596/69 |
+z149/92
+	%%Q: 149
+	z/ +mp+ C z ^C ^A, z =C/ z/ |
+z ^C z ^A, =C/ z3/2 ^C/ z/ A, |
+z C/ z3/2 ^C/ z3/2 ^A,/ z/ =C/ z3/2 |
+^C/ z/ ^A, z ^D/ z3/2 C z =C/ z/ |
+^A, C/ z/ C2- C3/2 z/ C/ z3/2 |
+^C/ z/ ^A, z =C/ z3/2 ^C/ z3/2 A, |
+C z ^C/ z/ ^A, z =C/ z3/2 ^C/ z/ |
+z ^A,/ z/ C/ z3/2 ^C/ z/ A, z ^D/ z/ |
+z ^C z +mf+ =C/ z/ +mp+ ^A, +mf+ C/ z/ C2- |
+% Bar 30 (0:49)
+C3/2 z/ +p+ ^A, A, z A, A, A, |
+z ^A, A, A, z A, A,/ z/ A, |
+z ^A, A,/ z/ A, z A, A,/ z/ A,/ z/ |
+z ^A, A,/ z/ A, z A,/ z/ A,/ z/ A, |
+z ^A, A, A, z A, A,/ z/ A, |
+z ^A, A,/ z/ A, z A,/ z/ A, A, |
+z ^A,/ z/ A, A, z A, A, A, |
+z ^A, A, A, z A, A,/ z/ A,/ z/ |
+z ^A, A,/ z/ A,/ z3/2 A, A,/ z/ A, |
+z ^A, +mp+ [^F,/-^F/^A/^c/^f/-] [F,/-f/] F, [G/B/d/g/] z/ [E/^G/B/e/-] e/ z [F/A/c/f/-] f/ |
+% Bar 40 (1:05)
+z [^F,/-G/B/d/g/-] [F,/g/] +p+ F, +mp+ [F,/-E/^G/B/e/-] [F,/e/] [F,/-^F/^A/^c/^f/-] [F,/-f/] F,/ z/ [=G/B/d/g/-] g/ [E/^G/B/e/-] e/ |
+z +mf+ [^F/^A/^c/^f/-] f/ z +mp+ [^F,/-G/B/d/g/-] [F,/g/] +p+ F, +mp+ [F,/-E/^G/B/e/-] [F,/e/] [F,/-F/A/c/f/-] [F,/f/] z |
+[G/B/d/g/-] g/ +mf+ [E/^G/B/e/-] e/ z +mp+ [A/^c/e/^f/-] f/ z +mf+ [^F,/-=G/B/d/g/-] [F,/g/] +pp+ F, +mp+ [F,/-^F/^A/-c/e/] [F,/A/] |
++mf+ [^F,/-E/^G/B/e/-] [F,/e/] +mp+ [F,/-^F/^A/^c/^f/] F,/ +mf+ [F,F-A-c-f-] +pp+ [F,F-A-c-f-] [F,F-A-c-f] [F/A/c/] z/ +mp+ [F,/-F/A/c/f/] F,/ z |
+[G/B/d/g/] z/ +mf+ [E/^G/B/e/-] e/ z +mp+ [^F/^A/^c/^f/-] f/ z [^F,/-=G/B/d/g/-] [F,/g/] +pp+ F,/ z/ +mf+ [F,/-E/^G/B/e/] F,/ |
++mp+ [^F,/-^F/^A/^c/^f/-] [F,/f/] z [G/B/d/g/-] g/ +mf+ [E/^G/B/e/-] e/ z +mp+ [F/A/c/f/-] f/ z [F,/-=G/B/d/g/-] [F,/g/] |
++pp+ ^F, +mp+ [F,/-E/^G/B/e/] F,/ [F,/-^F/^A/^c/^f/-] [F,/-f/] F,/ z/ [=G/B/d/g/-] g/ [E/^G/B/e/-] e/ z [=A/c/e/f/-] f/ |
+z [^F,/-G/B/d/g/-] [F,/g/] +p+ F, +mp+ [F,/-^F/^A/^c/e/] F,/ +mf+ [F,/-E/^G/B/e/-] [F,/e/] +mp+ [F,/-F/A/c/^f/] F,/ +mf+ [F,F-A-c-f-] +p+ [F,F-A-c-f-] |
+[^F,/-^F/-^A/-^c/-^f/] [F,/F/-A/-c/-] [F,/-F/A/c/] F,/ +mp+ [E,-=Ac-ea] [E,/c/] z/ [^A/-d/-=f/^a/-] [A/d/a/] [GBdg] z [=Ace=a] |
+z +mf+ [E,^Adf^a] +p+ E, +mp+ [E,/-G/-B/-d/g/] [E,/G/B/] [E,=A^ce=a] z [^A/d/-f/^a/-] [d/a/] [GBdg] |
+% Bar 50 (1:21)
+z +mf+ [A^cea] z [E,^Adf^a] +p+ E, +mp+ [E,/-G/-B/-d/g/] [E,/G/B/] [E,=Ace=a] z |
+[^A/-d/-f/^a/] [A/d/] +mf+ [GBdg] z [ceg=a] z +mp+ [E,Adf^a] +p+ E,/ z/ +mp+ [E,/-=A/^c/e/g/] E,/ |
+[E,/-G/B/-d/g/-] [E,/B/g/] +mf+ [E,/-A/^c/e/a/] E,/ [E,A-c-e-a-] +p+ [E,A-c-e-a-] [E,/A/-c/-e/-a/] [A/-c/-e/-] [E,/-A/c/e/] E,/ +mf+ [E,Acea] z |
+[^A/-d/f/^a/] A/ +mp+ [G/-B/-d/-g/] [G/B/d/] z [=A/-^c/e/-=a/] [A/e/] z +mf+ [E,/-^A/-d/-f/-^a/] [E,/A/d/f/] +p+ E, +mp+ [E,/-G/B/-d/g/] [E,/B/] |
+[E,/-A/-^c/-e/-a/] [E,/A/c/e/] z [^A/-d/-f/^a/] [A/d/] [G/-B/-d/-g/] [G/B/d/] z [=A/-c/e/-=a/] [A/e/] z +mf+ [E,/-^A/-d/-f/-^a/] [E,/A/d/f/] |
++p+ E, +mp+ [E,/-G/-B/-d/g/] [E,/G/B/] [E,A^cea] z [^A/d/-f/^a/-] [d/a/] +mf+ [GBdg] z [=c/e/-g/-=a/] [e/g/] |
+z +mp+ [E,^Adf^a] +p+ E,/ z/ +mp+ [E,/-=A/-^c/e/g/] [E,/A/] [E,/-G/-B/-d/g/-] [E,/G/B/g/] [E,/-A/c/e/=a/] E,/ +mf+ [E,/A/-c/-e/-a/-] [A/-c/-e/-a/-] +p+
+	[E,A-c-e-a-] |
+[E,/A/-^c/-e/-a/-] [A/-c/-e/-a/-] [E,/-A/-c/-e/-a/] [E,/A/c/e/] z2 z4 |]
+
+
+X: 6
+T: Lure of the Temptress-11 (1:33) - Basic Horn
+%%part-name Basic Horn
+M: 4/4
+Q: 149
+K: C maj
+
+%%Q: 138
++mp+ z149/92 z1937/276 |
+z596/69 |
+d298/69 ^d298/69 |
++mf+ f298/69 +mp+ ^d298/69- |
+[d149/276-^d149/276] =d745/92- |
+d298/69- d149/69- d149/92 z149/276 |
+d298/69 +mf+ ^d298/69- |
+[^d149/276f149/276-] f1043/276 +mp+ d298/69 |
++mf+ d596/69- |
+% Bar 10 (0:15)
+d149/69 e149/138 c149/138 d149/69 e149/138 c149/138 |
++f+ d298/69 ^d298/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z298/69 +mf+ c'298/69- |
+c'149/276 z149/276 +f+ c'149/138 +mf+ ^c149/138 ^a149/138 c'149/69 +f+ c149/138 +mf+ a149/138 |
+c'298/69 +f+ g298/69- |
+g149/276 z149/276 g149/138 +mf+ ^g149/138 f149/138 =g149/69 ^g149/138 f149/138 |
+g298/69 +mp+ c'298/69- |
+% Bar 20 (0:33)
+c'596/69- |
+c'149/92
+	%%Q: 149
+	z/ +mf+ g z ^g +mp+ f z +mf+ =g |
+z +f+ ^g z +mp+ f +mf+ =g z ^g +mp+ f |
+z +f+ g z ^g z +mp+ f +mf+ =g z |
+^g +mp+ f z +mf+ ^a z +f+ g z +mf+ =g/ z/ |
++mp+ f +mf+ g/ z/ g2- g3/2 z/ g z |
++f+ ^g +mf+ f/ z3/2 =g z +f+ ^g z +mf+ f/ z/ |
++mp+ g z +f+ ^g/ z/ +mf+ f z =g z +f+ ^g |
+z +mf+ f g z ^g f z ^a/ z/ |
+z +f+ ^g z +mf+ =g f g/ z/ +f+ g2- |
+% Bar 30 (0:49)
+g/ z3/2 ^a z c' ^g/ z3/2 a |
+z +mf+ c' z +fff+ ^g/ z/ +f+ ^a z c' +fff+ g/ z/ |
+z +f+ ^a z c' z +ff+ ^g/ z/ +mf+ a z |
++f+ c' +fff+ ^g z +f+ ^c z c' z +fff+ g/ z/ |
+^g +mf+ ^a/ z/ +f+ a2- a/ z3/2 a/ z3/2 |
+c'/ z/ +fff+ ^g/ z3/2 +f+ ^a/ z3/2 c' z +fff+ g/ z/ |
++mf+ ^a z +f+ c'/ z/ +ff+ ^g/ z3/2 +f+ a/ z3/2 c'/ z/ |
+z +fff+ ^g/ z/ +f+ ^a z c'/ z/ +fff+ g/ z3/2 +f+ a |
+z c'/ z3/2 ^g/ z/ +fff+ g/ z/ +mf+ ^a/ z/ a2- |
+^a3/2 z/ +f+ ^c/ z3/2 +fff+ d/ z/ +f+ b/ z3/2 c/ z/ |
+% Bar 40 (1:05)
+z +fff+ d/ z3/2 +mf+ b/ z/ +f+ ^c/ z3/2 +fff+ d +mf+ b |
+z +f+ ^c z d/ z3/2 +mf+ b/ z/ c z |
++fff+ d +mf+ b/ z3/2 +f+ ^c/ z3/2 +ff+ d/ z3/2 +f+ b/ z/ |
+b ^c/ z/ c2- c3/2 z/ +mf+ c/ z3/2 |
++fff+ d/ z/ +f+ b/ z3/2 ^c/ z3/2 +fff+ d/ z3/2 +f+ b/ z/ |
+^c/ z3/2 d/ z/ b z c/ z3/2 +ff+ d/ z/ |
+z +mf+ b/ z/ +f+ ^c z [c/d/] z/ +mf+ b/ z3/2 +f+ c/ z/ |
+z d/ z3/2 b/ z/ [e/b/-] b/ +mf+ ^c/ z/ +f+ c2- |
+^c/ z3/2 e z f d/ z3/2 e |
+z +mf+ f z +fff+ d/ z/ +f+ e z f +fff+ d/ z/ |
+% Bar 50 (1:21)
+z +f+ e z f z +ff+ d/ z/ +mf+ e z |
++f+ f +fff+ d z +f+ e z f z +fff+ d/ z/ |
+d +mf+ e/ z/ +f+ e2- e/ z3/2 e/ z3/2 |
+f/ z/ +fff+ d/ z3/2 +f+ e/ z3/2 f z +fff+ d/ z/ |
++mf+ e z +f+ f/ z/ +ff+ d/ z3/2 +f+ e/ z3/2 f/ z/ |
+z +fff+ d/ z/ +f+ e z f/ z/ +fff+ d/ z3/2 +f+ e |
+z f/ z3/2 d/ z9/2 |
+z8 |]
+
+
+X: 7
+T: Lure of the Temptress-11 (1:33) - Basic Bassoon
+%%part-name Basic Bassoon
+M: 4/4
+Q: 149
+K: C maj
+
+%%Q: 138
++mf+ z149/92 z1937/276 |
+z149/138 A149/276 z149/276 ^A149/276 z149/276 G149/276 z149/276 =A149/92 z149/276 +mp+ ^A149/276 z149/276 +mf+ G149/276 z149/276 |
+A149/46 G149/276 +f+ A149/276 ^A149/46 +mf+ =A149/276 +f+ ^A149/276 |
+c149/69- c149/92 +mf+ ^A149/276 =A149/276 +f+ G745/276 +mf+ F149/276 G149/276 |
++f+ A596/69- |
+A149/276 z149/276 +mf+ A149/276 z149/276 +mp+ ^A149/138 +f+ c149/138 +mf+ =A149/69 ^A149/138 G149/138 |
++f+ A149/46 +mf+ G149/276 +f+ A149/276 ^A149/46 +mp+ =A149/276 +f+ ^A149/276 |
+c149/46 +mf+ ^A149/276 +f+ c149/276 d149/69 c149/69 |
+d149/46 +mf+ g149/276 +f+ a149/276 g298/69- |
+% Bar 10 (0:15)
+g149/276 z149/276 g149/138 a149/138 +mf+ f149/138 +f+ g149/69 a149/138 +mf+ f149/138 |
++f+ g596/69- |
+g596/69 |
++mf+ d596/69- |
+d596/69 |
++pp+ G596/69- |
+G149/69 +mp+ ^G149/69 =G149/69 +p+ ^G149/69 |
+G596/69- |
+G149/69 +pp+ ^G149/69 +mp+ =G149/69 +p+ ^G149/69 |
++pp+ G596/69- |
+% Bar 20 (0:33)
+G596/69 |
+z149/92
+	%%Q: 149
+	z13/2 |
+z8 |
+z8 |
+z8 |
+z6 +mf+ g/ z3/2 |
++f+ ^g/ z/ +mf+ f/ z3/2 =g/ z3/2 ^g/ z3/2 f/ z/ |
+g/ z3/2 +f+ ^g/ z/ +mf+ f z +f+ =g/ z3/2 ^g/ z/ |
+z +mf+ f/ z/ g/ z3/2 +f+ ^g/ z/ +mf+ f z +f+ ^a/ z/ |
+z ^g z +mf+ =g/ z/ f/ z/ +mp+ g/ z/ +mf+ g2- |
+% Bar 30 (0:49)
+g3/2 z/ +f+ [d/f/] z3/2 [^d/g/] z/ +mf+ [c/d/] z3/2 [=d/f/] z/ |
+z +f+ [^d/-g/] d/ z +mf+ [c/d/-] d/ [=d/f/-] f/ z +f+ [^d/g/] z/ +mf+ [c/d/] z/ |
+z +f+ [d/f/] z3/2 [^d/g/] z3/2 +mf+ [c/d/-] d/ [=df] z |
+[^d/g/] z/ [c/d/] z3/2 +f+ [f/^g/] z3/2 [e/=g/] z3/2 +mf+ [c/d/] z/ |
+[c/^d/-] d/ [=d/f/] z/ +f+ [d2-f2-] [d3/2f3/2] z/ [df] z |
++mf+ [^dg] [c/d/] z3/2 +f+ [=d/f/] z3/2 [^d/g/] z3/2 +mf+ [c/d/] z/ |
+[d/f/-] f/ z +f+ [^d/g/] z/ +mf+ [c/d/-] d/ z [=d/f/] z3/2 +f+ [^d/g/] z/ |
+z [c/^d/] z/ [=d/f/-] f/ z [^d/g/] z/ +mf+ [c/d/] z3/2 [f/^g/-] g/ |
+z +f+ [e/-g/] e/ z +mf+ [c/^d/] z/ [c/d/-] d/ +f+ [=d/f/] z/ [d2-f2-] |
+[d3/2f3/2] z13/2 |
+% Bar 40 (1:05)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 +mf+ e/ z/ +mp+ e/ z/ e/ z/ e/ z/ +mf+ e/ z/ +mp+ e/ z/ |
++mf+ e/ z/ e/ z/ e/ z/ e/ z/ e/ z/ e/ z/ e/ z/ e/ z/ |
+% Bar 50 (1:21)
++f+ e/ z/ +mf+ e/ z/ +f+ e/ z/ +mf+ e/ z/ e/ z/ e/ z/ e/ z/ e/ z/ |
++f+ e/ z/ +mf+ e/ z/ +f+ e/ z/ e/ z/ e/ z/ e/ z/ e/ z/ +mf+ e/ z/ |
++f+ e/ z/ +mf+ e/ z/ +f+ e/ z/ +mf+ e/ z/ e/ z/ e/ z/ e/ z/ e/ z/ |
++f+ e/ z/ +mf+ e/ z/ +f+ e/ z/ e/ z/ e/ z/ +mf+ e/ z/ e/ z/ +f+ e/ z/ |
++mf+ e/ z/ e/ z/ +f+ e/ z/ +mf+ e/ z/ +f+ e/ z/ e/ z/ e/ z/ +mf+ e/ z/ |
++f+ [d/e/] z/ +mf+ e/ z/ +f+ e/ z/ e/ z/ e/ z/ e/ z/ e/ z/ +mf+ e/ z/ |
++f+ e/ z/ +mf+ e/ z/ +f+ e/ z/ +mf+ e/ z/ +f+ e/ z/ e/ z/ e/ z/ +mf+ e/ z/ |
++f+ e/ z/ e/ z13/2 |]
+
+
+X: 17
+T: Lure of the Temptress-11 (1:33) - Basic Pibgorn
+%%part-name Basic Pibgorn
+M: 4/4
+Q: 149
+K: C maj
+
+%%Q: 138
++f+ z149/92 z1937/276 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+% Bar 10 (0:15)
+z596/69 |
+z596/69 |
+z596/69 |
+z149/138 F,149/138 G,149/138 +ff+ ^G,149/276 z149/276 ^A,149/276 z149/276 C,149/276 z149/276 D,149/138 +fff+ ^D,149/276 z149/276 |
+F,149/138 G,149/138 ^G,149/276 z149/276 ^A,149/276 z149/276 C149/276 z149/276 D149/276 z149/276 ^D149/276 z149/276 F149/276 z149/276 |
+G298/69- G149/276 z1043/276 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+% Bar 20 (0:33)
+z596/69 |
+z149/92
+	%%Q: 149
+	z13/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:49)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:05)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:21)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 27
+T: Lure of the Temptress-11 (1:33) - Brusque Bassoon
+%%part-name Brusque Bassoon
+M: 4/4
+Q: 149
+K: C maj
+
+%%Q: 138
++mf+ z149/92 z1937/276 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+% Bar 10 (0:15)
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+c149/276 z149/276 +p+ c149/276 z149/276 c149/276 z149/276 c149/276 z149/276 +mp+ c149/276 z149/276 c149/276 z149/276 c149/276 z149/276 c149/276 z149/276 |
+% Bar 20 (0:33)
+c149/276 z149/276 +mf+ c149/276 z149/276 c149/276 z149/276 c149/276 z149/276 c149/276 z149/276 +mp+ c149/276 z149/276 +f+ c149/276 z149/276 c149/276 z149/276 |
+c149/276 z149/276 +mf+ c149/276
+	%%Q: 149
+	z/ +f+ c/ z/ +mf+ c/ z/ +f+ c/ z/ +mf+ c/ z/ c/ z/ +f+ c/ z/ |
++mf+ c/ z/ +f+ c/ z/ c/ z/ c/ z/ c/ z/ +mf+ c/ z/ +f+ c/ z/ +mf+ c/ z/ |
+c/ z/ +f+ c/ z/ +mf+ c/ z/ c/ z/ +f+ c/ z/ +mf+ c/ z/ +f+ c/ z/ +mf+ c/ z/ |
++f+ c/ z/ +mf+ c/ z/ +f+ c/ z/ c/ z/ c/ z/ c/ z/ c/ z/ c/ z/ |
+c/ z/ +mf+ c/ z/ +f+ c/ z/ c/ z/ c/ z/ c/ z/ c/ z/ c/ z/ |
++mf+ c/ z/ +f+ c/ z/ c/ z/ c/ z/ c/ z/ +mf+ c/ z/ +f+ c/ z/ +mf+ c/ z/ |
+c/ z/ c/ z/ +f+ c/ z/ c/ z/ +mf+ c/ z/ c/ z/ +f+ c/ z/ c/ z/ |
++mf+ c/ z/ c/ z/ +f+ c/ z/ +mf+ c/ z/ +f+ c/ z/ +mf+ c/ z/ +f+ c/ z/ +mf+ c/ z/ |
++f+ c/ z/ +mf+ c/ z/ c/ z/ c/ z/ c/ z/ c/ z/ +f+ c/ z/ +mf+ c/ z/ |
+% Bar 30 (0:49)
++f+ c/ z/ c/ z/ ^A/ z/ +mf+ A/ z/ +f+ A/ z/ A/ z/ A/ z/ A/ z/ |
+^A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ +mf+ A/ z/ |
++f+ ^A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ |
+^A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ |
+^A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ |
+^A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ |
+^A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ A/ z/ +mf+ A/ z/ +f+ A/ z/ |
+^A/ z/ A/ z/ A/ z/ A/ z/ +mf+ A/ z/ +f+ A/ z/ A/ z/ A/ z/ |
+^A/ z/ +mf+ A/ z/ +f+ A/ z/ A/ z/ A/ z/ +mf+ A/ z/ +f+ A/ z/ +mf+ A/ z/ |
++f+ ^A/ z/ A/ z13/2 |
+% Bar 40 (1:05)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:21)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 8
+T: Lure of the Temptress-11 (1:33) - Basic Drum
+%%part-name Basic Drum
+M: 4/4
+Q: 149
+K: C maj
+
+%%Q: 138
++ff+ z149/92 z1937/276 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+% Bar 10 (0:15)
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+z596/69 |
+% Bar 20 (0:33)
+z596/69 |
+z149/92
+	%%Q: 149
+	z13/2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:49)
+z2 ^A,/ z9/2 +f+ A,/ z/ |
+z ^A,/ z3/2 A,/ z/ A,/ z7/2 |
+z +ff+ ^A,/ z3/2 A,/ z3/2 +f+ A,/ z/ +ff+ A,/ z3/2 |
+z3 ^A,/ z3/2 A,/ z3/2 +f+ A,/ z/ |
+^A,/ z/ A,/ z/ +ff+ A,/ z7/2 A,/ z3/2 |
+z3 +f+ ^A,/ z3/2 A,/ z3/2 A,/ z/ |
+^A,/ z9/2 +ff+ A,/ z3/2 +f+ A,/ z/ |
+z ^A,/ z/ +ff+ A,/ z9/2 A,/ z/ |
+z ^A,/ z3/2 A,/ z/ A,/ z/ +f+ A,/ z/ +ff+ [G,/A,/] z3/2 |
+z2 +mf+ E/ z/ E/ E/ E/ z/ E/ E/ E/ z/ E/ E/ |
+% Bar 40 (1:05)
+E/ z/ E/ E/ E/ z/ E/ E/ E/ z/ E/ E/ E/ z/ E/ E/ |
+E/ z/ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ z/ E/ E/ |
+E/ z/ E/ E/ E/ z/ E/ E/ E/ E/ E/ E/ E/ z/ E/ E/ |
+E/ z/ E/ E/ E/ z/ E/ E/ E/ E/ E/ E/ E/ z/ E/ E/ |
+E/ z/ E/ E/ E/ z/ E/ E/ E/ z/ E/ E/ E/ E/ E/ E/ |
+E/ z/ E/ E/ E/ z/ E/ E/ E/ z/ E/ E/ E/ z/ E/ z/ |
+E/ E/ E/ E/ E/ z/ E/ E/ E/ z/ E/ E/ E/ z/ E/ z/ |
+E/ z/ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ E/ z/ E/ z/ |
+E/ E/ E/ z/ +ff+ [E/A/^A/] z11/2 |
+z4 [E/A/^A/] z7/2 |
+% Bar 50 (1:21)
+z6 [E/A/^A/] z3/2 |
+z8 |
+[E/A/^A/] z11/2 +f+ [E/=A/^A/] z3/2 |
+z8 |
+[E/A/^A/] z15/2 |
+z2 +ff+ [E/A/^A/] z11/2 |
+z4 [E/A/^A/] z3/2 [A,/E/=A/^A/] z3/2 |
+z8 |]
+
