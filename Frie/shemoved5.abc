@@ -1,0 +1,517 @@
+%abc-2.1
+%%song-title       She Moved Thru the Fair
+%%song-composer    Trad Irish
+%%song-duration    2:23
+%%song-transcriber 2024-10-26
+%%abc-creator Maestro v3.2.8
+%%export-timestamp 2024-10-31 22:03:33
+%%swing-rhythm false
+%%mix-timings true
+%%skip-silence-at-start true
+%%delete-minimal-notes false
+%%abc-version 2.1
+
+X: 1
+T: She Moved Thru the Fair Trad Irish  Basic Flute 1/5 2:23 2024-10-26
+%%part-name Basic Flute
+%%made-for Basic Flute
+C: Trad Irish
+Z: 2024-10-26
+M: 3/4
+Q: 100
+K: C maj
+L: 1/8
+
++ff+ z4 D, E,/ ^F,/ |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,2A,2] [F,4-A,4-] |
+[^F,4A,4] [E,G,] [C,E,] |
+[C,2G,2] [D,2A,2] [D,3/2A,3/2] [D,//A,//] [E,//B,//] |
+[D,6-A,6-] |
+[D,4A,4] [^F,A,] [G,B,] |
+[G,2C2] [A,4-D4-] |
+[A,4D4] [^F,2A,2] |
+% Bar 10 (0:16)
+[^F,2B,2] [F,2A,2] [D,2F,2] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,6-A,6-] |
+[^F,4A,4] [F,A,] [G,B,] |
+[G,2C2] [A,4-D4-] |
+[A,2D2] [E,4A,4] |
+[E,2B,2] [^F,2A,2] [D,2F,2] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,6A,6] |
+[D,4A,4] [C,E,] [D,^F,] |
+% Bar 20 (0:34)
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,2A,2] [F,4-A,4-] |
+[^F,4A,4] [E,G,] [C,E,] |
+[C,2G,2] [D,2A,2] [D,3/2A,3/2] [D,//A,//] [E,//B,//] |
+[D,6-A,6-] |
+[D,4A,4] z2 |
+z6 |
+z4 D, E,/ ^F,/ |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,2A,2] [F,4-A,4-] |
+% Bar 30 (0:52)
+[^F,4A,4] [E,G,] [C,E,] |
+[C,2G,2] [D,2A,2] [D,2A,2] |
+[D,6-A,6-] |
+[D,4A,4] [^F,A,] [G,B,] |
+[G,2C2] [A,4-D4-] |
+[A,4D4] [E,2A,2] |
+[E,2B,2] [^F,2A,2] [D,2F,2] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,6-A,6-] |
+[^F,4A,4] [F,A,] [G,B,] |
+% Bar 40 (1:10)
+[G,2C2] [A,4-D4-] |
+[A,2D2] [E,4A,4] |
+[E,2B,2] [^F,2A,2] [D,2F,2] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,6A,6] |
+[D,4A,4] [C,E,] [D,^F,] |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,2A,2] [F,4-A,4-] |
+[^F,4A,4] [E,G,] [C,E,] |
+[C,2G,2] [D,2A,2] [D,2A,2] |
+% Bar 50 (1:28)
+[D,6-A,6-] |
+[D,4A,4] z2 |
+z6 |
+z4 D, E,/ ^F,/ |
+[E,2G,2] [D,2^F,2] [E,2G,2] |
+[^F,2A,2] [F,4-A,4] |
++mp+ [^F,4A,4-] +ff+ [E,G,A,-] [C,E,A,] |
+[C,2G,2A,2] [D,2A,2] [D,3/2A,3/2] [D,//A,//-] [E,//A,//B,//] |
+[D,6-A,6] |
++mp+ [D,4A,4] +ff+ [^F,A,-] [G,A,B,] |
+% Bar 60 (1:46)
+[G,2A,2C2] [A,4D4-] |
++mp+ [A,4D4] +ff+ [^F,2A,2] |
+[^F,2A,2B,2] [F,2A,2-] [D,2F,2A,2] |
+[E,2G,2A,2-] [D,2^F,2A,2-] [E,2G,2A,2] |
++f+ [^F,6-A,6] |
++mp+ [^F,4A,4] +ff+ [F,A,-] [G,A,B,] |
+[G,2A,2C2] [A,4D4-] |
++mp+ [A,2D2] +ff+ [E,4A,4] |
+[E,2A,2B,2] [^F,2A,2-] [D,2F,2A,2] |
+[E,2G,2A,2-] [D,2^F,2A,2-] [E,2G,2A,2] |
+% Bar 70 (2:04)
++f+ [^F,6A,6] |
++ff+ [D,4A,4-] [C,E,A,-] [D,^F,A,] |
+[E,2G,2A,2-] [D,2^F,2A,2-] [E,2G,2A,2] |
+[^F,2A,2] [F,4-A,4] |
++mp+ [^F,4A,4-] +ff+ [E,G,A,-] [C,E,A,] |
+[C,2G,2A,2] [D,2A,2] [D,3/2A,3/2] [D,//A,//-] [E,//A,//B,//] |
+[D,6-A,6] |
++mp+ [D,4A,4-] A,2 |
+A,6 |
+A,6- |
+% Bar 80 (2:22)
+A,4 |]
+
+
+X: 2
+T: She Moved Thru the Fair Trad Irish  Basic Theorbo 2/5 2:23 2024-10-26
+%%part-name Basic Theorbo
+%%made-for Basic Theorbo
+C: Trad Irish
+Z: 2024-10-26
+M: 3/4
+Q: 100
+K: C maj
+L: 1/8
+
++mf+ z6 |
+C6 |
+D5 A |
+D6 |
+C6 |
+D5 A |
+D6 |
+D5 A |
+D6 |
+% Bar 10 (0:16)
+D6 |
+D6 |
+D5 A |
+D6 |
+D5 A |
+D6 |
+D6 |
+D6 |
+D6 |
+D6 |
+% Bar 20 (0:34)
+D6 |
+D5 A |
+D6 |
+C6 |
+D5 A |
+D6 |
+D6 |
+D6 |
+C6 |
+D5 A |
+% Bar 30 (0:52)
+D6 |
+C6 |
+D5 A |
+D6 |
+D5 A |
+D6 |
+D6 |
+D6 |
+D5 A |
+D6 |
+% Bar 40 (1:10)
+D5 A |
+D6 |
+D6 |
+D6 |
+D6 |
+D6 |
+D6 |
+D5 A |
+D6 |
+C6 |
+% Bar 50 (1:28)
+D5 A |
+D6 |
+D6 |
+D6 |
+C6 |
+D5 A |
+D6 |
+C6 |
+D5 A |
+D6 |
+% Bar 60 (1:46)
+D5 A |
+D6 |
+D6 |
+D6 |
+D5 A |
+D6 |
+D5 A |
+D6 |
+D6 |
+D6 |
+% Bar 70 (2:04)
+D6 |
+D6 |
+D6 |
+D5 A |
+D6 |
+C6 |
+D5 A |
+D6 |
+D6 |
+D6- |
+% Bar 80 (2:22)
+D4 |]
+
+
+X: 3
+T: She Moved Thru the Fair Trad Irish  Basic Pibgorn 3/5 2:23 2024-10-26
+%%part-name Basic Pibgorn
+%%made-for Basic Pibgorn
+C: Trad Irish
+Z: 2024-10-26
+M: 3/4
+Q: 100
+K: C maj
+L: 1/8
+
++mp+ z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 10 (0:16)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 20 (0:34)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (0:52)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 40 (1:10)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 50 (1:28)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+% Bar 60 (1:46)
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+% Bar 70 (2:04)
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6 |
+A,6- |
+% Bar 80 (2:22)
+A,4 |]
+
+
+X: 4
+T: She Moved Thru the Fair Trad Irish  Basic Fiddle 4/5 2:23 2024-10-26
+%%part-name Basic Fiddle
+%%made-for Basic Fiddle
+C: Trad Irish
+Z: 2024-10-26
+M: 3/4
+Q: 100
+K: C maj
+L: 1/8
+
++ff+ z4 D E/ ^F/ |
+[E2G2] [D2^F2] [E2G2] |
+[^F2A2] [F4-A4-] |
+[^F4A4] [EG] [CE] |
+[G,2C2] [A,2D2] [A,3/2D3/2] [A,//D//] [B,//E//] |
+[A,6-D6-] |
+[A,4D4] [^FA] [GB] |
+[G2c2] [A4-d4-] |
+[A4d4] [^F2A2] |
+% Bar 10 (0:16)
+[^F2B2] [F2A2] [D2F2] |
+[E2G2] [D2^F2] [E2G2] |
+[^F6-A6-] |
+[^F4A4] [FA] [GB] |
+[G2c2] [A4-d4-] |
+[A2d2] [E4A4] |
+[E2B2] [^F2A2] [D2F2] |
+[E2G2] [D2^F2] [E2G2] |
+[^F6A6] |
+[A,4D4] [CE] [D^F] |
+% Bar 20 (0:34)
+[E2G2] [D2^F2] [E2G2] |
+[^F2A2] [F4-A4-] |
+[^F4A4] [EG] [CE] |
+[G,2C2] [A,2D2] [A,3/2D3/2] [A,//D//] [B,//E//] |
+[A,6-D6-] |
+[A,4D4] z2 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (0:52)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 40 (1:10)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 50 (1:28)
+z6 |
+z6 |
+z6 |
+z4 D E/ ^F/ |
+[E2G2] [D2^F2] [E2G2] |
+[^F2A2] [F4-A4-] |
+[^F4A4] [EG] [CE] |
+[G,2C2] [A,2D2] [A,3/2D3/2] [A,//D//] [B,//E//] |
+[A,6-D6-] |
+[A,4D4] [^FA] [GB] |
+% Bar 60 (1:46)
+[G2c2] [A4-d4-] |
+[A4d4] [^F2A2] |
+[^F2B2] [F2A2] [D2F2] |
+[E2G2] [D2^F2] [E2G2] |
+[^F6-A6-] |
+[^F4A4] [FA] [GB] |
+[G2c2] [A4-d4-] |
+[A2d2] [E4A4] |
+[E2B2] [^F2A2] [D2F2] |
+[E2G2] [D2^F2] [E2G2] |
+% Bar 70 (2:04)
+[^F6A6] |
+[A,4D4] [CE] [D^F] |
+[E2G2] [D2^F2] [E2G2] |
+[^F2A2] [F4-A4-] |
+[^F4A4] [EG] [CE] |
+[G,2C2] [A,2D2] [A,3/2D3/2] [A,//D//] [B,//E//] |
+[A,6-D6-] |
+[A,4D4] z2 |
+z6 |
+z6 |
+% Bar 80 (2:22)
+z4 |]
+
+
+X: 5
+T: She Moved Thru the Fair Trad Irish  Misty Mountain Harp 5/5 2:23 2024-10-26
+%%part-name Misty Mountain Harp
+%%made-for Misty Mountain Harp
+C: Trad Irish
+Z: 2024-10-26
+M: 3/4
+Q: 100
+K: C maj
+L: 1/8
+
++mp+ z6 |
+C- [C-c-] [C-G-c-] [C-E-Gc] [C-Ec] [CG-] |
+[D-G] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fc-] [DA-c] |
+[C-A] [C-d-] [C-A-d] [C-^F-A] [C-Fd-] [CA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+% Bar 10 (0:16)
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+% Bar 20 (0:34)
+[D-A] [D-c-] [D-G-c-] [D-E-Gc] [D-Ec] [DG-] |
+[D-G] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fc-] [DA-c] |
+[C-A] [C-d-] [C-A-d] [C-^F-A] [C-Fd-] [CA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[C-A] [C-c-] [C-G-c-] [C-E-Gc] [C-Ec] [CG-] |
+[D-G] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+% Bar 30 (0:52)
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fc-] [DA-c] |
+[C-A] [C-d-] [C-A-d] [C-^F-A] [C-Fd-] [CA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+% Bar 40 (1:10)
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-c-] [D-G-c-] [D-E-Gc] [D-Ec] [DG-] |
+[D-G] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fc-] [DA-c] |
+[C-A] [C-d-] [C-A-d] [C-^F-A] [C-Fd-] [CA-d] |
+% Bar 50 (1:28)
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[C-A] [C-c-] [C-G-c-] [C-E-Gc] [C-Ec] [CG-] |
+[D-G] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fc-] [DA-c] |
+[C-A] [C-d-] [C-A-d] [C-^F-A] [C-Fd-] [CA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+% Bar 60 (1:46)
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+% Bar 70 (2:04)
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-c-] [D-G-c-] [D-E-Gc] [D-Ec] [DG-] |
+[D-G] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fc-] [DA-c] |
+[C-A] [C-d-] [C-A-d] [C-^F-A] [C-Fd-] [CA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D-A] [D-d-] [D-A-d] [D-^F-A] [D-Fd-] [DA-d] |
+[D6-A6-] |
+% Bar 80 (2:22)
+[D4A4] |]
+
