@@ -1,0 +1,437 @@
+%abc-2.1
+%%song-title       Roger Mac The Grateful Dead
+%%song-duration    3:35
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Roger Mac The Grateful Dead (3:35) - Lute of Ages
+%%part-name Lute of Ages
+M: 4/4
+Q: 100
+K: C maj
+
++f+ z8 |
+z6 ^f/ e3/2 |
+z ^c c c c2 z b |
+b ^c a2 z4 |
+z e/ e/ ^c c c2 b a |
+b ^c a2 z4 |
+z ^f- f e/ ^c/ e3 c/ a/ |
+c' b a2 z4 |
+z/ e/ e e e/ ^f3/2 e ^c/ b/ a |
+% Bar 10 (0:21)
+b ^c a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^f3/2 e/ e2 z3 b |
+b a- a2 z4 |
+z ^c c c c2 z b |
+% Bar 20 (0:45)
+b ^c a2 z4 |
+z e/ e/ ^c c c2 b a |
+b ^c a2 z4 |
+z ^f- f e/ ^c/ e3 c/ a/ |
+c' b a2 z4 |
+z/ e/ e e e/ ^f3/2 e ^c/ b/ a |
+b ^c a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^c3/2 c/ c2 z3 b |
+% Bar 30 (1:09)
+b a- a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^f3/2 e/ e2 z3 b |
+b a- a2 z4 |
+z ^c c c c2 z b |
+b ^c a2 z4 |
+z e/ e/ ^c c c2 b a |
+b ^c a2 z4 |
+z ^f- f e/ ^c/ e3 c/ a/ |
+% Bar 40 (1:33)
+c' b a2 z4 |
+z/ e/ e e e/ ^f3/2 e ^c/ b/ a |
+b ^c a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^f3/2 e/ e2 z3 b |
+% Bar 50 (1:57)
+b a- a2 z4 |
+z ^c c c c2 z b |
+b ^c a2 z4 |
+z e/ e/ ^c c c2 b a |
+b ^c a2 z4 |
+z ^f- f e/ ^c/ e3 c/ a/ |
+c' b a2 z4 |
+z/ e/ e e e/ ^f3/2 e ^c/ b/ a |
+b ^c a2 z4 |
+^c3/2 c/ c2 z3 b |
+% Bar 60 (2:21)
+b a- a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^f3/2 e/ e2 z3 b |
+b a- a2 z4 |
+z ^c c c c2 z b |
+b ^c a2 z4 |
+z e/ e/ ^c c c2 b a |
+% Bar 70 (2:45)
+b ^c a2 z4 |
+z ^f- f e/ ^c/ e3 c/ a/ |
+c' b a2 z4 |
+z/ e/ e e e/ ^f3/2 e ^c/ b/ a |
+b ^c a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^c3/2 c/ c2 z3 b |
+b a- a2 z4 |
+^c3/2 c/ c2 z3 b |
+% Bar 80 (3:09)
+b a- a2 z4 |
+^f3/2 e/ e2 z3 b |
+b a- a2 z4 |
+^f3/2 e/ e2 z3 b |
+b a- a2 z3/2 ^f3/2 e/ ^c/ |
+^f3/2 e/ e2 z3 b |
+b a- a2 z3/2 ^f3/2 e/ ^c/ |
+^f3/2 e/ e2 z3 b |
+b a- a2 z3/2 ^f3/2 e/ ^c/ |
+^f3/2 e/ e2 z3 b |
+% Bar 90 (3:33)
+b a- a2 z4 |]
+
+
+X: 3
+T: Roger Mac The Grateful Dead (3:35) - Basic Theorbo
+%%part-name Basic Theorbo
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+% Bar 10 (0:21)
+d4 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A4 A ^c e e |
+% Bar 20 (0:45)
+d4 d ^f a a |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+d4 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+% Bar 30 (1:09)
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+% Bar 40 (1:33)
+d4 d ^f a a |
+A4 A ^c e e |
+d4 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+% Bar 50 (1:57)
+d d D2 D ^F G ^G |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+d4 D ^F G ^G |
+A3 a- a A- A ^c |
+% Bar 60 (2:21)
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+% Bar 70 (2:45)
+d4 d ^f a a |
+A4 A ^c e e |
+d4 d ^f a a |
+A4 A ^c e e |
+d4 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+% Bar 80 (3:09)
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+d d D2 D ^F G ^G |
+A3 a- a A- A ^c |
+% Bar 90 (3:33)
+d d D2 z4 |]
+
+
+X: 4
+T: Roger Mac The Grateful Dead (3:35) - Basic Flute
+%%part-name Basic Flute
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ [^C,2E,2A,2] [C,2-E,2-A,2-] [C,4E,4A,4] |
+[D,2^F,2A,2] [D,2-F,2-A,2-] [D,2F,2A,2] F,/ z3/2 |
+z2 [E,-A,-^C] [E,A,C] [E,3-A,3-C3] [E,A,B,] |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [E,-A,-^C] [E,A,C] [E,2-A,2-C2] [E,/-A,/-] [E,/-A,/-B,/] [E,A,B,] |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z [A,-^C-^F-] [A,CF] E/ C/ [A,3C3E3] C/ A,/ |
+[D,-^F,-C] [D,F,B,] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [A,-^C-E] [A,/C/E/] [A,3/2-C3/2-^F3/2] [A,CE] C/ B,/ A, |
+% Bar 10 (0:21)
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,2-^F,2-B,2] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[A,3/2-^C3/2-^F3/2] [A,/C/E/] [A,2-C2-E2-] [A,2C2E2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [E,-A,-^C] [E,A,C] [E,3-A,3-C3] [E,A,B,] |
+% Bar 20 (0:45)
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [E,-A,-^C] [E,A,C] [E,2-A,2-C2] [E,/-A,/-] [E,/-A,/-B,/] [E,A,B,] |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z [A,-^C-^F-] [A,CF] E/ C/ [A,3C3E3] C/ A,/ |
+[D,-^F,-C] [D,F,B,] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [A,-^C-E] [A,/C/E/] [A,3/2-C3/2-^F3/2] [A,CE] C/ B,/ A, |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+% Bar 30 (1:09)
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,2-^F,2-B,2] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[A,3/2-^C3/2-^F3/2] [A,/C/E/] [A,2-C2-E2-] [A,2C2E2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [E,-A,-^C] [E,A,C] [E,3-A,3-C3] [E,A,B,] |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [E,-A,-^C] [E,A,C] [E,2-A,2-C2] [E,/-A,/-] [E,/-A,/-B,/] [E,A,B,] |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z [A,-^C-^F-] [A,CF] E/ C/ [A,3C3E3] C/ A,/ |
+% Bar 40 (1:33)
+[D,-^F,-C] [D,F,B,] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [A,-^C-E] [A,/C/E/] [A,3/2-C3/2-^F3/2] [A,CE] C/ B,/ A, |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,2-^F,2-B,2] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[A,3/2-^C3/2-^F3/2] [A,/C/E/] [A,2-C2-E2-] [A,2C2E2] z B, |
+% Bar 50 (1:57)
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [E,-A,-^C] [E,A,C] [E,3-A,3-C3] [E,A,B,] |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [E,-A,-^C] [E,A,C] [E,2-A,2-C2] [E,/-A,/-] [E,/-A,/-B,/] [E,A,B,] |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z [A,-^C-^F-] [A,CF] E/ C/ [A,3C3E3] C/ A,/ |
+[D,-^F,-C] [D,F,B,] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [A,-^C-E] [A,/C/E/] [A,3/2-C3/2-^F3/2] [A,CE] C/ B,/ A, |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+% Bar 60 (2:21)
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,2-^F,2-B,2] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[A,3/2-^C3/2-^F3/2] [A,/C/E/] [A,2-C2-E2-] [A,2C2E2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [E,-A,-^C] [E,A,C] [E,3-A,3-C3] [E,A,B,] |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [E,-A,-^C] [E,A,C] [E,2-A,2-C2] [E,/-A,/-] [E,/-A,/-B,/] [E,A,B,] |
+% Bar 70 (2:45)
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z [A,-^C-^F-] [A,CF] E/ C/ [A,3C3E3] C/ A,/ |
+[D,-^F,-C] [D,F,B,] [D,2-F,2-A,2-] [D,4F,4A,4] |
+z2 [A,-^C-E] [A,/C/E/] [A,3/2-C3/2-^F3/2] [A,CE] C/ B,/ A, |
+[D,-^F,-B,] [D,F,^C] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[E,3/2-A,3/2-^C3/2] [E,/A,/C/] [E,2-A,2-C2-] [E,2A,2C2] z B, |
+% Bar 80 (3:09)
+[D,2-^F,2-B,2] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[A,3/2-^C3/2-^F3/2] [A,/C/E/] [A,2-C2-E2-] [A,2C2E2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2-F,2-A,2-] [D,4F,4A,4] |
+[A,3/2-^C3/2-^F3/2] [A,/C/E/] [A,2-C2-E2-] [A,2C2E2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2F,2A,2] z3/2 [A,3/2D3/2^F3/2] E/ ^C/ |
+[A,3/2-^C3/2-^F3/2] [A,/C/E/] [A,2-C2-E2-] [A,2C2E2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2F,2A,2] z3/2 [A,3/2D3/2^F3/2] E/ ^C/ |
+[A,3/2-^C3/2-^F3/2] [A,/C/E/] [A,2-C2-E2-] [A,2C2E2] z B, |
+[D,-^F,-B,] [D,-F,-A,-] [D,2F,2A,2] z3/2 [A,3/2D3/2^F3/2] E/ ^C/ |
+[A,3/2-^C3/2-^F3/2] [A,/C/E/] [A,2-C2-E2-] [A,2C2E2] z B, |
+% Bar 90 (3:33)
+[D,-^F,-B,] [D,-F,-A,-] [D,2F,2A,2] z4 |]
+
+
+X: 7
+T: Roger Mac The Grateful Dead (3:35) - Brusque Bassoon
+%%part-name Brusque Bassoon
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+% Bar 10 (0:21)
+D4 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,4 A, ^C E E |
+% Bar 20 (0:45)
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+% Bar 30 (1:09)
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+% Bar 40 (1:33)
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+% Bar 50 (1:57)
+D D D,2 D, ^F, G, ^G, |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+% Bar 60 (2:21)
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+% Bar 70 (2:45)
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D ^F A A |
+A,4 A, ^C E E |
+D4 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+% Bar 80 (3:09)
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+D D D,2 D, ^F, G, ^G, |
+A,3 A- A A,- A, ^C |
+% Bar 90 (3:33)
+D D D,2 z4 |]
+
