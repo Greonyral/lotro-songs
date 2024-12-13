@@ -1,0 +1,940 @@
+%abc-2.1
+%%song-title       DownInTheSwamp
+%%song-duration    2:46
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: DownInTheSwamp (2:46) - Lute of Ages
+%%part-name Lute of Ages
+M: 4/4
+Q: 233
+K: C maj
+
++mf+ z6 A B |
+d A B d d e e ^g |
+e d B G A2 A B |
+d A B d e ^g a b |
+a ^g e d B ^c A B |
+d A B d d e e ^g |
+e d B G A2 A B |
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E2B2] A B |
+% Bar 10 (0:09)
+d A B d d e e ^g |
+e d B G A2 A B |
+d A B d e ^g a b |
+a ^g e d B ^c A B |
+d A B d d e e ^g |
+e d B G A2 A B |
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E2B2] d d |
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+% Bar 20 (0:19)
+d A B d d e e ^f |
+e ^d B2- B2 =d d |
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E2B2] d d |
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+d A B d d e e ^f |
+e ^d B2- B2 =d d |
+% Bar 30 (0:29)
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E2B2] A B |
+[^CEB] E e E B e E B |
+e2 e E B E ^C B |
+^C E e E B e E B |
+e2 e E B E ^C B |
+E2 ^C E B e E B |
+e2 e E B E ^C B |
+% Bar 40 (0:40)
+B,2 e ^F B e F B |
+e E B,2 [B,2B2] [D2B2] |
+[^CEB] E e E B e E B |
+e2 e E B E ^C B |
+^C E e E B e E B |
+e2 e E B E ^C B |
+E2 ^C E B e E B |
+e2 e E B E ^C B |
+B,2 e ^F B e F B |
+e2 e E B ^C E B |
+% Bar 50 (0:50)
+D2 ^F A B A F B |
+^C2 e E B E C B |
+E B ^C E B e E B |
+D ^D B,2 [^AB] B ^C2 |
+D2 ^F A B A F B |
+^C2 e E B E C B |
+E2 [B2e2] B,2 [B2e2] |
+E2 D E B ^C E B |
+D2 ^F A B A F B |
+^C2 e E B E C B |
+% Bar 60 (1:00)
+E B ^C E B e E B |
+D ^D B,2 [^AB] B ^C2 |
+D2 ^F A B A F B |
+^C2 e E B E C B |
+E2 [B2e2] B,2 [B2e2] |
+B, ^C [E2-B2-] [E2B2] A B |
+d A B d d e e ^g |
+e d B G A2 A B |
+d A B d e ^g a b |
+a ^g e d B ^c A B |
+% Bar 70 (1:11)
+d A B d d e e ^g |
+e d B G A2 A B |
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E2B2] A B |
+d A B d d e e ^g |
+e d B G A2 A B |
+d A B d e ^g a b |
+a ^g e d B ^c A B |
+d A B d d e e ^g |
+e d B G A2 A B |
+% Bar 80 (1:21)
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E2B2] d d |
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+d A B d d e e ^f |
+e ^d B2- B2 =d d |
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E2B2] d d |
+% Bar 90 (1:31)
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+d A B d d e e ^f |
+e ^d B2- B2 =d d |
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E2B2] A B |
+[^CEB] E e E B e E B |
+e2 e E B E ^C B |
+% Bar 100 (1:41)
+^C E e E B e E B |
+e2 e E B E ^C B |
+E2 ^C E B e E B |
+e2 e E B E ^C B |
+B,2 e ^F B e F B |
+e E B,2 [B,2B2] [D2B2] |
+[^CEB] E e E B e E B |
+e2 e E B E ^C B |
+^C E e E B e E B |
+e2 e E B E ^C B |
+% Bar 110 (1:52)
+E2 ^C E B e E B |
+e2 e E B E ^C B |
+B,2 e ^F B e F B |
+e2 e E B ^C E B |
+D2 ^F A B A F B |
+^C2 e E B E C B |
+E B ^C E B e E B |
+D ^D B,2 [^AB] B ^C2 |
+D2 ^F A B A F B |
+^C2 e E B E C B |
+% Bar 120 (2:02)
+E2 [B2e2] B,2 [B2e2] |
+E2 D E B ^C E B |
+D2 ^F A B A F B |
+^C2 e E B E C B |
+E B ^C E B e E B |
+D ^D B,2 [^AB] B ^C2 |
+D2 ^F A B A F B |
+^C2 e E B E C B |
+E2 [B2e2] B,2 [B2e2] |
+B, ^C [E2-B2-] [E2B2] A B |
+% Bar 130 (2:12)
+d A B d d e e ^g |
+e d B G A2 A B |
+d A B d e ^g a b |
+a ^g e d B ^c A B |
+d A B d d e e ^g |
+e d B G A2 A B |
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E2B2] A B |
+d A B d d e e ^g |
+e d B G A2 A B |
+% Bar 140 (2:23)
+d A B d e ^g a b |
+a ^g e d B ^c A B |
+d A B d d e e ^g |
+e d B G A2 A B |
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E2B2] d d |
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+d A B d d e e ^f |
+e ^d B2- B2 =d d |
+% Bar 150 (2:33)
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E2B2] d d |
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+d A B d d e e ^f |
+e ^d B2- B2 =d d |
+d e d ^c A2 a a |
+a b a ^g e ^G A B |
+% Bar 160 (2:43)
+d B e B d/ B A/ G ^A |
+A G [E2-B2-] [E4B4] |
+z8 |]
+
+
+X: 2
+T: DownInTheSwamp (2:46) - Basic Harp
+%%part-name Basic Harp
+M: 4/4
+Q: 233
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:29)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (0:40)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (0:50)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:00)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 [e2^g2] z2 [e2g2] |
+z2 [e2^g2] z2 [^c2e2a2] |
+z2 [e2^g2] z2 [e2g2] |
+z2 [e2^g2] z2 [^c2e2a2] |
+% Bar 70 (1:11)
+z2 [e2^g2] z2 [e2g2] |
+z2 [e2^g2] z2 [^c2e2a2] |
+z2 [^d2^f2b2] z2 [d2f2b2] |
+z2 [e2^g2] z2 [e2g2] |
+z2 [e2^g2] z2 [e2g2] |
+z2 [e2^g2] z2 [^c2e2a2] |
+z2 [e2^g2] z2 [e2g2] |
+z2 [e2^g2] z2 [^c2e2a2] |
+z2 [e2^g2] z2 [e2g2] |
+z2 [e2^g2] z2 [^c2e2a2] |
+% Bar 80 (1:21)
+z2 [^d2^f2b2] z2 [d2f2b2] |
+z2 [e2^g2] z2 [e2g2] |
+z2 [d2^f2] z2 [d2f2] |
+z2 [^c2a2] z2 [c2a2] |
+z2 [e2^g2] z2 [e2g2] |
+z2 [^d2b2] z2 [d2b2] |
+z2 [d2^f2] z2 [d2f2] |
+z2 [^c2a2] z2 [c2a2] |
+z2 [e2^g2] z2 [^d2b2] |
+z2 [e2^g2] z2 [e2g2] |
+% Bar 90 (1:31)
+z2 [d2^f2] z2 [d2f2] |
+z2 [^c2a2] z2 [c2a2] |
+z2 [e2^g2] z2 [e2g2] |
+z2 [^d2b2] z2 [d2b2] |
+z2 [d2^f2] z2 [d2f2] |
+z2 [^c2a2] z2 [c2a2] |
+z2 [e2^g2] z2 [^d2b2] |
+z2 [e2^g2] z2 [e2g2] |
+z8 |
+z8 |
+% Bar 100 (1:41)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (1:52)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (2:02)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 130 (2:12)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 140 (2:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 150 (2:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 160 (2:43)
+z8 |
+z8 |
+z8 |]
+
+
+X: 3
+T: DownInTheSwamp (2:46) - Basic Theorbo
+%%part-name Basic Theorbo
+M: 4/4
+Q: 233
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:29)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (0:40)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (0:50)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:00)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+E4 B,4 |
+E4 A,4 |
+E4 B,4 |
+E4 A,4 |
+% Bar 70 (1:11)
+E4 B,4 |
+E4 A,4 |
+B,4 ^F4 |
+E4 B,4 |
+E4 B,4 |
+E4 A,4 |
+E4 B,4 |
+E4 A,4 |
+E4 B,4 |
+E4 A,4 |
+% Bar 80 (1:21)
+B,4 ^F4 |
+E4 B,4 |
+D4 A,4 |
+A,4 E4 |
+E4 B,4 |
+B,4 ^F4 |
+D4 A,4 |
+A,4 E4 |
+E4 B,4 |
+E4 B,4 |
+% Bar 90 (1:31)
+D4 A,4 |
+A,4 E4 |
+E4 B,4 |
+B,4 ^F4 |
+D4 A,4 |
+A,4 E4 |
+E4 B,4 |
+E4 B,4 |
+z8 |
+z8 |
+% Bar 100 (1:41)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (1:52)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (2:02)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 130 (2:12)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 140 (2:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 150 (2:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 160 (2:43)
+z8 |
+z8 |
+z8 |]
+
+
+X: 5
+T: DownInTheSwamp (2:46) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 4/4
+Q: 233
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:29)
+z8 |
+z8 |
+z8 |
+z6 A, B, |
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+D A, B, D E ^G A B |
+A ^G E D B, ^C A, B, |
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+% Bar 40 (0:40)
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] A, B, |
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+D A, B, D E ^G A B |
+A ^G E D B, ^C A, B, |
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] D D |
+% Bar 50 (0:50)
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+D A, B, D D E E ^F |
+E ^D B,2- B,2 =D D |
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] D D |
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+% Bar 60 (1:00)
+D A, B, D D E E ^F |
+E ^D B,2- B,2 =D D |
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] A, B, |
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+D A, B, D E ^G A B |
+A ^G E D B, ^C A, B, |
+% Bar 70 (1:11)
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] A, B, |
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+D A, B, D E ^G A B |
+A ^G E D B, ^C A, B, |
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+% Bar 80 (1:21)
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] D D |
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+D A, B, D D E E ^F |
+E ^D B,2- B,2 =D D |
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] D D |
+% Bar 90 (1:31)
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+D A, B, D D E E ^F |
+E ^D B,2- B,2 =D D |
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] A, B, |
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+% Bar 100 (1:41)
+D A, B, D E ^G A B |
+A ^G E D B, ^C A, B, |
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] A, B, |
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+D A, B, D E ^G A B |
+A ^G E D B, ^C A, B, |
+% Bar 110 (1:52)
+D A, B, D D E E ^G |
+E D B, G, A,2 A, B, |
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] D D |
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+D A, B, D D E E ^F |
+E ^D B,2- B,2 =D D |
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+% Bar 120 (2:02)
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] D D |
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+D A, B, D D E E ^F |
+E ^D B,2- B,2 =D D |
+D E D ^C A,2 A A |
+A B A ^G E ^G, A, B, |
+D B, E B, D/ B, A,/ G, ^A, |
+A, G, [E,2-B,2-] [E,2B,2] A, B, |
+% Bar 130 (2:12)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 140 (2:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 150 (2:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 160 (2:43)
+z8 |
+z8 |
+z8 |]
+
+
+X: 7
+T: DownInTheSwamp (2:46) - Brusque Bassoon
+%%part-name Brusque Bassoon
+M: 4/4
+Q: 233
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:29)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (0:40)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (0:50)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:00)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+E,4 B,4 |
+E,4 A,4 |
+E,4 B,4 |
+E,4 A,4 |
+% Bar 70 (1:11)
+E,4 B,4 |
+E,4 A,4 |
+B,4 ^F,4 |
+E,4 B,4 |
+E,4 B,4 |
+E,4 A,4 |
+E,4 B,4 |
+E,4 A,4 |
+E,4 B,4 |
+E,4 A,4 |
+% Bar 80 (1:21)
+B,4 ^F,4 |
+E,4 B,4 |
+D,4 A,4 |
+A,4 E,4 |
+E,4 B,4 |
+B,4 ^F,4 |
+D,4 A,4 |
+A,4 E,4 |
+E,4 B,4 |
+E,4 B,4 |
+% Bar 90 (1:31)
+D,4 A,4 |
+A,4 E,4 |
+E,4 B,4 |
+B,4 ^F,4 |
+D,4 A,4 |
+A,4 E,4 |
+E,4 B,4 |
+E,4 B,4 |
+z8 |
+z8 |
+% Bar 100 (1:41)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 110 (1:52)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (2:02)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 130 (2:12)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 140 (2:23)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 150 (2:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 160 (2:43)
+z8 |
+z8 |
+z8 |]
+
