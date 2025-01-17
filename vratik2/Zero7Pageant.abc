@@ -1,0 +1,765 @@
+%abc-2.1
+%%song-title       PageantOfTheBizarre
+%%song-duration    4:10
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X:1
+T: PageantOfTheBizarre (4:10) - Basic Bagpipe 1/8
+%%part-name Basic Bagpipe
+M: 6/4
+Q: 111
+K: C maj
+
++mf+ A,6 [^C,2-^C2-] [C,4C4] |
+[E,6E6] B,2- B,4 |
+^F,6 A,2- A,4 |
+[^C,6^C6] [C,2-C2-] [C,4C4] |
++mp+ [E4-e4-] [E-e-] [E3/4e3/4] [D//d//] [B,2-B2-] [B,4B4] |
+[E4e4] z [Dd] [B,2-B2-] [B,2B2] [A,2A2] |
+[E4e4] z [Dd] [^C2-^c2-] [C4c4] |
+[B,12B12] |
+E4- E- E3/4 D// B,2- B,4 |
+% Bar 10 (0:29)
+E6 B,2- B,4 |
+D6 A,2- A,4 |
+G,6 G,2- G,2 A G |
+E6 B,2- B,4 |
+E6 B,2- B,4 |
+D6 A,2- A,4 |
+G,6 G,2- G,4 |
+A,6 ^C2- C4 |
+E6 B,2- B,4 |
+^F,6 A,2- A,4 |
+% Bar 20 (1:01)
+^C6 C2- C4 |
+A,6 ^C2- C4 |
+E6 B,2- B,4 |
+^F,6 A,2- A,4 |
+^C6 G,2- G,4 |
+[E4-e4-] [E-e-] [E3/4e3/4] [D//d//] [B,2-B2-] [B,4B4] |
+[E4e4] z d [B,2-B2-] [B,2B2] [A,2A2] |
+[D4e4] z [Dd] [A,2-^c2-] [A,4c4] |
+[G,12B12] |
+[E6e6] [B,2-B2-] [B,2B2] z d |
+% Bar 30 (1:34)
+[E4e4] z3/2 B/ [B,2-A2-] [B,2A2] +mf+ A,2 |
++mp+ [D4e4] z +mf+ D +mp+ [A,2-d2-] [A,2d2] A2 |
+[G,12B12] |
+[A,6a6] [^C2-^g2-] [C4g4] |
+[E6g6] [B,2-^f2-] [B,4f4] |
+[^F,6^f6] [A,2-e2-] [A,4e4] |
+[^C6^c6] C2- C4 |
+[A,6a6] [^C2-^g2-] [C4g4] |
+[E6g6] [B,2-^f2-] [B,4f4] |
+[^F,6^f6] [A,2-e2-] [A,4e4] |
+% Bar 40 (2:06)
+[^C6^c6] C2- C4 |
+[A,6a6] [^C2-^g2-] [C4g4] |
+[E6g6] [B,2-^f2-] [B,4f4] |
+[^F,6^f6] [A,2-e2-] [A,4e4] |
+[^C6^c6] C2- C4 |
+[A,6a6] [^C2-^g2-] [C4g4] |
+[E6g6] [B,2-^f2-] [B,4f4] |
+[^F,6^f6] [A,2-e2-] [A,4e4] |
+[^C6^c6] C2- C4 |
+[B,3^d3] z d B, [E2-e2-] [E2e2] z ^D |
+% Bar 50 (2:38)
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+% Bar 60 (3:11)
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+z12 |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+[B,3^d3] z [^Dd] B, [E2-e2-] [E2e2] ^F D |
+z12 |
+% Bar 70 (3:43)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |]
+
+
+X:2
+T: PageantOfTheBizarre (4:10) - Basic Flute 2/8
+%%part-name Basic Flute
+M: 6/4
+Q: 111
+K: C maj
+
++mf+ z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 10 (0:29)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+[^C,6A,6] [C,2-^G,2-] [C,4G,4] |
+[G,6B,6] [^F,2-B,2-] [F,4B,4] |
+[^F,6A,6] [^C,2-A,2-] [C,4A,4] |
+% Bar 20 (1:01)
+[^C,8^G,8] z4 |
+[^C,6A,6] [C,2-^G,2-] [C,4G,4] |
+[G,6B,6] [^F,2-B,2-] [F,4B,4] |
+[^F,6A,6] [^C,2-A,2-] [C,4A,4] |
+[^C,4^G,4] z4 z4 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 30 (1:34)
+z12 |
+z12 |
+z12 |
+[^C,6A,6] [C,2-^G,2-] [C,4G,4] |
+[G,6B,6] [^F,2-B,2-] [F,4B,4] |
+[^F,6A,6] [^C,2-E,2-A,2-] [C,4E,4A,4] |
+[^C,8^G,8] z4 |
+[^C,6A,6] [C,2-^G,2-] [C,4G,4] |
+[G,6B,6] [^F,2-B,2-] [F,4B,4] |
+[^F,6A,6] [^C,2-E,2-A,2-] [C,4E,4A,4] |
+% Bar 40 (2:06)
+[^C,8^G,8] z4 |
+[^C,6E,6A,6] [C,2-E,2-^G,2-] [C,4E,4G,4] |
+[D,G,B,] [^C,^F,] [E,B,] [D,A,] [E,B,] [C,G,] [F,2-B,2-] [F,4B,4] |
+[^F,6A,6] [^C,2-E,2-A,2-] [C,4E,4A,4] |
+[^C,8^G,8] z4 |
+[^C,6E,6A,6] [C,2-E,2-^G,2-] [C,4E,4G,4] |
+[D,G,B,] [^C,^F,] [E,B,] [D,A,] [E,B,] [C,G,] [F,2-B,2-] [F,4B,4] |
+[^F,6A,6] [^C,2-E,2-A,2-] [C,2E,2A,2] +f+ E,2 |
+[^C,12^G,12] |
+z12 |
+% Bar 50 (2:38)
+z12 |
+z12 |
+z12 |
++mf+ [^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+[^D,4B,4] [^C,A,] [^F,B,] [E,2-A,2-] [E,2A,2] z2 |
+[^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+[^D,4^F,4B,4] [^C,E,A,] [F,B,] [E,2-A,2-] [E,2A,2] z2 |
+[^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+[^D,4B,4] [^C,A,] [^F,B,] [E,2-A,2-] [E,2A,2] z2 |
+[^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+% Bar 60 (3:11)
+[^D,4^F,4B,4] [^C,E,A,] [F,B,] [E,2-A,2-] [E,2A,2] z2 |
+[^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+[^D,4B,4] [^C,A,] [^F,B,] [E,2-A,2-] [E,2A,2] z2 |
+[^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+[^D,4^F,4B,4] [^C,E,A,] [F,B,] [E,2-A,2-] [E,2A,2] z2 |
+[^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+[^D,4B,4] [^C,A,] [^F,B,] [E,2-A,2-] [E,2A,2] z2 |
+[^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+[^D,4^F,4B,4] [^C,E,A,] [F,B,] [E,2-A,2-] [E,2A,2] z2 |
+z12 |
+% Bar 70 (3:43)
+[^D,3^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+[^D,4B,4] [^C,A,] [^F,B,] [E,2-A,2-] [E,2A,2] z2 |
+[^D,3^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+[^D,4^F,4B,4] [^C,E,A,] [F,B,] [E,2-A,2-] [E,2A,2] z2 |
+[^D,3^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+[^D,4B,4] [^C,A,] [^F,B,] [E,2-A,2-] [E,2A,2] z2 |
+[^D,3^F,3B,3] [F,-B,-] [F,2B,2] [E,3A,3] [F,-B,-] [F,2B,2] |
+[^D,4^F,4B,4] [^C,E,A,] [F,B,] [E,2-A,2-] [E,2A,2] z2 |
+z12 |
+z12 |]
+
+
+X:3
+T: PageantOfTheBizarre (4:10) - Basic Fiddle 3/8
+%%part-name Basic Fiddle
+M: 6/4
+Q: 111
+K: C maj
+
++mf+ z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 10 (0:29)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 20 (1:01)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 30 (1:34)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z8 A2 ^G2 |
+G3 z A G ^F E A F A A |
+^F2 z2 z4 z4 |
+% Bar 40 (2:06)
+z12 |
+z2 +mp+ ^C D E ^F ^G2 +mf+ A2 G2 |
+G3 z A G ^F E A F A A |
+^F2 A, B, ^C D E2 C z E2 |
+^G8 z4 |
+z2 A A A A ^G2 G2 G2 |
+G3 z A G A ^F A F A A |
+^F6 E2- E2 +f+ E2 |
+^G12 |
+z12 |
+% Bar 50 (2:38)
+z12 |
+z12 |
+z12 |
++mf+ B3 ^F- F2 d3 ^c- c2 |
+B z z2 A ^G ^F E- E3 z |
+B3 ^F- F2 d3 ^c- c2 |
+B z z2 A ^G ^F E- E3 z |
+B3 ^F- F2 d3 ^c- c2 |
+B z z2 A ^G ^F E- E3 z |
+B3 ^F- F2 d3 ^c- c2 |
+% Bar 60 (3:11)
+B z z2 A ^G ^F E- E3 z |
+z12 |
+B3 ^F- F2 d3 ^c- c2 |
+B z z2 A ^G ^F E- E3 z |
+B3 ^F- F2 d3 ^c- c2 |
+B z z2 A ^G ^F E- E3 z |
+B3 ^F- F2 d3 ^c- c2 |
+B z z2 A ^G ^F E- E3 z |
+[^F3B3] [^D-F-] [D2F2] [A3d3] [^G-^c-] [Gc] [FB] |
+[^G^c] [^F-B-] [F2B2] [EA] [^DG] [^CF] [B,-E-] [B,3E3] z |
+% Bar 70 (3:43)
+z12 |
+B3 ^F- F2 d3 ^c- c2 |
+B z z2 A ^G ^F E- E3 z |
+B3 ^F- F2 d3 ^c- c2 |
+B z z2 A ^G ^F E- E3 z |
+B3 ^F- F2 d3 ^c- c2 |
+B z z2 A ^G ^F E- E3 z |
+B3 ^F- F2 d3 ^c- c2 |
+B4 z4 z4 |
+z12 |]
+
+X:4
+T: PageantOfTheBizarre (4:10) - Lonely Mountain Fiddle 4/8
+%%part-name Lonely Mountain Fiddle
+M: 6/4
+Q: 111
+K: C maj
+
++mf+ z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z B, E B, E B, D3/2 B, z7/2 |
+% Bar 10 (0:29)
+E3/2 B, z3/2 E3/2 ^F z/ D3/2 z3/2 F F |
+G ^F E D B, D D3 ^C- C2 |
+E8 z4 |
+z B, E B, E B, D2 z4 |
+z2 E B, E3/2 z3/2 B,/ z/ D B,/ z/ ^F F |
+G ^F E D B, D D3 ^C- C2 |
+D ^C +mp+ D// +mf+ E23/4 z4 |
+z2 A, B, ^C D E2 C2 E2 |
+G3 z A G ^F E D ^C E E |
+^C2 A, B, C D E2 C z E2 |
+% Bar 20 (1:01)
+^G8 z4 |
+z2 A, B, ^C D E2 C2 E2 |
+G2 z2 A G ^F E D ^C E E |
+^C2 A, B, C D E2 C z E2 |
+^G4 z =G z2 z4 |
+z2 E B, E B, D2 z3 B, |
+E B, E2 E ^F D2 z2 F F |
+G ^F E D B, D D3 ^C- C D |
+^C +mp+ D// +mf+ E23/4 z z4 |
+z B, E B, E3/2 ^F3/2 D3/2 z5/2 B, |
+% Bar 30 (1:34)
+E2 z B, E B,3/2 z/ D3/2 B,/ z ^F F |
+G ^F E D B, D D3 ^C- C D |
+^C +mp+ D// +mf+ E23/4 z z4 |
+z2 A, B, ^C D E2 C2 E2 |
+G3 z A G ^F E D ^C E E |
+^C2 A, B, C D E2 C z E2 |
+^G8 z4 |
+z2 A, B, ^C D E2 C2 E2 |
+G3 z A G ^F E D ^C E E |
+^C2 A, B, C D E2 C z E2 |
+% Bar 40 (2:06)
+^G8 z4 |
+z2 A, B, ^C D E2 C2 E2 |
+G3 z A G ^F E D ^C E E |
+^C2 A, B, C D E2 C z E2 |
+^G8 z4 |
+z2 A, B, ^C D E2 C2 E2 |
+G3 z A G ^F E D ^C E E |
+^C2 A, B, C D E2 C z z2 |
+z12 |
+z12 |
+% Bar 50 (2:38)
+z12 |
+z12 |
+z12 |
+B3 ^F- F2 d3 ^c- c B |
+^c B- B2 A ^F A B- B3 z |
+B3 B- B2 A3 A- A ^F |
+A ^F- F2 E ^D E F- F3 z |
+B3 ^F- F2 d3 ^c- c B |
+^c B- B2 c B c B- B3 z |
+B3 B- B2 A3 A3/2 ^F/ z |
+% Bar 60 (3:11)
+^F z z2 E ^D E D- D3 z |
+B3 B- B2 A3 B- B A |
+B z z2 A ^F A F- F3 z |
+B3 B- B2 A3 A- A ^F |
+A z z2 A ^F A B- B3 z |
+B3 ^c- c B d3 c- c B |
+^c B- B2 A ^F A B- B3 z |
+B3 ^F- F2 d3 ^c- c B |
+^c B- B2 A ^F A F- F3 z |
+z12 |
+% Bar 70 (3:43)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |]
+
+
+X:5
+T: PageantOfTheBizarre (4:10) - Brusque Bassoon 5/8
+%%part-name Brusque Bassoon
+M: 6/4
+Q: 111
+K: C maj
+
++mf+ A B ^c d e ^f ^g a b g b c |
+d ^c b a b c b c a ^g ^f g |
+a ^g ^f g a b ^c b a g f g |
+f z z2 z4 z4 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 10 (0:29)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 20 (1:01)
+z12 |
+A B ^c d e ^f ^g a b g b c |
+d ^c b a b c b c a ^g ^f g |
+a ^g ^f g a b ^c b a g f g |
+f z z2 z4 z4 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 30 (1:34)
+z12 |
+z12 |
+z12 |
+A B ^c d e ^f ^g a b g b c |
+d ^c b a b c b c a ^g ^f g |
+a ^g ^f g a b ^c b a g f g |
+f z z2 z4 z4 |
+A B ^c d e ^f ^g a b g b c |
+d ^c b a b c b c a ^g ^f g |
+a ^g ^f g a b ^c b a g f g |
+% Bar 40 (2:06)
+f z z2 z4 z4 |
+A B ^c d e ^f ^g a b g b c |
+d ^c b a b c b c a ^g ^f g |
+a ^g ^f g a b ^c b a g f g |
+f8 z4 |
+A B ^c d e ^f ^g a b g b c |
+d ^c b a b c b c a ^g ^f g |
+a ^g ^f g a b ^c b a g f g |
+f8 z4 |
+z12 |
+% Bar 50 (2:38)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 60 (3:11)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 70 (3:43)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |]
+
+
+X:6
+T: PageantOfTheBizarre (4:10) - Lute of Ages 6/8
+%%part-name Lute of Ages
+M: 6/4
+Q: 111
+K: C maj
+
++mf+ A,2 [EA^ce] A [E2A2c2e2] ^C2 [^Gce^g] c [Gceg] G |
+E2 [Begb] e [Begb] B B,2 [^FBd^f] B [FBdf] F |
+^F,2 [^FA^c] F [FAc] F A,2 [EAce] A [EAce] A |
+^C2 [^G^cf^g] c [Gcfg] G C2 [Gcfg] c [Gcfg] G |
+E2 [Begb] e [Begb] B B,2 [Bd^fb] d [Bdfb] B |
+E2 [Begb] e [Begb] B B,2 [Bd^fb] d [Bdfb] B |
+D2 [Ad^fa] d [Adfa] A A,2 [A^cea] c [Acea] A |
+G,2 [GBdg] B [GBdg] G G,2 [GBdg] B [GBdg] G |
+E2 [Begb] e [Begb] B B,2 [Bd^fb] d [Bdfb] B |
+% Bar 10 (0:29)
+E2 [Begb] e [Begb] B B,2 [Bd^fb] d [Bdfb] B |
+D2 [Ad^fa] d [Adfa] A A,2 [A^cea] c [Acea] A |
+G,2 [GBdg] B [GBdg] G G,2 [GBdg] B [GBdg] G |
+E2 [Begb] e [Begb] B B,2 [Bd^fb] d [Bdfb] B |
+E2 [Begb] e [Begb] B B,2 [Bd^fb] d [Bdfb] B |
+D2 [Ad^fa] d [Adfa] A A,2 [A^cea] c [Acea] A |
+G,2 [GBdg] B [GBdg] G G,2 [GBdg] B [GBdg] G |
+A,2 [EA^ce] A [E2A2c2e2] ^C2 [^Gce^g] c [Gceg] G |
+E2 [Begb] e [Begb] B B,2 [^FBd^f] B [FBdf] F |
+^F,2 [^FA^c] F [FAc] F A,2 [EAce] A [EAce] A |
+% Bar 20 (1:01)
+^C2 [^G^cf^g] c [Gcfg] G C2 [Gcfg] c [Gcfg] G |
+A,2 [EA^ce] A [E2A2c2e2] ^C2 [^Gce^g] c [Gceg] G |
+E2 [Begb] e [Begb] B B,2 [^FBd^f] B [FBdf] F |
+^F,2 [^FA^c] F [FAc] F A,2 [EAce] A [EAce] A |
+^C2 [^G^cf^g] c [Gcfg] G G,2 [=GBd=g] B [GBdg] G |
+E2 [Begb] e [Begb] B B,2 [Bd^fb] d [Bdfb] B |
+E2 [Begb] e [Begb] B B,2 [Bd^fb] d [Bdfb] B |
+D2 [Ad^fa] d [Adfa] A A,2 [A^cea] c [Acea] A |
+G,2 [GBdg] B [GBdg] G G,2 [GBdg] B [GBdg] G |
+E2 [Begb] e [Begb] B B,2 [Bd^fb] d [Bdfb] B |
+% Bar 30 (1:34)
+E2 [Begb] e [Begb] B B,2 [Bd^fb] d [Bdfb] B |
+D2 [Ad^fa] d [Adfa] A A,2 [A^cea] c [Acea] A |
+G,2 [GBdg] B [GBdg] G G,2 [GBdg] B [GBdg] G |
+A,2 [EA^ce] A [E2A2c2e2] ^C2 [^Gce^g] c [Gceg] G |
+E2 [Begb] e [Begb] B B,2 [^FBd^f] B [FBdf] F |
+^F,2 [^FA^c] F [FAc] F A,2 [EAce] A [EAce] A |
+^C2 [^G^cf^g] c [Gcfg] G C2 [Gcfg] c [Gcfg] G |
+A,2 [EA^ce] A [E2A2c2e2] ^C2 [^Gce^g] c [Gceg] G |
+E2 [Begb] e [Begb] B B,2 [^FBd^f] B [FBdf] F |
+^F,2 [^FA^c] F [FAc] F A,2 [EAce] A [EAce] A |
+% Bar 40 (2:06)
+^C2 [^G^cf^g] c [Gcfg] G C2 [Gcfg] c [Gcfg] G |
+A,2 [EA^ce] A [E2A2c2e2] ^C2 [^Gce^g] c [Gceg] G |
+E2 [Begb] e [Begb] B B,2 [^FBd^f] B [FBdf] F |
+^F,2 [^FA^c] F [FAc] F A,2 [EAce] A [EAce] A |
+^C2 [^G^cf^g] c [Gcfg] G C2 [Gcfg] c [Gcfg] G |
+A,2 [EA^ce] A [E2A2c2e2] ^C2 [^Gce^g] c [Gceg] G |
+E2 [Begb] e [Begb] B B,2 [^FBd^f] B [FBdf] F |
+^F,2 [^FA^c] F [FAc] F A,2 [EAce] A [EAce] A |
+^C2 [^G^cf^g] c [Gcfg] G C2 [Gcfg] c [Gcfg] G |
++mp+ [B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+% Bar 50 (2:38)
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+% Bar 60 (3:11)
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+z12 |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,4^F4B4^d4] [B,2F2B2d2] [B,2-F2-B2-e2-] [B,2F2B2e2] [B,2F2B2e2] |
+[B,3^f3] ^d f2 [E3^g3] e g2 |
+% Bar 70 (3:43)
+[B,2^f2] b ^d f2 [E2^g2] b e g2 |
+[B,2^f2] b ^d f2 [E2^g2] b e g2 |
+[B,2^f2] b ^d f2 [E2^g2] b e g b |
+[B,2^f2] b ^d f2 [E2^g2] b e g2 |
+[B,2^f2] b ^d f2 [E2^g2] b e g2 |
+[B,2^f2] b ^d f2 [E2^g2] b e g2 |
+[B,2^f2] b ^d f2 [E2^g2] b e g2 |
+[B,2^f2] b ^d f2 [E2^g2] b e g e |
+[B12^d12^f12b12] |
+z12 |]
+
+
+X:7
+T: PageantOfTheBizarre (4:10) - Basic Theorbo 7/8
+%%part-name Basic Theorbo
+M: 6/4
+Q: 111
+K: C maj
+
++mf+ z12 |
+z12 |
+z12 |
+z12 |
+E2 e E e E B,2 B2 ^F2 |
+E2 e E e E B,2 B2 ^F2 |
+D2 d D d D A,2 A2 E2 |
+G,2 z D z D G,3 D G D |
+E2 e E e E B,2 B2 ^F2 |
+% Bar 10 (0:29)
+E2 e E e E B,2 B2 ^F2 |
+D2 d D d D A,2 A2 E2 |
+G,3 D G D G,2- G,2 e B, |
+E2 e E e E B,2 B2 ^F2 |
+E2 e E e E B,2 B2 ^F2 |
+D2 d D d D A,3 E A2 |
+G,2 z G z D G,2- G,4 |
+A,2 z G, A, B, ^C2 ^c2 ^G2 |
+E3 D E ^F B,2 B2 F2 |
+^F,3 E, F, ^G, A,3 G, A, B, |
+% Bar 20 (1:01)
+^C3 ^G- G ^c C3 C E C |
+A,2 z G, A, B, ^C2 ^c2 ^G2 |
+E3 D E ^F B,2 B2 F2 |
+^F,3 E, F, ^G, A,3 G, A, B, |
+^C3 ^G- G ^c =G2- G2 D ^D |
+E2 e E e E B,2 B2 B,2 |
+E2 e E e E B,2 B2 B,2 |
+D2 d D d D A,2 A2 A,2 |
+G,2 z D z D G,3 A, D A, |
+E2 e E e E B,2 B2 B,2 |
+% Bar 30 (1:34)
+E2 e E e E B,2 B2 B,2 |
+D2 d D d D A,2 A2 A,2 |
+G,2 z D z D G,3 G,- G, ^G, |
+A,2 z G, A, B, ^C2 ^c2 ^G2 |
+E3 D E ^F B,2 B2 F2 |
+^F,3 E, F, ^G, A,3 G, A, B, |
+^C3 ^c z ^G C3 C G C |
+A,2 z G, A, B, ^C2 ^c2 ^G2 |
+E3 D E ^F B,2 B2 F2 |
+^F,3 E, F, ^G, A,3 G, A, B, |
+% Bar 40 (2:06)
+^C3 C z ^G, C2 z C z G, |
+A,2 z G, A, B, ^C2 ^c2 ^G2 |
+E3 D E ^F B,2 B2 F2 |
+^F,3 E, F, ^G, A,3 G, A, B, |
+^C3 ^G- G C C G C2 G C |
+A,2 z G, A, B, ^C2 ^c2 ^G2 |
+E3 D E ^F B,2 B2 F2 |
+^F,3 E, F, ^G, A,2 B,2 C2 |
+^C12 |
+z12 |
+% Bar 50 (2:38)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 60 (3:11)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 70 (3:43)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |]
+
+
+X:8
+T: PageantOfTheBizarre (4:10) - Basic Drum 8/8
+%%part-name Basic Drum
+M: 6/4
+Q: 111
+K: C maj
+
++f+ z12 |
+z12 |
+z12 |
+z12 |
+[^C2G2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+% Bar 10 (0:29)
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^CA] E E [CE] E [CE] [CE] E E [CE] E [Cc] |
+[^CE] E E [CE] E [CE] [CE] E E [CE] E [CE] |
+[^CE] E E [CE] E [Cc] [CE] E E [CE] E [CE] |
+% Bar 20 (1:01)
+[^CE] E E [CE] E [CE] [CE] E E [CE] E [Cc] |
+[^CA] E E [CE] E [CE] [CE] E E [CE] E [Cc] |
+[^CE] E E [CE] E [CE] [CE] E E [CE] E [CE] |
+[^CE] E E [CE] E [Cc] [CE] E E [CE] E [CE] |
+[^CE] E E [CE] E [Cc] [CE] E E [Cc] E [CE] |
+[^C2A2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E +mf+ [CG] |
+[^C2E2A2] +f+ E C E C [C2E2] E [CE] E C |
+% Bar 30 (1:34)
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E C |
+[^C2E2] E C E C [C2E2] E [CE] E +mf+ [CE] |
++f+ [^CA] +mp+ E +mf+ E [CE] E [CE] +f+ [CE] +mf+ E E +mp+ [CE] +mf+ E +f+ [CE] |
+[^CE] +mf+ E E +mp+ [CE] +mf+ E [CE] +f+ [CE] +mf+ E +mp+ E [CE] +mf+ E [CE] |
++f+ [^CE] +mf+ E E +mp+ [CE] +mf+ E [CE] +f+ [CE] E E [CE] E [CE] |
+[^CE] E E [CE] E [CE] [CE] E E [CE] E [CE] |
+[^CA] E E [CE] E [CE] [CE] E E [CE] E [CE] |
+[^CE] E E [CE] E [CE] [CE] E E [CE] E [CE] |
+[^CE] E E [CE] E [CE] [CE] E E [CE] E [CE] |
+% Bar 40 (2:06)
+[^CE] E E [CE] E [CE] [CE] E E [Cc] E [CE] |
+[^CA] E E [CE] E [CE] [CE] E E [CE] E [CE] |
+[^CE] E E [CE] E [CE] [CE] E E [CE] E [CE] |
+[^CE] E E [CE] E [CE] [CE] E E [CE] E [CE] |
+[^CE] E E [CE] E [CE] [CE] E E [CE] E [Cc] |
+[^CA] E E [CE] E [CE] [CE] E E [Cc] E E |
+[^CE] E E [CE] E [CE] [CE] E E [Cc] E [CE] |
+[^CE] E E [CE] E [CE] [CE] E E [Cc] E [CE] |
+[^C12A12c12] |
+z12 |
+% Bar 50 (2:38)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 60 (3:11)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+% Bar 70 (3:43)
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |
+z12 |]
+
+
