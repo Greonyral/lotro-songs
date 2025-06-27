@@ -1,0 +1,537 @@
+%abc-2.1
+%%song-title       HorseRace
+%%song-duration    1:42
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: HorseRace (1:42) - Lute of Ages
+%%part-name Lute of Ages
+M: 4/4
+Q: 143
+K: C maj
+
++f+ z8 |
+[D,A] [A,A] [D,A] [A,A] [D,A] [A,A] [D,A] [A,A] |
+[D,A] [A,A] [D,A] [A,A] [D,A] [A,A] [D,A] [A,A] |
+[D,A] [A,A] [D,A] [A,A] [D,A] [A,A] [D,A] [A,A] |
+[Ad] [Ad] [Ad] [Ad] [Ad] [Ad] [Ad] [Ad] |
+[FA] z3 [Ad] z3 |
+C [Gc] G, [Gc] C [Gc] G, [Gc] |
+[FA] z3 [Ad] z3 |
+C [Gc] G, [Gc] C [Gc] G, [Gc] |
+% Bar 10 (0:15)
+C [Gc] G, [Gc] C [Gc] G, [Gc] |
+C [Gc] G, [Gc] C [Gc] G, [Gc] |
+C [Gc] G, [Gc] C [Gc] G, [Gc] |
+[Gc] [Gc] [Gc] [Gc] [Gc] [Gc] [Gc] [Gc] |
+D,/ D/ D,/ D/ D/ d/ D/ d/ C/ c/ C/ c/ A,/ A/ A,/ A/ |
+G,/ G/ G,/ G/ C/ c/ C/ c/ A,/ A/ A,/ A/ F,/ F/ F,/ F/ |
+D,/ D/ D,/ D/ D/ d/ D/ d/ C/ c/ C/ c/ A,/ A/ A,/ A/ |
+G,/ G/ G,/ G/ C/ c/ C/ c/ A,/ A/ A,/ A/ F,/ F/ F,/ F/ |
+D [Ad] A, [Ad] D [Ad] A, [Ad] |
+D [Ad] A, [Ad] D [Ad] A, [Ad] |
+% Bar 20 (0:31)
+D [Ad] A, [Ad] D [Ad] A, [Ad] |
+[D3/2A3/2] z/ [Ad] [Ad] [A3/2d3/2] z5/2 |
+D, A, D A, C, G, C G, |
+C, G, C G, D, A, D A, |
+D, A, D A, C, G, C G, |
+G, C E C A, C E C |
+F, A, C F A, D F A |
+C E G c E G c e |
+F G A c d A d f |
+g a f g d3/2 z/ D3/2 z/ |
+% Bar 30 (0:48)
+D [Ad] [Ad] [Ad] C [Ac] [Ac] [Ac] |
+C [Ac] [Ac] [Ac] D [Ad] [Ad] [Ad] |
+D [Ad] [Ad] [Ad] C [Ac] [Ac] [Ac] |
+G, [EG] [EG] [EG] C [FA] [FA] [FA] |
+F [df] [df] [df] C [Ac] [Ac] [Ac] |
+G, [EG] [EG] [EG] F, [FA] [FA] [FA] |
+F z7 |
+g a f g d3/2 z/ D3/2 z/ |
+a/ a/ a/ a/ d/ d/ d/ d/ c'/ c'/ c'/ c'/ c'/ c'/ a/ a/ |
+c'/ c'/ d/ d/ f/ f/ f/ f/ d/ d/ d/ d/ d/ d/ d/ d/ |
+% Bar 40 (1:05)
+a/ a/ a/ a/ d/ d/ d/ d/ c'/ c'/ c'/ c'/ c'/ c'/ a/ a/ |
+g/ g/ a/ a/ d/ d/ c'/ c'/ a/ a/ a/ a/ a/ a/ a/ a/ |
+c'/ c'/ c'/ c'/ d/ d/ f/ f/ f/ f/ f/ f/ f/ f/ d/ d/ |
+g/ g/ a/ a/ d/ d/ c'/ c'/ a/ a/ a/ a/ a/ a/ g/ g/ |
+f/ f/ g/ g/ a/ a/ c'/ c'/ d/ d/ d/ d/ d/ d/ d/ d/ |
+g/ g/ a/ a/ f/ f/ g/ g/ d3/2 z/ [D3/2d3/2] z/ |
+D [Ad] A, [Ad] D [Ad] A, [Ad] |
+D [Ad] A, [Ad] D [Ad] A, [Ad] |
+[Ff] [cf] [Cf] [cf] [Ff] [cf] [Cf] [cf] |
+[Ff] [cf] [Cf] [cf] D [Ad] A, [Ad] |
+% Bar 50 (1:22)
+[Ff] [cf] [Cf] [cf] [Ff] [cf] [Cf] [cf] |
+[Ff] [cf] [Cf] [cf] D [Ad] A, [Ad] |
+[A,3/2D3/2] z5/2 [A,3/2D3/2] z5/2 |
+[D3/2A3/2] z5/2 [D3/2A3/2] z5/2 |
+[A,3/2D3/2] z/ [C3/2G3/2] z/ [D3/2A3/2] z/ [F3/2c3/2] z/ |
+[G3/2c3/2] z/ [A3/2d3/2] z/ [c3/2f3/2] z/ [d3/2g3/2] z/ |
+[f3/2a3/2] z/ [f3/2a3/2] z/ [f3/2a3/2] z/ [f3/2a3/2] z/ |
+[fa] [fa] [fa] [fa] [fa] [fa] [fa] [fa] |
+[D,D] [Dd] [Cc] [A,A] [G,G] [Cc] [A,A] [G,G] |
+[F,F] [A,A] [G,G] [F,F] [D,3/2D3/2] z5/2 |
+% Bar 60 (1:39)
+[D3/2d3/2] z/ [D3/2d3/2] z/ D,/ [D,/D/] [D,/D/] [D,/D/] [D,/D/] [D,/D/] [D,/D/] [D,/D/] |
+[D,/D/] [D,/D/] [D,/D/] [D,/D/] [D,/D/] [D,/D/] [D,/D/] [D,/D/] [D,3/2D3/2] z5/2 |]
+
+
+X: 3
+T: HorseRace (1:42) - Basic Theorbo
+%%part-name Basic Theorbo
+M: 4/4
+Q: 143
+K: C maj
+
++f+ z8 |
+d3/2 z/ A3/2 z/ d3/2 z/ A3/2 z/ |
+d3/2 z/ A3/2 z/ d3/2 z/ A3/2 z/ |
+d3/2 z/ d3/2 z/ d3/2 z/ d3/2 z/ |
+d3 z d3 z |
+D3 z A3 z |
+G3/2 z/ C3/2 z/ G3/2 z/ C3/2 z/ |
+D3 z A3 z |
+G3/2 z/ C3/2 z/ G3/2 z/ C3/2 z/ |
+% Bar 10 (0:15)
+G3/2 z/ D3/2 z/ G3/2 z/ D3/2 z/ |
+G3/2 z/ D3/2 z/ G3/2 z/ D3/2 z/ |
+G3/2 z/ G3/2 z/ G3/2 z/ G3/2 z/ |
+G3 z G3 z |
+D3/2 z/ d3/2 z/ c3/2 z/ A3/2 z/ |
+G3/2 z/ c3/2 z/ A3/2 z/ F3/2 z/ |
+D3/2 z/ d3/2 z/ c3/2 z/ A3/2 z/ |
+G3/2 z/ c3/2 z/ A3/2 z/ F3/2 z/ |
+d3/2 z/ A3/2 z/ d3/2 z/ A3/2 z/ |
+d3/2 z/ A3/2 z/ d3/2 z/ A3/2 z/ |
+% Bar 20 (0:31)
+d3/2 z/ D3/2 z/ d3/2 z/ D3/2 z/ |
+d3/2 z/ d3/2 z/ D3/2 z5/2 |
+A3 z c3 z |
+c3 z d3 z |
+A3 z c3 z |
+G3 z A3 z |
+c3 z F3 z |
+G3 z A3 z |
+F3 z d3/2 z/ D3/2 z/ |
+G3/2 z/ F3/2 z/ D3 z |
+% Bar 30 (0:48)
+A3/2 z/ d3/2 z/ c3/2 z/ A3/2 z/ |
+c3/2 z/ F3/2 z/ D3 z |
+A3/2 z/ d3/2 z/ c3/2 z/ A3/2 z/ |
+G3/2 z/ D3/2 z/ A3 z |
+c3/2 z/ d3/2 z/ F3/2 z/ D3/2 z/ |
+G3/2 z/ d3/2 z/ A3 z |
+F3/2 z13/2 |
+G3/2 z/ F3/2 z/ D3 z |
+A3 z c3 z |
+c3 z d3 z |
+% Bar 40 (1:05)
+A3 z c3 z |
+G3 z A3 z |
+c3 z F3 z |
+G3 z A3 z |
+F3 z D3 z |
+G3/2 z/ F3/2 z/ D3 z |
+d3/2 z/ A3/2 z/ d3/2 z/ A3/2 z/ |
+d3/2 z/ A3/2 z/ d3/2 z/ A3/2 z/ |
+F3/2 z/ C3/2 z/ F3/2 z/ C3/2 z/ |
+F3/2 z/ C3/2 z/ D3 z |
+% Bar 50 (1:22)
+F3/2 z/ C3/2 z/ F3/2 z/ C3/2 z/ |
+F3/2 z/ C3/2 z/ D3 z |
+D3 z A3 z |
+d3 z A3 z |
+F3/2 z/ G3/2 z/ A3/2 z/ c3/2 z/ |
+c3/2 z/ D3/2 z/ F3/2 z/ G3/2 z/ |
+A3/2 z/ A3/2 z/ A3/2 z/ A3/2 z/ |
+A3/2 z/ A3/2 z/ A3/2 z/ A3/2 z/ |
+d3/2 z/ c3/2 z/ G3/2 z/ A3/2 z/ |
+F3/2 z/ G3/2 z/ D3 z |
+% Bar 60 (1:39)
+D3/2 z/ D3/2 z/ D4- |
+D3 z D3/2 z5/2 |]
+
+
+X: 5
+T: HorseRace (1:42) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 4/4
+Q: 143
+K: C maj
+
++ff+ z8 |
+d2 z A/ c/ d2 z A/ c/ |
+d2 z A/ c/ d2 z A/ c/ |
+d/ c/ A/ c/ d/ c/ A/ c/ d/ c/ A/ c/ d/ c/ A/ c/ |
+d/ z/ c/ d/ d/ z/ c/ d/ d/ z/ c/ d/ d/ z/ c/ d/ |
+D/ z/ A/ z/ F/ z/ D/ z/ A/ z/ d/ z/ c/ z/ A/ z/ |
+G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ |
+D/ z/ A/ z/ F/ z/ D/ z/ A/ z/ d/ z/ c/ z/ A/ z/ |
+G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ |
+% Bar 10 (0:15)
+G2 z D/ F/ G2 z D/ F/ |
+G2 z D/ F/ G2 z D/ F/ |
+G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ |
+G/ z/ F/ G/ G/ z/ F/ G/ G/ z/ F/ G/ G/ z/ F/ G/ |
+D2 d2 c2 A2 |
+G2 c2 A2 F2 |
+D2 d2 c2 A2 |
+G2 c2 A2 F2 |
+D2 z F/ G/ D2 z F/ G/ |
+D2 z F/ G/ D2 z F/ G/ |
+% Bar 20 (0:31)
+D/ G/ F/ G/ D/ G/ F/ G/ D/ G/ F/ G/ D/ G/ F/ G/ |
+D3/2 z/ D/ z/ D/ z/ D3 z |
+A2 d3/2 f/ c3 A |
+c d f/ [f/a/] [f/a/] [f/a/] [d/-a/] d7/2 |
+A2 d3/2 f/ c3 A |
+G A d c/ [c/e/] [A/-e/] A7/2 |
+c2 d3/2 f/ F3 D |
+G A d c/ [c/e/] [A/-e/] A5/2 G |
+F/ z/ G/ z/ A/ z/ c/ z/ d3/2 z/ D3/2 z/ |
+G A F A/ [F/A/] [D/-F/] D7/2 |
+% Bar 30 (0:48)
+A/ z/ A/ A/ d/ z/ f/ z/ c/ z/ c/ c/ c/ z/ A/ z/ |
+c/ z/ c/ d/ f/ z/ g/ f/ d/ z/ d/ d/ d/ z/ D/ z/ |
+A/ z/ A/ A/ d/ z/ f/ z/ c/ z/ c/ c/ c/ z/ A/ z/ |
+G/ z/ G/ A/ d/ z/ c/ z/ A/ z/ A/ c/ A/ z/ D/ z/ |
+c/ z/ c/ c/ d/ z/ f/ z/ F/ z/ F/ F/ F/ z/ D/ z/ |
+G/ z/ G/ A/ d/ z/ c/ z/ A/ z/ A/ c/ A/ z/ G/ z/ |
+F/ D/ F/ G/ A/ G/ A/ c/ d/ c/ d/ f/ c/ d/ c/ A/ |
+G/ A/ G/ F/ G/ F/ D/ F/ D/ z3/2 d/ z3/2 |
+z8 |
+z8 |
+% Bar 40 (1:05)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 z2 z3/2 [A/c/] |
+d2 z A/ c/ D2 z A/ c/ |
+d2 z A/ c/ D2 z F/ G/ |
+A/ G/ A/ c/ d/ f/ d/ c/ A/ G/ A/ c/ d/ f/ d/ c/ |
+A/ c/ A/ G/ F/ z/ A/ z/ D2 z F/ G/ |
+% Bar 50 (1:22)
+A/ G/ A/ c/ d/ f/ d/ c/ A/ G/ A/ c/ d/ f/ d/ c/ |
+A/ c/ A/ G/ F/ z/ A/ z/ D2 z A/ d/ |
+f/ z/ d/ z/ d/ z/ a/ z/ f/ z/ d/ z/ d/ z/ A/ z/ |
+f/ z/ d/ z/ d/ z/ a/ z/ f/ z/ d/ z/ d/ z/ A/ z/ |
+F/ z/ D/ F/ G/ z/ F/ G/ A/ z/ G/ A/ c/ z/ A/ c/ |
+c/ z/ A/ c/ d/ z/ c/ d/ f/ z/ d/ f/ g/ z/ f/ g/ |
+a/ g/ f/ g/ a/ g/ f/ g/ a/ g/ f/ g/ a/ g/ f/ g/ |
+a/ g/ f/ g/ a/ g/ f/ g/ a/ g/ f/ g/ a/ g/ a/ c'/ |
+d/ [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] |
+[d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] z7/2 |
+% Bar 60 (1:39)
+d3/2 z/ d3/2 z/ D4- |
+D3 z D3/2 z5/2 |]
+
+
+X: 7
+T: HorseRace (1:42) - Brusque Bassoon
+%%part-name Brusque Bassoon
+M: 4/4
+Q: 143
+K: C maj
+
++f+ z8 |
+[Da] [Aa] [Da] [Aa] [Da] [Aa] [Da] [Aa] |
+[Da] [Aa] [Da] [Aa] [Da] [Aa] [Da] [Aa] |
+[Da] [Aa] [Da] [Aa] [Da] [Aa] [Da] [Aa] |
+[da] [da] [da] [da] [da] [da] [da] [da] |
+[fa] z3 [da] z3 |
+c [gc'] G [gc'] c [gc'] G [gc'] |
+[fa] z3 [da] z3 |
+c [gc'] G [gc'] c [gc'] G [gc'] |
+% Bar 10 (0:15)
+c [gc'] G [gc'] c [gc'] G [gc'] |
+c [gc'] G [gc'] c [gc'] G [gc'] |
+c [gc'] G [gc'] c [gc'] G [gc'] |
+[gc'] [gc'] [gc'] [gc'] [gc'] [gc'] [gc'] [gc'] |
+D/ d/ D/ d/ d/ d/ d/ d/ c/ c'/ c/ c'/ A/ a/ A/ a/ |
+G/ g/ G/ g/ c/ c'/ c/ c'/ A/ a/ A/ a/ F/ f/ F/ f/ |
+D/ d/ D/ d/ d/ d/ d/ d/ c/ c'/ c/ c'/ A/ a/ A/ a/ |
+G/ g/ G/ g/ c/ c'/ c/ c'/ A/ a/ A/ a/ F/ f/ F/ f/ |
+d [da] A [da] d [da] A [da] |
+d [da] A [da] d [da] A [da] |
+% Bar 20 (0:31)
+d [da] A [da] d [da] A [da] |
+[d3/2a3/2] z/ [da] [da] [d3/2a3/2] z5/2 |
+D A d A C G c G |
+C G c G D A d A |
+D A d A C G c G |
+G c e c A c e c |
+F A c f A d f a |
+c e g c' e g c' e |
+f g a c' d a d f |
+g a f g d3/2 z/ d3/2 z/ |
+% Bar 30 (0:48)
+d [da] [da] [da] c [ac'] [ac'] [ac'] |
+c [ac'] [ac'] [ac'] d [da] [da] [da] |
+d [da] [da] [da] c [ac'] [ac'] [ac'] |
+G [eg] [eg] [eg] c [fa] [fa] [fa] |
+f [df] [df] [df] c [ac'] [ac'] [ac'] |
+G [eg] [eg] [eg] F [fa] [fa] [fa] |
+f z7 |
+g a f g d3/2 z/ d3/2 z/ |
+a/ a/ a/ a/ d/ d/ d/ d/ c'/ c'/ c'/ c'/ c'/ c'/ a/ a/ |
+c'/ c'/ d/ d/ f/ f/ f/ f/ d/ d/ d/ d/ d/ d/ d/ d/ |
+% Bar 40 (1:05)
+a/ a/ a/ a/ d/ d/ d/ d/ c'/ c'/ c'/ c'/ c'/ c'/ a/ a/ |
+g/ g/ a/ a/ d/ d/ c'/ c'/ a/ a/ a/ a/ a/ a/ a/ a/ |
+c'/ c'/ c'/ c'/ d/ d/ f/ f/ f/ f/ f/ f/ f/ f/ d/ d/ |
+g/ g/ a/ a/ d/ d/ c'/ c'/ a/ a/ a/ a/ a/ a/ g/ g/ |
+f/ f/ g/ g/ a/ a/ c'/ c'/ d/ d/ d/ d/ d/ d/ d/ d/ |
+g/ g/ a/ a/ f/ f/ g/ g/ d3/2 z/ d3/2 z/ |
+d [da] A [da] d [da] A [da] |
+d [da] A [da] d [da] A [da] |
+f [fc'] [cf] [fc'] f [fc'] [cf] [fc'] |
+f [fc'] [cf] [fc'] d [da] A [da] |
+% Bar 50 (1:22)
+f [fc'] [cf] [fc'] f [fc'] [cf] [fc'] |
+f [fc'] [cf] [fc'] d [da] A [da] |
+[A3/2d3/2] z5/2 [A3/2d3/2] z5/2 |
+[d3/2a3/2] z5/2 [d3/2a3/2] z5/2 |
+[A3/2d3/2] z/ [c3/2g3/2] z/ [d3/2a3/2] z/ [f3/2c'3/2] z/ |
+[g3/2c'3/2] z/ [d3/2a3/2] z/ [f3/2c'3/2] z/ [d3/2g3/2] z/ |
+[f3/2a3/2] z/ [f3/2a3/2] z/ [f3/2a3/2] z/ [f3/2a3/2] z/ |
+[fa] [fa] [fa] [fa] [fa] [fa] [fa] [fa] |
+[Dd] d [cc'] [Aa] [Gg] [cc'] [Aa] [Gg] |
+[Ff] [Aa] [Gg] [Ff] [D3/2d3/2] z5/2 |
+% Bar 60 (1:39)
+d3/2 z/ d3/2 z/ D/ [D/d/] [D/d/] [D/d/] [D/d/] [D/d/] [D/d/] [D/d/] |
+[D/d/] [D/d/] [D/d/] [D/d/] [D/d/] [D/d/] [D/d/] [D/d/] [D3/2d3/2] z5/2 |]
+
+
+X: 8
+T: HorseRace (1:42) - Basic Drum
+%%part-name Basic Drum
+M: 4/4
+Q: 143
+K: C maj
+
++mp+ ^D3/2 z/ +mf+ D3/2 z/ D3/2 z5/2 |
++f+ [Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+% Bar 10 (0:15)
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+% Bar 20 (0:31)
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+% Bar 30 (0:48)
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+% Bar 40 (1:05)
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+% Bar 50 (1:22)
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] D [G,B] D |
+% Bar 60 (1:39)
+[Bg] ^D G, D [Bg] D [G,B] D |
+[Bg] ^D G, D [Bg] z3 |]
+
+
+X: 9
+T: HorseRace (1:42) - Lonely Mountain Fiddle
+%%part-name Lonely Mountain Fiddle
+M: 4/4
+Q: 143
+K: C maj
+
++ff+ z8 |
+d2 z A/ c/ d2 z A/ c/ |
+d2 z A/ c/ d2 z A/ c/ |
+d/ c/ A/ c/ d/ c/ A/ c/ d/ c/ A/ c/ d/ c/ A/ c/ |
+d/ z/ c/ d/ d/ z/ c/ d/ d/ z/ c/ d/ d/ z/ c/ d/ |
+D/ z/ A/ z/ F/ z/ D/ z/ A/ z/ d/ z/ c/ z/ A/ z/ |
+G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ |
+D/ z/ A/ z/ F/ z/ D/ z/ A/ z/ d/ z/ c/ z/ A/ z/ |
+G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ |
+% Bar 10 (0:15)
+G2 z D/ F/ G2 z D/ F/ |
+G2 z D/ F/ G2 z D/ F/ |
+G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ G/ A/ G/ F/ |
+G/ z/ F/ G/ G/ z/ F/ G/ G/ z/ F/ G/ G/ z/ F/ G/ |
+D2 d2 c2 A2 |
+G2 c2 A2 F2 |
+D2 d2 c2 A2 |
+G2 c2 A2 F2 |
+D2 z F/ G/ D2 z F/ G/ |
+D2 z F/ G/ D2 z F/ G/ |
+% Bar 20 (0:31)
+D/ G/ F/ G/ D/ G/ F/ G/ D/ G/ F/ G/ D/ G/ F/ G/ |
+D3/2 z/ D/ z/ D/ z/ D3 z |
+A2 d3/2 f/ c3 A |
+c d f/ [f/a/] [f/a/] [f/a/] [d/-a/] d7/2 |
+A2 d3/2 f/ c3 A |
+G A d c/ [c/e/] [A/-e/] A7/2 |
+c2 d3/2 f/ F3 D |
+G A d c/ [c/e/] [A/-e/] A5/2 G |
+F/ z/ G/ z/ A/ z/ c/ z/ d3/2 z/ D3/2 z/ |
+G A F A/ [F/A/] [D/-F/] D7/2 |
+% Bar 30 (0:48)
+A/ z/ A/ A/ d/ z/ f/ z/ c/ z/ c/ c/ c/ z/ A/ z/ |
+c/ z/ c/ d/ f/ z/ g/ f/ d/ z/ d/ d/ d/ z/ D/ z/ |
+A/ z/ A/ A/ d/ z/ f/ z/ c/ z/ c/ c/ c/ z/ A/ z/ |
+G/ z/ G/ A/ d/ z/ c/ z/ A/ z/ A/ c/ A/ z/ D/ z/ |
+c/ z/ c/ c/ d/ z/ f/ z/ F/ z/ F/ F/ F/ z/ D/ z/ |
+G/ z/ G/ A/ d/ z/ c/ z/ A/ z/ A/ c/ A/ z/ G/ z/ |
+F/ D/ F/ G/ A/ G/ A/ c/ d/ c/ d/ f/ c/ d/ c/ A/ |
+G/ A/ G/ F/ G/ F/ D/ F/ D/ z3/2 d/ z3/2 |
+z8 |
+z8 |
+% Bar 40 (1:05)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 z2 z3/2 [A/c/] |
+d2 z A/ c/ D2 z A/ c/ |
+d2 z A/ c/ D2 z F/ G/ |
+A/ G/ A/ c/ d/ f/ d/ c/ A/ G/ A/ c/ d/ f/ d/ c/ |
+A/ c/ A/ G/ F/ z/ A/ z/ D2 z F/ G/ |
+% Bar 50 (1:22)
+A/ G/ A/ c/ d/ f/ d/ c/ A/ G/ A/ c/ d/ f/ d/ c/ |
+A/ c/ A/ G/ F/ z/ A/ z/ D2 z A/ d/ |
+f/ z/ d/ z/ d/ z/ a/ z/ f/ z/ d/ z/ d/ z/ A/ z/ |
+f/ z/ d/ z/ d/ z/ a/ z/ f/ z/ d/ z/ d/ z/ A/ z/ |
+F/ z/ D/ F/ G/ z/ F/ G/ A/ z/ G/ A/ c/ z/ A/ c/ |
+c/ z/ A/ c/ d/ z/ c/ d/ f/ z/ d/ f/ g/ z/ f/ g/ |
+a/ g/ f/ g/ a/ g/ f/ g/ a/ g/ f/ g/ a/ g/ f/ g/ |
+a/ g/ f/ g/ a/ g/ f/ g/ a/ g/ f/ g/ a/ g/ a/ c'/ |
+d/ [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] |
+[d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] [d/f/] z7/2 |
+% Bar 60 (1:39)
+d3/2 z/ d3/2 z/ D4- |
+D3 z D3/2 z5/2 |]
+
+
+X: 19
+T: HorseRace (1:42) - Sprightly Fiddle
+%%part-name Sprightly Fiddle
+M: 4/4
+Q: 143
+K: C maj
+
++f+ z8 |
+D,3/2 z/ A,3/2 z/ D,3/2 z/ A,3/2 z/ |
+D,3/2 z/ A,3/2 z/ D,3/2 z/ A,3/2 z/ |
+D,3/2 z/ D,3/2 z/ D,3/2 z/ D,3/2 z/ |
+D,3 z D,3 z |
+D,3 z A,3 z |
+G,3/2 z/ C,3/2 z/ G,3/2 z/ C,3/2 z/ |
+D,3 z A,3 z |
+G,3/2 z/ C,3/2 z/ G,3/2 z/ C,3/2 z/ |
+% Bar 10 (0:15)
+G,3/2 z/ D,3/2 z/ G,3/2 z/ D,3/2 z/ |
+G,3/2 z/ D,3/2 z/ G,3/2 z/ D,3/2 z/ |
+G,3/2 z/ G,3/2 z/ G,3/2 z/ G,3/2 z/ |
+G,3 z G,3 z |
+D,3/2 z/ D,3/2 z/ C,3/2 z/ A,3/2 z/ |
+G,3/2 z/ C,3/2 z/ A,3/2 z/ F,3/2 z/ |
+D,3/2 z/ D,3/2 z/ C,3/2 z/ A,3/2 z/ |
+G,3/2 z/ C,3/2 z/ A,3/2 z/ F,3/2 z/ |
+D,3/2 z/ A,3/2 z/ D,3/2 z/ A,3/2 z/ |
+D,3/2 z/ A,3/2 z/ D,3/2 z/ A,3/2 z/ |
+% Bar 20 (0:31)
+D,3/2 z/ D,3/2 z/ D,3/2 z/ D,3/2 z/ |
+D,3/2 z/ D,3/2 z/ D,3/2 z5/2 |
+A,3 z C,3 z |
+C,3 z D,3 z |
+A,3 z C,3 z |
+G,3 z A,3 z |
+C,3 z F,3 z |
+G,3 z A,3 z |
+F,3 z D,3/2 z/ D,3/2 z/ |
+G,3/2 z/ F,3/2 z/ D,3 z |
+% Bar 30 (0:48)
+A,3/2 z/ D,3/2 z/ C,3/2 z/ A,3/2 z/ |
+C,3/2 z/ F,3/2 z/ D,3 z |
+A,3/2 z/ D,3/2 z/ C,3/2 z/ A,3/2 z/ |
+G,3/2 z/ D,3/2 z/ A,3 z |
+C,3/2 z/ D,3/2 z/ F,3/2 z/ D,3/2 z/ |
+G,3/2 z/ D,3/2 z/ A,3 z |
+F,3/2 z13/2 |
+G,3/2 z/ F,3/2 z/ D,3 z |
+A,- +ff+ [A,/-d/] A,/- [A,/-f/] A,/ a/ z/ +f+ C,- +ff+ [C,/-d/] C,/- [C,/-f/] C,/ a/ z/ |
++f+ C,- +ff+ [C,/-g/] C,/- [C,/-e/] C,/ g/ z/ [D,/-d/] D,/- [D,/-a/] D,/- [D,/-f/] D,/ a/ z/ |
+% Bar 40 (1:05)
++f+ A,- +ff+ [A,/-d/] A,/- [A,/-f/] A,/ a/ z/ +f+ C,- +ff+ [C,/-d/] C,/- [C,/-f/] C,/ a/ z/ |
++f+ G,- +ff+ [G,/-g/] G,/- [G,/-e/] G,/ g/ z/ [A,/-d/] A,/- [A,/-a/] A,/- [A,/-f/] A,/ a/ z/ |
++f+ C,- +ff+ [C,/-d/] C,/- [C,/-f/] C,/ a/ z/ +f+ F,- +ff+ [F,/-d/] F,/- [F,/-f/] F,/ a/ z/ |
++f+ G,- +ff+ [G,/-g/] G,/- [G,/-e/] G,/ g/ z/ [A,/-d/] A,/- [A,/-a/] A,/- [A,/-f/] A,/ a/ z/ |
++f+ F,- +ff+ [F,/-c'/] F,/- [F,/-a/] F,/ g/ z/ [D,/-f/] D,/- [D,/-g/] D,/- [D,/-f/] D,/ d/ z/ |
+[G,/-g/] G,/- [G,/g/] z/ [F,/-a/] F,/- [F,/f/] z/ [D,3/2-d3/2] D,3/2 z |
++f+ D,3/2 z/ A,3/2 z/ D,3/2 z/ A,3/2 z/ |
+D,3/2 z/ A,3/2 z/ D,3/2 z/ A,3/2 z/ |
+F,3/2 z/ C,3/2 z/ F,3/2 z/ C,3/2 z/ |
+F,3/2 z/ C,3/2 z/ D,3 z |
+% Bar 50 (1:22)
+F,3/2 z/ C,3/2 z/ F,3/2 z/ C,3/2 z/ |
+F,3/2 z/ C,3/2 z/ D,3 z |
+D,3 z A,3 z |
+D,3 z A,3 z |
+F,3/2 z/ G,3/2 z/ A,3/2 z/ C,3/2 z/ |
+C,3/2 z/ D,3/2 z/ F,3/2 z/ G,3/2 z/ |
+A,3/2 z/ A,3/2 z/ A,3/2 z/ A,3/2 z/ |
+A,3/2 z/ A,3/2 z/ A,3/2 z/ A,3/2 z/ |
+D,3/2 z/ C,3/2 z/ G,3/2 z/ A,3/2 z/ |
+F,3/2 z/ G,3/2 z/ D,3 z |
+% Bar 60 (1:39)
+D,3/2 z/ D,3/2 z/ D,4- |
+D,3 z D,3/2 z5/2 |]
+
