@@ -1,0 +1,715 @@
+%abc-2.1
+%%song-title       MusashiInnMusic
+%%song-duration    2:00
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X:1
+T: MusashiInnMusic (2:00) - Lonely Mountain Fiddle 1/5
+%%part-name Lonely Mountain Fiddle
+M: 4/4
+Q: 240
+K: C maj
+
++p+ [e4c'4] z4 |
+z4 [e4c'4] |
+z8 |
+[e4c'4] z4 |
+z4 [e4c'4] |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:29)
+z8 |
++mp+ a4 z4 |
+z8 |
+z8 |
+e4 z4 |
+z8 |
+z8 |
+a4 z4 |
+z8 |
+z8 |
+% Bar 40 (0:39)
+g4 z4 |
+z8 |
+z8 |
+g4 z4 |
+z8 |
+z8 |
+f4 z4 |
+z8 |
+z8 |
++p+ ^c4 z4 |
+% Bar 50 (0:49)
+z8 |
+z8 |
+^d4 z4 |
+z8 |
+z8 |
++mp+ g4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (0:59)
+z8 |
++p+ [e4c'4] z4 |
+z4 [e4c'4] |
+z8 |
+[e4c'4] z4 |
+z4 [e4c'4] |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (1:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (1:29)
+z8 |
++mp+ a4 z4 |
+z8 |
+z8 |
+e4 z4 |
+z8 |
+z8 |
+a4 z4 |
+z8 |
+z8 |
+% Bar 100 (1:39)
+g4 z4 |
+z8 |
+z8 |
+g4 z4 |
+z8 |
+z8 |
+f4 z4 |
+z8 |
+z8 |
++p+ ^c4 z4 |
+% Bar 110 (1:49)
+z8 |
+z8 |
+^d4 z4 |
+z8 |
+z8 |
++mp+ g4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 120 (1:59)
+z8 |
+z8 |]
+
+X:2
+T: MusashiInnMusic (2:00) - Basic Bassoon 2/5
+%%part-name Basic Bassoon
+M: 4/4
+Q: 240
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:29)
+z8 |
+D8- |
+D8- |
+D8 |
+E8- |
+E8- |
+E8 |
+F8- |
+F8- |
+F8 |
+% Bar 40 (0:39)
+G8- |
+G8- |
+G8 |
+^G8- |
+^G4 ^D4- |
+^D8 |
+F8- |
+F8- |
+F8 |
+F8- |
+% Bar 50 (0:49)
+F8- |
+F8 |
+^D8- |
+^D8- |
+^D8 |
+G8- |
+G8- |
+G8- |
+G8- |
+G8- |
+% Bar 60 (0:59)
+G8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (1:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (1:29)
+z8 |
+D8- |
+D8- |
+D8 |
+E8- |
+E8- |
+E8 |
+F8- |
+F8- |
+F8 |
+% Bar 100 (1:39)
+G8- |
+G8- |
+G8 |
+^G8- |
+^G4 ^D4- |
+^D8 |
+F8- |
+F8- |
+F8 |
+F8- |
+% Bar 110 (1:49)
+F8- |
+F8 |
+^D8- |
+^D8- |
+^D8 |
+G8- |
+G8- |
+G8- |
+G8- |
+G8- |
+% Bar 120 (1:59)
+G8 |
+z8 |]
+
+
+X:3
+T: MusashiInnMusic (2:00) - Basic Harp 3/5
+%%part-name Basic Harp
+M: 4/4
+Q: 240
+K: C maj
+
++p+ [e4-c'4] e4- |
+e4 [e4-c'4] |
+e8 |
+[e4-c'4] e4- |
+e4 [e4-c'4] |
+e8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:29)
+z8 |
++mf+ [D,2a2-] [A,2a2-] [D2a2-] [^F2a2-] |
+[A2a2-] [d2-a2] [D,2d2-] [A,2d2] |
+D2 ^F2 A2 F2 |
+[E,2e2-] [B,2e2-] [E2e2-] [^G2e2-] |
+[A2e2] +f+ e2- +mf+ [E,2e2-] [B,2e2] |
+E2 ^G2 B2 G2 |
+[F2a2-] [C2a2-] [F2a2-] [A2a2-] |
+[c2a2-] [A2a2] F2 C2 |
+F2 A2 c2 A2 |
+% Bar 40 (0:39)
+[G,2g2-] [D2g2-] [G2g2-] [B2g2-] |
+[d2g2-] [B2g2] G,2 D2 |
+G2 B2 d2 +f+ g2 |
++mf+ [^G,2g2-] [^D2g2-] [^G2g2-] [c2g2-] |
+[^d2g2-] [c2g2] ^G,2 ^D2 |
+^G2 c2 ^d2 c2 |
+[^A,2f2-] [F2f2-] [^A2f2-] [d2f2] |
+f2- [d2f2] ^A,2 F2 |
+^A2 d2 f2 d2 |
+[^C2^c2-] [^G,2c2-] [F2c2-] [^G2c2] |
+% Bar 50 (0:49)
+^c2- [^G2c2] ^C2 ^G,2 |
+F2 ^G2 ^c2 +f+ f2 |
++mf+ [^D,2^d2-] [^A,2d2-] [G2d2-] [^A2d2] |
+^d2- [^A2d2] ^D,2 ^A,2 |
+G2 ^A2 ^d2 A2 |
+[G,2g2-] [D,2g2-] [C2g2-] [D2g2-] |
+[G2g2-] [D2g2] G,2 D,2 |
+C2 D2 G2 D2 |
+G,2 D,2 B,2 G2 |
+B2 G2 G,2 D,2 |
+% Bar 60 (0:59)
+B,2 G2 B2 G2 |
++p+ [e4-c'4] e4- |
+e4 [e4-c'4] |
+e8 |
+[e4-c'4] e4- |
+e4 [e4-c'4] |
+e8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (1:19)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (1:29)
+z8 |
++mf+ [D,2a2-] [A,2a2-] [D2a2-] [^F2a2-] |
+[A2a2-] [d2-a2] [D,2d2-] [A,2d2] |
+D2 ^F2 A2 F2 |
+[E,2e2-] [B,2e2-] [E2e2-] [^G2e2-] |
+[A2e2] +f+ e2- +mf+ [E,2e2-] [B,2e2] |
+E2 ^G2 B2 G2 |
+[F2a2-] [C2a2-] [F2a2-] [A2a2-] |
+[c2a2-] [A2a2] F2 C2 |
+F2 A2 c2 A2 |
+% Bar 100 (1:39)
+[G,2g2-] [D2g2-] [G2g2-] [B2g2-] |
+[d2g2-] [B2g2] G,2 D2 |
+G2 B2 d2 +f+ g2 |
++mf+ [^G,2g2-] [^D2g2-] [^G2g2-] [c2g2-] |
+[^d2g2-] [c2g2] ^G,2 ^D2 |
+^G2 c2 ^d2 c2 |
+[^A,2f2-] [F2f2-] [^A2f2-] [d2f2] |
+f2- [d2f2] ^A,2 F2 |
+^A2 d2 f2 d2 |
+[^C2^c2-] [^G,2c2-] [F2c2-] [^G2c2] |
+% Bar 110 (1:49)
+^c2- [^G2c2] ^C2 ^G,2 |
+F2 ^G2 ^c2 +f+ f2 |
++mf+ [^D,2^d2-] [^A,2d2-] [G2d2-] [^A2d2] |
+^d2- [^A2d2] ^D,2 ^A,2 |
+G2 ^A2 ^d2 A2 |
+[G,2g2-] [D,2g2-] [C2g2-] [D2g2-] |
+[G2g2-] [D2g2] G,2 D,2 |
+C2 D2 G2 D2 |
+G,2 D,2 B,2 G2 |
+B2 G2 G,2 D,2 |
+% Bar 120 (1:59)
+B,2 G2 B2 G2 |
+z8 |]
+
+
+X:4
+T: MusashiInnMusic (2:00) - Lute of Ages 4/5
+%%part-name Lute of Ages
+M: 4/4
+Q: 240
+K: C maj
+
++f+ c2 d2 g2 +mp+ c'2 |
+b2 g2 +f+ c2 d2 |
+g2 c'2 b2 g2 |
+c2 d2 g2 +mp+ c'2 |
+b2 g2 +f+ c2 d2 |
+g2 +mp+ c'2 b2 g2 |
++ff+ c'2 +f+ G2 d2 g2 |
+b2 g2 +ff+ g2 +f+ G2 |
+d2 g2 b2 g2 |
+% Bar 10 (0:09)
+z2 G2 d2 +ff+ [e2g2] |
++f+ b2 +ff+ [f2g2] e2 +f+ G2 |
+d2 g2 b2 g2 |
++ff+ f2 +f+ d2 f2 a2 |
+f2 d2 +ff+ d2 +f+ d2 |
+f2 a2 f2 +ff+ d2 |
+e2 +f+ ^c2 e2 a2 |
+^g2 e2 z2 ^c2 |
+e2 a2 ^g2 e2 |
++ff+ c'2 +f+ G2 d2 g2 |
+% Bar 20 (0:19)
+b2 g2 +ff+ g2 +f+ G2 |
+d2 g2 b2 g2 |
+z2 G2 d2 +ff+ [g2a2] |
++f+ b2 +ff+ [g2b2] g2 +f+ G2 |
+d2 g2 b2 g2 |
++ff+ ^a2 +f+ d2 f2 =a2 |
+f2 d2 +ff+ f2 +f+ d2 |
+f2 a2 f2 +ff+ [d2g2] |
+a2 +f+ ^c2 e2 a2 |
+^g2 e2 +fff+ A,/ B, ^C/ [E/^c/-] [Ac-] [B/c/] |
+% Bar 30 (0:29)
+[^c/e/] e- [e/a/] [a/-b/] [ca-] [e/a/] +ff+ [^g2a2] [e2b2] |
+^c2 z2 z4 |
+z4 ^f2 z2 |
+z2 ^c2 z4 |
+b2 a2 b2 z2 |
+z8 |
+z8 |
+e2 z2 z4 |
+z4 a2 z2 |
+f2 z2 c'2 z2 |
+% Bar 40 (0:39)
+d2 c'2 d2 z2 |
+z8 |
+z8 |
+g2 z2 z4 |
+z4 c'2 z2 |
+z2 g2 z4 |
+f2 ^d2 f2 z2 |
+z8 |
+z8 |
+f2 z2 z4 |
+% Bar 50 (0:49)
+z4 ^g2 z2 |
+z2 f2 z4 |
+g2 f2 g2 z2 |
+z8 |
+z4 c'2 z2 |
+g2 z2 z4 |
+z8 |
+z4 d2 c'2 |
+b2 z2 z4 |
+z8 |
+% Bar 60 (0:59)
+z8 |
++f+ c2 d2 g2 +mp+ c'2 |
+b2 g2 +f+ c2 d2 |
+g2 c'2 b2 g2 |
+c2 d2 g2 +mp+ c'2 |
+b2 g2 +f+ c2 d2 |
+g2 +mp+ c'2 b2 g2 |
++ff+ c'2 +f+ G2 d2 g2 |
+b2 g2 +ff+ g2 +f+ G2 |
+d2 g2 b2 g2 |
+% Bar 70 (1:09)
+z2 G2 d2 +ff+ [e2g2] |
++f+ b2 +ff+ [f2g2] e2 +f+ G2 |
+d2 g2 b2 g2 |
++ff+ f2 +f+ d2 f2 a2 |
+f2 d2 +ff+ d2 +f+ d2 |
+f2 a2 f2 +ff+ d2 |
+e2 +f+ ^c2 e2 a2 |
+^g2 e2 z2 ^c2 |
+e2 a2 ^g2 e2 |
++ff+ c'2 +f+ G2 d2 g2 |
+% Bar 80 (1:19)
+b2 g2 +ff+ g2 +f+ G2 |
+d2 g2 b2 g2 |
+z2 G2 d2 +ff+ [g2a2] |
++f+ b2 +ff+ [g2b2] g2 +f+ G2 |
+d2 g2 b2 g2 |
++ff+ ^a2 +f+ d2 f2 =a2 |
+f2 d2 +ff+ f2 +f+ d2 |
+f2 a2 f2 +ff+ [d2g2] |
+a2 +f+ ^c2 e2 a2 |
+^g2 e2 +fff+ A,/ B, ^C/ [E/^c/-] [Ac-] [B/c/] |
+% Bar 90 (1:29)
+[^c/e/] e- [e/a/] [a/-b/] [ca-] [e/a/] +ff+ [^g2a2] [e2b2] |
+^c2 z2 z4 |
+z4 ^f2 z2 |
+z2 ^c2 z4 |
+b2 a2 b2 z2 |
+z8 |
+z8 |
+e2 z2 z4 |
+z4 a2 z2 |
+f2 z2 c'2 z2 |
+% Bar 100 (1:39)
+d2 c'2 d2 z2 |
+z8 |
+z8 |
+g2 z2 z4 |
+z4 c'2 z2 |
+z2 g2 z4 |
+f2 ^d2 f2 z2 |
+z8 |
+z8 |
+f2 z2 z4 |
+% Bar 110 (1:49)
+z4 ^g2 z2 |
+z2 f2 z4 |
+g2 f2 g2 z2 |
+z8 |
+z4 c'2 z2 |
+g2 z2 z4 |
+z8 |
+z4 d2 c'2 |
+b2 z2 z4 |
+z8 |
+% Bar 120 (1:59)
+z8 |
+z8 |]
+
+
+X:5
+T: MusashiInnMusic (2:00) - Basic Theorbo 5/5
+%%part-name Basic Theorbo
+M: 4/4
+Q: 240
+K: C maj
+
++ff+ C8- |
+C2 G, z C4- |
+C6 G, z |
+C8- |
+C2 G, z C4- |
+C6 G, z |
+C8- |
+C2 G, z C4- |
+C6 G z |
+% Bar 10 (0:09)
+E8- |
+E2 B, z E4- |
+E6 G z |
+^A6 F2- |
+F2 D2 ^A,4- |
+^A,6 F, z |
+A,8- |
+A,2 E, z A,4- |
+A,6 A, z |
+C8- |
+% Bar 20 (0:19)
+C2 G, z C4- |
+C6 G z |
+E8- |
+E2 B, z E4- |
+E6 G z |
+^A6 F2- |
+F2 D2 ^A,4- |
+^A,6 F, z |
+A,8- |
+A,2 E,2 A,4- |
+% Bar 30 (0:29)
+A,2 E2- E4 |
++mf+ D2- [D2-A2] [D2-d2] [D2-^f2] |
+[D2a2] +ff+ [A,d-] d- +mf+ [D2-d2-] [D2-A2d2] |
+[D2-d2] [D2-^f2] [D2-a2] [D2f2] |
+E2- [E2-B2] [E2-e2] [E2-^g2] |
+[E2a2] +ff+ [B,e-] e- +mf+ [E2-e2-] [E2-B2e2] |
+[E2-e2] [E2-^g2] [E2b2] +ff+ [^G2g2] |
+[F2f2] [C2c2] [F2f2] [A2a2] |
+[c2c'2] [f2a2] [e/-f/] [e/f/-] f- +mf+ [c2f2] |
++ff+ [c2-f2] +mf+ [c2a2] +ff+ [A2-c'2] +mf+ [A2a2] |
+% Bar 40 (0:39)
+G2- [G2-d2] [G2-g2] [G2-b2] |
+[G2d2] +ff+ [Db-] b +mf+ G2- [G2-d2] |
+[G2g2] +ff+ [B2-b2] +mf+ [B2d2] +ff+ [G2g2] |
++mf+ ^G2- [G2-^d2] [G2-^g2] [G2-c'2] |
+[^G2^d2] +ff+ [Cc'-] c' +mf+ G2- [G2-d2] |
+[^G2-^g2] [G2-c'2] [G2^d2] +ff+ [Fc'-] c' |
++mf+ ^A2- [A2-f2] [A2^a2] +ff+ [F2-d2] |
++mf+ [F2f2] +ff+ [D2d2] +mf+ ^A2- [A2-f2] |
+[^A2-^a2] [A2-d2] [A2f2] +ff+ [Dd-] d |
+[^C2-^c2] +mf+ [C2-^G2] [C2-f2] [C2-^g2] |
+% Bar 50 (0:49)
+[^C2^c2] +ff+ [C^g-] g [C2-c2] +mf+ [C2-^G2] |
+[^C2f2] +ff+ [^G,2-^g2] +mf+ [G,2^c2] +ff+ [Cf-] f |
++mf+ ^D2- [D2-^A2] [D2-g2] [D2-^a2] |
+[^D2^d2] +ff+ [^A,^a-] a +mf+ D2- [D2-^A2] |
+[^D2-g2] [D2-^a2] [D2^d2] +ff+ [Ga-] a |
+[G,2-G2] +mf+ [G,2-D2] [G,2-c2] [G,2-d2] |
+[G,2-g2] [G,2-d2] [G,2-G2] [G,2-D2] |
+[G,2-c2] [G,2-d2] [G,2-g2] [G,2d2] |
+G2- [D2G2-] [G2-B2] [G2-g2] |
+[G2-b2] [G2g2] G2- [D2G2-] |
+% Bar 60 (0:59)
+[G2-B2] [G2-g2] [G2-b2] [G2g2] |
++ff+ C8- |
+C2 G, z C4- |
+C6 G, z |
+C8- |
+C2 G, z C4- |
+C6 G, z |
+C8- |
+C2 G, z C4- |
+C6 G z |
+% Bar 70 (1:09)
+E8- |
+E2 B, z E4- |
+E6 G z |
+^A6 F2- |
+F2 D2 ^A,4- |
+^A,6 F, z |
+A,8- |
+A,2 E, z A,4- |
+A,6 A, z |
+C8- |
+% Bar 80 (1:19)
+C2 G, z C4- |
+C6 G z |
+E8- |
+E2 B, z E4- |
+E6 G z |
+^A6 F2- |
+F2 D2 ^A,4- |
+^A,6 F, z |
+A,8- |
+A,2 E,2 A,4- |
+% Bar 90 (1:29)
+A,2 E2- E4 |
++mf+ D2- [D2-A2] [D2-d2] [D2-^f2] |
+[D2a2] +ff+ [A,d-] d- +mf+ [D2-d2-] [D2-A2d2] |
+[D2-d2] [D2-^f2] [D2-a2] [D2f2] |
+E2- [E2-B2] [E2-e2] [E2-^g2] |
+[E2a2] +ff+ [B,e-] e- +mf+ [E2-e2-] [E2-B2e2] |
+[E2-e2] [E2-^g2] [E2b2] +ff+ [^G2g2] |
+[F2f2] [C2c2] [F2f2] [A2a2] |
+[c2c'2] [f2a2] [e/-f/] [e/f/-] f- +mf+ [c2f2] |
++ff+ [c2-f2] +mf+ [c2a2] +ff+ [A2-c'2] +mf+ [A2a2] |
+% Bar 100 (1:39)
+G2- [G2-d2] [G2-g2] [G2-b2] |
+[G2d2] +ff+ [Db-] b +mf+ G2- [G2-d2] |
+[G2g2] +ff+ [B2-b2] +mf+ [B2d2] +ff+ [G2g2] |
++mf+ ^G2- [G2-^d2] [G2-^g2] [G2-c'2] |
+[^G2^d2] +ff+ [Cc'-] c' +mf+ G2- [G2-d2] |
+[^G2-^g2] [G2-c'2] [G2^d2] +ff+ [Fc'-] c' |
++mf+ ^A2- [A2-f2] [A2^a2] +ff+ [F2-d2] |
++mf+ [F2f2] +ff+ [D2d2] +mf+ ^A2- [A2-f2] |
+[^A2-^a2] [A2-d2] [A2f2] +ff+ [Dd-] d |
+[^C2-^c2] +mf+ [C2-^G2] [C2-f2] [C2-^g2] |
+% Bar 110 (1:49)
+[^C2^c2] +ff+ [C^g-] g [C2-c2] +mf+ [C2-^G2] |
+[^C2f2] +ff+ [^G,2-^g2] +mf+ [G,2^c2] +ff+ [Cf-] f |
++mf+ ^D2- [D2-^A2] [D2-g2] [D2-^a2] |
+[^D2^d2] +ff+ [^A,^a-] a +mf+ D2- [D2-^A2] |
+[^D2-g2] [D2-^a2] [D2^d2] +ff+ [Ga-] a |
+[G,2-G2] +mf+ [G,2-D2] [G,2-c2] [G,2-d2] |
+[G,2-g2] [G,2-d2] [G,2-G2] [G,2-D2] |
+[G,2-c2] [G,2-d2] [G,2-g2] [G,2d2] |
+G2- [D2G2-] [G2-B2] [G2-g2] |
+[G2-b2] [G2g2] G2- [D2G2-] |
+% Bar 120 (1:59)
+[G2-B2] [G2-g2] [G2-b2] [G2g2] |
+z8 |]
+
+
