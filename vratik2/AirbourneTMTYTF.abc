@@ -4,256 +4,8 @@
 %%abc-creator Maestro v2.5.0
 %%abc-version 2.1
 
-X: 3
-T: TooMuchTooYoung (3:43) - Basic Theorbo
-%%part-name Basic Theorbo
-M: 4/4
-Q: 113
-K: C maj
-
-+mf+ z8 |
-z8 |
-z8 |
-^F, G, z A, z2 A2 |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-G, G, G,2 D D D D |
-^F, G, ^G, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-% Bar 10 (0:19)
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-% Bar 20 (0:40)
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, G, |
-G, G, G, G, G, G, G, G, |
-G, G, G, G, G, ^F, E, E, |
-E, E, E, E, E, E, E, E, |
-E E E E G2 D2 |
-A, A, A, A, A, A, A, A, |
-% Bar 30 (1:01)
-A, A, A, A, A, A, A, A, |
-G, G, G,2 D D D D |
-^F, G, ^G, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-G, G, G,2 D D D D |
-^F, G, ^G, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-% Bar 40 (1:22)
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-% Bar 50 (1:44)
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, G, |
-z G, G, G, G, G, G, G, |
-G, G, G, G, G, ^F, E, E, |
-E, E, E, E, E, E, E, E, |
-E E E E G2 D2 |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-G, G, G,2 D D D D |
-% Bar 60 (2:05)
-^F, G, ^G, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-G, G, G,2 D D D D |
-^F, G, ^G, A, A, A, A, A, |
-E, E, E, E, E, E, E, E, |
-E E E E G2 D2 |
-A, A, A, A, G, G, G, G, |
-D D D A, z A, A, A, |
-G, G, G,2 D D D D |
-% Bar 70 (2:26)
-^F, G, ^G, A, A, A, A, A, |
-A, A, A, A, G, G, G, G, |
-D D D A, z A, A, A, |
-G, G, G,2 D D D D |
-^F, G, ^G, A, A, A, A, A, |
-E, E, E, E, E, E, E, E, |
-E E E E G2 D2 |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-G, G, G,2 D D D D |
-% Bar 80 (2:47)
-^F, G, ^G, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-A, A, A, A, A, A, A, A, |
-G, G, G,2 D D D D |
-^F, G, ^G, A, A, A, A, A, |
-C C C C C C C C |
-C C C C C ^C z D |
-D D D D D D D D |
-D E E G G G G G |
-A8 |
-% Bar 90 (3:09)
-z8 |
-A2 z2 z4 |
-^F, G, z A, z A, D/ E/ G/ A/ |
-A A A A A A A A |
-A A A A A A A A |
-G G G G D D D D |
-^F G z A z A A A |
-A A A A A A A A |
-A A A A A A A2 |
-%%Q: 74
-G,226/37 D226/37 |
-% Bar 100 (3:31)
-^F,113/74 G,113/74 F,113/74 A,113/74 z226/37 |
-%%Q: 70
-z452/35 |
-z452/35 |
-z113/70 A,113/140 A,113/140 A,113/35 z226/35 |]
-
-
-X: 5
-T: TooMuchTooYoung (3:43) - Basic Clarinet
-%%part-name Basic Clarinet
-M: 4/4
-Q: 113
-K: C maj
-
-+mf+ [A,E] [A,E] z2 [G,A,D] [G,A,D] z2 |
-[D,A,D] [D,A,D] z [E,A,] z4 |
-[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
-[D,^F,A,D] [D,G,DG] z [E,A,] z A,/ A,/ E,2 |
-[A,E] [A,E] z2 [G,D] [G,D] z2 |
-[^F,D] [F,D] z [E,A,] z4 |
-[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
-[D,A,D] [D,G,] z [E,A,] z [E,A,] z [E,A,] |
-z [E,A,] A, A, A, A, A, A, |
-% Bar 10 (0:19)
-A, A, A, A, A, A, A, [D,G,DG] |
-z [D,A,] [E,2A,2] [E,2A,2] z [D,G,DG] |
-z [D,A,] [E,A,] A, [E,A,] A, A, [E,A,] |
-z [E,A,] A, A, A, A, A, A, |
-A, A, A, A, A, A, A, [D,G,DG] |
-z [D,A,] [E,2A,2] [E,2A,2] [E,A,] [D,G,DG] |
-z [D,A,] [E,A,] A, [E,A,] A, G, [E,A,] |
-z [E,A,] A, A, A, A, A, A, |
-A, A, A, A, A, A, A, [D,G,DG] |
-z [D,A,] [E,2A,2] [E,A,] A, A, [D,G,DG] |
-% Bar 20 (0:40)
-z [D,A,] [E,A,] A, [E,A,] A, A, [E,A,] |
-z [E,A,] A, A, A, A, A, A, |
-A, A, A, A, A, A, A, [D,G,DG] |
-z [D,A,] [E,2A,2] [E,A,] A, [E,A,] [D,G,DG] |
-z [D,A,] [E,A,] A, [E,A,] A, [E,A,] [D,G,DG] |
-z6 G, G, |
-G, G, G, G, G, ^F, E, [E,B,] |
-z [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] |
-[E,B,E] [E,B,E] [E,B,E] [D,A,] [D,2G,2D2G2] [D,2A,2D2] |
-[A,E] [A,E] z2 [G,D] [G,D] z2 |
-% Bar 30 (1:01)
-[D,2A,2D2] z [E,A,] z4 |
-[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
-[D,A,D] [D,G,] z [E,A,] z A,/ A,/ E,2 |
-[A,E] [A,E] z2 [G,D] [G,D] z2 |
-[D,2A,2D2] z [E,A,] z4 |
-[D,G,DG] [D,G,DG] [D,2G,2D2G2] [D,A,D] [D,A,D] z2 |
-[D,A,D] [D,G,] z [E,A,] z [E,A,] z [E,A,] |
-z [E,A,] A, A, A, A, A, A, |
-A, A, A, A, A, A, A, [D,G,DG] |
-z [D,A,] [E,2A,2] [E,A,] [E,A,] [E,A,] [D,G,DG] |
-% Bar 40 (1:22)
-z [D,A,] [E,A,] A, [E,A,] A, A, [E,A,] |
-z [E,A,] A, A, A, A, A, A, |
-A, A, A, A, A, A, A, [D,G,DG] |
-z [D,A,] [E,2A,2] [E,A,] A, A, [D,G,DG] |
-z [D,A,] [E,A,] A, [E,A,] A, A, [E,A,] |
-z [E,A,] A, A, A, A, A, A, |
-A, A, A, A, A, A, A, [D,G,DG] |
-z [D,A,] [E,2A,2] [E,A,] A, G, [D,G,DG] |
-z [D,A,] [E,A,] A, [E,A,] A, G, [E,A,] |
-z [E,A,] A, A, A, A, A, A, |
-% Bar 50 (1:44)
-A, A, A, A, A, A, A, [D,G,DG] |
-z [D,A,] [E,2A,2] [E,A,] A, [E,A,] [D,G,DG] |
-z [D,A,] [E,A,] A, [E,A,] C, B, [D,G,DG] |
-z [D,G,] [D,G,] [D,G,] G, G, G, G, |
-G, G, G, G, G, ^F, E, [E,B,] |
-z [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] |
-[E,B,E] [E,B,E] [E,B,E] [D,G,] [D,2G,2D2G2] [D,2A,2D2] |
-[A,E] [A,E] z2 [G,D] [G,D] z2 |
-[D,2A,2D2] z [E,A,] z4 |
-[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
-% Bar 60 (2:05)
-[D,A,D] [D,G,] z [E,A,] z A,/ A,/ E,2 |
-[A,E] [A,E] z2 [G,D] [G,D] z2 |
-[D,2A,2D2] z [E,A,] z4 |
-[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
-[D,A,D] [D,G,] z [E,A,] z [E,A,] G, ^F, |
-[E,2B,2] [E,2B,2] [E,2B,2] [E,2B,2] |
-[E,B,E] [E,B,E] [E,B,E] [D,G,] [D,2G,2D2G2] [D,2A,2D2^F2] |
-D E/ A/ G/ E/ D/ E/ D E G/ E/ D/ E/ |
-D E G/ E/ G z2 G2 |
-d e/ a/ z e/ g/ g2 g/ z/ e/ e/ |
-% Bar 70 (2:26)
-d/ c/ A/ G/ E/ E/ [ce] z A/ G/ A2 |
-d e/ a/ g/ e/ d/ e/ d e/ a/ g/ e/ d/ e/ |
-g/ e/ d/ e/ d/ e/ [ga] z2 G,2 |
-E,/ D,/ E,/ D,/ E, E, D,/ ^C,/ D,/ C,/ D,/ C,/ D,/ C,/ |
-D, G, ^G, A, z A, =G, ^F, |
-z3 B, z [DG] E G |
-A B/ e/ d/ B/ A/ B/ d4 |
-[A,E] [A,E] z2 [G,D] [G,D] z2 |
-[D,2A,2D2] z [E,A,] z4 |
-[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
-% Bar 80 (2:47)
-[D,A,D] [D,G,] z [E,A,] z [E,A,] [E,2A,2] |
-[A,E] [A,E] z2 [G,D] [G,D] z2 |
-[D,2A,2D2] z [E,A,] z4 |
-[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
-[D,A,D] [D,G,] z [E,A,] z [E,A,] [E,2A,2] |
-[C,2G,2] [C,2G,2] [C,2G,2] [C,2G,2] |
-[C,2G,2] [C,G,] [C,G,] z [^C,A,] z [D,A,] |
-[D,A,] [D,A,] [D,A,] [D,A,] [D,A,] [D,A,] [D,A,] [D,A,] |
-z [E,B,] z [G,D] z2 [G,2D2] |
-[A,E] [A,E] [A,E] [A,E] [G,4D4] |
-% Bar 90 (3:09)
-[D,A,D] [D,A,D] [D,A,D] [E,A,] z4 |
-[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
-[D,A,D] [D,G,] z [E,A,] z [E,A,] [E,2A,2] |
-[GA] A/ A/ A2 [FG] G/ G/ G2 |
-[E^F] F [=FG] [GA] z2 A2 |
-[F2G2] G2 [E2^F2] E C |
-[D^F] [DF] [CE] A, z A,/ G,/ A, a/ a/ |
-g2 z g/ g/ ^f2 g f/ f/ |
-e2 f g z2 a [D,/G,/] [D,/G,/] |
-%%Q: 74
-[f113/37g113/37] z113/74 ^f113/74 [e113/37f113/37] [e113/74f113/74] C113/148 D113/148 |
-% Bar 100 (3:31)
-[D113/74^F113/74] [D113/74F113/74] [C113/74E113/74] A,113/74 z113/74 A,113/74 G,113/74 E,113/74 |
-%%Q: 70
-^D,113/70 =D,113/70 C,113/70 A,113/70 z226/35 |
-z452/35 |
-z452/35 |]
-
-
-X: 6
-T: TooMuchTooYoung (3:43) - Basic Horn
+X:1
+T: TooMuchTooYoung (3:43) - Basic Horn 1/5
 %%part-name Basic Horn
 M: 4/4
 Q: 113
@@ -376,8 +128,132 @@ z452/35 |
 z113/70 [A,113/140E113/140A113/140] [A,113/140E113/140A113/140] [A,113/35E113/35A113/35] z226/35 |]
 
 
-X: 7
-T: TooMuchTooYoung (3:43) - Basic Bassoon
+X:2
+T: TooMuchTooYoung (3:43) - Basic Clarinet 2/5
+%%part-name Basic Clarinet
+M: 4/4
+Q: 113
+K: C maj
+
++mf+ [A,E] [A,E] z2 [G,A,D] [G,A,D] z2 |
+[D,A,D] [D,A,D] z [E,A,] z4 |
+[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
+[D,^F,A,D] [D,G,DG] z [E,A,] z A,/ A,/ E,2 |
+[A,E] [A,E] z2 [G,D] [G,D] z2 |
+[^F,D] [F,D] z [E,A,] z4 |
+[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
+[D,A,D] [D,G,] z [E,A,] z [E,A,] z [E,A,] |
+z [E,A,] A, A, A, A, A, A, |
+% Bar 10 (0:19)
+A, A, A, A, A, A, A, [D,G,DG] |
+z [D,A,] [E,2A,2] [E,2A,2] z [D,G,DG] |
+z [D,A,] [E,A,] A, [E,A,] A, A, [E,A,] |
+z [E,A,] A, A, A, A, A, A, |
+A, A, A, A, A, A, A, [D,G,DG] |
+z [D,A,] [E,2A,2] [E,2A,2] [E,A,] [D,G,DG] |
+z [D,A,] [E,A,] A, [E,A,] A, G, [E,A,] |
+z [E,A,] A, A, A, A, A, A, |
+A, A, A, A, A, A, A, [D,G,DG] |
+z [D,A,] [E,2A,2] [E,A,] A, A, [D,G,DG] |
+% Bar 20 (0:40)
+z [D,A,] [E,A,] A, [E,A,] A, A, [E,A,] |
+z [E,A,] A, A, A, A, A, A, |
+A, A, A, A, A, A, A, [D,G,DG] |
+z [D,A,] [E,2A,2] [E,A,] A, [E,A,] [D,G,DG] |
+z [D,A,] [E,A,] A, [E,A,] A, [E,A,] [D,G,DG] |
+z6 G, G, |
+G, G, G, G, G, ^F, E, [E,B,] |
+z [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] |
+[E,B,E] [E,B,E] [E,B,E] [D,A,] [D,2G,2D2G2] [D,2A,2D2] |
+[A,E] [A,E] z2 [G,D] [G,D] z2 |
+% Bar 30 (1:01)
+[D,2A,2D2] z [E,A,] z4 |
+[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
+[D,A,D] [D,G,] z [E,A,] z A,/ A,/ E,2 |
+[A,E] [A,E] z2 [G,D] [G,D] z2 |
+[D,2A,2D2] z [E,A,] z4 |
+[D,G,DG] [D,G,DG] [D,2G,2D2G2] [D,A,D] [D,A,D] z2 |
+[D,A,D] [D,G,] z [E,A,] z [E,A,] z [E,A,] |
+z [E,A,] A, A, A, A, A, A, |
+A, A, A, A, A, A, A, [D,G,DG] |
+z [D,A,] [E,2A,2] [E,A,] [E,A,] [E,A,] [D,G,DG] |
+% Bar 40 (1:22)
+z [D,A,] [E,A,] A, [E,A,] A, A, [E,A,] |
+z [E,A,] A, A, A, A, A, A, |
+A, A, A, A, A, A, A, [D,G,DG] |
+z [D,A,] [E,2A,2] [E,A,] A, A, [D,G,DG] |
+z [D,A,] [E,A,] A, [E,A,] A, A, [E,A,] |
+z [E,A,] A, A, A, A, A, A, |
+A, A, A, A, A, A, A, [D,G,DG] |
+z [D,A,] [E,2A,2] [E,A,] A, G, [D,G,DG] |
+z [D,A,] [E,A,] A, [E,A,] A, G, [E,A,] |
+z [E,A,] A, A, A, A, A, A, |
+% Bar 50 (1:44)
+A, A, A, A, A, A, A, [D,G,DG] |
+z [D,A,] [E,2A,2] [E,A,] A, [E,A,] [D,G,DG] |
+z [D,A,] [E,A,] A, [E,A,] C, B, [D,G,DG] |
+z [D,G,] [D,G,] [D,G,] G, G, G, G, |
+G, G, G, G, G, ^F, E, [E,B,] |
+z [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] |
+[E,B,E] [E,B,E] [E,B,E] [D,G,] [D,2G,2D2G2] [D,2A,2D2] |
+[A,E] [A,E] z2 [G,D] [G,D] z2 |
+[D,2A,2D2] z [E,A,] z4 |
+[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
+% Bar 60 (2:05)
+[D,A,D] [D,G,] z [E,A,] z A,/ A,/ E,2 |
+[A,E] [A,E] z2 [G,D] [G,D] z2 |
+[D,2A,2D2] z [E,A,] z4 |
+[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
+[D,A,D] [D,G,] z [E,A,] z [E,A,] G, ^F, |
+[E,2B,2] [E,2B,2] [E,2B,2] [E,2B,2] |
+[E,B,E] [E,B,E] [E,B,E] [D,G,] [D,2G,2D2G2] [D,2A,2D2^F2] |
+D E/ A/ G/ E/ D/ E/ D E G/ E/ D/ E/ |
+D E G/ E/ G z2 G2 |
+d e/ a/ z e/ g/ g2 g/ z/ e/ e/ |
+% Bar 70 (2:26)
+d/ c/ A/ G/ E/ E/ [ce] z A/ G/ A2 |
+d e/ a/ g/ e/ d/ e/ d e/ a/ g/ e/ d/ e/ |
+g/ e/ d/ e/ d/ e/ [ga] z2 G,2 |
+E,/ D,/ E,/ D,/ E, E, D,/ ^C,/ D,/ C,/ D,/ C,/ D,/ C,/ |
+D, G, ^G, A, z A, =G, ^F, |
+z3 B, z [DG] E G |
+A B/ e/ d/ B/ A/ B/ d4 |
+[A,E] [A,E] z2 [G,D] [G,D] z2 |
+[D,2A,2D2] z [E,A,] z4 |
+[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
+% Bar 80 (2:47)
+[D,A,D] [D,G,] z [E,A,] z [E,A,] [E,2A,2] |
+[A,E] [A,E] z2 [G,D] [G,D] z2 |
+[D,2A,2D2] z [E,A,] z4 |
+[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
+[D,A,D] [D,G,] z [E,A,] z [E,A,] [E,2A,2] |
+[C,2G,2] [C,2G,2] [C,2G,2] [C,2G,2] |
+[C,2G,2] [C,G,] [C,G,] z [^C,A,] z [D,A,] |
+[D,A,] [D,A,] [D,A,] [D,A,] [D,A,] [D,A,] [D,A,] [D,A,] |
+z [E,B,] z [G,D] z2 [G,2D2] |
+[A,E] [A,E] [A,E] [A,E] [G,4D4] |
+% Bar 90 (3:09)
+[D,A,D] [D,A,D] [D,A,D] [E,A,] z4 |
+[D,G,DG] [D,G,DG] z2 [D,A,D] [D,A,D] z2 |
+[D,A,D] [D,G,] z [E,A,] z [E,A,] [E,2A,2] |
+[GA] A/ A/ A2 [FG] G/ G/ G2 |
+[E^F] F [=FG] [GA] z2 A2 |
+[F2G2] G2 [E2^F2] E C |
+[D^F] [DF] [CE] A, z A,/ G,/ A, a/ a/ |
+g2 z g/ g/ ^f2 g f/ f/ |
+e2 f g z2 a [D,/G,/] [D,/G,/] |
+%%Q: 74
+[f113/37g113/37] z113/74 ^f113/74 [e113/37f113/37] [e113/74f113/74] C113/148 D113/148 |
+% Bar 100 (3:31)
+[D113/74^F113/74] [D113/74F113/74] [C113/74E113/74] A,113/74 z113/74 A,113/74 G,113/74 E,113/74 |
+%%Q: 70
+^D,113/70 =D,113/70 C,113/70 A,113/70 z226/35 |
+z452/35 |
+z452/35 |]
+
+
+X:3
+T: TooMuchTooYoung (3:43) - Basic Bassoon 3/5
 %%part-name Basic Bassoon
 M: 4/4
 Q: 113
@@ -500,8 +376,132 @@ z452/35 |
 z113/70 [A,113/140E113/140A113/140] [A,113/140E113/140A113/140] [A,113/35E113/35A113/35] z226/35 |]
 
 
-X: 8
-T: TooMuchTooYoung (3:43) - Basic Drum
+X:4
+T: TooMuchTooYoung (3:43) - Basic Theorbo 4/5
+%%part-name Basic Theorbo
+M: 4/4
+Q: 113
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+^F, G, z A, z2 A2 |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+G, G, G,2 D D D D |
+^F, G, ^G, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+% Bar 10 (0:19)
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+% Bar 20 (0:40)
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, G, |
+G, G, G, G, G, G, G, G, |
+G, G, G, G, G, ^F, E, E, |
+E, E, E, E, E, E, E, E, |
+E E E E G2 D2 |
+A, A, A, A, A, A, A, A, |
+% Bar 30 (1:01)
+A, A, A, A, A, A, A, A, |
+G, G, G,2 D D D D |
+^F, G, ^G, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+G, G, G,2 D D D D |
+^F, G, ^G, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+% Bar 40 (1:22)
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+% Bar 50 (1:44)
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, G, |
+z G, G, G, G, G, G, G, |
+G, G, G, G, G, ^F, E, E, |
+E, E, E, E, E, E, E, E, |
+E E E E G2 D2 |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+G, G, G,2 D D D D |
+% Bar 60 (2:05)
+^F, G, ^G, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+G, G, G,2 D D D D |
+^F, G, ^G, A, A, A, A, A, |
+E, E, E, E, E, E, E, E, |
+E E E E G2 D2 |
+A, A, A, A, G, G, G, G, |
+D D D A, z A, A, A, |
+G, G, G,2 D D D D |
+% Bar 70 (2:26)
+^F, G, ^G, A, A, A, A, A, |
+A, A, A, A, G, G, G, G, |
+D D D A, z A, A, A, |
+G, G, G,2 D D D D |
+^F, G, ^G, A, A, A, A, A, |
+E, E, E, E, E, E, E, E, |
+E E E E G2 D2 |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+G, G, G,2 D D D D |
+% Bar 80 (2:47)
+^F, G, ^G, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+A, A, A, A, A, A, A, A, |
+G, G, G,2 D D D D |
+^F, G, ^G, A, A, A, A, A, |
+C C C C C C C C |
+C C C C C ^C z D |
+D D D D D D D D |
+D E E G G G G G |
+A8 |
+% Bar 90 (3:09)
+z8 |
+A2 z2 z4 |
+^F, G, z A, z A, D/ E/ G/ A/ |
+A A A A A A A A |
+A A A A A A A A |
+G G G G D D D D |
+^F G z A z A A A |
+A A A A A A A A |
+A A A A A A A2 |
+%%Q: 74
+G,226/37 D226/37 |
+% Bar 100 (3:31)
+^F,113/74 G,113/74 F,113/74 A,113/74 z226/37 |
+%%Q: 70
+z452/35 |
+z452/35 |
+z113/70 A,113/140 A,113/140 A,113/35 z226/35 |]
+
+
+X:5
+T: TooMuchTooYoung (3:43) - Basic Drum 5/5
 %%part-name Basic Drum
 M: 4/4
 Q: 113
