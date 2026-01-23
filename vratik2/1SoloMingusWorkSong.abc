@@ -1,0 +1,48 @@
+%abc-2.1
+%%song-title       MingusWorkSong
+%%song-duration    1:02
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X:1
+T: MingusWorkSong (1:02) - Lute of Ages 1/1
+%%part-name Lute of Ages
+M: 4/4
+Q: 112
+K: C maj
+
++mf+ z4 z z// F3/2 ^G5/4 |
+[F,CF^Gc-f] c- [F,c] [F,CFGcf] [F,2C2F2G2c2-f2] [^G,2c2] |
+[F,C-F^Gcf] [C-f] [F,C] [F,CFGcf] [F,-C-F-G^Ac-] [F,C-FGc] [C-F] [CG] |
+[^A,F^A-^cf] [FA-] [A,A] [A,B,FAcf] [A,-F-A-c-f-] [^G,A,FA-cf] [F,A-] [G,A] |
+[^A,-F^A^cf] A, A, [A,FAcf] [A,-F-A-c-f-] [A,//-F//A//-c//-f//-] [A,3/4-F3/4-A3/4c3/4f3/4] [A,3/4-F3/4] [A,5/4^G5/4] |
+[G,E^A-^c] A- [G,A] [G,EAc] [F,2G,2E2A2-c2] [^G,2A2] |
+[^A,-C^G^cf^a] A,//- [A,3/4-B3/4-] [A,3/4-C3/4-B3/4] [A,//-C//^A//-] [A,-GAcfa] [A,5/4-C5/4-G5/4-c5/4-f5/4-a5/4] [A,3/4-C3/4F3/4-G3/4c3/4f3/4] [A,3/4-F3/4]
+	[A,5/4^D5/4] |
+[F,CF-^Gcf] F- [F,F] [F,CFGcf] [F,2C2F2-G2c2f2] F2 |
+[F,CF^Gcf] z F, [F,CFGcf] [F,-C-F-G-c-f-] [F,//-C//-F//G//-c//-f//-] [F,3/4C3/4F3/4-G3/4c3/4f3/4] F3/4 G5/4 |
+% Bar 10 (0:19)
+[F,CF^Gc-f] c- [F,c] [F,CFGcf] [F,2C2F2G2c2-f2] [^G,2c2] |
+[F,C-F^Gcf] [C-f] [F,C] [F,CFGcf] [F,-C-F-G^Ac-] [F,C-FGc] [C-F] [CG] |
+[^A,F^A-^cf] [FA-] [A,A] [A,B,FAcf] [A,-F-A-c-f-] [^G,A,FA-cf] [F,A-] [G,A] |
+[^A,-F^A^cf] A, A, [A,FAcf] [A,-F-A-c-f-] [A,//-F//A//-c//-f//-] [A,3/4-F3/4-A3/4c3/4f3/4] [A,3/4-F3/4] [A,5/4^G5/4] |
+[G,E^A-^c] A- [G,A] [G,EAc] [F,2G,2E2A2-c2] [^G,2A2] |
+[^A,-C^G^cf^a] A,//- [A,3/4-B3/4-] [A,3/4-C3/4-B3/4] [A,//-C//^A//-] [A,-GAcfa] [A,5/4-C5/4-G5/4-c5/4-f5/4-a5/4] [A,3/4-C3/4F3/4-G3/4c3/4f3/4] [A,3/4-F3/4]
+	[A,5/4^D5/4] |
+F- [B,F-] F- [^A,F-] [^G,-F-] [G,//F//-] [F,3/2F3/2-] [^D,5/4F5/4] |
+F,2 [F,2C2F2^G2c2f2] [F,2C2F2G2c2f2] [F,2C2F2G2c2f2] |
+z4 z z// F3/2 ^G5/4 |
+[F,CF^Gc-f] c- [F,c] [F,CFGcf] [F,2C2F2G2c2-f2] [^G,2c2] |
+% Bar 20 (0:40)
+[F,C-F^Gcf] [C-f] [F,C] [F,CFGcf] [F,-C-F-G^Ac-] [F,C-FGc] [C-F] [CG] |
+[^A,F^A-^cf] [FA-] [A,A] [A,B,FAcf] [A,-F-A-c-f-] [^G,A,FA-cf] [F,A-] [G,A] |
+[^A,-F^A^cf] A, A, [A,FAcf] [A,-F-A-c-f-] [A,//-F//A//-c//-f//-] [A,3/4-F3/4-A3/4c3/4f3/4] [A,3/4-F3/4] [A,5/4^G5/4] |
+[G,E^A-^c] A- [G,A] [G,EAc] [F,2G,2E2A2-c2] [^G,2A2] |
+[^A,-C^G^cf^a] A,//- [A,3/4-B3/4-] [A,3/4-C3/4-B3/4] [A,//-C//^A//-] [A,-GAcfa] [A,5/4-C5/4-G5/4-c5/4-f5/4-a5/4] [A,3/4-C3/4F3/4-G3/4c3/4f3/4] [A,3/4-F3/4]
+	[A,5/4^D5/4] |
+[F,CF-^Gcf] F- [F,F] [F,CFGcf] [F,2C2F2-G2c2f2] F2 |
+[F,CF^Gcf] B,//- [B,3/4B3/4-] [F,3/4-B3/4] [F,//^A//-] [F,^A,CFGA] [F,^G,C-F-G-c-] [F,//-C//-F//G//-c//-] [F,3/4C3/4F3/4-G3/4c3/4] F3/4 ^D//- [C,D] |
+[F,CF-^Gcf] F- [F,F] [F,CFGcf] [F,2C2F2-G2c2f2] F2 |
+[F,CF^Gcf] B,//- [B,3/4B3/4-] [F,3/4-B3/4] [F,//^A//-] [F,^A,CFGA] [F,^G,C-F-G-c-] [F,//-C//-F//G//-c//-] [F,3/4C3/4F3/4-G3/4c3/4] F3/4 ^D//- [C,D] |
+[F,CF^Gcf] z F, [F,CFGcf] [F,2C2F2G2c2f2] z2 |]
+

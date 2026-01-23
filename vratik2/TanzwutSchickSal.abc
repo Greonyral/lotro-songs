@@ -1,0 +1,965 @@
+%abc-2.1
+%%song-title       DasSchicksal
+%%song-duration    4:01
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X:1
+T: DasSchicksal (4:01) - Basic Pibgorn 1/8
+%%part-name Basic Pibgorn
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ A,8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:21)
+z8 |
+z8 |
+z8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+% Bar 20 (0:45)
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,3 A, A,4 |
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+% Bar 30 (1:09)
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,3 A, A,4 |
+% Bar 40 (1:33)
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+% Bar 50 (1:57)
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+% Bar 60 (2:21)
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+E,3 E, E,4 |
+% Bar 70 (2:45)
+B,8 |
+A,3 A, A,4 |
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,8 |
+z8 |
+z8 |
+% Bar 80 (3:09)
+z8 |
+z8 |
+z8 |
+A,8 |
+z8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+% Bar 90 (3:33)
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,3 A, A,4 |
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,2 A, A, G,2 G, G, |
+% Bar 100 (3:57)
+A,8 |
+z8 |]
+
+
+X:2
+T: DasSchicksal (4:01) - Basic Bagpipe 2/8
+%%part-name Basic Bagpipe
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A31/4- +mp+ [A//B//] |
++mf+ A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A31/4- +mp+ [A//d//] |
++mf+ e4 d3/2 c/ e2 |
+% Bar 10 (0:21)
+B31/4- +mp+ [G//B//] |
++mf+ A4 G3/2 c/ d2 |
+A8 |
+A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A31/4- +mp+ [A//B//] |
++mf+ A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+% Bar 20 (0:45)
+A31/4- +mp+ [A//d//] |
++mf+ e4 d3/2 c/ e2 |
+B31/4- +mp+ [G//B//] |
++mf+ A4 G3/2 c/ d2 |
+A31/4- +mp+ [A//d//] |
++mf+ e4 d3/2 c/ e2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A8 |
+A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+% Bar 30 (1:09)
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A31/4- +mp+ [A//B//] |
++mf+ A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A31/4- +mp+ [A//d//] |
++mf+ e4 d3/2 c/ e2 |
+B31/4- +mp+ [G//B//] |
++mf+ A4 G3/2 c/ d2 |
+% Bar 40 (1:33)
+A31/4- +mp+ [A//d//] |
++mf+ e4 d3/2 c/ e2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:57)
+z8 |
+z8 |
+z8 |
+A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A31/4- +mp+ [A//B//] |
++mf+ A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+% Bar 60 (2:21)
+A8 |
+A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A31/4- +mp+ [A//B//] |
++mf+ A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A31/4- +mp+ [A//d//] |
++mf+ e4 d3/2 c/ e2 |
+% Bar 70 (2:45)
+B31/4- +mp+ [G//B//] |
++mf+ A4 G3/2 c/ d2 |
+A31/4- +mp+ [A//d//] |
++mf+ e4 d3/2 c/ e2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A31/4- +mp+ [A//d//] |
++mf+ e4 d3/2 c/ e2 |
+B31/4- +mp+ [G//B//] |
++mf+ A4 G3/2 c/ d2 |
+% Bar 80 (3:09)
+A31/4- +mp+ [A//d//] |
++mf+ e4 d3/2 c/ e2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A8 |
+A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A31/4- +mp+ [A//B//] |
++mf+ A2- A- A3/4 +mp+ d// +mf+ e2 c2 |
+% Bar 90 (3:33)
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+A31/4- +mp+ [A//d//] |
++mf+ e4 d3/2 c/ e2 |
+B31/4- +mp+ [G//B//] |
++mf+ A4 G3/2 c/ d2 |
+A31/4- +mp+ [A//d//] |
++mf+ e4 d3/2 c/ e2 |
+B8 |
+A4 G- G3/4 +mp+ B// +mf+ c3/2 B/ |
+% Bar 100 (3:57)
+A8 |
+z8 |]
+
+
+X:3
+T: DasSchicksal (4:01) - Basic Horn 3/8
+%%part-name Basic Horn
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:21)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (1:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+e6 z g/ ^f/ |
+a6 z ^f/ g/ |
+a6 z g/ ^f/ |
+e8 |
+e6 z g/ ^f/ |
+% Bar 50 (1:57)
+a6 z ^f/ g/ |
+a6 z g/ ^f/ |
+e8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (2:21)
+z8 |
+e6 z g/ ^f/ |
+a6 z ^f/ g/ |
+a6 z g/ ^f/ |
+e8 |
+e6 z g/ ^f/ |
+a6 z ^f/ g/ |
+a6 z g/ ^f/ |
+e8 |
+z8 |
+% Bar 70 (2:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (3:09)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 90 (3:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 100 (3:57)
+z8 |
+z8 |]
+
+
+X:4
+T: DasSchicksal (4:01) - Basic Clarinet 4/8
+%%part-name Basic Clarinet
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ A,8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:21)
+z8 |
+z8 |
+z8 |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+% Bar 20 (0:45)
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+[E,/B,/] [E,/B,/] z/ [E,/B,/] [E,/B,/] z/ [E,/B,/] z/ [E,2B,2] [E,2B,2] |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ E,/ z/ E,2 G, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+[E,/B,/] [E,/B,/] z/ [E,/B,/] [E,/B,/] z/ [E,/B,/] z/ [E,2B,2] [E,2B,2] |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+% Bar 30 (1:09)
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+[E,/B,/] [E,/B,/] z/ [E,/B,/] [E,/B,/] z/ [E,/B,/] z/ [E,2B,2] [E,2B,2] |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ E,/ z/ E,2 G, z |
+% Bar 40 (1:33)
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+[E,/B,/] [E,/B,/] z/ [E,/B,/] [E,/B,/] z/ [E,/B,/] z/ [E,2B,2] [E,2B,2] |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+% Bar 50 (1:57)
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+% Bar 60 (2:21)
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+[E,/B,/] [E,/B,/] z/ [E,/B,/] [E,/B,/] z/ [E,/B,/] z/ [E,2B,2] [E,2B,2] |
+% Bar 70 (2:45)
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ E,/ z/ E,2 G, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+[E,/B,/] [E,/B,/] z/ [E,/B,/] [E,/B,/] z/ [E,/B,/] z/ [E,2B,2] [E,2B,2] |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+A,8 |
+z8 |
+z8 |
+% Bar 80 (3:09)
+z8 |
+z8 |
+z8 |
+A,8 |
+z8 |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+A,/ A,/ z/ A,/ A,/ z/ A,/ z/ A,/ z3/2 A, z |
+% Bar 90 (3:33)
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+[E,/B,/] [E,/B,/] z/ [E,/B,/] [E,/B,/] z/ [E,/B,/] z/ [E,2B,2] [E,2B,2] |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ E,/ z/ E,2 G, z |
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+[E,/B,/] [E,/B,/] z/ [E,/B,/] [E,/B,/] z/ [E,/B,/] z/ [E,2B,2] [E,2B,2] |
+G,/ G,/ G,/ G,/ z2 z4 |
+A,/ A,/ z/ A,/ A,/ z/ A, A,2 A, z |
+% Bar 100 (3:57)
+A,/ [E,/A,/] z/ A,/ [E,/A,/] z/ A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] A,/ z/ [E,/A,/] [E,/A,/] |
+z8 |]
+
+
+X:5
+T: DasSchicksal (4:01) - Sprightly Fiddle 5/8
+%%part-name Sprightly Fiddle
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ [A,8A8] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:21)
+z8 |
+z8 |
+z8 |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+% Bar 20 (0:45)
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,6A6] [D,Dd] [B,B] |
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+% Bar 30 (1:09)
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,6A6] [D,Dd] [B,B] |
+% Bar 40 (1:33)
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+% Bar 50 (1:57)
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+% Bar 60 (2:21)
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[E,6E6e6] e2 |
+% Bar 70 (2:45)
+[B,8B8] |
+[A,6A6] [D,Dd] [B,B] |
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,8A8] |
+z8 |
+z8 |
+% Bar 80 (3:09)
+z8 |
+z8 |
+z8 |
+[A,8A8] |
+z8 |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+% Bar 90 (3:33)
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,6A6] [D,Dd] [B,B] |
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+% Bar 100 (3:57)
+[A,8A8] |
+z8 |]
+
+X:6
+T: DasSchicksal (4:01) - Lonely Mountain Fiddle 6/8
+%%part-name Lonely Mountain Fiddle
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ [A,8A8] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:21)
+z8 |
+z8 |
+z8 |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+% Bar 20 (0:45)
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,6A6] [D,Dd] [B,B] |
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+% Bar 30 (1:09)
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,6A6] [D,Dd] [B,B] |
+% Bar 40 (1:33)
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+% Bar 50 (1:57)
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+% Bar 60 (2:21)
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[E,6E6e6] e2 |
+% Bar 70 (2:45)
+[B,8B8] |
+[A,6A6] [D,Dd] [B,B] |
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,8A8] |
+z8 |
+z8 |
+% Bar 80 (3:09)
+z8 |
+z8 |
+z8 |
+[A,8A8] |
+z8 |
+[A,4A4] [C,4C4c4] |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[A,4A4] [C,4C4c4] |
+% Bar 90 (3:33)
+[B,8B8] |
+[A,4A4] [G,4G4] |
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,6A6] [D,Dd] [B,B] |
+[A,8A8] |
+[E,6E6e6] e2 |
+[B,8B8] |
+[A,4A4] [G,4G4] |
+% Bar 100 (3:57)
+[A,8A8] |
+z8 |]
+
+
+X:7
+T: DasSchicksal (4:01) - Brusque Bassoon 7/8
+%%part-name Brusque Bassoon
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ A,8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:21)
+z8 |
+z8 |
+z8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+% Bar 20 (0:45)
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,3 A, A,4 |
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+% Bar 30 (1:09)
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,3 A, A,4 |
+% Bar 40 (1:33)
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+% Bar 50 (1:57)
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+% Bar 60 (2:21)
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+E,3 E, E,4 |
+% Bar 70 (2:45)
+B,8 |
+A,3 A, A,4 |
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,8 |
+z8 |
+z8 |
+% Bar 80 (3:09)
+z8 |
+z8 |
+z8 |
+A,8 |
+z8 |
+A,2 A, A, C,2 C, C, |
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+A,2 A, A, C,2 C, C, |
+% Bar 90 (3:33)
+B,3 B, B, B, C,2 |
+A,2 A, A, G,2 G, G, |
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,3 A, A,4 |
+A,8 |
+E,3 E, E,4 |
+B,8 |
+A,2 A, A, G,2 G, G, |
+% Bar 100 (3:57)
+A,8 |
+z8 |]
+
+
+X:8
+T: DasSchicksal (4:01) - Basic Drum 8/8
+%%part-name Basic Drum
+M: 4/4
+Q: 100
+K: C maj
+
++mf+ B c/ ^C,/ [Ac] c/ C,/ B c/ C,/ [Ac] c/ C,/ |
+B c/ ^C,/ [Ac] c/ C,/ B c/ C,/ [Ac] c/ C,/ |
+B c/ ^C,/ [Ac] c/ C,/ B c/ C,/ [Ac] c/ C,/ |
+B c/ ^C,/ [Ac] c/ C,/ B c/ C,/ [Ac] c/ C,/ |
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+% Bar 10 (0:21)
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+B c/ ^C,/ [Ac] c/ C,/ B c/ C,/ [Ac] c/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+% Bar 20 (0:45)
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+% Bar 30 (1:09)
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+% Bar 40 (1:33)
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+% Bar 50 (1:57)
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+% Bar 60 (2:21)
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+% Bar 70 (2:45)
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+[^C,/^C/] B/ C,/ C,/ [C,/E/] [E/B/] C,/ [C,/C/] C,/ B/ [C,/C/] C,/ [C,/E/] [E/B/] C,/ C,/ |
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+% Bar 80 (3:09)
+B c/ ^C,/ [Ac] c/ C,/ B c/ C,/ [Ac] c/ C,/ |
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+B/ ^C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ [C,/B/] C,/ C,/ C,/ [C,/A/] C,/ C,/ C,/ |
+B c/ ^C,/ [Ac] c/ C,/ B c/ C,/ [Ac] c/ C,/ |
+B c/ ^C,/ [Ac] c/ C,/ B c/ C,/ [Ac] c/ C,/ |
+[C^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+% Bar 90 (3:33)
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[C^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[C^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+% Bar 100 (3:57)
+[^CA] c/ ^C,/ [EAc] c/ [C,/C/] A/ E/ [C/c/] C,/ [EAc] c/ C,/ |
+[C4^C4] z4 |]
+
+
