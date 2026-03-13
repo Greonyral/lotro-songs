@@ -1,0 +1,537 @@
+%abc-2.1
+%%song-title       CementeryHill
+%%song-duration    2:01
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 2
+T: CementeryHill (2:01) - Basic Harp
+%%part-name Basic Harp
+M: 4/4
+Q: 120
+K: C maj
+
++mp+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:38)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z4 z g// ^a// d// e// f// g// =a// ^a// c'// d// e// f// |
+g2 z2 z4 |
+z8 |
+% Bar 30 (0:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:38)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:58)
+z8 |
+z8 |]
+
+
+X: 3
+T: CementeryHill (2:01) - Basic Theorbo
+%%part-name Basic Theorbo
+M: 4/4
+Q: 120
+K: C maj
+
++fff+ d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+% Bar 10 (0:18)
+d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+d2 z2 A2 D2 |
+% Bar 20 (0:38)
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+^F2 z2 z2 ^C2 |
+z4 ^F2 z2 |
+% Bar 30 (0:58)
+z2 ^C2 z4 |
+^F2 z2 z2 ^C2 |
+z4 ^F2 z2 |
+z2 ^C2 z4 |
+^F2 z2 z2 ^C2 |
+z4 ^F2 z2 |
+z2 ^C2 z4 |
+^F2 z2 z2 ^C2 |
+z4 ^F2 z2 |
+z2 ^C2 z4 |
+% Bar 40 (1:18)
+^F2 z2 z2 ^C2 |
+z4 ^F2 z2 |
+z2 ^C2 z4 |
+^F2 z2 z2 ^C2 |
+z4 ^F2 z2 |
+z2 ^C2 z4 |
+d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+d2 z2 A2 D2 |
+% Bar 50 (1:38)
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+A2 D2 z2 A2 |
+d2 z2 A2 D2 |
+z2 A2 d2 z2 |
+% Bar 60 (1:58)
+A2 D2 z2 A2 |
+z8 |]
+
+
+X: 4
+T: CementeryHill (2:01) - Basic Flute
+%%part-name Basic Flute
+M: 4/4
+Q: 120
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:38)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+^F,6 F,2- |
+^F,4 F,4- |
+% Bar 30 (0:58)
+^F,2 ^C,2- C,4 |
+^F,6 F,2- |
+^F,4 F,4- |
+^F,2 ^C,2- C,4 |
+^F,6 F,2- |
+^F,4 F,4- |
+^F,2 ^C,2- C,4 |
+^F,6 F,2- |
+^F,4 F,4- |
+^F,2 ^C,2- C,4 |
+% Bar 40 (1:18)
+B,6 B,2- |
+B,4 B,4- |
+B,2 ^F,2- F,4 |
+^F,6 F,2- |
+^F,4 F,4- |
+^F,2 ^C,2- C,4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:38)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:58)
+z8 |
+z8 |]
+
+
+X: 5
+T: CementeryHill (2:01) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 4/4
+Q: 120
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+% Bar 10 (0:18)
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+z2 [c^d] [^A=d] [c^d] [A=d] z2 |
+% Bar 20 (0:38)
+[^Ad] [=Ac] [^Ad] [=Ac] z2 [Ac] [G^A] |
+[Ac] [G^A] z2 [GA] [F=A] [G^A] [F=A] |
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+z2 [Bd] [A^c] [Bd] [Ac] z2 |
+[A^c] [^GB] [Ac] [GB] z2 [GB] [^FA] |
+% Bar 30 (0:58)
+[^GB] [^FA] z2 [FA] [EG] [FA] [EG] |
+z2 [Bd] [A^c] [Bd] [Ac] z2 |
+[A^c] [^GB] [Ac] [GB] z2 [GB] [^FA] |
+[^GB] [^FA] z2 [FA] [EG] [FA] [EG] |
+z2 [Bd] [A^c] [Bd] [Ac] z2 |
+[A^c] [^GB] [Ac] [GB] z2 [GB] [^FA] |
+[^GB] [^FA] z2 [FA] [EG] [FA] [EG] |
+z2 [Bd] [A^c] [Bd] [Ac] z2 |
+[A^c] [^GB] [Ac] [GB] z2 [GB] [^FA] |
+[^GB] [^FA] z2 [FA] [EG] [FA] [EG] |
+% Bar 40 (1:18)
+z2 [eg] [d^f] [eg] [df] z2 |
+[d^f] [^ce] [df] [ce] z2 [ce] [Bd] |
+[^ce] [Bd] z2 [Bd] [Ac] [Bd] [Ac] |
+z2 [Bd] [A^c] [Bd] [Ac] z2 |
+[A^c] [^GB] [Ac] [GB] z2 [GB] [^FA] |
+[^GB] [^FA] z2 [FA] [EG] [FA] [EG] |
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+% Bar 50 (1:38)
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+z2 [G^A] [F=A] [G^A] [F=A] z2 |
+[FA] [EG] [FA] [EG] z2 [EG] [DF] |
+% Bar 60 (1:58)
+[EG] [DF] z2 [DF] [CE] [DF] [CE] |
+z8 |]
+
+
+X: 7
+T: CementeryHill (2:01) - Basic Bassoon
+%%part-name Basic Bassoon
+M: 4/4
+Q: 120
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z6 A,2 |
+D2 E2 F2 E2 |
+D2 A2 ^A4 |
+A2 G2- G2 A2 |
+% Bar 10 (0:18)
+G A F2 G2 E F |
+D2 ^C2 D4 |
+A, G, A,2- A,2 A,2 |
+D2 E2 F2 E2 |
+D2 A2 ^A4 |
+d2 A2- A2 ^A G |
+A2 F2 G2 E2 |
+F2 ^C2 D4 |
+z6 D2 |
+G4 D2 ^A2- |
+% Bar 20 (0:38)
+^A2 =A G A2 G2 |
+F2 G2- G2 A,2 |
+D2 E2 F2 E2 |
+D2 ^C2 D4- |
+D4 z4 |
+z8 |
+z8 |
+z6 ^C2 |
+^F2 ^G2 A2 G2 |
+^F2 ^c2 d4 |
+% Bar 30 (0:58)
+^c2 B2- B2 c2 |
+B ^c A2 B2 ^G A |
+^F2 =F2 ^F4 |
+^C B, C2- C2 C2 |
+^F2 ^G2 A2 G2 |
+^F2 ^c2 d4 |
+^f2 ^c2- c2 d B |
+^c2 A2 B2 ^G2 |
+A2 F2 ^F4 |
+z6 ^F2 |
+% Bar 40 (1:18)
+B4 ^F2 d2- |
+d2 ^c B c2 B2 |
+^A2 B2- B2 ^C2 |
+^F2 ^G2 A2 G2 |
+^F2 =F2 ^F4- |
+^F4 z4 |
+z8 |
+z8 |
+z6 A,2 |
+D2 E2 F2 E2 |
+% Bar 50 (1:38)
+D2 [^C2a2] [D2-d2] [D2-e2] |
+[D2f2] e2 d2 [^c2a2] |
+[d-g] [d-a] [d2f2] g2 e f |
+d2 ^c2 d4 |
+A G A2- A2 a2 |
+g2 f2- f2 e2 |
+d2 [A2^c2] d2- [d2-e2] |
+[d2f2] e2 d2 [^A^c-] [Gc] |
+[Ad-] d- [Fd-] d G z E F |
+D z ^C z D z z2 |
+% Bar 60 (1:58)
+z8 |
+z8 |]
+
+
+X: 9
+T: CementeryHill (2:01) - Sprightly Fiddle
+%%part-name Sprightly Fiddle
+M: 4/4
+Q: 120
+K: C maj
+
++fff+ z2 [A2d2] [A2d2] z2 |
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] z2 |
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] z2 |
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+% Bar 10 (0:18)
+z2 [A2d2] [A2d2] z2 |
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] z2 |
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] z2 |
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] z2 |
+% Bar 20 (0:38)
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] z2 |
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] z2 |
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z8 |
+z8 |
+% Bar 30 (0:58)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 [A2d2] [A2d2] z2 |
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] z2 |
+% Bar 50 (1:38)
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] z2 |
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] z2 |
+[A2d2] [A2d2] z2 [A2d2] |
+[A2d2] z2 [A2d2] [A2d2] |
+z2 [A2d2] [A2d2] z2 |
+z2 A2 G A F2 |
+% Bar 60 (1:58)
+G2 E F D2 [^C2^c2] |
+[D2d2] z2 z4 |]
+
+
+X: 19
+T: CementeryHill (2:01) - Basic Fiddle
+%%part-name Basic Fiddle
+M: 4/4
+Q: 120
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:18)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:38)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 [^C,2^F,2] [C,2F,2] z2 |
+[^C,2^F,2] [C,2F,2] z2 [C,2F,2] |
+% Bar 30 (0:58)
+[^C,2^F,2] z2 [C,2F,2] [C,2F,2] |
+z2 [^C,2^F,2] [C,2F,2] z2 |
+[^C,2^F,2] [C,2F,2] z2 [C,2F,2] |
+[^C,2^F,2] z2 [C,2F,2] [C,2F,2] |
+z2 [^C,2^F,2] [C,2F,2] z2 |
+[^C,2^F,2] [C,2F,2] z2 [C,2F,2] |
+[^C,2^F,2] z2 [C,2F,2] [C,2F,2] |
+z2 [^C,2^F,2] [C,2F,2] z2 |
+[^C,2^F,2] [C,2F,2] z2 [C,2F,2] |
+[^C,2^F,2] z2 [C,2F,2] [C,2F,2] |
+% Bar 40 (1:18)
+z2 [^C,2^F,2] [C,2F,2] z2 |
+[^C,2^F,2] [C,2F,2] z2 [C,2F,2] |
+[^C,2^F,2] z2 [C,2F,2] [C,2F,2] |
+z2 [^C,2^F,2] [C,2F,2] z2 |
+[^C,2^F,2] [C,2F,2] z2 [C,2F,2] |
+[^C,2^F,2] z2 [C,2F,2] [C,2F,2] |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:38)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:58)
+z8 |
+z8 |]
+
