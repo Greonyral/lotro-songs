@@ -1,0 +1,49 @@
+%abc-2.1
+%%song-title       Broken Promise (Orgel Version)
+%%song-duration    1:12
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 7
+T: Broken Promise (Orgel Version) (1:12) - Basic Bassoon
+%%part-name Basic Bassoon
+M: 4/4
+Q: 106
+K: C maj
+
++fff+ a b [A-c'] A3/4 z// +mf+ e- e3/4 z// +fff+ c'- c'3/4 z// |
+c' d [G-b] G3/4 z// +mf+ d- d3/4 z// +fff+ b z |
+g z [A-a] A3/4 z// +mf+ e- e3/4 z// +fff+ c' z |
+b z +f+ g z +fff+ c' z b z |
+a b [A-c'] A3/4 z// +mf+ e- e3/4 z// +fff+ c'- c'3/4 z// |
+c' d [G-b] G3/4 z// +mf+ d- d3/4 z// +fff+ b z |
+g z [c-e] c3/4 z// g- g3/4 z// b- b3/4 z// |
+c'- c'3/4 z// b- b3/4 z// a- a3/4 z// e- e3/4 z// |
+d- [d3/4e3/4-] e// [^A-f-] [A3/4f3/4] z// d- d3/4 z// f- f3/4 z// |
+% Bar 10 (0:20)
+d z [B-^g] B3/4 z// [d-f] d3/4 z// [eg-] g3/4 z// |
+d z [A-e-] [A3/4e3/4] z// +mf+ e- e3/4 z// +fff+ b- b3/4 z// |
+a- a3/4 z// G- G3/4 z// +mf+ e- e3/4 z// +fff+ b- b3/4 z// |
+[a-c'] [a3/4b3/4-] b// [F-c'-] [F3/4c'3/4] z// c- c3/4 z// c' z |
+d z [E-b-] [E3/4b3/4] z// d- d3/4 z// [^gb] z |
+[^gb] z [A-a-] [A3/4a3/4] z// +mf+ e- e3/4 z// +fff+ b- b3/4 z// |
+c'- c'3/4 z// +mf+ a- a3/4 z// e- e3/4 z// c- c3/4 z// |
++fff+ [A-a] [A3/4b3/4-] b// [A-c'] A3/4 z// +mf+ e- e3/4 z// +fff+ c'- c'3/4 z// |
+c' d [G-b] G3/4 z// +mf+ d- d3/4 z// +fff+ b z |
+g z [A-a] A3/4 z// +mf+ e- e3/4 z// +fff+ c' z |
+% Bar 20 (0:43)
+b z +f+ g z +fff+ c' z b z |
+a b [A-c'] A3/4 z// +mf+ e- e3/4 z// +fff+ c'- c'3/4 z// |
+c' d [G-b] G3/4 z// +mf+ d- d3/4 z// +fff+ b z |
+g z [c-e] c3/4 z// g- g3/4 z// b- b3/4 z// |
+c'- c'3/4 z// b- b3/4 z// a- a3/4 z// e- e3/4 z// |
+d- [d3/4e3/4-] e// [^A-f-] [A3/4f3/4] z// d- d3/4 z// f- f3/4 z// |
+d z [B-^g] B3/4 z// [d-f] d3/4 z// [eg-] g3/4 z// |
+d z [A-e-] [A3/4e3/4] z// +mf+ e- e3/4 z// +fff+ b- b3/4 z// |
+a- a3/4 z// G- G3/4 z// +mf+ e- e3/4 z// +fff+ b- b3/4 z// |
+[a-c'] [a3/4b3/4-] b// [F-c'-] [F3/4c'3/4] z// c- c3/4 z// c' z |
+% Bar 30 (1:05)
+d z [E-b-] [E3/4b3/4] z// d- d3/4 z// [^gb] z |
+[^gb] z [A-a-] [A3/4a3/4] z// +mf+ e- e3/4 z// +fff+ b- b3/4 z// |
+c'- c'3/4 z// +mf+ a- a3/4 z// e- e3/4 z// c- c3/4 z// |]
+
