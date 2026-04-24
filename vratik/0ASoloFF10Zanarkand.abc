@@ -1,0 +1,88 @@
+%abc-2.1
+%%song-title       At Zanarkand (Ameliorated)
+%%song-duration    1:34
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: At Zanarkand (Ameliorated) (1:34) - Lute of Ages
+%%part-name Lute of Ages
+M: 3/4
+Q: 90
+K: C maj
+
++fff+ [Ee] [Be] [eg] [^fb] [eg] [dfb] |
+[Ce-g-] [Ge-g-] [ce-g-] [deg-] [e-g] [eg] |
+[Dd] [Ad] [d^f] [ea] [df] [eac'] |
+[B,d-^f-] [^Fd-f-] [Bd-f-] [^cdf-] [d-f] [df] |
+[Cb-] [Gb] [db-] [cb] [eb-] [^fb] |
+[e2-g2-b2] [e3-g3-a3] [deg] |
+[B,^f-] [^Ff-] [Bf-] [^cf-] [df] f |
+b ^f d ^c B ^F |
+[A,e-] [Ee] [Be-] [Ae] [ce-] [de] |
+% Bar 10 (0:18)
+[A2-c2-e2-] [A3-c3-d3e3-] [Aceg] |
+[F,c'-] [Cc'-] [Fc'-] [Gc'-] [Ac'-] [cc'-] |
+[fc'-] [cc'-] [fc'-] [gc'-] [ac'] c' |
+[E,e-g-] [B,e-g-] [Eeg] [^Fb] [Ge] [A^f] |
+[Cg-b-] [Ggb] [c^f-] [df] e- [eg] |
+[Dd-^f-] [Adf-] [df] [eg] [d-fa-] [cda] |
+[G,g-b-] [Dg-b-] [Gg-b-] [Ag-b-] [Bg-b-] [dgb] |
+[E,e-g-] [B,e-g-] [Eeg] [^Fb] [Ge] [A^f] |
+[Cg-c'-] [Ggc'] [c^f-] [df] [eg] g |
+[Da-c'-] [Aa-c'-] [dac'] [egb] [^fa-c'-] [cac'] |
+% Bar 20 (0:38)
+[G,d-b-] [Dd-b-] [Gd-b-] [Ad-b-] [Bdb-] [db] |
+[E,e-g-] [B,e-g-] [Eeg] [^Fb] [Ge] [A^f] |
+[Cg-c'-] [Ggc'] [c^f-] [df] e- [eg] |
+[Dd-^f-] [Adf-] [df] [eg] [d-fa-] [cda] |
+[G,g-b-] [Dg-b-] [Gg-b-] [Agb] [Bg] [^Fa] |
+[Ce-b-] [Geb] [ce-b-] [Geb] [Be-b-] [Geb] |
+[Db-] [Ab] [da-] [Aa] d- [Ad] |
+[A,e-g-] [Ee-g-] [A-eg] [Ag] [D-B-^f] [DBd] |
+[Ce-] [Ge-] [ce] [Ge] [cg] [Gc'] |
+[Ce] [Ge] [cg] [Gc'] [ce] [Gg] |
+% Bar 30 (0:58)
+[A,a-c'-] [Ea-c'-] [Aa-c'-] [Bac'] [ce] e |
+[F,e-a-] [Cea] [Fd-f-] [Gdf] [Af-c'-] [cfc'] |
+[G,d-b-] [Dd-b-] [Gd-b-] [Adb] [Bg-] [dg] |
+[E,//-b//] [E,//-d//] [E,/g/-] [B,g-] [Eg-] [^Fg-] [Gg-] [Bg] |
+[B,b-] [^Fb-] [Bb-] [^cb] [d^f] f |
+[^F,//-a//] [F,//-^c//] [F,/^f/-] [^Cf-] [^Ff-] [^Gf-] [Af-] [cf] |
+[A,a-] [Ea-] [Aa-] [Ba] [ce] e |
+[B,//-^f//] [B,//-b//] [B,/e/-] [^Fe] [B^d-] [^cd] [d-b] [da] |
+[B,b-] [^Fb-] [Bb-] [^cb] [d-^f-b-] [Fdfb] |
+[G,d-^f-a-] [Ddfa] [Ge-g-] [Aeg] [Bd-f-] [Ddf] |
+% Bar 40 (1:18)
+[A,^c-e-a-] [Ec-e-a-] [Ac-e-a-] [Bcea] [ca-] [Ea] |
+[^F,//-^c//] [F,//-^f//] [F,/a/-] [^Ca-] [^Fa-] [^Ga-] [Aa-] [ca] |
+%%Q: 82
+[^C45/41^g45/41-] [^G45/41g45/41] [^c45/41e45/41-] [^d45/41e45/41] [c45/41-e45/41] [c45/41g45/41] |
+%%Q: 80
+[G,9/8b9/8-] [D9/8b9/8-] [G9/8b9/8-] [A9/8b9/8] [B9/8^f9/8-] [d9/8f9/8] |
+%%Q: 77
+[A,90/77a90/77-] [E90/77a90/77-] [A90/77a90/77] [B90/77^f90/77] [^c90/77e90/77a90/77-] [e90/77a90/77] |
+%%Q: 76
+[B,45/38^d45/38-b45/38-]
+	%%Q: 75
+	[B,6/5d6/5-b6/5-]
+	%%Q: 74
+	[^D45/37d45/37-b45/37-]
+	%%Q: 73
+	[^F90/73d90/73-b90/73-]
+	%%Q: 72
+	[B5/4d5/4b5/4-]
+	%%Q: 71
+	[d90/71b90/71]
+	%%Q: 70
+	^f9/7 |
+%%Q: 69
+b30/23
+	%%Q: 68
+	^d45/34
+	%%Q: 67
+	^f90/67
+	%%Q: 66
+	b15/44 d15/44 [f15/44b15/44-] b75/44- b30/11- |
+b15/22 z105/22 |]
+
