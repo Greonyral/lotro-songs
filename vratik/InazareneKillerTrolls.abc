@@ -1,0 +1,389 @@
+%abc-2.1
+%%song-title       IamTheKillerOfTrolls
+%%song-duration    1:26
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 3
+T: IamTheKillerOfTrolls (1:26) - Basic Theorbo
+%%part-name Basic Theorbo
+M: 4/4
+Q: 130
+K: C maj
+
+%%Q: 150
++mf+ z104/15 |
+z104/15 |
+%%Q: 130
+B B B B B B B ^A |
+G G G G G G G G |
+B B B B B B B ^A |
+G G G G G G G G |
+B B B B B B B ^A |
+G G G G G G G G |
+B B B B B B B ^A |
+% Bar 10 (0:16)
+G G G G G G G G |
+e e e e e e e d |
+c c c c d d B B |
+e e e e e e e d |
+c c c c d d d d |
+e e e e e e e d |
+c c c c d d B B |
+e e e e e e e d |
+c c c c d d d d |
+B B B B B B B B |
+% Bar 20 (0:34)
+b b b b b b b ^a |
+G G ^c c c c c c |
+G G ^c c c E F ^F |
+B B B B B B B B |
+b b b b b b b ^a |
+G G ^c c c c c c |
+G G ^c c c E F ^F |
+B B B B G G G G |
+B B B B G G G G |
+B B G G A A A A |
+% Bar 30 (0:53)
+A A A A e e e e |
+e e e d c c c c |
+d d B B e e e e |
+e e e d c c c c |
+d d d d e e e e |
+e e e d c c c c |
+d d B B e e e e |
+e e e d c c c c |
+d d d d c c c c |
+d d d d c c c c |
+% Bar 40 (1:11)
+B3/2 B B3/2 d3/2 d d3/2 |
+e8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 150
+z104/15 |
+z26/15 z13/10 [e26/15b26/15] z26/15 [A13/30d13/30] |
+z104/15 |]
+
+
+X: 5
+T: IamTheKillerOfTrolls (1:26) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 4/4
+Q: 130
+K: C maj
+
+%%Q: 150
++mf+ z104/15 |
+z104/15 |
+%%Q: 130
+[^F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [=F,^A,] |
+[D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] |
+[^F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [=F,^A,] |
+[D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] |
+[^F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [=F,^A,] |
+[D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] |
+[^F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [=F,^A,] |
+% Bar 10 (0:16)
+[D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] [D,G,] |
+[E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [D,A,] |
+[C,G,] [C,G,] [C,G,] [C,G,] [D,A,] [D,A,] [^F,B,] [F,B,] |
+[E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [D,A,] |
+[C,G,] [C,G,] [C,G,] [C,G,] [D,A,] [D,A,] [D,A,] [D,A,] |
+[E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [D,A,] |
+[C,G,] [C,G,] [C,G,] [C,G,] [D,A,] [D,A,] [^F,B,] [F,B,] |
+[E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] [D,A,] |
+[C,G,] [C,G,] [C,G,] [C,G,] [D,A,] [D,A,] [D,A,] [D,A,] |
+[^F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] |
+% Bar 20 (0:34)
+[^F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [=F,^A,] |
+[D,G,] [D,G,] [^C,^G,] [C,G,] [C,G,] [C,G,] [C,G,] [C,G,] |
+[D,G,] [D,G,] [^C,^G,] [C,G,] [C,G,] [C,G,] [C,G,] [C,G,] |
+[^F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] |
+[^F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [F,B,] [=F,^A,] |
+[D,G,] [D,G,] [^C,^G,] [C,G,] [C,G,] [C,G,] [C,G,] [C,G,] |
+[D,G,] [D,G,] [^C,^G,] [C,G,] [C,G,] [C,G,] [C,G,] [C,G,] |
+[^F,B,] [F,B,] [F,B,] [F,B,] [D,G,] [D,G,] [D,G,] [D,G,] |
+[^F,B,] [F,B,] [F,B,] [F,B,] [D,G,] [D,G,] [D,G,] [D,G,] |
+[^F,B,] [F,B,] [D,G,] [D,G,] [E,A,] [E,A,] [E,A,] [E,A,] |
+% Bar 30 (0:53)
+[E,A,] [E,A,] [E,A,] [E,A,] [E,B,] [E,B,] [E,B,] [E,B,] |
+[E,B,] [E,B,] [E,B,] [D,A,] [C,G,] [C,G,] [C,G,] [C,G,] |
+[D,A,] [D,A,] [^F,B,] [F,B,] [E,B,] [E,B,] [E,B,] [E,B,] |
+[E,B,] [E,B,] [E,B,] [D,A,] [C,G,] [C,G,] [C,G,] [C,G,] |
+[D,A,] [D,A,] [D,A,] [D,A,] [E,B,] [E,B,] [E,B,] [E,B,] |
+[E,B,] [E,B,] [E,B,] [D,A,] [C,G,] [C,G,] [C,G,] [C,G,] |
+[D,A,] [D,A,] [^F,B,] [F,B,] [E,B,] [E,B,] [E,B,] [E,B,] |
+[E,B,] [E,B,] [E,B,] [D,A,] [C,G,] [C,G,] [C,G,] [C,G,] |
+[D,A,] [D,A,] [D,A,] [D,A,] [C,G,] [C,G,] [C,G,] [C,G,] |
+[D,A,] [D,A,] [D,A,] [D,A,] [C,G,] [C,G,] [C,G,] [C,G,] |
+% Bar 40 (1:11)
+[^F,3/2B,3/2] [F,B,] [F,3/2B,3/2] [D,3/2A,3/2] [D,A,] [D,3/2A,3/2] |
+[E,8B,8] |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 150
+z104/15 |
+z26/15 z13/10 [E,26/15B,26/15E26/15] z26/15 [D,13/30G,13/30A,13/30] |
+z104/15 |]
+
+
+X: 7
+T: IamTheKillerOfTrolls (1:26) - Brusque Bassoon
+%%part-name Brusque Bassoon
+M: 4/4
+Q: 130
+K: C maj
+
+%%Q: 150
++mf+ E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 |
+z26/15 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 E,13/30 |
+%%Q: 130
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:16)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:34)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:53)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 150
+z104/15 |
+z104/15 |
+z104/15 |]
+
+
+X: 17
+T: IamTheKillerOfTrolls (1:26) - Brusque Bassoon
+%%part-name Brusque Bassoon
+M: 4/4
+Q: 130
+K: C maj
+
+%%Q: 150
++mf+ z104/15 |
+z104/15 |
+%%Q: 130
+B, B, B, B, B, B, B, ^A, |
+G, G, G, G, G, G, G, G, |
+B, B, B, B, B, B, B, ^A, |
+G, G, G, G, G, G, G, G, |
+B, B, B, B, B, B, B, ^A, |
+G, G, G, G, G, G, G, G, |
+B, B, B, B, B, B, B, ^A, |
+% Bar 10 (0:16)
+G, G, G, G, G, G, G, G, |
+E E E E E E E D |
+C C C C D D B, B, |
+E E E E E E E D |
+C C C C D D D D |
+E E E E E E E D |
+C C C C D D B, B, |
+E E E E E E E D |
+C C C C D D D D |
+B, B, B, B, B, B, B, B, |
+% Bar 20 (0:34)
+B B B B B B B ^A |
+G, G, ^C C C C C C |
+G, G, ^C C C E, F, ^F, |
+B, B, B, B, B, B, B, B, |
+B B B B B B B ^A |
+G, G, ^C C C C C C |
+G, G, ^C C C E, F, ^F, |
+B, B, B, B, G, G, G, G, |
+B, B, B, B, G, G, G, G, |
+B, B, G, G, A, A, A, A, |
+% Bar 30 (0:53)
+A, A, A, A, E E E E |
+E E E D C C C C |
+D D B, B, E E E E |
+E E E D C C C C |
+D D D D E E E E |
+E E E D C C C C |
+D D B, B, E E E E |
+E E E D C C C C |
+D D D D C C C C |
+D D D D C C C C |
+% Bar 40 (1:11)
+B,3/2 B, B,3/2 D3/2 D D3/2 |
+E8 |
+z8 |
+z8 |
+z8 |
+z8 |
+%%Q: 150
+z104/15 |
+z26/15 z13/10 [E26/15B26/15] z26/15 [A,13/30D13/30] |
+z104/15 |]
+
+
+X: 8
+T: IamTheKillerOfTrolls (1:26) - Basic Drum
+%%part-name Basic Drum
+M: 4/4
+Q: 130
+K: C maj
+
+%%Q: 150
++mf+ z104/15 |
+z104/15 |
+%%Q: 130
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+% Bar 10 (0:16)
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+% Bar 20 (0:34)
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [CA] z/ B,/ [C/-A/-a/] [C/A/] z/ B,/ |
+% Bar 30 (0:53)
+[^C/-A/-a/] [C/A/] z/ B,/ [C/-A/-a/] [C/A/] z/ B,/ [C/A/a/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+[^C/c/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ [C/A/] E/ [C/c/] E/ [C/c/] E/ [C/c/] E/ |
+% Bar 40 (1:11)
+^C3/2 C E3/2 C3/2 C E3/2 |
+^C/ C/ C/ C/ C/ C/ C/ C/ C/ [C/B/] C/ [C/B/] C/ [C/B/] C/ [C/B/] |
+^C/ [C/B/] C/ [C/B/] C/ [C/B/] C/ [C/B/] E/ E/ E/ E/ E/ E/ E/ E/ |
+E/ E/ E/ E/ B,/ B,/ B,/ B,/ B,/ B,/ a/ a/ a/ a/ a/ a/ |
+a/ a/ a/ a/ a/ a/ a/ a/ [^C/a/] C/ C/ [C/a/] C/ C/ [C/a/] C/ |
+a ^C C3/2 C C3/2 C/ z C/ |
+%%Q: 150
+E13/30 E13/30 E13/30 E13/15 E13/30 E13/30 E13/30 E13/15 E13/30 E13/30 E13/30 E13/30 E13/30 E13/30 |
+E13/30 E13/30 E13/30 E26/15 [E26/15A26/15] z13/6 |
+z104/15 |]
+
+
+X: 18
+T: IamTheKillerOfTrolls (1:26) - Basic Cowbell
+%%part-name Basic Cowbell
+M: 4/4
+Q: 130
+K: C maj
+
+%%Q: 150
++mp+ z104/15 |
+z104/15 |
+%%Q: 130
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+% Bar 10 (0:16)
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+% Bar 20 (0:34)
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G, z G, z |
+% Bar 30 (0:53)
+G, z G, z G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+% Bar 40 (1:11)
+G,3/2 G, G,3/2 G,3/2 G, G,3/2 |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ G,/ |
+G,/ G,/ G,/ G,/ z2 z4 |
+z4 G,/ z G,/ z G,/ z/ |
+z G, G,3/2 G, G,3/2 G,/ z G,/ |
+%%Q: 150
+G,13/30 G,13/30 G,13/30 G,13/15 G,13/30 G,13/30 G,13/30 G,13/15 G,13/30 G,13/30 G,13/30 G,13/30 G,13/30 G,13/30 |
+G,13/30 G,13/30 G,13/30 G,26/15 G,26/15 z13/6 |
+z104/15 |]
+
