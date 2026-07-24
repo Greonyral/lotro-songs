@@ -1,0 +1,747 @@
+%abc-2.1
+%%song-title       KingsFieldOverture
+%%song-duration    2:16
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: KingsFieldOverture (2:16) - Lute of Ages
+%%part-name Lute of Ages
+M: 4/4
+Q: 153
+K: C maj
+
++fff+ ^f6 ^a2 |
+f6 ^a2 |
+^d6 ^f2 |
+f4 ^d2 ^c2 |
+b2 ^a2 ^g4 |
+^c2 ^d2 c2 b2 |
+^a8- |
+^a8 |
+^f6 ^a2 |
+% Bar 10 (0:14)
+f6 ^a2 |
+^d6 ^f2 |
+f4 ^d2 ^c2 |
+^d2 ^c2 b4 |
+f2 ^f2 =f2 ^c2 |
+^d8- |
+^d8 |
+^f6 ^a2 |
+f6 ^a2 |
+^d6 ^f2 |
+% Bar 20 (0:29)
+f4 ^d2 ^c2 |
+b2 ^a2 ^g4 |
+^c2 ^d2 c2 b2 |
+^a8- |
+^a8 |
+^f6 ^a2 |
+f6 ^a2 |
+^d6 ^f2 |
+f4 ^d2 ^c2 |
+^d2 ^c2 b4 |
+% Bar 30 (0:45)
+f2 ^f2 =f2 ^c2 |
+^d8- |
+^d6 ^a2 |
+b6 ^a2 |
+^a4 ^g2 ^f2 |
+f2 ^f2 =f2 ^c2 |
+^a6 a2 |
+b6 ^a2 |
+^a4 ^g2 ^f2 |
+^g6 ^a2- |
+% Bar 40 (1:01)
+^a6 a2 |
+b6 ^a2 |
+^a4 ^g2 ^f2 |
+f2 ^f2 =f2 ^c2 |
+^a6 a2 |
+b6 ^a2 |
+^a4 ^c2 b2 |
+^a8- |
+^a8 |
+^f6 ^a2 |
+% Bar 50 (1:16)
+f6 ^a2 |
+^d6 ^f2 |
+f4 ^d2 ^c2 |
+^d2 ^c2 b4 |
+f2 ^f2 =f2 ^c2 |
+^d8- |
+^d8 |
+^f4 ^d4 |
+b4 ^f4 |
+^g4 f4 |
+% Bar 60 (1:32)
+^c4 ^g4 |
+g8- |
+g4- g3 ^g |
+^a8- |
+^a8 |
+^f4 ^d4 |
+b4 ^f4 |
+^g4 f4 |
+^g4 ^c4 |
+^a8- |
+% Bar 70 (1:48)
+^a8- |
+^a8 |
+z8 |
+^f6 ^a2 |
+f6 ^a2 |
+^d6 ^f2 |
+f4 ^d2 ^c2 |
+b2 ^a2 ^g4 |
+^c2 ^d2 c2 b2 |
+^a8- |
+% Bar 80 (2:03)
+^a8 |
+^f6 ^a2 |
+f6 ^a2 |
+^d6 ^f2 |
+f4 ^d2 ^c2 |
+^d8- |
+^d8- |
+^d8 |
+z8 |
+z8 |]
+
+
+X: 2
+T: KingsFieldOverture (2:16) - Basic Harp
+%%part-name Basic Harp
+M: 4/4
+Q: 153
+K: C maj
+
++fff+ z2 ^D2 ^F2 ^A2- |
+^A2 ^C2 F2 A2- |
+^A2 B,2 ^D2 A2- |
+^A2 ^A,2 F2 A2- |
+^A2 ^D2 ^G2 B2- |
+B2 ^C2 ^c2 ^G2- |
+^G2 ^C2 ^F2 ^A2- |
+^A2 D2 A2 F2- |
+F2 ^D2 ^F2 ^A2- |
+% Bar 10 (0:14)
+^A2 ^C2 F2 A2- |
+^A2 B,2 ^D2 A2- |
+^A2 ^A,2 F2 A2- |
+^A2 ^D2 ^G2 B2- |
+B2 ^C2 ^G2 ^c2- |
+^c2 ^D2 G2 ^A2- |
+^A2 ^C2 ^G2 ^c2- |
+^c2 ^D2 ^F2 ^A2- |
+^A2 ^C2 F2 A2- |
+^A2 B,2 ^D2 A2- |
+% Bar 20 (0:29)
+^A2 ^A,2 F2 A2- |
+^A2 ^D2 ^G2 B2- |
+B2 ^C2 ^c2 ^G2- |
+^G2 ^C2 ^F2 ^A2- |
+^A2 D2 A2 F2- |
+F2 ^D2 ^F2 ^A2- |
+^A2 ^C2 F2 A2- |
+^A2 B,2 ^D2 A2- |
+^A2 ^A,2 F2 A2- |
+^A2 ^D2 ^G2 B2- |
+% Bar 30 (0:45)
+B2 ^C2 ^G2 ^c2- |
+^c2 ^D2 G2 ^A2- |
+^A2 ^C2 ^G2 ^c2- |
+^c2 B,2 B2 ^d2- |
+^d2 ^F2 B2 d2- |
+^d2 ^G2 ^c2 f2- |
+f2 ^G2 ^c2 f2- |
+f2 B,2 B2 ^d2- |
+^d2 ^F2 B2 d2- |
+^d2 ^G2 ^c2 f2- |
+% Bar 40 (1:01)
+f2 ^G2 ^c2 f2- |
+f2 B,2 B2 ^d2- |
+^d2 ^F2 B2 d2- |
+^d2 ^G2 ^c2 f2- |
+f2 ^G2 ^c2 f2- |
+f2 B,2 B2 ^d2- |
+^d2 ^F2 B2 d2- |
+^d2 ^G2 ^c2 f2- |
+f2 ^G2 ^c2 f2- |
+f2 ^D2 ^F2 ^A2- |
+% Bar 50 (1:16)
+^A2 ^C2 F2 A2- |
+^A2 B,2 ^D2 A2- |
+^A2 ^A,2 F2 A2- |
+^A2 ^D2 ^G2 B2- |
+B2 ^C2 ^G2 ^c2- |
+^c2 ^D2 G2 ^A2- |
+^A2 ^C2 ^G2 ^c2- |
+^c8- |
+^c8- |
+^c8 |
+% Bar 60 (1:32)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (1:48)
+z8 |
+z8 |
+z8 |
+z2 ^D2 ^F2 ^A2- |
+^A2 ^C2 F2 A2- |
+^A2 B,2 ^D2 A2- |
+^A2 ^A,2 F2 A2- |
+^A2 ^D2 ^G2 B2- |
+B2 ^C2 ^c2 ^G2- |
+^G2 ^C2 ^F2 ^A2- |
+% Bar 80 (2:03)
+^A2 D2 A2 F2- |
+F2 ^D2 ^F2 ^A2- |
+^A2 ^C2 F2 A2- |
+^A2 B,2 ^D2 A2- |
+^A2 ^A,2 F2 A2- |
+^A2 ^D2 G2 A2- |
+^A3 ^D3 G2- |
+G ^A5/2- [G/-A/] [G/-A/-] [G7/2-A7/2-^d7/2-] |
+[G8^A8^d8] |
+z8 |]
+
+
+X: 3
+T: KingsFieldOverture (2:16) - Basic Theorbo
+%%part-name Basic Theorbo
+M: 4/4
+Q: 153
+K: C maj
+
++fff+ ^D8 |
+^C8 |
+B,8 |
+^A,8 |
+^G,8 |
+^C8 |
+^F8 |
+F8 |
+^D8 |
+% Bar 10 (0:14)
+^C8 |
+B,8 |
+^A,8 |
+^G,8 |
+^A,8 |
+^D8 |
+^C8 |
+^D8 |
+^C8 |
+B,8 |
+% Bar 20 (0:29)
+^A,8 |
+^G,8 |
+^C8 |
+^F8 |
+F8 |
+^D8 |
+^C8 |
+B,8 |
+^A,8 |
+^G,8 |
+% Bar 30 (0:45)
+^A,8 |
+^D8 |
+^C8 |
+B,8 |
+B,8 |
+^C8 |
+^C8 |
+B,8 |
+B,8 |
+^C8 |
+% Bar 40 (1:01)
+^C8 |
+B,8 |
+B,8 |
+^C8 |
+^C8 |
+B,8 |
+B,8 |
+^C8 |
+^C8 |
+^D8 |
+% Bar 50 (1:16)
+^C8 |
+B,8 |
+^A,8 |
+^G,8 |
+^A,8 |
+^D8 |
+^C8 |
+B,4 B,4 |
+B4 B4 |
+^C4 +f+ C4 |
+% Bar 60 (1:32)
++fff+ ^c4 c4 |
+^D4 D4 |
+^d4 d4 |
+^C4 C4 |
+^c4 c4 |
+B,4 B,4 |
+B4 B4 |
+^C4 +f+ C4 |
++fff+ ^c4 c4 |
+^D,2 D,2 D,2 D,2 |
+% Bar 70 (1:48)
+^D,2 D,2 D,2 D,2 |
+^D,8- |
+^D,8 |
+^D8 |
+^C8 |
+B,8 |
+^A,8 |
+^G,8 |
+^C8 |
+^F8 |
+% Bar 80 (2:03)
+F8 |
+^D8 |
+^C8 |
+B,8 |
+^A,8 |
+^D8 |
+^A,8- |
+^A,4 ^D4- |
+^D8 |
+z8 |]
+
+
+X: 4
+T: KingsFieldOverture (2:16) - Basic Flute
+%%part-name Basic Flute
+M: 4/4
+Q: 153
+K: C maj
+
++fff+ ^F6 ^A2 |
+F6 ^A,2 |
+^D6 ^F2 |
+F4 ^D2 ^C2 |
+B,2 ^A,2 ^G,4 |
+^C2 ^D2 C2 B,2 |
+^A,8- |
+^A,8 |
+^F6 ^A2 |
+% Bar 10 (0:14)
+F6 ^A,2 |
+^D6 ^F2 |
+F4 ^D2 ^C2 |
+^D2 ^C2 B,4 |
+F2 ^F2 =F2 ^C2 |
+^D8- |
+^D8 |
+^F6 ^A2 |
+F6 ^A,2 |
+^D6 ^F2 |
+% Bar 20 (0:29)
+F4 ^D2 ^C2 |
+B,2 ^A,2 ^G,4 |
+^C2 ^D2 C2 B,2 |
+^A,8- |
+^A,8 |
+^F6 ^A2 |
+F6 ^A,2 |
+^D6 ^F2 |
+F4 ^D2 ^C2 |
+^D2 ^C2 B,4 |
+% Bar 30 (0:45)
+F2 ^F2 =F2 ^C2 |
+^D8- |
+^D8 |
+B,6 ^A2 |
+^A4 ^G2 ^F2 |
+F2 ^F2 =F2 ^C2 |
+^A,6 A,2 |
+B,6 ^A2 |
+^A4 ^G2 ^F2 |
+^G6 ^A2- |
+% Bar 40 (1:01)
+^A6 ^A,2 |
+B,6 ^A2 |
+^A4 ^G2 ^F2 |
+F2 ^F2 =F2 ^C2 |
+^A,6 A,2 |
+B,6 ^A2 |
+^A4 ^c2 B2 |
+^A8- |
+^A8 |
+[^F,6^F6] [^A,2^A2] |
+% Bar 50 (1:16)
+[F,6F6] ^A,2 |
+[^D,6^D6] [^F,2^F2] |
+[F,4F4] [^D,2^D2] [^C,2^C2] |
+[^D,2^D2] [^C,2^C2] B,4 |
+[F,2F2] [^F,2^F2] [=F,2=F2] [^C,2^C2] |
+[^D,8-^D8-] |
+[^D,8^D8] |
+^F,4 [^D,4^D4] |
+B,4 [^F,4^F4] |
+[^G,4^G4] [F,4F4] |
+% Bar 60 (1:32)
+[^C,4^C4] [^G,4^G4] |
+[G,8-G8-] |
+[G,4-G4-] [G,3G3] [^G,^G] |
+[^A,8-^A8-] |
+[^A,8^A8] |
+^F,4 [^D,4^D4] |
+B,4 [^F,4^F4] |
+[^G,4^G4] [F,4F4] |
+[^G,4^G4] [^C4^c4] |
+[^A8-^d8-] |
+% Bar 70 (1:48)
+[^A8-^d8-] |
+[^A4-^d4] [z4A4] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:03)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 5
+T: KingsFieldOverture (2:16) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 4/4
+Q: 153
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:29)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:01)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:16)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+B,3 ^C/ D/ ^D3 E/ F/ |
+^F2 B ^A B4 |
+^C3 ^D/ E/ F3 ^F/ G/ |
+% Bar 60 (1:32)
+^G2 ^c =c ^c4 |
+^D3 F/ ^F/ G3 ^G/ A/ |
+^A2 ^d =d ^d4 |
+^D3 ^G/ A/ ^A3 F |
+G F ^D2 ^A,4 |
+B,3 ^C/ D/ ^D3 E/ F/ |
+[^F2^d2-] [Bd-] [^Ad] B4 |
+[^C3^d3-] [^D/d/-] [E/d/] [F3^c3-] [^F/c/-] [G/c/] |
+[^G2^d2-] [^cd-] [=cd] ^c4 |
+^D3- [D/-F/] [D/^F/] G3 ^G/ A/ |
+% Bar 70 (1:48)
+^A2 ^d =d ^d3 ^c |
+^d4 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:03)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 8
+T: KingsFieldOverture (2:16) - Basic Drum
+%%part-name Basic Drum
+M: 4/4
+Q: 153
+K: C maj
+
++fff+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:14)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z3 G, D D3 |
+^A4 D D, D,2 |
+G,3 G, D D3 |
+^A4 D D, D,2 |
+% Bar 20 (0:29)
+G,3 G, D D3 |
+^A4 D D, D,2 |
+G,3 G, D D3 |
+^A4 D D, D,2 |
+G,3 G, D D3 |
+^A4 D D, D,2 |
+G,3 G, D D3 |
+^A4 D D, D,2 |
+G,3 G, D D3 |
+^A4 D D, D,2 |
+% Bar 30 (0:45)
+G,3 G, D D3 |
+^A4 D D, D,2 |
+G,3 G, D D3 |
+z2 ^A2 D [D,D-] [D,2D2] |
+[G,3^A3] G, D D3 |
+^A2 A2 D [D,D-] [D,2D2] |
+[G,3^A3] G, D D3 |
+^A2 A2 D [D,D-] [D,2D2] |
+[G,3^A3] G, D D3 |
+^A2 A2 D [D,D-] [D,2D2] |
+% Bar 40 (1:01)
+[G,3^A3] G, D D3 |
+^A2 A2 D [D,D-] [D,2D2] |
+[G,3^A3] G, D D3 |
+^A2 A2 D [D,D-] [D,2D2] |
+[G,3^A3] G, D D3 |
+^A2 A2 D [D,D-] [D,2D2] |
+[G,3^A3] G, D D3 |
+^A2 A2 D [D,D-] [D,2D2] |
+[G,3^A3] G, D D3 |
+^A4 D D, D,2 |
+% Bar 50 (1:16)
+G,3 G, D D3 |
+^A4 D D, D,2 |
+G,3 G, D D3 |
+^A4 D D, D,2 |
+G,3 G, D D3 |
+^A4 D D, D,2 |
+G,3 G, D D3 |
+[A2-^A2] [=A2-^A2] [D3=A3-] [DA-] |
+[A-^A] [D2=A2-] [A-^A] [D4=A4-] |
+[A2-^A2] [=A2-^A2] [D3=A3-] [DA] |
+% Bar 60 (1:32)
+^A D2 A D4 |
+^A2 A2 D3 D |
+^A D2 A D4 |
+^A2 A2 D3 D |
+^A D2 A D4 |
+[A2-^A2] [=A2-^A2] [D3=A3-] [DA-] |
+[A-^A] [D2=A2-] [A-^A] [D4=A4-] |
+[A2-^A2] [=A2-^A2] [D3=A3-] [DA] |
+^A D2 A D2 A/ A/ A/ A/ |
+z2 ^A2 D3 D |
+% Bar 70 (1:48)
+^A D A2 D2 A A- |
+[A8-^A8-] |
+[A8-^A8-] |
+[A8^A8] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 80 (2:03)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 9
+T: KingsFieldOverture (2:16) - Lonely Mountain Fiddle
+%%part-name Lonely Mountain Fiddle
+M: 4/4
+Q: 153
+K: C maj
+
++f+ ^A,8- |
+^A,8- |
+^A,8 |
+^A,8 |
+^G,8- |
+^G,8 |
+^A,8- |
+^A,8- |
+^A,8 |
+% Bar 10 (0:14)
+^A,8- |
+^A,8- |
+^A,8 |
+^G,8- |
+^G,8 |
+G,8- |
+G,8 |
+^A,8- |
+^A,8- |
+^A,8 |
+% Bar 20 (0:29)
+^A,8 |
+^G,8- |
+^G,8 |
+^A,8- |
+^A,8 |
+^A,8- |
+^A,8- |
+^A,8 |
+^A,8 |
+^G,8- |
+% Bar 30 (0:45)
+^G,8 |
+G,8- |
+G,8 |
+^F,8- |
+^F,8 |
+^G,8 |
+F,8 |
+^F,8- |
+^F,8 |
+^G,8- |
+% Bar 40 (1:01)
+^G,8 |
+^F,8- |
+^F,8 |
+^G,8 |
+F,8 |
+^F,8- |
+^F,8 |
+^G,8 |
+^A,8 |
+^A,8- |
+% Bar 50 (1:16)
+^A,8- |
+^A,8 |
+^A,8 |
+^G,8- |
+^G,8 |
+G,6 +fff+ ^A,2 |
+[G,2^D2] [G,2D2] [G,2D2] [G,2D2] |
+[^D2^F2] [D2F2] [D2F2] [D2F2] |
+[^D2^F2] [D2F2] [D2F2] [D2F2] |
+[F2^G2] [F2G2] [F2G2] [F2G2] |
+% Bar 60 (1:32)
+[F2^G2] [F2G2] [F2G2] [F2G2] |
+[^D2G2] [D2G2] [D2G2] [D2G2] |
+[^D2G2] [D2G2] [D2G2] [D2G2] |
+[^D2G2] [D2G2] [D2G2] [D2G2] |
+[^D2G2] [D2G2] [D2G2] [D2G2] |
+[^D2^F2] [D2F2] [D2F2] [D2F2] |
+[^D2^F2] [D2F2] [D2F2] [D2F2] |
+[F2^F2-^G2] [=F2^F2G2] [=F2G2] [F2G2] |
+[F2^F2-^G2] [=F2^F2G2] [=F2G2] [F2G2] |
+[^D2G2^A2-] [D2G2A2-] [D2G2A2-] [D2G2A2-] |
+% Bar 70 (1:48)
+[^D2G2^A2-] [D2G2A2-] [D2G2A2-] [D2G2A2-] |
+[^D2G2^A2-] A2 z4 |
+z8 |
++mp+ ^A8- |
+^A8- |
+^A8 |
+^A8 |
+^G8- |
+^G8 |
+^A8- |
+% Bar 80 (2:03)
+^A8 |
+^A8- |
+^A8- |
+^A8 |
+^A8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
