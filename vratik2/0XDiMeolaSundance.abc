@@ -1,0 +1,61 @@
+%abc-2.1
+%%song-title       MediterraneanSundance
+%%song-duration    0:59
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X:1
+T: MediterraneanSundance (0:59) - Basic Clarinet 1/1
+%%part-name Basic Clarinet
+M: 4/4
+Q: 170
+K: C maj
+
++mf+ B,2 C E A, C E G, |
+z C E G, A, C E C |
+B,2 C E A, C E G, |
+z C E G, A, C E C |
+B, ^F, G, B, G,3/2 F, B,3/2 |
+E,4 [E,2G,2B,2E2] z2 |
+B, ^F, G, B, G,3/2 F, B,3/2 |
+E,4 [E,2G,2B,2E2] z2 |
+B,2 C E A, C E G, |
+% Bar 10 (0:12)
+z C E G, A, C E C |
+B,2 C E A, C E G, |
+z C E G, A, C E C |
+B, ^F, G, B, G,3/2 F, B,3/2 |
+E,4 [E,2G,2B,2E2] z2 |
+B, ^F, G, B, G,3/2 F, B,3/2 |
+E,4 [E,2G,2B,2E2] z2 |
+[E,B,EGB] [E,B,EGB] z3 E G E |
+A B d B e2 z2 |
+[D,A,D^F] [D,A,DF] z3 E G E |
+% Bar 20 (0:26)
+[A3/2e3/2] [Gd] [E3/2B3/2] [G2d2] [E2B2] |
+[C,4E,4G,4C4E4] z3/2 [EB] [E3/2B3/2] |
+[E3/2B3/2] [DA] [C3/2G3/2] [D2A2] [C2G2] |
+[B,3^F3] [B,F] z F/ G/ A/ G/ F/ z/ |
+^D/ E/ ^F/ E/ D/ z/ F/ G/ A/ G/ F/ z/ E D |
+E ^F2 F z F/ G/ A/ G/ F/ z/ |
+^D/ E/ ^F/ E/ D/ z/ F/ G/ A/ G/ F/ z/ E D |
+E3 E z E G E |
+A B d B e2 z2 |
+[D,A,D^F] [D,A,DF] z3 E G E |
+% Bar 30 (0:40)
+[A3/2e3/2] [Gd] [E3/2B3/2] [G2d2] [E2B2] |
+[C,4E,4G,4C4E4] z3/2 [EB] [E3/2B3/2] |
+[E3/2B3/2] [DA] [C3/2G3/2] [D2A2] [C2G2] |
+[B,3^F3] [B,F] z F/ G/ A/ G/ F/ z/ |
+^D/ E/ ^F/ E/ D/ z/ F/ G/ A/ G/ F/ z/ E D |
+E ^F2 F z F/ G/ A/ G/ F/ z/ |
+^D/ E/ ^F/ E/ D/ z/ F/ G/ A/ G/ F/ z/ E D |
+E3 E z E G E |
+E3 E z B/ c/ d/ c/ B/ z/ |
+^F/ G/ A/ G/ F/ z/ B/ c/ d/ c/ B/ z/ A G |
+% Bar 40 (0:55)
+A B2 B z B/ c/ d/ c/ B/ z/ |
+^F/ G/ A/ G/ F/ z/ B/ c/ d/ c/ B/ z/ G F |
+E8 |
+z8 |]
+
