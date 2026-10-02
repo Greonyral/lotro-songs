@@ -1,0 +1,470 @@
+%abc-2.1
+%%song-title       ShotInTheDark
+%%song-duration    2:16
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 3
+T: ShotInTheDark (2:16) - Basic Theorbo
+%%part-name Basic Theorbo
+M: 4/4
+Q: 130
+K: C maj
+
++mf+ z8 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+% Bar 10 (0:16)
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E, z F, z G, F, z E, |
+z B, B, B, B, A, G, ^F, |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+% Bar 20 (0:35)
+E, z F, z G, F, z E, |
+z2 E, G, A, G, E,2 |
+G,2 G, E, z4 |
+z2 E, G, A, G, E,2 |
+G,2 G, E, z4 |
+z2 E, G, A, G, E,2 |
+G,2 G, E, z4 |
+z2 E, G, A, G, E,2 |
+B,4 B,2 B, B, |
+z B, B, B, B, A, G, ^F, |
+% Bar 30 (0:53)
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+B, z B, z D D z2 |
+^C z C z =C C z2 |
+B, z B, z B, B, z B, |
+z8 |
+% Bar 40 (1:11)
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+% Bar 50 (1:30)
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+E, E, E, G, A, G, E,2 |
+G,2 G, E, z4 |
+z2 E, G, A, G, E,2 |
+G,2 G, E, z4 |
+z2 E, G, A, G, E,2 |
+% Bar 60 (1:48)
+G,2 G, E, z4 |
+z2 E, G, A, G, E,2 |
+B,4 B,2 B, B, |
+z B, B, B, B, A, G, ^F, |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+E,2 F,2 ^F,2 G,2 |
+^G,2 A,2 ^A,2 B,2 |
+% Bar 70 (2:07)
+B, z B, z D D z2 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 5
+T: ShotInTheDark (2:16) - Basic Clarinet
+%%part-name Basic Clarinet
+M: 4/4
+Q: 130
+K: C maj
+
++mf+ z8 |
+E, E, B, B, E, E, ^D, D, |
+D, D, ^C, C, =C, C, B, B, |
+E, E, B, B, E, E, ^D, D, |
+D, D, ^C, C, =C, C, B, B, |
+[E,/-^D/E/-] [E,/E/-] [E,E-] [B,E-] [B,E] [E,B-] [E,B-] [^D,B-] [D,B] |
+[D,^A-] [D,A-] [^C,A-] [C,A] [=C,=A] [C,G] [B,E] [B,D] |
+[E,/-^D/E/-] [E,/E/] E, [B,E] [B,=D] [E,E] [E,D] [^D,B,] [D,A,] |
+[D,B,-] [D,B,-] [^C,B,-] [C,B,-] [=C,B,-] [C,B,] B, B, |
+% Bar 10 (0:16)
+[E,/-^D/E/-] [E,/E/-] [E,E-] [B,E-] [B,E] [E,B-] [E,B-] [^D,B-] [D,B] |
+[D,^A-] [D,A-] [^C,A-] [C,A] [=C,=A] [C,G] [B,E] [B,D] |
+[E,-E] E, [F,-E] F, [G,E] [F,-E] F, [E,E] |
+z B, B, B, [A,/B,/-] B,/ A, [G,B,-] [^F,B,] |
+[E,/-^D/E/-] [E,/E/-] [E,E-] [B,E-] [B,E] [E,B-] [E,B-] [^D,B-] [D,B] |
+[D,^A-] [D,A-] [^C,A-] [C,A] [=C,=A] [C,G] [B,E] [B,D] |
+[E,/-^D/E/-] [E,/E/] E, [B,E] [B,=D] [E,E] [E,D] [^D,B,] [D,A,] |
+[D,B,-] [D,B,-] [^C,B,-] [C,B,-] [=C,B,-] [C,B,] B, B, |
+[E,/-^D/E/-] [E,/E/-] [E,E-] [B,E-] [B,E] [E,B-] [E,B-] [^D,B-] [D,B] |
+[D,^A-] [D,A-] [^C,A-] [C,A] [=C,=A] [C,G] [B,E] [B,D] |
+% Bar 20 (0:35)
+[E,-E] E, [F,-E] F, [G,E] [F,-E] F, [E,E] |
+z2 E G A G E2 |
+G2 G E4 B, |
+z2 E G A G E2 |
+B2 B E4 B, |
+z2 E G A G E2 |
+G2 G E z4 |
+z2 E G A G E2 |
+z2 +f+ B,2 F2 C B, |
+z +mf+ B, B, B, [A,/B,/-] B,/ A, [G,B,-] [^F,B,] |
+% Bar 30 (0:53)
+[E,/-^D/E/-] [E,/E/-] [E,E-] [B,E-] [B,E] [E,B-] [E,B-] [^D,B-] [D,B] |
+[D,^A-] [D,A-] [^C,A-] [C,A] [=C,=A] [C,G] [B,E] [B,D] |
+[E,/-^D/E/-] [E,/E/] E, [B,E] [B,=D] [E,E] [E,D] [^D,B,] [D,A,] |
+[D,B,-] [D,B,-] [^C,B,-] [C,B,-] [=C,B,-] [C,B,] B, B, |
+[E,/-^D/E/-] [E,/E/-] [E,E-] [B,E-] [B,E] [E,B-] [E,B-] [^D,B-] [D,B] |
+[D,^A-] [D,A-] [^C,A-] [C,A] [=C,=A] [C,G] [B,E] [B,D] |
+[^F,B,] z [F,B,] z [A,D] [A,D] z2 |
+[^G,^C] z [G,C] z [=G,=C] [G,C] z2 |
+[^F,B,] z [F,B,] z [F,B,] [F,B,] z [F,B,] |
+z8 |
+% Bar 40 (1:11)
++mp+ E, E, B, B, E, E, ^D, D, |
+D, D, ^C, C, =C, C, B, B, |
+E, E, B, B, E, E, ^D, D, |
+D, D, ^C, C, =C, C, B, B, |
+E, E, B, B, E, E, ^D, D, |
+D, D, ^C, C, =C, C, B, B, |
+E, E, B, B, E, E, ^D, D, |
+D, D, ^C, C, =C, C, B, B, |
+E, E, B, B, E, E, ^D, D, |
+D, D, ^C, C, =C, C, B, B, |
+% Bar 50 (1:30)
+E, E, B, B, E, E, ^D, D, |
+D, D, ^C, C, =C, C, B, B, |
+E, E, B, B, E, E, ^D, D, |
+D, D, ^C, C, =C, C, B, B, |
+E, E, B, B, E, E, ^D, D, |
+E, E, z2 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:48)
+z8 |
+z8 |
+z2 +f+ B,2 F2 C B, |
+z +mf+ B, B, B, [G,/-A,/B,/-] [G,/-B,/] [G,A,] [G,B,-] [^F,B,] |
+[E,/-^D/E/-] [E,/E/-] [E,E-] [B,E-] [B,E] [E,B-] [E,B-] [^D,B-] [D,B] |
+[D,^A-] [D,A-] [^C,A-] [C,A] [=C,=A] [C,G] [B,E] [B,D] |
+[E,/-^D/E/-] [E,/E/] E, [B,E] [B,=D] [E,E] [E,D] [^D,B,] [D,A,] |
+[D,B,-] [D,B,-] [^C,B,-] [C,B,-] [=C,B,-] [C,B,] B, B, |
+[E,/-^D/E/-] [E,/E/-] [E,E-] [B,E-] [B,E] [E,B-] [E,B-] [^D,B-] [D,B] |
+[D,^A-] [D,A-] [^C,A-] [C,A] [=C,=A] [C,G] [B,E] [B,D] |
+% Bar 70 (2:07)
+E z E z G G z2 |
+A z A z G G z2 |
+z2 A2 E2 A2 |
+E2 A2 E2 g2 |
+a8 |
+z8 |]
+
+
+X: 6
+T: ShotInTheDark (2:16) - Basic Horn
+%%part-name Basic Horn
+M: 4/4
+Q: 130
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:16)
+z8 |
+z8 |
+[EBe] z [Fcf] z [Gdg] [Fcf] z [EBe] |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:35)
+[EBe] z [Fcf] z [Gdg] [Fcf] z [EBe] |
+z2 [GBe] [Bdg] [cea] [Bdg] [G2B2e2] |
+[B2d2g2] [Bdg] [G4B4e4] [DGB] |
+z2 [GBe] [Bdg] [cea] [Bdg] [G2B2e2] |
+[d2g2b2] [dgb] [G4B4e4] [DGB] |
+z2 [GBe] [Bdg] [cea] [Bdg] [G2B2e2] |
+[B2d2g2] [Bdg] [GBe] z4 |
+z2 [GBe] [Bdg] [cea] [Bdg] [G2B2e2] |
+[B6e6b6] [Beb] [Beb] |
+z6 [G2B2e2] |
+% Bar 30 (0:53)
+z8 |
+z8 |
+z8 |
+z6 B2 |
+[^d/e/-] e7/2 b4 |
+^a4 =a g e d |
+[B,^FB] z [B,FB] z [FAd] [FAd] z2 |
+[F^G^c] z [FGc] z [E=G=c] [EGc] z2 |
+[B,^FB] z [B,FB] z [B,FB] [B,FB] z [B,FB] |
+z8 |
+% Bar 40 (1:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:30)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z2 [GBe] [Bdg] [cea] [Bdg] [G2B2e2] |
+[B2d2g2] [Bdg] [G4B4e4] [DGB] |
+z2 [GBe] [Bdg] [cea] [Bdg] [G2B2e2] |
+[d2g2b2] [dgb] [G4B4e4] [DGB] |
+z2 [GBe] [Bdg] [cea] [Bdg] [G2B2e2] |
+% Bar 60 (1:48)
+[B2d2g2] [Bdg] [Be] z4 |
+z2 [GBe] [Bdg] [cea] [Bdg] [G2B2e2] |
+[B6e6b6] [Beb] [Beb] |
+z6 [^F2B2] |
+[^A/B/-^d/e/-] [B7/2e7/2] [e4b4] |
+[e4^a4] [e=a] [dg] [Be] [Ad] |
+[^A/B/-^d/e/-] [B/e/] z [Be] [=A=d] [Be] [Ad] [^FB] [EA] |
+[^F6B6] [F2B2] |
+[B4e4] [e4b4] |
+[e4^a4] [e=a] [dg] [Be] [Ad] |
+% Bar 70 (2:07)
+[^FBe] z [FBe] z [Adg] [Adg] z2 |
+[Bea] z [Bea] z [Acg] [Acg] z2 |
+z2 +f+ [e2a2] +mf+ [B2e2] +f+ [e2a2] |
++mf+ [B2e2] +f+ [e2a2] +mf+ [B2e2] +f+ [e2g2] |
+[e8a8] |
+z8 |]
+
+
+X: 7
+T: ShotInTheDark (2:16) - Basic Bassoon
+%%part-name Basic Bassoon
+M: 4/4
+Q: 130
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:16)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:35)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 30 (0:53)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+[^G,/A,/-] A,11/2 z =G, |
+% Bar 40 (1:11)
+E, E, z3 E, G, E, |
+A,2 A,2 [A,/^A,/] =A,/ G, A,/ [A,/^A,/] G, |
+A,/ [A,/^A,/] G, =A, G, E, E, z2 |
+z3/2 E, E,3/2 [A,/B,/-] B,3/2 D2 |
+^G,2 A,/ [A,/^A,/] =G, =A,/ [A,/^A,/] G, E, D, |
+E, z E, E, F,4 |
+E,/ F,/ E, z2 z4 |
+z4 z3 G, |
+A,2 G, A,2 G, A,2 |
+G, A,2 G, A, B, A, G, |
+% Bar 50 (1:30)
+E,2 E, E, ^F,2 E, F, |
+z D, E,2 z3 E, |
+C2 B, G, A, G, A,/ [A,/^A,/] G, |
+A, G, E, D, E, z E, D, |
+E,2 E, E, A,/ [A,/^A,/] G, E, D, |
+E,2 z2 z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (1:48)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:07)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 17
+T: ShotInTheDark (2:16) - Brusque Bassoon
+%%part-name Brusque Bassoon
+M: 4/4
+Q: 130
+K: C maj
+
++mf+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:16)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:35)
+z8 |
+z8 |
+G,2 G, E, z4 |
+z8 |
+G,2 G, E, z4 |
+z8 |
+G,2 G, E, z4 |
+z8 |
+B,8 |
+z8 |
+% Bar 30 (0:53)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:11)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+E, E, z2 z4 |
+z8 |
+% Bar 50 (1:30)
+E, E, z2 z4 |
+z8 |
+E, E, z2 z4 |
+z8 |
+E, E, z2 z4 |
+z8 |
+G,2 G, E, z4 |
+z8 |
+G,2 G, E, z4 |
+z8 |
+% Bar 60 (1:48)
+G,2 G, E, z4 |
+z8 |
+B,8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 70 (2:07)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X: 8
+T: ShotInTheDark (2:16) - Basic Drum
+%%part-name Basic Drum
+M: 4/4
+Q: 130
+K: C maj
+
+ |]
+
