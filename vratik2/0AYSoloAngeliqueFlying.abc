@@ -1,0 +1,50 @@
+%abc-2.1
+%%song-title       11 flying town
+%%song-duration    0:55
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X:1
+T: 11 flying town (0:55) - Lute of Ages 1/1
+%%part-name Lute of Ages
+M: 4/4
+Q: 140
+K: C maj
+
++f+ d2 [G,-d-] +fff+ [G,-cd-g] [G,B-dg-] +f+ [G,Bgb] +fff+ [G,-dgc'] [G,B-gb] |
++f+ [B-g-] [B-g-a] [B,-Bgb-] +fff+ [B,-Geb-] [B,^F-^d-b] +f+ [B,Fdb] +fff+ [B,-^fac'] [B,F-d-b] |
++f+ [^F-^d-a] [F-d-^f] [E,-Fda] +fff+ [E,-Beg] [E,B-e-g-] +f+ [E,Beg] +fff+ [E,-eg] [E,B-e-a] |
++f+ [B-e-b] [B-e-g] [G,-Bef-] +fff+ [G,df-c'] [B,d-f-b-] +f+ [G,-df-b] +fff+ [G,df-b] [G,d-fb-] |
++f+ [G,d-g-b-] [D,d-gb-] [C,-de-b] +fff+ [C,-efc'] [C,ec'-] +f+ [C,ec'] [C,-fc'] [C,e-c'] |
+[e-c'-] [dec'-] [E,-e-c'] +fff+ [E,-Be-^g] [E,d-eb-] +f+ [E,deb] +fff+ [E,-dfb] [E,deg-] |
++f+ [d-^g-] [dg-b] [A,-dg] +fff+ [A,-eac'] [A,e-a-c'-] +f+ [A,eac'] +fff+ [A,-ec'] [A,e-bc'-] |
++f+ [e-gc'-] [e-ac'-] [D,-d-ec'] +fff+ [D,-Bd-g] [D,A-d-^f-] +f+ [D,Ad-f] +fff+ [D,-d-gb] [D,df-a-] |
++f+ [D,2d2^f2-a2-] [G,-d-fa] +fff+ [G,-cd-g] [G,B-dg-] +f+ [G,Bgb] [G,-gc'] +fff+ [G,B-gb] |
+% Bar 10 (0:15)
++f+ [B-g-] [B-g-a] [B,-Bgb-] +fff+ [B,-Geb-] [B,^F-^d-b] +f+ [B,Fdb] +fff+ [B,-^fac'] [B,F-d-b] |
++f+ [^F-^d-a] [F-d-^f] [E,-Fda] +fff+ [E,-Beg] [E,B-e-g-] +f+ [E,Beg] +fff+ [E,-gb] [E,B-g-b] |
++f+ [B-dg] [B-g-] [G,-Bf-g] +fff+ [G,df-b] [B,d-f-a-] +f+ [G,-df-a] +fff+ [G,f-gb] [G,B-fg] |
++f+ [B,B-g-] [D,Bg] +fff+ [C,-egc'] [C,-eg] [C,dga] [G,-gc'] [G,-egc'-] [G,Gcc'] |
+[C,-d-gc'] [C,-cdg] +f+ [C,^d-c'] +fff+ [G,-cdg] [G,-Gdc'-] [G,F=dc'] [C,-^Dcg] [C,^dg] |
+[^C,-ga-c'] +f+ [C,^da] [D,=d-] +fff+ [D,-d-^fa] [D,d-f-a-] +f+ [A,d-fa] +fff+ [A,-d-g^a] [A,d-g-a-] |
++f+ [D,d-g^a] +fff+ [D,-d-^gb] [D,d-g-b-] +f+ [A,d-gb] +fff+ [A,-d-=ac'] [A,d-a-c'-] +f+ [D,2d2a2-c'2-] |
+[^F,2d2a2c'2] [G,-d-] +fff+ [G,-cd-g] [G,B-dg-] +f+ [G,Bgb] +fff+ [G,-dgc'] [G,B-gb] |
++f+ [B-g-] [B-g-a] [B,-Bgb-] +fff+ [B,-Geb-] [B,^F-^d-b] +f+ [B,Fdb] +fff+ [B,-^fac'] [B,F-d-b] |
++f+ [^F-^d-a] [F-d-^f] [E,-Fda] +fff+ [E,-Beg] [E,B-e-g-] +f+ [E,Beg] +fff+ [E,-eg] [E,B-e-a] |
+% Bar 20 (0:32)
++f+ [B-e-b] [B-e-g] [G,-Bef-] +fff+ [G,df-c'] [B,d-f-b-] +f+ [G,-df-b] +fff+ [G,df-b] [G,d-fb-] |
++f+ [G,d-g-b-] [D,d-gb-] [C,-de-b] +fff+ [C,-efc'] [C,ec'-] +f+ [C,ec'] [C,-fc'] [C,e-c'] |
+[e-c'-] [dec'-] [E,-e-c'] +fff+ [E,-Be-^g] [E,d-eb-] +f+ [E,deb] +fff+ [E,-dfb] [E,deg-] |
++f+ [d-^g-] [dg-b] [A,-dg] +fff+ [A,-eac'] [A,e-a-c'-] +f+ [A,eac'] +fff+ [A,-ec'] [A,e-bc'-] |
++f+ [e-gc'-] [e-ac'-] [D,-d-ec'] +fff+ [D,-Bd-g] [D,A-d-^f-] +f+ [D,Ad-f] +fff+ [D,-d-gb] [D,df-a-] |
++f+ [D,2d2^f2-a2-] [G,-d-fa] +fff+ [G,-cd-g] [G,B-dg-] +f+ [G,Bgb] [G,-gc'] +fff+ [G,B-gb] |
++f+ [B-g-] [B-g-a] [B,-Bgb-] +fff+ [B,-Geb-] [B,^F-^d-b] +f+ [B,Fdb] +fff+ [B,-^fac'] [B,F-d-b] |
++f+ [^F-^d-a] [F-d-^f] [E,-Fda] +fff+ [E,-Beg] [E,B-e-g-] +f+ [E,Beg] +fff+ [E,-gb] [E,B-g-b] |
++f+ [B-dg] [B-g-] [G,-Bf-g] +fff+ [G,df-b] [B,d-f-a-] +f+ [G,-df-a] +fff+ [G,f-gb] [G,B-fg] |
++f+ [B,B-g-] [D,Bg] +fff+ [C,-egc'] [C,-eg] [C,dga] [G,-gc'] [G,-egc'-] [G,Gcc'] |
+% Bar 30 (0:49)
+[C,-d-gc'] [C,-cdg] +f+ [C,^d-c'] +fff+ [G,-cdg] [G,-Gdc'-] [G,F=dc'] [C,-^Dcg] [C,^dg] |
+[^C,-ga-c'] +f+ [C,^da] [D,=d-] +fff+ [D,-d-^fa] [D,d-f-a-] +f+ [A,d-fa] +fff+ [A,-d-g^a] [A,d-g-a-] |
++f+ [D,d-g^a] +fff+ [D,-d-^gb] [D,d-g-b-] +f+ [A,d-gb] +fff+ [A,-d-=ac'] [A,d-a-c'-] +f+ [D,2d2a2-c'2-] |
+[^F,2d2a2c'2] z2 z4 |]
+
