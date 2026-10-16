@@ -1,0 +1,595 @@
+%abc-2.1
+%%song-title       ArisDome
+%%song-duration    2:44
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X:1
+T: ArisDome (2:44) - Basic Clarinet 1/7
+%%part-name Basic Clarinet
+M: 3/4
+Q: 75
+K: C maj
+
++fff+ z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z3 F, D F |
+% Bar 10 (0:21)
+^C E ^G B d ^c |
+^A// c7/4 E2- E2 |
+A// B7/4 ^D2- D2 |
+z6 |
+z6 |
+z6 |
+z6 |
+z2 C B, ^A, =A, |
+^G,2 E,2- E,2 |
+z2 C B, ^A, =A, |
+% Bar 20 (0:45)
+^G,4- G,- G,3/4- G,// |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (1:09)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 40 (1:33)
+z6 |
+z6 |
+z6 |
+z3 F, D F |
+^C E ^G B d ^c |
+^A// c7/4 E2- E2 |
+A// B7/4 ^D2- D2 |
+z6 |
+z6 |
+z6 |
+% Bar 50 (1:57)
+z6 |
+z2 C B, ^A, =A, |
+^G,2 E,2- E,2 |
+z2 C B, ^A, =A, |
+^G,6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 60 (2:21)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |]
+
+
+X:2
+T: ArisDome (2:44) - Basic Flute 2/7
+%%part-name Basic Flute
+M: 3/4
+Q: 75
+K: C maj
+
++mp+ z2 [E,2-F,2-A,2-] [E,2F,2A,2] |
+z2 +p+ [E,2-^G,2-B,2-] [E,2G,2B,2] |
+z2 [E,2-F,2-A,2-] [E,2F,2A,2] |
+z2 [E,2-^G,2-B,2-] [E,2G,2B,2] |
+z z3/4 +mp+ [E,4F,4A,4] z// |
+z z3/4 +p+ [E,4^G,4B,4] z// |
+z z3/4 [E,4F,4A,4] z// |
+z z3/4 [E,4^G,4B,4] z// |
+z z3/4 +mp+ [E,4F,4A,4] z// |
+% Bar 10 (0:21)
+z z3/4 +p+ [E,4^G,4B,4] z// |
+z z3/4 [E,4F,4A,4] z// |
+z z3/4 [E,4^G,4B,4] z// |
+z z3/4 +mp+ [E,4F,4A,4] z// |
+z z3/4 +p+ [E,4^G,4B,4] z// |
+z z3/4 [E,4F,4A,4] z// |
+z z3/4 [E,4^G,4B,4] z// |
+z z3/4 +mp+ [E,4F,4A,4] z// |
+z z3/4 +p+ [E,4^G,4B,4] z// |
+z z3/4 [E,4F,4A,4] z// |
+% Bar 20 (0:45)
+z z3/4 [E,4^G,4B,4] z// |
+z6 |
+z6 |
+z6 |
+z2 +pp+ [C,2-^F,2-A,2-] [C,2-F,2-A,2-] |
+[C,6^F,6A,6] |
+z6 |
+z6 |
+z6 |
+z2 +ppp+ [^F,2-^A,2-] [F,2-A,2-] |
+% Bar 30 (1:09)
+[^F,6^A,6] |
+z6 |
+z6 |
+z6 |
+z6 |
+z2 +mp+ [E,2-F,2-A,2-] [E,2F,2A,2] |
+z2 +p+ [E,2-^G,2-B,2-] [E,2G,2B,2] |
+z2 [E,2-F,2-A,2-] [E,2F,2A,2] |
+z2 [E,2-^G,2-B,2-] [E,2G,2B,2] |
+z z3/4 +mp+ [E,4F,4A,4] z// |
+% Bar 40 (1:33)
+z z3/4 +p+ [E,4^G,4B,4] z// |
+z z3/4 [E,4F,4A,4] z// |
+z z3/4 [E,4^G,4B,4] z// |
+z z3/4 +mp+ [E,4F,4A,4] z// |
+z z3/4 +p+ [E,4^G,4B,4] z// |
+z z3/4 [E,4F,4A,4] z// |
+z z3/4 [E,4^G,4B,4] z// |
+z z3/4 +mp+ [E,4F,4A,4] z// |
+z z3/4 +p+ [E,4^G,4B,4] z// |
+z z3/4 [E,4F,4A,4] z// |
+% Bar 50 (1:57)
+z z3/4 [E,4^G,4B,4] z// |
+z z3/4 +mp+ [E,4F,4A,4] z// |
+z z3/4 +p+ [E,4^G,4B,4] z// |
+z z3/4 [E,4F,4A,4] z// |
+z z3/4 [E,4^G,4B,4] z// |
+z6 |
+z6 |
+z6 |
+z2 +pp+ [C,2-^F,2-A,2-] [C,2-F,2-A,2-] |
+[C,6^F,6A,6] |
+% Bar 60 (2:21)
+z6 |
+z6 |
+z6 |
+z2 +ppp+ [^F,2-^A,2-] [F,2-A,2-] |
+[^F,6^A,6] |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |]
+
+
+X:3
+T: ArisDome (2:44) - Basic Bassoon 3/7
+%%part-name Basic Bassoon
+M: 3/4
+Q: 75
+K: C maj
+
++mf+ z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 10 (0:21)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 20 (0:45)
+z4 z z3/4 z// |
+[c3/2^d3/2] z/ [c3/2d3/2] z/ [^c3/2f3/2] z/ |
+[d3/2^f3/2] z/ [d3/2f3/2] z/ [^c3/2=f3/2] z/ |
+[c-^d-] [c//d//] z3/4 [c-d-] [c//d//] z3/4 [^c-f-] [c//f//] z3/4 |
+[A4-c4-] [A-c-] [A3/4c3/4] z// |
+z6 |
+[^d3/2c'3/2] z/ [d3/2c'3/2] z/ [^c3/2f3/2] z/ |
+[d3/2^f3/2] z/ [d3/2f3/2] z/ [^c3/2=f3/2] z/ |
+[^d-c'-] [d//c'//] z3/4 [d2-c'2-] [d//c'//] z3/4 [^cf] |
+[^c4-g4-] [c-g-] [c3/4g3/4] z// |
+% Bar 30 (1:09)
+z2 [f2-a2-] [f2a2] |
+z2 [e2-^g2-] [e2g2] |
+z2 [f2-a2-] [f2a2] |
+z2 [d2-^g2-] [d2g2] |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 40 (1:33)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 50 (1:57)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+[c3/2^d3/2] z/ [c3/2d3/2] z/ [^c3/2f3/2] z/ |
+[d3/2^f3/2] z/ [d3/2f3/2] z/ [^c3/2=f3/2] z/ |
+[c-^d-] [c//d//] z3/4 [c-d-] [c//d//] z3/4 [^c-f-] [c//f//] z3/4 |
+[A4-c4-] [A-c-] [A3/4c3/4] z// |
+z6 |
+% Bar 60 (2:21)
+[^d3/2c'3/2] z/ [d3/2c'3/2] z/ [^c3/2f3/2] z/ |
+[d3/2^f3/2] z/ [d3/2f3/2] z/ [^c3/2=f3/2] z/ |
+[^d-c'-] [d//c'//] z3/4 [d2-c'2-] [d//c'//] z3/4 [^cf] |
+[^c4-g4-] [c-g-] [c3/4g3/4] z// |
+z2 [f2-a2-] [f2a2] |
+z2 [e2-^g2-] [e2g2] |
+z2 [f2-a2-] [f2a2] |
+z2 [d2-^g2-] [d2g2] |
+z6 |
+z6 |]
+
+
+X:4
+T: ArisDome (2:44) - Basic Bassoon 4/7
+%%part-name Basic Bassoon
+M: 3/4
+Q: 75
+K: C maj
+
++f+ A6 |
+^G6 |
+A6 |
+^G6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 10 (0:21)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 20 (0:45)
+z4 z z3/4 z// |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (1:09)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+A6 |
+^G6 |
+A6 |
+^G6 |
+z6 |
+% Bar 40 (1:33)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 50 (1:57)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 60 (2:21)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |]
+
+
+X:5
+T: ArisDome (2:44) - Basic Bassoon 5/7
+%%part-name Basic Bassoon
+M: 3/4
+Q: 75
+K: C maj
+
++fff+ D,3 +ff+ A, +fff+ C2 |
++ff+ D,4- D, +fff+ E |
+D,3 +ff+ A, C ^C |
+D ^G,/ z/ D,2- D,2 |
++fff+ D,3 +ff+ A, +fff+ C2 |
++ff+ D,4- D, +fff+ E |
+D,3 +ff+ A, C ^C |
+D ^G,/ z/ D,2- D,2 |
++fff+ D,3 +ff+ A, +fff+ C2 |
+% Bar 10 (0:21)
++ff+ D,4- D, +fff+ E |
+D,3 +ff+ A, C ^C |
+D ^G,/ z/ D,2- D,2 |
++fff+ D,3 +ff+ A, +fff+ C2 |
++ff+ D,4- D, +fff+ E |
+D,3 +ff+ A, C ^C |
+D ^G,/ z/ D,2- D,2 |
++fff+ D,3 +ff+ A, +fff+ C2 |
++ff+ D,4- D, +fff+ E |
+D,3 +ff+ A, C ^C |
+% Bar 20 (0:45)
+D ^G,/ z/ D,2- D,- D,3/4- D,// |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (1:09)
+D,4 z2 |
+D,4 z2 |
+D,4 z2 |
+D,4 z2 |
+z6 |
++fff+ D,3 +ff+ A, +fff+ C2 |
++ff+ D,4- D, +fff+ E |
+D,3 +ff+ A, C ^C |
+D ^G,/ z/ D,2- D,2 |
++fff+ D,3 +ff+ A, +fff+ C2 |
+% Bar 40 (1:33)
++ff+ D,4- D, +fff+ E |
+D,3 +ff+ A, C ^C |
+D ^G,/ z/ D,2- D,2 |
++fff+ D,3 +ff+ A, +fff+ C2 |
++ff+ D,4- D, +fff+ E |
+D,3 +ff+ A, C ^C |
+D ^G,/ z/ D,2- D,2 |
++fff+ D,3 +ff+ A, +fff+ C2 |
++ff+ D,4- D, +fff+ E |
+D,3 +ff+ A, C ^C |
+% Bar 50 (1:57)
+D ^G,/ z/ D,2- D,2 |
++fff+ D,3 +ff+ A, +fff+ C2 |
++ff+ D,4- D, +fff+ E |
+D,3 +ff+ A, C ^C |
+D ^G,/ z/ D,2- D,2 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 60 (2:21)
+z6 |
+z6 |
+z6 |
+z6 |
+D,4 z2 |
+D,4 z2 |
+D,4 z2 |
+D,4 z2 |
+z6 |
+z6 |]
+
+
+X:6
+T: ArisDome (2:44) - Lute of Ages 6/7
+%%part-name Lute of Ages
+M: 3/4
+Q: 75
+K: C maj
+
++fff+ z6 |
+z6 |
+z6 |
+z6 |
+z2 B A c2 |
+z2 ^G E B2 |
+z2 E G F2 |
+z2 ^C D E ^A, |
+A, z z2 z2 |
+% Bar 10 (0:21)
+z6 |
+z6 |
+z6 |
+z2 B A c2 |
+z2 ^G E B2 |
+z2 E G F2 |
+z2 ^C D E C |
+D2 z2 z2 |
+z6 |
+z6 |
+% Bar 20 (0:45)
+z4 z z3/4 z// |
++f+ a- a// z3/4 a- a// z3/4 b- b// z3/4 |
+c'- c'// z3/4 c'- c'// z3/4 b- b// z3/4 |
+a- a// z3/4 a- a// z3/4 b- b// z3/4 |
+^f6 |
+z6 |
+a- a// z3/4 a- a// z3/4 b- b// z3/4 |
+c'- c'// z3/4 c'- c'// z3/4 b- b// z3/4 |
+a- a// z3/4 a2- a// z3/4 b |
+^f6 |
+% Bar 30 (1:09)
+z2 +fff+ e ^d =d +ff+ ^c |
++fff+ c' z c'2 z2 |
+z2 e ^d +ff+ =d ^c |
+c' +fff+ ^g d2 z2 |
+[E/^G/] [=G/B/] [^G//A//c//^c//] [=c//e//] [^d//g//] [^c//a//] [=d//^f//] [e//^g//] [=f//a//] [g/c'/] [d//^d//^a//b//] [=d//^f//] [^d//=g//] [g//b//] [^g//c'//]
+	[d/=g/] [c//=a//] [c//=f//] [=d//^f//] [d//f//^a//] |
+z6 |
+z6 |
+z6 |
+z6 |
+z2 B A c2 |
+% Bar 40 (1:33)
+z2 ^G E B2 |
+z2 E G F2 |
+z2 ^C D E ^A, |
+A, z z2 z2 |
+z6 |
+z6 |
+z6 |
+z2 B A c2 |
+z2 ^G E B2 |
+z2 E G F2 |
+% Bar 50 (1:57)
+z2 ^C D E C |
+D2 z2 z2 |
+z6 |
+z6 |
+z6 |
+a- a// z3/4 a- a// z3/4 b- b// z3/4 |
+c'- c'// z3/4 c'- c'// z3/4 b- b// z3/4 |
+a- a// z3/4 a- a// z3/4 b- b// z3/4 |
+^f6 |
+z6 |
+% Bar 60 (2:21)
+a- a// z3/4 a- a// z3/4 b- b// z3/4 |
+c'- c'// z3/4 c'- c'// z3/4 b- b// z3/4 |
+a- a// z3/4 a2- a// z3/4 b |
+^f6 |
+z2 e ^d =d +ff+ ^c |
++fff+ c' z c'2 z2 |
+z2 e ^d +ff+ =d ^c |
+c' +fff+ ^g d2 z2 |
+[E/^G/] [=G/B/] [^G//A//c//^c//] [=c//e//] [^d//g//] [^c//a//] [=d//^f//] [e//^g//] [=f//a//] [g/c'/] [d//^d//^a//b//] [=d//^f//] [^d//=g//] [g//b//] [^g//c'//]
+	[d/=g/] [c//=a//] [c//=f//] [=d//^f//] [d//f//^a//] |
+z6 |]
+
+
+X:7
+T: ArisDome (2:44) - Basic Drum 7/7
+%%part-name Basic Drum
+M: 3/4
+Q: 75
+K: C maj
+
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
+% Bar 10 (0:21)
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
+% Bar 20 (0:45)
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z5/4 z// |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 30 (1:09)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
+% Bar 40 (1:33)
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
+% Bar 50 (1:57)
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
++mp+ G/ z3/2 +p+ G/ z3/2 G/ z3/2 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+% Bar 60 (2:21)
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |
+z6 |]
+
