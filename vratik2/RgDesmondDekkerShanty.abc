@@ -1,0 +1,521 @@
+%abc-2.1
+%%song-title       Shanty Town1967
+%%song-duration    2:43
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X:1
+T: Shanty Town1967 (2:43) - Basic Horn 1/7
+%%part-name Basic Horn
+M: 4/4
+Q: 100
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:21)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] z [^A^d=g] z [Adg] |
+% Bar 30 (1:09)
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] z [^A^d=g] z [Adg] |
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] z [^A^d=g] z [Adg] |
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:57)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (2:21)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X:2
+T: Shanty Town1967 (2:43) - Basic Clarinet 2/7
+%%part-name Basic Clarinet
+M: 4/4
+Q: 100
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z4 ^d d- d2 |
+c3 ^d- d2 z2 |
+z4 ^c ^d- d2 |
+c3 ^d- d2 z2 |
+z3 ^c c- c// c3/2 c5/4 |
+% Bar 10 (0:21)
+c3 ^d- d2 z2 |
+z2 ^c c c c c c |
+c4 z4 |
+z ^c- c c- c c- c c |
+c4 z4 |
+z ^c- c c- c c c2 |
+c4 z4 |
+z ^c- c c- c c- c c |
+c4 z c3/2 ^A/ c |
+^A3/2 ^G3/2 c- c A- A2 |
+% Bar 20 (0:45)
+z c/ c/ ^d c/ d/ f c/ c/ ^A d |
+f2 f ^d- d2 z2 |
+z c/ c/ ^d c/ d/ f c/ c/ ^A d |
+f2 f ^d- d2 z2 |
+z ^G/ G/ c ^d f/ f d/ c [Gd] |
+f2 f ^d- d2 z2 |
+z ^G/ G/ c ^d/ d/ f/ f d/ c d |
+f2 f ^d- d2 z2 |
+z +p+ [^Gc] [c^d] [Gc] z [C^DG] z [CDG] |
+z [^CF^G] z [CFG] z [^A,^D=G] z [A,DG] |
+% Bar 30 (1:09)
+z [^Gc] [c^d] [Gc] z [C^DG] z [CDG] |
+z [^CF^G] z [CFG] z [^A,^D=G] z [A,DG] |
+z [^Gc] [c^d] [Gc] z [C^DG] z [CDG] |
+z [^CF^G] z [CFG] z [^A,^D=G] z [A,DG] |
+z [^Gc] [c^d] [Gc] z [C^DG] z [CDG] |
+z [^CF^G] z [CFG] +f+ [=G^A^d] [G-A-d-] [G2A2d2] |
+[^D3^G3c3] +p+ [G-c-^d-] [Gcd] [Gcd] z [Gcd] |
+z [F/^G/^c/] [FGc] [F/G/c/] [FGc] +f+ [=G^Ac^d] [G-A-d-] [G2A2d2] |
+[^D3^G3c3] +p+ [G-c-^d-] [Gcd] [Gcd] z [Gcd] |
+z [F/^G/^c/] [FGc] [F/G/c/] +f+ [FGc] [=G-^A-c-] [G//A//c//] [G3/2A3/2c3/2] [G5/4A5/4c5/4] |
+% Bar 40 (1:33)
+[^D3^G3c3] +p+ [G-c-^d-] [Gcd] [Gcd] z [Gcd] |
+z2 +f+ [F^G^c] [FGc] [=G^Ac] [GAc] [GAc] [GAc] |
++p+ [^D^Gc] [DGc-] c [DGc] z [DGc] z [DGc] |
+z +f+ [F-^G-^c-] [FGc] [=G-^A-c-] [GAc] [G-A-c-] [GAc] [GAc] |
++p+ [^D^Gc] [DGc-] c [DGc] z [DGc] z [DGc] |
+z +f+ [F-^G-^c-] [FGc] [=G-^A-c-] [GAc] [GAc] [G2A2c2] |
++p+ [^D^Gc] [DGc-] c [DGc] z [DGc] z [DGc] |
+z +f+ [F-^G-^c-] [FGc] [=G-^A-c-] [GAc] [G-A-c-] [GAc] [GAc] |
++p+ [^D3/2^G3/2c3/2] [D/G/c/-] c [DGc] z +f+ [D3/2G3/2c3/2] [^A/c/] [DGc] |
+[^C3/2F3/2^A3/2] [C3/2F3/2^G3/2] [^D-=G-c-] [DGc] [D-G-A-] [D2G2A2] |
+% Bar 50 (1:57)
+z [^G/c/] [G/c/] [Gc^d] c/ d/ [Gcf] c/ c/ ^A [Gcd] |
+[^G2^c2f2] [Gcf] +p+ [=G-^A-^d-] [GAd] [GAd] z [GAd] |
+z +f+ [^G/c/] [G/c/] [Gc^d] c/ d/ [Gcf] c/ c/ ^A [Gcd] |
+[^G2^c2f2] [Gcf] +p+ [=G-^A-^d-] [GAd] [GAd] z [GAd] |
+z +f+ ^G/ G/ [Gc] [Gc^d] [G/c/f/] [Gcf] d/ c [Gcd] |
+[^G2^c2f2] [Gcf] +p+ [=G-^A-^d-] [GAd] [GAd] z [GAd] |
+z +f+ ^G/ G/ [Gc] [G/c/^d/] d/ [G/c/f/] [Gcf] d/ c [Gcd] |
+[^G2^c2f2] [Gcf] +p+ [=G-^A-^d-] [GAd] [GAd] z [GAd] |
+z [^G/c/] +f+ c/ ^d [Gcd] [G3/2c3/2f3/2] [G/c/] [Gc] [Gcd] |
+[^G2^c2f2] [Gcf] +p+ [=G-^A-^d-] [GAd] [GAd] z [GAd] |
+% Bar 60 (2:21)
+z3/2 +f+ [^Gc] c/ [G/c/^d/] d/ [G2c2f2] c [Gcd] |
+[^G2^c2f2] [Gcf] +p+ [=G-^A-^d-] [GAd] [GAd] z [GAd] |
+z [^G/c/] c/ +f+ [c^d] [G/-c/-d/] [G/c/d/] [G-c-f-] [G/c/d/f/] [G/c/d/] [Gc] [Gcd] |
+[^G2^c2f2] [Gcf] +p+ [=G-^A-^d-] [GAd] [GAd] z [GAd] |
+z3/2 +f+ [^Gc] c/ [G/c/^d/] d/ [G-c-f-] [G/-c/-d/f/-] [G/c/d/f/] c [Gcd] |
+[^G2^c2f2] [Gcf] +p+ [=G-^A-^d-] [GAd] [GAd] z [GAd] |
+z3/2 +pp+ [^Gc] c/ [G/c/^d/] d/ [G2c2f2] c [Gcd] |
++pppp+ [^G2^c2f2] [Gcf] [=G-^A-^d-] [GAd] [GAd] z [GAd] |
+[C8^D8^G8] |
+z8 |]
+
+
+X:3
+T: Shanty Town1967 (2:43) - Brusque Bassoon 3/7
+%%part-name Brusque Bassoon
+M: 4/4
+Q: 100
+K: C maj
+
++f+ z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 10 (0:21)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 20 (0:45)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] z [^A^d=g] z [Adg] |
+% Bar 30 (1:09)
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] z [^A^d=g] z [Adg] |
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] z [^A^d=g] z [Adg] |
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] z4 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 40 (1:33)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 50 (1:57)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+% Bar 60 (2:21)
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |
+z8 |]
+
+
+X:4
+T: Shanty Town1967 (2:43) - Basic Bassoon 4/7
+%%part-name Basic Bassoon
+M: 4/4
+Q: 100
+K: C maj
+
++f+ z8 |
+^G, [G,/-^d/^g/c'/] +mf+ [G,/d/-g/-c'/-] +f+ [G,/-d/g/c'/] +mf+ [G,/-d/g/c'/] [G,dgc'] z +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C/-^c/f/^g/] +mf+ [C/c/-f/-g/-] +f+ [C/-c/f/g/] +mf+ [C/-c/f/g/] [Ccfg] z +f+ [^D^d=g^a] D- +mf+ [Ddga] |
++f+ ^G, [G,/-^d/^g/c'/] +mf+ [G,/d/-g/-c'/-] +f+ [G,/-d/g/c'/] +mf+ [G,/-d/g/c'/] [G,dgc'] z +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C/-^c/f/^g/] +mf+ [C/c/-f/-g/-] +f+ [C/-c/f/g/] +mf+ [C/-c/f/g/] [Ccfg] [^d=g^a] +f+ [^Dd-g-a-] [D2d2g2a2] |
+[^G,^d-^g-c'-] [G,d-g-c'-] [G,-dgc'] +mf+ [G,d-g-c'-] [dgc'] +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C/-^c/f/^g/] +mf+ [C/c/-f/-g/-] +f+ [C/-c/f/g/] +mf+ [C/-c/f/g/] [Ccfg] [^d=g^a] +f+ [^Dd-g-a-] [D2d2g2a2] |
+[^G,^d-^g-c'-] [G,d-g-c'-] [G,-dgc'] +mf+ [G,d-g-c'-] [dgc'] +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C/-^c/f/^g/] +mf+ [C/c/-f/-g/-] +f+ [C/-c/f/g/] +mf+ [C/-c/f/g/] [Ccfg] [c-=g-^a-] +f+ [^D//-c//g//a//] +mf+ [D3/4c3/4-g3/4-a3/4-] +f+
+	[D3/4-c3/4g3/4a3/4] +mf+ [D5/4c5/4g5/4a5/4] |
+% Bar 10 (0:21)
++f+ [^G,^d-^g-c'-] [G,d-g-c'-] [G,-dgc'] +mf+ [G,d-g-c'-] [dgc'] +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C C [C-^cf^g] +mf+ [Ccfg] [c=g^a] +f+ [^Dcga] [D-cga] +mf+ [Dcga] |
++f+ [^G,^d^gc'] [G,dgc'] G,- +mf+ [G,dgc'] z +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C^c-f-^g-] [C-cfg] +mf+ [Cc-=g-^a-] [cga] +f+ [^Dc-g-a-] [D-cga] +mf+ [Dcga] |
++f+ [^G,^d^gc'] [G,dgc'] G,- +mf+ [G,dgc'] z +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C^c-f-^g-] [C-cfg] +mf+ [Cc-=g-^a-] [cga] +f+ [^Dcga] [D2c2g2a2] |
+[^G,^d^gc'] [G,dgc'] G,- +mf+ [G,dgc'] z +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C^c-f-^g-] [C-cfg] +mf+ [Cc-=g-^a-] [cga] +f+ [^Dc-g-a-] [D-cga] +mf+ [Dcga] |
++f+ [^G,^d-^g-c'-] [G,/-d/g/c'/] +mf+ [G,/d/g/c'/] +f+ G,- +mf+ [G,dgc'] z +f+ [Cd-g-c'-] [C/-d/g/c'/] +mf+ [C/-c'/] [Cdgc'] |
++f+ [^C^c-f-^a-] [C/-c/f/a/] +mf+ [C/c/-f/-^g/-] +f+ [C-cfg] +mf+ [C^d-=g-c'-] [dgc'] +f+ [^Dd-g-a-] [D2d2g2a2] |
+% Bar 20 (0:45)
+^G, [G,/-^g/c'/] +mf+ [G,/g/c'/] +f+ [G,-^dgc'] +mf+ [G,/-c'/] [G,/d/] [fgc'] +f+ [C/-c'/] +mf+ [C/c'/] +f+ [C-^a] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
++f+ ^G, [G,/-^g/c'/] +mf+ [G,/g/c'/] +f+ [G,-^dgc'] +mf+ [G,/-c'/] [G,/d/] [fgc'] +f+ [C/-c'/] +mf+ [C/c'/] +f+ [C-^a] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
++f+ ^G, [G,/-^g/] +mf+ [G,/g/] +f+ [G,-gc'] +mf+ [G,^dgc'] [f/g/c'/] [f/-g/-c'/-] +f+ [C/-f/g/c'/] +mf+ [C/d/] +f+ [C-c'] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
++f+ ^G, [G,/-^g/] +mf+ [G,/g/] +f+ [G,-gc'] +mf+ [G,/-^d/g/c'/] [G,/d/] [f/g/c'/] [f/-g/-c'/-] +f+ [C/-f/g/c'/] +mf+ [C/d/] +f+ [C-c'] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
++f+ ^G, [G,^gc'] [G,-^dc'] +mf+ [G,gc'] z +f+ [Ccdg] C- +mf+ [Ccdg] |
++f+ ^C [C^cf^g] C- +mf+ [Ccfg] z +f+ [^D^A^d=g] D- +mf+ [DAdg] |
+% Bar 30 (1:09)
++f+ ^G, [G,^gc'] [G,-^dc'] +mf+ [G,gc'] z +f+ [Ccdg] C- +mf+ [Ccdg] |
++f+ ^C [C^cf^g] C- +mf+ [Ccfg] z +f+ [^D^A^d=g] D- +mf+ [DAdg] |
++f+ ^G, [G,^gc'] [G,-^dc'] +mf+ [G,gc'] z +f+ [Ccdg] C- +mf+ [Ccdg] |
++f+ ^C [C^cf^g] C- +mf+ [Ccfg] z +f+ [^D^A^d=g] D- +mf+ [DAdg] |
++f+ ^G, [G,^gc'] [G,-^dc'] +mf+ [G,gc'] z +f+ [Ccdg] C- +mf+ [Ccdg] |
++f+ ^C [C^cf^g] C- +mf+ [Ccfg] [^d=g^a] +f+ [^Dd-g-a-] [D2d2g2a2] |
+[^G,^d-^g-c'-] [G,d-g-c'-] [G,-dgc'] +mf+ [G,d-g-c'-] [dgc'] +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C/-^c/f/^g/] +mf+ [C/c/-f/-g/-] +f+ [C/-c/f/g/] +mf+ [C/-c/f/g/] [Ccfg] [^d=g^a] +f+ [^Dd-g-a-] [D2d2g2a2] |
+[^G,^d-^g-c'-] [G,d-g-c'-] [G,-dgc'] +mf+ [G,d-g-c'-] [dgc'] +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C/-^c/f/^g/] +mf+ [C/c/-f/-g/-] +f+ [C/-c/f/g/] +mf+ [C/-c/f/g/] [Ccfg] [c-=g-^a-] +f+ [^D//-c//g//a//] +mf+ [D3/4c3/4-g3/4-a3/4-] +f+
+	[D3/4-c3/4g3/4a3/4] +mf+ [D5/4c5/4g5/4a5/4] |
+% Bar 40 (1:33)
++f+ [^G,^d-^g-c'-] [G,d-g-c'-] [G,-dgc'] +mf+ [G,d-g-c'-] [dgc'] +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C C [C-^cf^g] +mf+ [Ccfg] [c=g^a] +f+ [^Dcga] [D-cga] +mf+ [Dcga] |
++f+ [^G,^d^gc'] [G,dgc'] G,- +mf+ [G,dgc'] z +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C^c-f-^g-] [C-cfg] +mf+ [Cc-=g-^a-] [cga] +f+ [^Dc-g-a-] [D-cga] +mf+ [Dcga] |
++f+ [^G,^d^gc'] [G,dgc'] G,- +mf+ [G,dgc'] z +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C^c-f-^g-] [C-cfg] +mf+ [Cc-=g-^a-] [cga] +f+ [^Dcga] [D2c2g2a2] |
+[^G,^d^gc'] [G,dgc'] G,- +mf+ [G,dgc'] z +f+ [Cdgc'] C- +mf+ [Cdgc'] |
++f+ ^C [C^c-f-^g-] [C-cfg] +mf+ [Cc-=g-^a-] [cga] +f+ [^Dc-g-a-] [D-cga] +mf+ [Dcga] |
++f+ [^G,^d-^g-c'-] [G,/-d/g/c'/] +mf+ [G,/d/g/c'/] +f+ G,- +mf+ [G,dgc'] z +f+ [Cd-g-c'-] [C/-d/g/c'/] +mf+ [C/-c'/] [Cdgc'] |
++f+ [^C^c-f-^a-] [C/-c/f/a/] +mf+ [C/c/-f/-^g/-] +f+ [C-cfg] +mf+ [C^d-=g-c'-] [dgc'] +f+ [^Dd-g-a-] [D2d2g2a2] |
+% Bar 50 (1:57)
+^G, [G,/-^g/c'/] +mf+ [G,/g/c'/] +f+ [G,-^dgc'] +mf+ [G,/-c'/] [G,/d/] [fgc'] +f+ [C/-c'/] +mf+ [C/c'/] +f+ [C-^a] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
++f+ ^G, [G,/-^g/c'/] +mf+ [G,/g/c'/] +f+ [G,-^dgc'] +mf+ [G,/-c'/] [G,/d/] [fgc'] +f+ [C/-c'/] +mf+ [C/c'/] +f+ [C-^a] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
++f+ ^G, [G,/-^g/] +mf+ [G,/g/] +f+ [G,-gc'] +mf+ [G,^dgc'] [f/g/c'/] [f/-g/-c'/-] +f+ [C/-f/g/c'/] +mf+ [C/d/] +f+ [C-c'] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
++f+ ^G, [G,/-^g/] +mf+ [G,/g/] +f+ [G,-gc'] +mf+ [G,/-^d/g/c'/] [G,/d/] [f/g/c'/] [f/-g/-c'/-] +f+ [C/-f/g/c'/] +mf+ [C/d/] +f+ [C-c'] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
++f+ ^G, [G,/-^g/c'/] +mf+ [G,/c'/] +f+ [G,-^d] +mf+ [G,dgc'] [f-g-c'-] +f+ [C/-f/g/c'/] +mf+ [C/g/c'/] +f+ [C-gc'] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
+% Bar 60 (2:21)
++f+ ^G, G,/- +mf+ [G,/^g/-c'/-] +f+ [G,/-g/c'/] +mf+ [G,/-c'/] [G,/-^d/g/c'/] [G,/d/] [f-g-c'-] +f+ [Cfgc'] [C-c'] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
++f+ ^G, [G,/-^g/c'/] +mf+ [G,/c'/] +f+ [G,-^d] +mf+ [G,dgc'] [f-g-c'-] +f+ [C/-f/g/c'/] +mf+ [C/g/c'/] +f+ [C-gc'] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
++f+ ^G, G,/- +mf+ [G,/^g/-c'/-] +f+ [G,/-g/c'/] +mf+ [G,/-c'/] [G,/-^d/g/c'/] [G,/d/] [f-g-c'-] +f+ [Cfgc'] [C-c'] +mf+ [Cdgc'] |
++f+ [^C^c-f-^g-] [Ccfg] [C-cfg] +mf+ [C^d-=g-^a-] [dga] +f+ [^Ddga] D- +mf+ [Ddga] |
++p+ ^G, G,/- +pp+ [G,/^g/-c'/-] +p+ [G,/-g/c'/] +pp+ [G,/-c'/] [G,/-^d/g/c'/] [G,/d/] [f-g-c'-] +p+ [Cfgc'] [C-c'] +pp+ [Cdgc'] |
++ppp+ [^C^c-f-^g-] [Ccfg] [C-cfg] +pppp+ [C^d-=g-^a-] [dga] +ppp+ [^Ddga] D- +pppp+ [Ddga] |
++ppp+ [^G,8c8^d8^g8] |
+z8 |]
+
+
+X:5
+T: Shanty Town1967 (2:43) - Lute of Ages 5/7
+%%part-name Lute of Ages
+M: 4/4
+Q: 100
+K: C maj
+
++mp+ z8 |
+z [^d/^g/c'/] [dgc'] [d/g/c'/] [dgc'] z [dgc'] z [dgc'] |
+z [^c/f/^g/] [cfg] [c/f/g/] [cfg] z [^d=g^a] z [dga] |
+z [^d/^g/c'/] [dgc'] [d/g/c'/] [dgc'] z [dgc'] z [dgc'] |
+z [^c/f/^g/] [cfg] [c/f/g/] [cfg] [^d=g^a] [d-g-a-] [d2g2a2] |
+[^d3^g3c'3] [d-g-c'-] [dgc'] [dgc'] z [dgc'] |
+z [^c/f/^g/] [cfg] [c/f/g/] [cfg] [^d=g^a] [d-g-a-] [d2g2a2] |
+[^d3^g3c'3] [d-g-c'-] [dgc'] [dgc'] z [dgc'] |
+z [^c/f/^g/] [cfg] [c/f/g/] [cfg] [c-=g-^a-] [c//g//a//] [c3/2g3/2a3/2] [c5/4g5/4a5/4] |
+% Bar 10 (0:21)
+[^d3^g3c'3] [d-g-c'-] [dgc'] [dgc'] z [dgc'] |
+z2 [^cf^g] [cfg] [c=g^a] [cga] [cga] [cga] |
+[^d^gc'] [dgc'] z [dgc'] z [dgc'] z [dgc'] |
+z [^c-f-^g-] [cfg] [c-=g-^a-] [cga] [c-g-a-] [cga] [cga] |
+[^d^gc'] [dgc'] z [dgc'] z [dgc'] z [dgc'] |
+z [^c-f-^g-] [cfg] [c-=g-^a-] [cga] [cga] [c2g2a2] |
+[^d^gc'] [dgc'] z [dgc'] z [dgc'] z [dgc'] |
+z [^c-f-^g-] [cfg] [c-=g-^a-] [cga] [c-g-a-] [cga] [cga] |
+[^d3/2^g3/2c'3/2] [d/g/c'/] z [dgc'] z [d3/2g3/2c'3/2] c'/ [dgc'] |
+[^c3/2f3/2^a3/2] [c3/2f3/2^g3/2] [^d-=g-c'-] [dgc'] [d-g-a-] [d2g2a2] |
+% Bar 20 (0:45)
+z [^g/c'/] [g/c'/] [^dgc'] c'/ d/ [fgc'] c'/ c'/ ^a [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+z [^g/c'/] [g/c'/] [^dgc'] c'/ d/ [fgc'] c'/ c'/ ^a [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+z ^g/ g/ [gc'] [^dgc'] [f/g/c'/] [fgc'] d/ c' [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+z ^g/ g/ [gc'] [^d/g/c'/] d/ [f/g/c'/] [fgc'] d/ c' [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] z [^A^d=g] z [Adg] |
+% Bar 30 (1:09)
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] z [^A^d=g] z [Adg] |
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] z [^A^d=g] z [Adg] |
+z [^gc'] [^dc'] [gc'] z [cdg] z [cdg] |
+z [^cf^g] z [cfg] [^d=g^a] [d-g-a-] [d2g2a2] |
+[^d3^g3c'3] [d-g-c'-] [dgc'] [dgc'] z [dgc'] |
+z [^c/f/^g/] [cfg] [c/f/g/] [cfg] [^d=g^a] [d-g-a-] [d2g2a2] |
+[^d3^g3c'3] [d-g-c'-] [dgc'] [dgc'] z [dgc'] |
+z [^c/f/^g/] [cfg] [c/f/g/] [cfg] [c-=g-^a-] [c//g//a//] [c3/2g3/2a3/2] [c5/4g5/4a5/4] |
+% Bar 40 (1:33)
+[^d3^g3c'3] [d-g-c'-] [dgc'] [dgc'] z [dgc'] |
+z2 [^cf^g] [cfg] [c=g^a] [cga] [cga] [cga] |
+[^d^gc'] [dgc'] z [dgc'] z [dgc'] z [dgc'] |
+z [^c-f-^g-] [cfg] [c-=g-^a-] [cga] [c-g-a-] [cga] [cga] |
+[^d^gc'] [dgc'] z [dgc'] z [dgc'] z [dgc'] |
+z [^c-f-^g-] [cfg] [c-=g-^a-] [cga] [cga] [c2g2a2] |
+[^d^gc'] [dgc'] z [dgc'] z [dgc'] z [dgc'] |
+z [^c-f-^g-] [cfg] [c-=g-^a-] [cga] [c-g-a-] [cga] [cga] |
+[^d3/2^g3/2c'3/2] [d/g/c'/] z [dgc'] z [d3/2g3/2c'3/2] c'/ [dgc'] |
+[^c3/2f3/2^a3/2] [c3/2f3/2^g3/2] [^d-=g-c'-] [dgc'] [d-g-a-] [d2g2a2] |
+% Bar 50 (1:57)
+z [^g/c'/] [g/c'/] [^dgc'] c'/ d/ [fgc'] c'/ c'/ ^a [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+z [^g/c'/] [g/c'/] [^dgc'] c'/ d/ [fgc'] c'/ c'/ ^a [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+z ^g/ g/ [gc'] [^dgc'] [f/g/c'/] [fgc'] d/ c' [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+z ^g/ g/ [gc'] [^d/g/c'/] d/ [f/g/c'/] [fgc'] d/ c' [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+z [^g/c'/] c'/ ^d [dgc'] [f3/2g3/2c'3/2] [g/c'/] [gc'] [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+% Bar 60 (2:21)
+z3/2 [^gc'] c'/ [^d/g/c'/] d/ [f2g2c'2] c' [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+z [^g/c'/] c'/ ^d [dgc'] [f3/2g3/2c'3/2] [g/c'/] [gc'] [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+z3/2 [^gc'] c'/ [^d/g/c'/] d/ [f2g2c'2] c' [dgc'] |
+[^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+z3/2 +pp+ [^gc'] c'/ [^d/g/c'/] d/ [f2g2c'2] c' [dgc'] |
++pppp+ [^c2f2^g2] [cfg] [^d-=g-^a-] [dga] [dga] z [dga] |
+[c8^d8^g8] |
+z8 |]
+
+
+X:6
+T: Shanty Town1967 (2:43) - Basic Theorbo 6/7
+%%part-name Basic Theorbo
+M: 4/4
+Q: 100
+K: C maj
+
++f+ z8 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+% Bar 10 (0:21)
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+% Bar 20 (0:45)
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+% Bar 30 (1:09)
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+% Bar 40 (1:33)
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+% Bar 50 (1:57)
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+% Bar 60 (2:21)
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
+^G G G2 z c c2 |
+^c c c2 z ^d d2 |
++p+ ^G G G2 z c c2 |
++ppp+ ^c c c2 z ^d d2 |
+^G8 |
+z8 |]
+
+
+X:7
+T: Shanty Town1967 (2:43) - Basic Drum 7/7
+%%part-name Basic Drum
+M: 4/4
+Q: 100
+K: C maj
+
+ |]
+
